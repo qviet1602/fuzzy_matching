@@ -1,0 +1,375 @@
+"","NAME.who","NAME.shpfile","iso3.x","who_coverage","merge_status","GAUL_CODE"
+"1","abs","abs","YEM",91.61969073,"success",1013253
+"2","addahi","addahi","YEM",79.72491209,"success",1005253
+"3","addis","addis","YEM",72.69662052,"success",1012253
+"4","addurayhimi","addurayhimi","YEM",80.90184354,"success",2005253
+"5","adhdhliaah","adhdhliaah","YEM",49.77811009,"success",2012253
+"6","aflahalyaman","aflahalyaman","YEM",99.36748627,"success",2013253
+"7","aflahashshawm","aflahashshawm","YEM",96.45506974,"success",3013253
+"8","ahwar","ahwar","YEM",86.12346896,"success",1002253
+"9","ain","ain","YEM",45.25978978,"success",1020253
+"10","alabdiyah","alabdiyah","YEM",83.44197512,"success",1016253
+"11","alabr","alabr","YEM",74.95859716,"success",3012253
+"12","alazariq","alazariq","YEM",89.59709253,"success",2004253
+"13","alburaiqeh","alburaiqeh","YEM",101.5172421,"success",1001253
+"14","algarrahi","algarrahi","YEM",114.0932233,"success",3005253
+"15","alghaydah","alghaydah","YEM",79.19877132,"success",1007253
+"16","alghayl","alghayl","YEM",39.0612001,"success",1006253
+"17","alhad","alhad","YEM",43.6110113,"success",2015253
+"18","alhada","alhada","YEM",93.99639761,"success",1011253
+"19","alhajjaylah","alhajjaylah","YEM",92.34991754,"success",4005253
+"20","alhali","alhali","YEM",74.72977851,"success",5005253
+"21","alhawak","alhawak","YEM",62.31996148,"success",6005253
+"22","alhazm","alhazm","YEM",63.83574464,"success",2006253
+"23","alhusha","alhusha","YEM",86.56573733,"success",3004253
+"24","alhusn","alhusn","YEM",85.09023417,"success",3019253
+"25","alhussein","alhussein","YEM",101.8449992,"success",4004253
+"26","aljabin","aljabin","YEM",93.61478293,"success",1017253
+"27","aljafariyah","aljafariyah","YEM",81.76077614,"success",2017253
+"28","aljamimah","aljamimah","YEM",93.36458809,"success",4013253
+"29","aljubah","aljubah","YEM",79.62343761,"success",2016253
+"30","alkhabt","alkhabt","YEM",65.23464269,"success",1008253
+"31","alkhawkhah","alkhawkhah","YEM",79.70588571,"success",7005253
+"32","almaafer","almaafer","YEM",81.65750469,"success",2021253
+"33","almadan","almadan","YEM",67.70303823,"success",2010253
+"34","almaghrabah","almaghrabah","YEM",95.86949822,"success",5013253
+"35","almahabishah","almahabishah","YEM",98.04398347,"success",6013253
+"36","almahwait","almahwait","YEM",89.37034366,"success",2008253
+"37","almahwaitcity","almahwaitcity","YEM",85.39531242,"success",3008253
+"38","almakhadir","almakhadir","YEM",123.5316501,"success",2014253
+"39","almalagim","almalagim","YEM",82.78014231,"success",4003253
+"40","almanar","almanar","YEM",99.61639825,"success",2011253
+"41","almansura","almansura","YEM",85.37083707,"success",2001253
+"42","almansuriyah","almansuriyah","YEM",94.19438084,"success",8005253
+"43","almaqatirah","almaqatirah","YEM",97.516099,"success",5015253
+"44","almarawiah","almarawiah","YEM",81.60870321,"success",9005253
+"45","almashannah","almashannah","YEM",60.4066206,"success",3014253
+"46","almasilah","almasilah","YEM",49.94471889,"success",2007253
+"47","almatammah","almatammah","YEM",51.18588621,"success",6006253
+"48","almiftah","almiftah","YEM",100.2413832,"success",7013253
+"49","almighlaf","almighlaf","YEM",106.9856933,"success",10005253
+"50","almilah","almilah","YEM",84.76166813,"success",6015253
+"51","almina","almina","YEM",64.60567461,"success",11005253
+"52","almisrakh","almisrakh","YEM",76.22564771,"success",4021253
+"53","almualla","almualla","YEM",47.53939674,"success",3001253
+"54","almudhaffar","almudhaffar","YEM",138.7504901,"success",5021253
+"55","almukalla","almukalla","YEM",178.1223578,"success",4012253
+"56","almukallacity","almukallacity","YEM",94.12351158,"success",5012253
+"57","almukha","almukha","YEM",44.6240854,"success",1021253
+"58","almunirah","almunirah","YEM",104.3052551,"success",12005253
+"59","almusaymir","almusaymir","YEM",87.2428567,"success",7015253
+"60","alqabbaytah","alqabbaytah","YEM",73.52324184,"success",8015253
+"61","alqaflah","alqaflah","YEM",104.9427806,"success",3010253
+"62","alqafr","alqafr","YEM",99.0595138,"success",4014253
+"63","alqahirah","alqahirah","YEM",24.28175991,"success",6021253
+"64","alqanawis","alqanawis","YEM",79.51897368,"success",13005253
+"65","alqatn","alqatn","YEM",84.67580485,"success",7012253
+"66","alquraishyah","alquraishyah","YEM",87.90000081,"success",5003253
+"67","aludayn","aludayn","YEM",114.5880732,"success",5014253
+"68","alwadea","alwadea","YEM",75.91133226,"success",3002253
+"69","alwaziiyah","alwaziiyah","YEM",48.4448834,"success",7021253
+"70","amran","amran","YEM",80.14973561,"success",4010253
+"71","annadirah","annadirah","YEM",85.42820001,"success",6014253
+"72","anss","anss","YEM",92.61185857,"success",3011253
+"73","arhab","arhab","YEM",108.2086973,"success",4019253
+"74","arma","arma","YEM",87.92382681,"success",4020253
+"75","arradmah","arradmah","YEM",97.88248098,"success",7014253
+"76","arrawdah","arrawdah","YEM",89.53433631,"success",3020253
+"77","arrujum","arrujum","YEM",75.59001583,"success",4008253
+"78","arryashyyah","arryashyyah","YEM",82.96827899,"success",6003253
+"79","ashshaghadirah","ashshaghadirah","YEM",94.15203662,"success",8013253
+"80","ashshahil","ashshahil","YEM",88.59103194,"success",9013253
+"81","ashshaikhouthman","ashshaikhouthman","YEM",97.3125267,"success",4001253
+"82","ashshair","ashshair","YEM",76.83834931,"success",11014253
+"83","ashsharyah","ashsharyah","YEM",58.70513672,"success",9003253
+"84","ashshuayb","ashshuayb","YEM",86.33949031,"success",5004253
+"85","assabain","assabain","YEM",73.73671779,"success",2009253
+"86","assabrah","assabrah","YEM",101.55854,"success",8014253
+"87","assaddah","assaddah","YEM",69.94757343,"success",9014253
+"88","assafiyah","assafiyah","YEM",77.83806491,"success",3009253
+"89","assafra","assafra","YEM",26.38718332,"success",3018253
+"90","assalafiyah","assalafiyah","YEM",91.76184791,"success",3017253
+"91","assalif","assalif","YEM",80.78668542,"success",15005253
+"92","assawd","assawd","YEM",75.7618168,"success",5010253
+"93","assawmaah","assawmaah","YEM",97.09956444,"success",8003253
+"94","assayyani","assayyani","YEM",91.89726991,"success",10014253
+"95","assilw","assilw","YEM",60.13903848,"success",8021253
+"96","assudah","assudah","YEM",78.2668634,"success",6010253
+"97","assukhnah","assukhnah","YEM",85.04642865,"success",16005253
+"98","ataq","ataq","YEM",103.5316105,"success",6020253
+"99","aththaorah","aththaorah","YEM",63.05203831,"success",5009253
+"100","attaffah","attaffah","YEM",99.24210242,"success",10003253
+"101","attahrir","attahrir","YEM",67.03557613,"success",4009253
+"102","attawahi","attawahi","YEM",72.05512281,"success",5001253
+"103","attawilah","attawilah","YEM",76.56445808,"success",5008253
+"104","attyal","attyal","YEM",104.1203081,"success",5019253
+"105","azzahir","azzahir","YEM",117.6534162,"success",11003253
+"106","azzahir","azzahir","YEM",117.6534162,"success",8006253
+"107","azzahir","azzahir","YEM",47.89836578,"success",11003253
+"108","azzahir","azzahir","YEM",47.89836578,"success",8006253
+"109","azzal","azzal","YEM",66.34322714,"success",6009253
+"110","azzaydiyah","azzaydiyah","YEM",98.64005181,"success",18005253
+"111","azzuhrah","azzuhrah","YEM",98.95044993,"success",19005253
+"112","badan","badan","YEM",76.45069323,"success",12014253
+"113","bajil","bajil","YEM",95.48761962,"success",20005253
+"114","bakilalmir","bakilalmir","YEM",90.4331187,"success",11013253
+"115","banialharith","banialharith","YEM",83.91206111,"success",7009253
+"116","banidhabyan","banidhabyan","YEM",91.51001958,"success",6019253
+"117","banihushaysh","banihushaysh","YEM",113.5723971,"success",7019253
+"118","banimatar","banimatar","YEM",91.39028565,"success",8019253
+"119","banisad","banisad","YEM",88.57978084,"success",6008253
+"120","banisuraim","banisuraim","YEM",79.62568287,"success",7010253
+"121","baqim","baqim","YEM",14.60694911,"success",4018253
+"122","baytalfaqiah","baytalfaqiah","YEM",98.85767436,"success",21005253
+"123","biladarrus","biladarrus","YEM",101.3320132,"success",9019253
+"124","biladattaam","biladattaam","YEM",81.19247543,"success",4017253
+"125","bura","bura","YEM",104.1970436,"success",22005253
+"126","craiter","craiter","YEM",79.6883245,"success",6001253
+"127","damt","damt","YEM",80.10935465,"success",6004253
+"128","darsad","darsad","YEM",80.63688419,"success",7001253
+"129","dawan","dawan","YEM",63.47499016,"success",13012253
+"130","dawrananess","dawrananess","YEM",90.19672713,"success",4011253
+"131","dhibin","dhibin","YEM",81.48539716,"success",8010253
+"132","dhinaim","dhinaim","YEM",106.8804893,"success",12003253
+"133","dhubab","dhubab","YEM",20.30394415,"success",11021253
+"134","faraludayn","faraludayn","YEM",94.65043255,"success",14014253
+"135","habban","habban","YEM",72.72926158,"success",9020253
+"136","habiljabr","habiljabr","YEM",86.98898794,"success",9015253
+"137","hagrassaiar","hagrassaiar","YEM",85.51263468,"success",16012253
+"138","hajjah","hajjah","YEM",91.10699334,"success",14013253
+"139","hajjahcity","hajjahcity","YEM",108.8522408,"success",15013253
+"140","hajr","hajr","YEM",36.7812141,"success",17012253
+"141","hamdan","hamdan","YEM",119.8219358,"success",10019253
+"142","harad","harad","YEM",9.684433006,"success",16013253
+"143","harfsufyan","harfsufyan","YEM",77.43677958,"success",10010253
+"144","harib","harib","YEM",108.9333084,"success",4016253
+"145","haribalqaramish","haribalqaramish","YEM",74.25379091,"success",5016253
+"146","hat","hat","YEM",58.37017582,"success",3007253
+"147","hawf","hawf","YEM",66.42647612,"success",4007253
+"148","haydan","haydan","YEM",25.9352914,"success",6018253
+"149","hayran","hayran","YEM",92.85526729,"success",17013253
+"150","hays","hays","YEM",80.006049,"success",23005253
+"151","hazmaludayn","hazmaludayn","YEM",93.20048511,"success",15014253
+"152","hubaysh","hubaysh","YEM",101.9707119,"success",16014253
+"153","hufash","hufash","YEM",79.75022166,"success",7008253
+"154","huraidhah","huraidhah","YEM",88.0969188,"success",19012253
+"155","huswain","huswain","YEM",56.01885999,"success",5007253
+"156","huth","huth","YEM",77.81807708,"success",11010253
+"157","ibb","ibb","YEM",107.1815415,"success",17014253
+"158","iyalsurayh","iyalsurayh","YEM",81.84391428,"success",12010253
+"159","jabalashsharq","jabalashsharq","YEM",105.493839,"success",6011253
+"160","jabaliyalyazid","jabaliyalyazid","YEM",84.19911027,"success",13010253
+"161","jabalras","jabalras","YEM",96.97347856,"success",24005253
+"162","jahaf","jahaf","YEM",90.48445711,"success",7004253
+"163","jahran","jahran","YEM",90.13802536,"success",7011253
+"164","jayshan","jayshan","YEM",88.19842208,"success",4002253
+"165","jiblah","jiblah","YEM",91.80489711,"success",18014253
+"166","juban","juban","YEM",76.8432797,"success",8004253
+"167","kamaran","kamaran","YEM",70.26770339,"success",25005253
+"168","khanfir","khanfir","YEM",82.324764,"success",5002253
+"169","kharabalmarashi","kharabalmarashi","YEM",34.98598273,"success",11006253
+"170","khayranalmuharraq","khayranalmuharraq","YEM",96.93452014,"success",18013253
+"171","khurmaksar","khurmaksar","YEM",65.62296966,"success",8001253
+"172","khwlan","khwlan","YEM",104.9931379,"success",12019253
+"173","kuaydinah","kuaydinah","YEM",103.0665938,"success",19013253
+"174","kuhlanaffar","kuhlanaffar","YEM",96.05928035,"success",20013253
+"175","kuhlanashsharaf","kuhlanashsharaf","YEM",96.90679011,"success",21013253
+"176","kushar","kushar","YEM",94.27173967,"success",22013253
+"177","kusmah","kusmah","YEM",80.12004421,"success",5017253
+"178","maain","maain","YEM",71.24618752,"success",8009253
+"179","mabyan","mabyan","YEM",91.48653197,"success",23013253
+"180","maghiribans","maghiribans","YEM",76.49628534,"success",8011253
+"181","majz","majz","YEM",27.50618494,"success",8018253
+"182","manakhah","manakhah","YEM",95.5616038,"success",13019253
+"183","manar","manar","YEM",38.62391594,"success",6007253
+"184","maqbanah","maqbanah","YEM",97.74064695,"success",15021253
+"185","marib","marib","YEM",128.7754973,"success",9016253
+"186","maribcity","maribcity","YEM",184.0821908,"success",10016253
+"187","maswar","maswar","YEM",81.05421024,"success",16010253
+"188","maswarah","maswarah","YEM",144.0277161,"success",13003253
+"189","mawiyah","mawiyah","YEM",94.34787351,"success",17021253
+"190","mawza","mawza","YEM",69.86571102,"success",18021253
+"191","mayfaatanss","mayfaatanss","YEM",112.5850599,"success",9011253
+"192","mazhar","mazhar","YEM",94.17792162,"success",6017253
+"193","midi","midi","YEM",94.34732033,"success",24013253
+"194","milhan","milhan","YEM",71.30545054,"success",8008253
+"195","mudhaykhirah","mudhaykhirah","YEM",94.95448899,"success",19014253
+"196","mudiyah","mudiyah","YEM",68.87744511,"success",7002253
+"197","mukayras","mukayras","YEM",98.38311337,"success",14003253
+"198","mustaba","mustaba","YEM",92.32426472,"success",25013253
+"199","najrah","najrah","YEM",88.53584852,"success",26013253
+"200","naman","naman","YEM",123.7859289,"success",15003253
+"201","nisab","nisab","YEM",74.79736005,"success",15020253
+"202","qaatabah","qaatabah","YEM",112.2210275,"success",9004253
+"203","qaflshamer","qaflshamer","YEM",101.4061558,"success",27013253
+"204","qarah","qarah","YEM",97.26794257,"success",28013253
+"205","qishn","qishn","YEM",56.8176148,"success",7007253
+"206","rada","rada","YEM",75.66862291,"success",17003253
+"207","radfan","radfan","YEM",98.94470627,"success",11015253
+"208","radmanalawad","radmanalawad","YEM",58.94558103,"success",18003253
+"209","raghwan","raghwan","YEM",98.77284228,"success",12016253
+"210","rahabah","rahabah","YEM",76.91867677,"success",13016253
+"211","rajuzah","rajuzah","YEM",30.81294899,"success",12006253
+"212","raydah","raydah","YEM",86.30495389,"success",17010253
+"213","razih","razih","YEM",38.7330159,"success",11018253
+"214","rumah","rumah","YEM",73.47752947,"success",22012253
+"215","sabah","sabah","YEM",91.79883394,"success",19003253
+"216","sabiralmawadim","sabiralmawadim","YEM",62.42950785,"success",19021253
+"217","safan","safan","YEM",100.189504,"success",15019253
+"218","sah","sah","YEM",84.52940886,"success",23012253
+"219","sahar","sahar","YEM",23.56393485,"success",13018253
+"220","salh","salh","YEM",28.32257399,"success",20021253
+"221","sama","sama","YEM",91.82752425,"success",21021253
+"222","sanhan","sanhan","YEM",97.09699841,"success",16019253
+"223","saqayn","saqayn","YEM",17.95046485,"success",14018253
+"224","sarar","sarar","YEM",72.85425728,"success",9002253
+"225","sayhut","sayhut","YEM",66.36393341,"success",8007253
+"226","sayun","sayun","YEM",85.24531954,"success",24012253
+"227","shahan","shahan","YEM",65.00912599,"success",9007253
+"228","sharabarrawnah","sharabarrawnah","YEM",81.88858516,"success",22021253
+"229","sharas","sharas","YEM",102.7678226,"success",29013253
+"230","shibam","shibam","YEM",80.39659293,"success",25012253
+"231","shuaub","shuaub","YEM",65.5298832,"success",10009253
+"232","sibah","sibah","YEM",78.46938879,"success",10002253
+"233","sirwah","sirwah","YEM",28.17768801,"success",14016253
+"234","thamud","thamud","YEM",62.04139357,"success",27012253
+"235","thula","thula","YEM",75.21505542,"success",20010253
+"236","tuban","tuban","YEM",98.35600393,"success",12015253
+"237","utmah","utmah","YEM",92.21303758,"success",10011253
+"238","wadhrah","wadhrah","YEM",96.58978477,"success",30013253
+"239","wusabalali","wusabalali","YEM",97.11922888,"success",11011253
+"240","wusabassafil","wusabassafil","YEM",89.42887788,"success",12011253
+"241","yafaa","yafaa","YEM",93.71791582,"success",14015253
+"242","yarim","yarim","YEM",86.23507438,"success",20014253
+"243","zabid","zabid","YEM",100.0344978,"success",26005253
+"244","alhawdah","alhawtah","YEM",96.96184938,"fuzzy need fix",1015253
+"245","alhawdah","alwahdah","YEM",96.96184938,"fuzzy need fix",1009253
+"246","ghamir","ghamr","YEM",32.15566996,"fuzzy need fix",5018253
+"247","ghamir","khamir","YEM",32.15566996,"fuzzy need fix",14010253
+"248","khadir","khamir","YEM",87.84406233,"fuzzy need fix",14010253
+"249","khadir","kharif","YEM",87.84406233,"fuzzy need fix",15010253
+"250","nahm","nati","YEM",74.97966347,"fuzzy need fix",16003253
+"251","nahm","nihm","YEM",74.97966347,"fuzzy need fix",14019253
+"252","nahm","yahr","YEM",74.97966347,"fuzzy need fix",15015253
+"253","shada","saadah","YEM",12.48392343,"fuzzy need fix",12018253
+"254","shada","shadaa","YEM",12.48392343,"fuzzy need fix",15018253
+"255","yahar","dhar","YEM",110.9891736,"fuzzy need fix",8020253
+"256","yahar","yahr","YEM",110.9891736,"fuzzy need fix",15015253
+"257","addhala","addhalee","YEM",96.34316975,"fuzzy success",1004253
+"258","addihar","aldhihar","YEM",150.1274509,"fuzzy success",1014253
+"259","alarrsh","alarsh","YEM",109.8252575,"fuzzy success",1003253
+"260","alashshah","alashah","YEM",76.23275184,"fuzzy success",1010253
+"261","albaida","albayda","YEM",134.4704591,"fuzzy success",2003253
+"262","albaidacity","albaydacity","YEM",56.06231888,"fuzzy success",3003253
+"263","alhaymahaddakhiliy","alhaymahaddakhiliyah","YEM",78.36091117,"fuzzy success",1019253
+"264","alhaymahalkharijiy","alhaymahalkharijiyah","YEM",98.1567293,"fuzzy success",2019253
+"265","alhishuah","alhashwah","YEM",24.22489934,"fuzzy success",2018253
+"266","alkhalaq","alkhalq","YEM",57.96853998,"fuzzy success",4006253
+"267","alluhayyah","alluheyah","YEM",64.56331809,"fuzzy success",14005253
+"268","almahfd","almahfad","YEM",86.05315589,"fuzzy success",2002253
+"269","almaslob","almaslub","YEM",45.62686677,"fuzzy success",5006253
+"270","almatun","almaton","YEM",28.10467984,"fuzzy success",7006253
+"271","almawasid","almawasit","YEM",87.93044819,"fuzzy success",3021253
+"272","alwhdh","alwahdah","YEM",69.89867634,"fuzzy success",1009253
+"273","amed","amd","YEM",91.96786749,"fuzzy success",8012253
+"274","ashshahr","ashshihr","YEM",71.86446089,"fuzzy success",11012253
+"275","ashshimsyatayn","ashshamayatayn","YEM",96.0611044,"fuzzy success",9021253
+"276","aslm","aslem","YEM",95.45022738,"fuzzy success",10013253
+"277","assaaid","assaid","YEM",69.23115435,"fuzzy success",5020253
+"278","assaoum","assawm","YEM",87.7030528,"fuzzy success",10012253
+"279","assawadyah","assawadiyah","YEM",100.5162344,"fuzzy success",7003253
+"280","attalih","altalh","YEM",79.66835452,"fuzzy success",2020253
+"281","attazziah","attaiziyah","YEM",145.8919224,"fuzzy success",10021253
+"282","attuhaita","attuhayat","YEM",119.1463732,"fuzzy success",17005253
+"283","baihan","bayhan","YEM",102.753055,"fuzzy success",7020253
+"284","banialawwam","banialawam","YEM",85.28783213,"fuzzy success",12013253
+"285","bidbidah","bidbadah","YEM",76.36463097,"fuzzy success",3016253
+"286","biratalanan","bartalanan","YEM",55.69244165,"fuzzy success",9006253
+"287","dhisufal","dhiassufal","YEM",99.55939631,"fuzzy success",13014253
+"288","dhmarcity","dhamarcity","YEM",84.02025284,"fuzzy success",5011253
+"289","ghailbawazir","ghaylbawazir","YEM",78.14858577,"fuzzy success",14012253
+"290","hadibo","hatib","YEM",68.77517591,"fuzzy success",10020253
+"291","haifan","hayfan","YEM",68.62106852,"fuzzy success",13021253
+"292","hateeb","hatib","YEM",57.26888422,"fuzzy success",10020253
+"293","jabalhabashi","jabalhabashy","YEM",79.52168373,"fuzzy success",14021253
+"294","jablmurad","jabalmurad","YEM",73.48837368,"fuzzy success",6016253
+"295","jahanh","jihanah","YEM",90.80015394,"fuzzy success",11019253
+"296","jirdan","jardan","YEM",81.65649366,"fuzzy success",11020253
+"297","khammer","khamir","YEM",92.31966044,"fuzzy success",14010253
+"298","kharef","kharif","YEM",82.33710676,"fuzzy success",15010253
+"299","lawder","lawdar","YEM",88.34148776,"fuzzy success",6002253
+"300","madkhal","medghal","YEM",89.51136164,"fuzzy success",11016253
+"301","mahiliyah","mahliyah","YEM",85.05428711,"fuzzy success",7016253
+"302","majzer","majzar","YEM",71.77837962,"fuzzy success",8016253
+"303","markhahalalya","merkhahalulya","YEM",111.3251534,"fuzzy success",13020253
+"304","markhahassufla","merkhahassufla","YEM",58.87898211,"fuzzy success",14020253
+"305","mashraahwahadnan","mashraawahadnan","YEM",94.30257592,"fuzzy success",16021253
+"306","mayfaah","mayfaa","YEM",95.39455454,"fuzzy success",12020253
+"307","munabbih","monabbih","YEM",15.73882054,"fuzzy success",9018253
+"308","nata","nati","YEM",57.54384317,"fuzzy success",16003253
+"309","osailan","usaylan","YEM",47.85970382,"fuzzy success",17020253
+"310","qitabir","qatabir","YEM",29.10612097,"fuzzy success",10018253
+"311","rekhyah","rakhyah","YEM",84.94824387,"fuzzy success",21012253
+"312","rosod","rasad","YEM",74.44641885,"fuzzy success",8002253
+"313","saadh","saadah","YEM",102.4931081,"fuzzy success",12018253
+"314","sauwayr","suwayr","YEM",96.23960735,"fuzzy success",19010253
+"315","sharabassalaam","sharabassalam","YEM",103.3995557,"fuzzy success",23021253
+"316","shiharah","shaharah","YEM",72.90314258,"fuzzy success",18010253
+"317","tareem","tarim","YEM",82.72491826,"fuzzy success",26012253
+"318","tawralbahah","turalbahah","YEM",78.98025966,"fuzzy success",13015253
+"319","wadialain","wadialayn","YEM",87.60113568,"fuzzy success",28012253
+"320","waldrabia","waldrabi","YEM",66.75134214,"fuzzy success",20003253
+"321","washhh","washhah","YEM",97.74486926,"fuzzy success",31013253
+"322","yabauth","yabuth","YEM",79.69177353,"fuzzy success",29012253
+"323","zungobar","zingibar","YEM",92.38351604,"fuzzy success",11002253
+"324","adhdhahir",NA,"YEM",16.85592431,"in WHO but not shpfile",NA
+"325","alhamidat",NA,"YEM",37.84397962,"in WHO but not shpfile",NA
+"326","alhawdah",NA,"YEM",96.96184938,"in WHO but not shpfile",NA
+"327","almadaribhandalar",NA,"YEM",133.4750875,"in WHO but not shpfile",NA
+"328","almoflehi",NA,"YEM",51.43879135,"in WHO but not shpfile",NA
+"329","arraidahandqosaiar",NA,"YEM",79.96628089,"in WHO but not shpfile",NA
+"330","atturbaniqais",NA,"YEM",89.85816325,"in WHO but not shpfile",NA
+"331","broom",NA,"YEM",99.13011696,"in WHO but not shpfile",NA
+"332","douhr",NA,"YEM",94.60058258,"in WHO but not shpfile",NA
+"333","ghamir",NA,"YEM",32.15566996,"in WHO but not shpfile",NA
+"334","halmeen",NA,"YEM",65.1013235,"in WHO but not shpfile",NA
+"335","khadir",NA,"YEM",87.84406233,"in WHO but not shpfile",NA
+"336","khobwaashaaf",NA,"YEM",25.82530549,"in WHO but not shpfile",NA
+"337","kitafandalbuqa",NA,"YEM",17.57685885,"in WHO but not shpfile",NA
+"338","nahm",NA,"YEM",74.97966347,"in WHO but not shpfile",NA
+"339","qalansiah",NA,"YEM",101.9354368,"in WHO but not shpfile",NA
+"340","qhailbenyameen",NA,"YEM",94.55154067,"in WHO but not shpfile",NA
+"341","qofalawamir",NA,"YEM",79.28667341,"in WHO but not shpfile",NA
+"342","rodhoom",NA,"YEM",77.22023571,"in WHO but not shpfile",NA
+"343","sanaaold",NA,"YEM",73.07116851,"in WHO but not shpfile",NA
+"344","shada",NA,"YEM",12.48392343,"in WHO but not shpfile",NA
+"345","shibamandkawkaban",NA,"YEM",86.59301152,"in WHO but not shpfile",NA
+"346","yahar",NA,"YEM",110.9891736,"in WHO but not shpfile",NA
+"347","zamakhandmanwakh",NA,"YEM",71.5513882,"in WHO but not shpfile",NA
+"348","zulaymathabur",NA,"YEM",88.58627738,"in WHO but not shpfile",NA
+"349",NA,"aldhaher","YEM",NA,"in shpfile but not WHO",1018253
+"350",NA,"alhawtah","YEM",NA,"in shpfile but not WHO",1015253
+"351",NA,"alhumaydat","YEM",NA,"in shpfile but not WHO",3006253
+"352",NA,"almadaribahwaalarah","YEM",NA,"in shpfile but not WHO",3015253
+"353",NA,"almaflahy","YEM",NA,"in shpfile but not WHO",4015253
+"354",NA,"alqaf","YEM",NA,"in shpfile but not WHO",6012253
+"355",NA,"arraydahwaqusayar","YEM",NA,"in shpfile but not WHO",9012253
+"356",NA,"baniqais","YEM",NA,"in shpfile but not WHO",13013253
+"357",NA,"brommayfa","YEM",NA,"in shpfile but not WHO",12012253
+"358",NA,"dhar","YEM",NA,"in shpfile but not WHO",8020253
+"359",NA,"dimnatkhadir","YEM",NA,"in shpfile but not WHO",12021253
+"360",NA,"ghamr","YEM",NA,"in shpfile but not WHO",5018253
+"361",NA,"ghaylbinyamin","YEM",NA,"in shpfile but not WHO",15012253
+"362",NA,"haburzulaymah","YEM",NA,"in shpfile but not WHO",9010253
+"363",NA,"halimayn","YEM",NA,"in shpfile but not WHO",10015253
+"364",NA,"hidaybu","YEM",NA,"in shpfile but not WHO",18012253
+"365",NA,"khabbwaashshaaf","YEM",NA,"in shpfile but not WHO",10006253
+"366",NA,"kitafwaalboqee","YEM",NA,"in shpfile but not WHO",7018253
+"367",NA,"nihm","YEM",NA,"in shpfile but not WHO",14019253
+"368",NA,"oldcity","YEM",NA,"in shpfile but not WHO",9009253
+"369",NA,"qulensyawaabdalkuri","YEM",NA,"in shpfile but not WHO",20012253
+"370",NA,"rudum","YEM",NA,"in shpfile but not WHO",16020253
+"371",NA,"shadaa","YEM",NA,"in shpfile but not WHO",15018253
+"372",NA,"shibamkawkaban","YEM",NA,"in shpfile but not WHO",9008253
+"373",NA,"yahr","YEM",NA,"in shpfile but not WHO",15015253
+"374",NA,"zamakhwamanwakh","YEM",NA,"in shpfile but not WHO",30012253

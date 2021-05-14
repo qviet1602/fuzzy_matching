@@ -1,0 +1,621 @@
+,V1,ADM1_NAME,ADM2_NAME,iso3,ADM0_NAME.x,year,vaccine,GAUL_CODE,merge_status,ADM1_NAME.who,ADM1_NAME.shpfile,ADM2_NAME.who,ADM2_NAME.shpfile,who_coverage,Note,V16,V17,V18,V19
+1,1,bengo,ambriz,AGO,Angola,2016,DTP3,1886,success,NA,NA,ambriz,NA,68,,NA,NA,NA,NA
+2,2,bengo,dande,AGO,Angola,2016,DTP3,1887,success,NA,NA,dande,NA,90,,NA,NA,NA,NA
+3,3,bengo,nambuangongo,AGO,Angola,2016,DTP3,1890,success,NA,NA,nambuangongo,NA,73,,NA,NA,NA,NA
+4,4,benguela,balombo,AGO,Angola,2016,DTP3,1892,success,NA,NA,balombo,NA,79,,NA,NA,NA,NA
+5,5,benguela,benguela,AGO,Angola,2016,DTP3,1893,success,NA,NA,benguela,NA,71,,NA,NA,NA,NA
+6,6,benguela,bocoio,AGO,Angola,2016,DTP3,1894,success,NA,NA,bocoio,NA,87,,NA,NA,NA,NA
+7,7,benguela,chongoroi,AGO,Angola,2016,DTP3,1896,success,NA,NA,chongoroi,NA,104,,NA,NA,NA,NA
+8,8,benguela,cubal,AGO,Angola,2016,DTP3,1897,success,NA,NA,cubal,NA,75,,NA,NA,NA,NA
+9,9,benguela,ganda,AGO,Angola,2016,DTP3,1898,success,NA,NA,ganda,NA,74,,NA,NA,NA,NA
+10,10,benguela,lobito,AGO,Angola,2016,DTP3,1899,success,NA,NA,lobito,NA,81,,NA,NA,NA,NA
+11,11,cabinda,belize,AGO,Angola,2016,DTP3,1909,success,NA,NA,belize,NA,57,,NA,NA,NA,NA
+12,12,cabinda,bucozau,AGO,Angola,2016,DTP3,1910,success,NA,NA,bucozau,NA,127,,NA,NA,NA,NA
+13,13,cabinda,cabinda,AGO,Angola,2016,DTP3,1911,success,NA,NA,cabinda,NA,35,,NA,NA,NA,NA
+14,14,cuandocubango,calai,AGO,Angola,2016,DTP3,1913,success,NA,NA,calai,NA,40,,NA,NA,NA,NA
+15,15,cuandocubango,cuangar,AGO,Angola,2016,DTP3,1914,success,NA,NA,cuangar,NA,75,,NA,NA,NA,NA
+16,16,cuandocubango,cuchi,AGO,Angola,2016,DTP3,1915,success,NA,NA,cuchi,NA,54,,NA,NA,NA,NA
+17,17,cuandocubango,cuitocuanavale,AGO,Angola,2016,DTP3,1916,success,NA,NA,cuitocuanavale,NA,29,,NA,NA,NA,NA
+18,18,cuandocubango,dirico,AGO,Angola,2016,DTP3,1917,success,NA,NA,dirico,NA,3,,NA,NA,NA,NA
+19,19,cuandocubango,mavinga,AGO,Angola,2016,DTP3,1918,success,NA,NA,mavinga,NA,30,,NA,NA,NA,NA
+20,20,cuandocubango,menongue,AGO,Angola,2016,DTP3,1919,success,NA,NA,menongue,NA,32,,NA,NA,NA,NA
+21,21,cuandocubango,nancova,AGO,Angola,2016,DTP3,1920,success,NA,NA,nancova,NA,599,,NA,NA,NA,NA
+22,22,cuandocubango,rivungo,AGO,Angola,2016,DTP3,1921,success,NA,NA,rivungo,NA,12,,NA,NA,NA,NA
+23,23,cuanzanorte,ambaca,AGO,Angola,2016,DTP3,1922,success,NA,NA,ambaca,NA,47,,NA,NA,NA,NA
+24,24,cuanzanorte,banga,AGO,Angola,2016,DTP3,1923,success,NA,NA,banga,NA,168,,NA,NA,NA,NA
+25,25,cuanzanorte,bolongongo,AGO,Angola,2016,DTP3,1924,success,NA,NA,bolongongo,NA,104,,NA,NA,NA,NA
+26,26,cuanzanorte,cambambe,AGO,Angola,2016,DTP3,1926,success,NA,NA,cambambe,NA,91,,NA,NA,NA,NA
+27,27,cuanzanorte,cazengo,AGO,Angola,2016,DTP3,1927,success,NA,NA,cazengo,NA,80,,NA,NA,NA,NA
+28,28,cuanzanorte,golungoalto,AGO,Angola,2016,DTP3,1929,success,NA,NA,golungoalto,NA,43,,NA,NA,NA,NA
+29,29,cuanzanorte,lucala,AGO,Angola,2016,DTP3,1930,success,NA,NA,lucala,NA,84,,NA,NA,NA,NA
+30,30,cuanzanorte,quiculungo,AGO,Angola,2016,DTP3,1933,success,NA,NA,quiculungo,NA,103,,NA,NA,NA,NA
+31,31,cuanzasul,amboim,AGO,Angola,2016,DTP3,1935,success,NA,NA,amboim,NA,75,,NA,NA,NA,NA
+32,32,cuanzasul,cassongue,AGO,Angola,2016,DTP3,1936,success,NA,NA,cassongue,NA,107,,NA,NA,NA,NA
+33,33,cuanzasul,conda,AGO,Angola,2016,DTP3,1937,success,NA,NA,conda,NA,171,,NA,NA,NA,NA
+34,34,cuanzasul,ebo,AGO,Angola,2016,DTP3,1938,success,NA,NA,ebo,NA,77,,NA,NA,NA,NA
+35,35,cuanzasul,libolo,AGO,Angola,2016,DTP3,1939,success,NA,NA,libolo,NA,64,,NA,NA,NA,NA
+36,36,cuanzasul,mussende,AGO,Angola,2016,DTP3,1940,success,NA,NA,mussende,NA,101,,NA,NA,NA,NA
+37,37,cuanzasul,portoamboim,AGO,Angola,2016,DTP3,1941,success,NA,NA,portoamboim,NA,63,,NA,NA,NA,NA
+38,38,cuanzasul,quibala,AGO,Angola,2016,DTP3,1942,success,NA,NA,quibala,NA,60,,NA,NA,NA,NA
+39,39,cuanzasul,quilenda,AGO,Angola,2016,DTP3,1943,success,NA,NA,quilenda,NA,95,,NA,NA,NA,NA
+40,40,cuanzasul,seles,AGO,Angola,2016,DTP3,1944,success,NA,NA,seles,NA,69,,NA,NA,NA,NA
+41,41,cuanzasul,sumbe,AGO,Angola,2016,DTP3,1945,success,NA,NA,sumbe,NA,60,,NA,NA,NA,NA
+42,42,cunene,cahama,AGO,Angola,2016,DTP3,1947,success,NA,NA,cahama,NA,94,,NA,NA,NA,NA
+43,43,cunene,cuanhama,AGO,Angola,2016,DTP3,1948,success,NA,NA,cuanhama,NA,50,,NA,NA,NA,NA
+44,44,cunene,curoca,AGO,Angola,2016,DTP3,1949,success,NA,NA,curoca,NA,52,,NA,NA,NA,NA
+45,45,cunene,cuvelai,AGO,Angola,2016,DTP3,1950,success,NA,NA,cuvelai,NA,112,,NA,NA,NA,NA
+46,46,cunene,ombadja,AGO,Angola,2016,DTP3,1952,success,NA,NA,ombadja,NA,85,,NA,NA,NA,NA
+47,47,huambo,bailundo,AGO,Angola,2016,DTP3,1966,success,NA,NA,bailundo,NA,86,,NA,NA,NA,NA
+48,48,huambo,catchiungo,AGO,Angola,2016,DTP3,1968,success,NA,NA,catchiungo,NA,93,,NA,NA,NA,NA
+49,49,huambo,huambo,AGO,Angola,2016,DTP3,1970,success,NA,NA,huambo,NA,122,,NA,NA,NA,NA
+50,50,huambo,londuimbale,AGO,Angola,2016,DTP3,1971,success,NA,NA,londuimbale,NA,100,,NA,NA,NA,NA
+51,51,huambo,longonjo,AGO,Angola,2016,DTP3,1972,success,NA,NA,longonjo,NA,177,,NA,NA,NA,NA
+52,52,huambo,mungo,AGO,Angola,2016,DTP3,1973,success,NA,NA,mungo,NA,85,,NA,NA,NA,NA
+53,53,huambo,ukuma,AGO,Angola,2016,DTP3,1976,success,NA,NA,ukuma,NA,107,,NA,NA,NA,NA
+54,54,luanda,cacuaco,AGO,Angola,2016,DTP3,1977,success,NA,NA,cacuaco,NA,65,,NA,NA,NA,NA
+55,55,luanda,cazenga,AGO,Angola,2016,DTP3,1978,success,NA,NA,cazenga,NA,71,,NA,NA,NA,NA
+56,56,luanda,ingombota,AGO,Angola,2016,DTP3,1979,success,NA,NA,ingombota,NA,131,,NA,NA,NA,NA
+57,57,luanda,kilambakiaxi,AGO,Angola,2016,DTP3,1980,success,NA,NA,kilambakiaxi,NA,78,,NA,NA,NA,NA
+58,58,luanda,maianga,AGO,Angola,2016,DTP3,1981,success,NA,NA,maianga,NA,80,,NA,NA,NA,NA
+59,59,luanda,rangel,AGO,Angola,2016,DTP3,1982,success,NA,NA,rangel,NA,142,,NA,NA,NA,NA
+60,60,luanda,samba,AGO,Angola,2016,DTP3,1983,success,NA,NA,samba,NA,135,,NA,NA,NA,NA
+61,61,luanda,sambizanga,AGO,Angola,2016,DTP3,1984,success,NA,NA,sambizanga,NA,70,,NA,NA,NA,NA
+62,62,luanda,viana,AGO,Angola,2016,DTP3,1985,success,NA,NA,viana,NA,61,,NA,NA,NA,NA
+63,63,lundanorte,cambulo,AGO,Angola,2016,DTP3,1986,success,NA,NA,cambulo,NA,99,,NA,NA,NA,NA
+64,64,lundanorte,caungula,AGO,Angola,2016,DTP3,1988,success,NA,NA,caungula,NA,76,,NA,NA,NA,NA
+65,65,lundanorte,chitato,AGO,Angola,2016,DTP3,1989,success,NA,NA,chitato,NA,83,,NA,NA,NA,NA
+66,66,lundanorte,cuango,AGO,Angola,2016,DTP3,1990,success,NA,NA,cuango,NA,116,,NA,NA,NA,NA
+67,67,lundanorte,cuilo,AGO,Angola,2016,DTP3,1991,success,NA,NA,cuilo,NA,54,,NA,NA,NA,NA
+68,68,lundanorte,lubalo,AGO,Angola,2016,DTP3,1992,success,NA,NA,lubalo,NA,95,,NA,NA,NA,NA
+69,69,lundanorte,lucapa,AGO,Angola,2016,DTP3,1993,success,NA,NA,lucapa,NA,118,,NA,NA,NA,NA
+70,70,lundasul,cacolo,AGO,Angola,2016,DTP3,1995,success,NA,NA,cacolo,NA,146,,NA,NA,NA,NA
+71,71,lundasul,dala,AGO,Angola,2016,DTP3,1996,success,NA,NA,dala,NA,91,,NA,NA,NA,NA
+72,72,lundasul,muconda,AGO,Angola,2016,DTP3,1997,success,NA,NA,muconda,NA,93,,NA,NA,NA,NA
+73,73,lundasul,saurimo,AGO,Angola,2016,DTP3,1998,success,NA,NA,saurimo,NA,90,,NA,NA,NA,NA
+74,74,malanje,calandula,AGO,Angola,2016,DTP3,2000,success,NA,NA,calandula,NA,71,,NA,NA,NA,NA
+75,75,malanje,cambundicatembo,AGO,Angola,2016,DTP3,2001,success,NA,NA,cambundicatembo,NA,37,,NA,NA,NA,NA
+76,76,malanje,cangandala,AGO,Angola,2016,DTP3,2002,success,NA,NA,cangandala,NA,107,,NA,NA,NA,NA
+77,77,malanje,luquembo,AGO,Angola,2016,DTP3,2006,success,NA,NA,luquembo,NA,74,,NA,NA,NA,NA
+78,78,malanje,malanje,AGO,Angola,2016,DTP3,2007,success,NA,NA,malanje,NA,151,,NA,NA,NA,NA
+79,79,malanje,marimba,AGO,Angola,2016,DTP3,2008,success,NA,NA,marimba,NA,50,,NA,NA,NA,NA
+80,80,malanje,massango,AGO,Angola,2016,DTP3,2009,success,NA,NA,massango,NA,8,,NA,NA,NA,NA
+81,81,malanje,quela,AGO,Angola,2016,DTP3,2011,success,NA,NA,quela,NA,61,,NA,NA,NA,NA
+82,82,malanje,quirima,AGO,Angola,2016,DTP3,2012,success,NA,NA,quirima,NA,57,,NA,NA,NA,NA
+83,83,moxico,altozambeze,AGO,Angola,2016,DTP3,2013,success,NA,NA,altozambeze,NA,410,,NA,NA,NA,NA
+84,84,moxico,camanongue,AGO,Angola,2016,DTP3,2014,success,NA,NA,camanongue,NA,121,,NA,NA,NA,NA
+85,85,moxico,luau,AGO,Angola,2016,DTP3,2017,success,NA,NA,luau,NA,59,,NA,NA,NA,NA
+86,86,moxico,luchazes,AGO,Angola,2016,DTP3,2019,success,NA,NA,luchazes,NA,11,,NA,NA,NA,NA
+87,87,moxico,lumbalanguimbo,AGO,Angola,2016,DTP3,2020,success,NA,NA,lumbalanguimbo,NA,315,,NA,NA,NA,NA
+88,88,namibe,bibala,AGO,Angola,2016,DTP3,2022,success,NA,NA,bibala,NA,35,,NA,NA,NA,NA
+89,89,namibe,namibe,AGO,Angola,2016,DTP3,2024,success,NA,NA,namibe,NA,50,,NA,NA,NA,NA
+90,90,namibe,virei,AGO,Angola,2016,DTP3,2026,success,NA,NA,virei,NA,70,,NA,NA,NA,NA
+91,91,zaire,cuimba,AGO,Angola,2016,DTP3,2043,success,NA,NA,cuimba,NA,39,,NA,NA,NA,NA
+92,92,zaire,mbanzacongo,AGO,Angola,2016,DTP3,2044,success,NA,NA,mbanzacongo,NA,61,,NA,NA,NA,NA
+93,93,zaire,noqui,AGO,Angola,2016,DTP3,2046,success,NA,NA,noqui,NA,87,,NA,NA,NA,NA
+94,94,zaire,nzeto,AGO,Angola,2016,DTP3,2045,success,NA,NA,nzeto,NA,60,,NA,NA,NA,NA
+95,95,zaire,soyo,AGO,Angola,2016,DTP3,2047,success,NA,NA,soyo,NA,61,,NA,NA,NA,NA
+96,96,zaire,tomboco,AGO,Angola,2016,DTP3,2048,success,NA,NA,tomboco,NA,63,,NA,NA,NA,NA
+97,97,NA,NA,AGO,Angola,2016,NA,1901,fuzzy need fix,bie,bi,camacupa,camacupa,57,,NA,NA,NA,NA
+98,98,NA,NA,AGO,Angola,2016,NA,1967,fuzzy need fix,huambo,huambo,caala,caila,116,,NA,NA,NA,NA
+99,99,NA,NA,AGO,Angola,2016,NA,1953,fuzzy need fix,huila,hula,caconda,caconda,88,,NA,NA,NA,NA
+100,100,NA,NA,AGO,Angola,2016,NA,1967,need change,huila,huambo,cacula,caila,139,change,NA,NA,NA,NA
+101,101,NA,NA,AGO,Angola,2016,NA,1999,need change,huila,malanje,cacula,cacuzo,139,change,NA,NA,NA,NA
+102,102,NA,NA,AGO,Angola,2016,NA,1961,fuzzy need fix,huila,hula,cuvango,kuvango,54,,NA,NA,NA,NA
+103,103,NA,NA,AGO,Angola,2016,NA,1958,fuzzy need fix,huila,hula,gambos,gambos,76,,NA,NA,NA,NA
+104,104,NA,NA,AGO,Angola,2016,NA,1960,fuzzy need fix,huila,hula,jamba,jamba,103,,NA,NA,NA,NA
+105,105,NA,NA,AGO,Angola,2016,NA,1962,fuzzy need fix,huila,hula,lubango,lubango,73,,NA,NA,NA,NA
+106,106,NA,NA,AGO,Angola,2016,NA,2031,fuzzy need fix,uige,uge,bungo,bungo,115,,NA,NA,NA,NA
+107,107,NA,NA,AGO,Angola,2016,NA,2032,fuzzy need fix,uige,uge,damba,damba,123,,NA,NA,NA,NA
+108,108,NA,NA,AGO,Angola,2016,NA,2035,fuzzy need fix,uige,uge,mucaba,mucaba,85,,NA,NA,NA,NA
+109,109,NA,NA,AGO,Angola,2016,NA,2041,fuzzy need fix,uige,uge,songo,songo,123,,NA,NA,NA,NA
+110,110,NA,NA,AGO,Angola,2016,NA,1925,fuzzy success,bengo,cuanzanorte,bulaatumba,bulaatumba,107,,NA,NA,NA,NA
+111,111,NA,NA,AGO,Angola,2016,NA,1932,fuzzy success,bengo,cuanzanorte,pangoaluquem,pangoaluqum,122,,NA,NA,NA,NA
+112,112,NA,NA,AGO,Angola,2016,NA,1891,fuzzy success,benguela,benguela,baiafarta,baafarta,111,,NA,NA,NA,NA
+113,113,NA,NA,AGO,Angola,2016,NA,1895,fuzzy success,benguela,benguela,caimbambo,caiambambo,56,,NA,NA,NA,NA
+114,114,NA,NA,AGO,Angola,2016,NA,1900,fuzzy success,bie,bi,andulo,andulo,90,,NA,NA,NA,NA
+115,115,NA,NA,AGO,Angola,2016,NA,1902,fuzzy success,bie,bi,catabola,catabola,65,,NA,NA,NA,NA
+116,116,NA,NA,AGO,Angola,2016,NA,1903,fuzzy success,bie,bi,chinguar,chinguar,97,,NA,NA,NA,NA
+117,117,NA,NA,AGO,Angola,2016,NA,1904,fuzzy success,bie,bi,chitembo,chitembo,70,,NA,NA,NA,NA
+118,118,NA,NA,AGO,Angola,2016,NA,1905,fuzzy success,bie,bi,cuemba,cuemba,79,,NA,NA,NA,NA
+119,119,NA,NA,AGO,Angola,2016,NA,1907,fuzzy success,bie,bi,cuito,kuito,69,,NA,NA,NA,NA
+120,120,NA,NA,AGO,Angola,2016,NA,1906,fuzzy success,bie,bi,cunhinga,cunhinga,100,,NA,NA,NA,NA
+121,121,NA,NA,AGO,Angola,2016,NA,1908,fuzzy success,bie,bi,nharea,nharea,71,,NA,NA,NA,NA
+122,122,NA,NA,AGO,Angola,2016,NA,1953,need change,cabinda,hula,cacongo,caconda,108,change,NA,NA,NA,NA
+123,123,NA,NA,AGO,Angola,2016,NA,1931,fuzzy success,cuanzanorte,cuanzanorte,gonguembo,ngonguembo,54,,NA,NA,NA,NA
+124,124,NA,NA,AGO,Angola,2016,NA,1934,fuzzy success,cuanzanorte,cuanzanorte,sambacaju,sambacaj,42,,NA,NA,NA,NA
+125,125,NA,NA,AGO,Angola,2016,NA,1967,need change,cuanzasul,huambo,cela,caila,45,change,NA,NA,NA,NA
+126,126,NA,NA,AGO,Angola,2016,NA,1951,fuzzy success,cunene,cunene,namacunde,namakunde,28,,NA,NA,NA,NA
+127,127,NA,NA,AGO,Angola,2016,NA,1969,fuzzy success,huambo,huambo,ecunha,ekunha,113,,NA,NA,NA,NA
+128,128,NA,NA,AGO,Angola,2016,NA,1975,fuzzy success,huambo,huambo,tchinjenje,tchindjenje,102,,NA,NA,NA,NA
+129,129,NA,NA,AGO,Angola,2016,NA,1954,fuzzy success,huila,hula,caluquembe,caluquembe,86,,NA,NA,NA,NA
+130,130,NA,NA,AGO,Angola,2016,NA,1955,fuzzy success,huila,hula,chibia,chibia,96,,NA,NA,NA,NA
+131,131,NA,NA,AGO,Angola,2016,NA,1956,fuzzy success,huila,hula,chicomba,chicomba,108,,NA,NA,NA,NA
+132,132,NA,NA,AGO,Angola,2016,NA,1957,fuzzy success,huila,hula,chipindo,chipindo,97,,NA,NA,NA,NA
+133,133,NA,NA,AGO,Angola,2016,NA,1959,fuzzy success,huila,hula,humpata,humpata,91,,NA,NA,NA,NA
+134,134,NA,NA,AGO,Angola,2016,NA,1963,fuzzy success,huila,hula,matala,matala,80,,NA,NA,NA,NA
+135,135,NA,NA,AGO,Angola,2016,NA,1964,fuzzy success,huila,hula,quilengues,quilengues,118,,NA,NA,NA,NA
+136,136,NA,NA,AGO,Angola,2016,NA,1888,fuzzy success,luanda,bengo,icoloebengo,icoloebengo,83,,NA,NA,NA,NA
+137,137,NA,NA,AGO,Angola,2016,NA,1994,fuzzy success,lundanorte,lundanorte,xamuteba,ximuteba,80,,NA,NA,NA,NA
+138,138,NA,NA,AGO,Angola,2016,NA,1999,fuzzy success,malanje,malanje,cacuso,cacuzo,82,,NA,NA,NA,NA
+139,139,NA,NA,AGO,Angola,2016,NA,2003,fuzzy success,malanje,malanje,cahombo,caombo,77,,NA,NA,NA,NA
+140,140,NA,NA,AGO,Angola,2016,NA,2005,fuzzy success,malanje,malanje,cundadiabaze,cundadiabaza,6,,NA,NA,NA,NA
+141,141,NA,NA,AGO,Angola,2016,NA,2016,fuzzy success,moxico,moxico,leua,lua,149,,NA,NA,NA,NA
+142,142,NA,NA,AGO,Angola,2016,NA,2018,fuzzy success,moxico,moxico,luacano,lucano,263,,NA,NA,NA,NA
+143,143,NA,NA,AGO,Angola,2016,NA,2023,fuzzy success,namibe,namibe,camucuio,camacuio,74,,NA,NA,NA,NA
+144,144,NA,NA,AGO,Angola,2016,NA,2025,fuzzy success,namibe,namibe,tombua,tombwa,76,,NA,NA,NA,NA
+145,145,NA,NA,AGO,Angola,2016,NA,2028,fuzzy success,uige,uge,ambuila,ambuila,104,,NA,NA,NA,NA
+146,146,NA,NA,AGO,Angola,2016,NA,2029,fuzzy success,uige,uge,bembe,bembe,98,,NA,NA,NA,NA
+147,147,NA,NA,AGO,Angola,2016,NA,2030,fuzzy success,uige,uge,buengas,buengas,94,,NA,NA,NA,NA
+148,148,NA,NA,AGO,Angola,2016,NA,2033,fuzzy success,uige,uge,maqueladozombo,maqueladozombo,98,,NA,NA,NA,NA
+149,149,NA,NA,AGO,Angola,2016,NA,2034,fuzzy success,uige,uge,milunga,milunga,89,,NA,NA,NA,NA
+150,150,NA,NA,AGO,Angola,2016,NA,2036,fuzzy success,uige,uge,negage,negage,111,,NA,NA,NA,NA
+151,151,NA,NA,AGO,Angola,2016,NA,2037,fuzzy success,uige,uge,puri,puri,99,,NA,NA,NA,NA
+152,152,NA,NA,AGO,Angola,2016,NA,2038,fuzzy success,uige,uge,quimbele,quimbele,56,,NA,NA,NA,NA
+153,153,NA,NA,AGO,Angola,2016,NA,2039,fuzzy success,uige,uge,quitexe,quitexe,71,,NA,NA,NA,NA
+154,154,NA,NA,AGO,Angola,2016,NA,2040,fuzzy success,uige,uge,sanzapombo,sanzapombo,81,,NA,NA,NA,NA
+155,155,NA,NA,AGO,Angola,2016,NA,2042,fuzzy success,uige,uge,uige,uge,111,,NA,NA,NA,NA
+156,156,bengo,dembosquibaxe,AGO,Angola,2016,DTP3,NA,in WHO but not shpfile,NA,NA,dembosquibaxe,NA,60,,NA,NA,NA,NA
+157,157,benguela,catumbela,AGO,Angola,2016,DTP3,NA,in WHO but not shpfile,NA,NA,catumbela,NA,85,,NA,NA,NA,NA
+158,158,huambo,tchikalatcholohang,AGO,Angola,2016,DTP3,1974,manually match,NA,NA,tchikalatcholohang,tchicalatcholoanga,97,manual add,NA,NA,NA,NA
+159,159,huila,quipungo,AGO,Angola,2016,DTP3,1965,in WHO but not shpfile,NA,NA,quipungo,tchipungo,82,,NA,NA,NA,NA
+160,160,luanda,belas,AGO,Angola,2016,DTP3,NA,in WHO but not shpfile,NA,NA,belas,NA,68,,NA,NA,NA,NA
+161,161,luanda,quissama,AGO,Angola,2016,DTP3,NA,in WHO but not shpfile,NA,NA,quissama,NA,50,,NA,NA,NA,NA
+162,162,lundanorte,capendacamulemba,AGO,Angola,2016,DTP3,NA,in WHO but not shpfile,NA,NA,capendacamulemba,NA,85,,NA,NA,NA,NA
+163,163,malanje,caculamamucari,AGO,Angola,2016,DTP3,NA,in WHO but not shpfile,NA,NA,caculamamucari,NA,76,,NA,NA,NA,NA
+164,164,malanje,kiuabanzoji,AGO,Angola,2016,DTP3,2004,in WHO but not shpfile,NA,NA,kiuabanzoji,cuabanzogo,53,,NA,NA,NA,NA
+165,165,moxico,lumejecameia,AGO,Angola,2016,DTP3,2015,in WHO but not shpfile,NA,NA,lumejecameia,cameia,194,,NA,NA,NA,NA
+166,166,moxico,moxicoluena,AGO,Angola,2016,DTP3,2021,in WHO but not shpfile,NA,NA,moxicoluena,moxico,124,,NA,NA,NA,NA
+167,167,uige,cangola,AGO,Angola,2016,DTP3,NA,in WHO but not shpfile,NA,NA,cangola,NA,107,,NA,NA,NA,NA
+168,168,bengo,muxima,AGO,Angola,NA,NA,1889,in shpfile but not WHO,NA,Bengo,NA,muxima,NA,,NA,NA,NA,NA
+169,169,cabinda,landana,AGO,Angola,NA,NA,1912,in shpfile but not WHO,NA,Cabinda,NA,landana,NA,,NA,NA,NA,NA
+170,170,cuanzasul,wakukungo,AGO,Angola,NA,NA,1946,in shpfile but not WHO,NA,Cuanza Sul,NA,wakukungo,NA,,NA,NA,NA,NA
+171,171,huambo,tchicalatcholoanga,AGO,Angola,NA,NA,1974,manually match,NA,Huambo,NA,tchicalatcholoanga,NA,match,NA,NA,NA,NA
+172,172,hula,tchipungo,AGO,Angola,NA,NA,1965,in shpfile but not WHO,NA,Hu?¡la,NA,tchipungo,NA,,NA,NA,NA,NA
+173,173,malanje,cuabanzogo,AGO,Angola,NA,NA,2004,in shpfile but not WHO,NA,Malanje,NA,cuabanzogo,NA,,NA,NA,NA,NA
+174,174,moxico,cameia,AGO,Angola,NA,NA,2015,in shpfile but not WHO,NA,Moxico,NA,cameia,NA,,NA,NA,NA,NA
+175,175,moxico,moxico,AGO,Angola,NA,NA,2021,in shpfile but not WHO,NA,Moxico,NA,moxico,NA,,NA,NA,NA,NA
+176,176,uge,altocauale,AGO,Angola,NA,NA,2027,in shpfile but not WHO,NA,U?¡ge,NA,altocauale,NA,,NA,NA,NA,NA
+177,177,biokonorte,baney,GNQ,Equatorial Guinea,2016,DTP3,14870,success,NA,NA,baney,NA,97.71895313,,NA,NA,NA,NA
+178,178,biokonorte,malabo,GNQ,Equatorial Guinea,2016,DTP3,14871,success,NA,NA,malabo,NA,37.89040901,,NA,NA,NA,NA
+179,179,biokosur,luba,GNQ,Equatorial Guinea,2016,DTP3,14873,success,NA,NA,luba,NA,66.55861477,,NA,NA,NA,NA
+180,180,biokosur,riaba,GNQ,Equatorial Guinea,2016,DTP3,14874,success,NA,NA,riaba,NA,63.43356844,,NA,NA,NA,NA
+181,181,centrosur,acurenam,GNQ,Equatorial Guinea,2016,DTP3,14875,success,NA,NA,acurenam,NA,50.16195635,,NA,NA,NA,NA
+182,182,centrosur,evinayong,GNQ,Equatorial Guinea,2016,DTP3,14877,success,NA,NA,evinayong,NA,56.89183409,,NA,NA,NA,NA
+183,183,centrosur,niefang,GNQ,Equatorial Guinea,2016,DTP3,14878,success,NA,NA,niefang,NA,47.79401174,,NA,NA,NA,NA
+184,184,litoral,bata,GNQ,Equatorial Guinea,2016,DTP3,14886,success,NA,NA,bata,NA,43.98339055,,NA,NA,NA,NA
+185,185,litoral,cogo,GNQ,Equatorial Guinea,2016,DTP3,14888,success,NA,NA,cogo,NA,9.943756716,,NA,NA,NA,NA
+186,186,litoral,mbini,GNQ,Equatorial Guinea,2016,DTP3,14891,success,NA,NA,mbini,NA,42.02735599,,NA,NA,NA,NA
+187,187,welenzas,aconibe,GNQ,Equatorial Guinea,2016,DTP3,14894,success,NA,NA,aconibe,NA,45.47551356,,NA,NA,NA,NA
+188,188,welenzas,mongomo,GNQ,Equatorial Guinea,2016,DTP3,14898,success,NA,NA,mongomo,NA,48.84453617,,NA,NA,NA,NA
+189,189,welenzas,nsork,GNQ,Equatorial Guinea,2016,DTP3,14899,success,NA,NA,nsork,NA,51.46849195,,NA,NA,NA,NA
+190,190,NA,NA,GNQ,Equatorial Guinea,2016,NA,14881,fuzzy success,kientem,kintem,ebebiyin,ebebiyin,56.02295405,,NA,NA,NA,NA
+191,191,NA,NA,GNQ,Equatorial Guinea,2016,NA,14882,fuzzy success,kientem,kintem,micomiseng,micomeseng,67.60832935,,NA,NA,NA,NA
+192,192,NA,NA,GNQ,Equatorial Guinea,2016,NA,14885,fuzzy success,kientem,kintem,nsoknsomo,nsoknsomo,29.66061071,,NA,NA,NA,NA
+193,193,NA,NA,GNQ,Equatorial Guinea,2016,NA,14893,fuzzy success,welenzas,welenzas,anisok,aisok,10.35603686,,NA,NA,NA,NA
+194,194,annobon,annobon,GNQ,Equatorial Guinea,2016,DTP3,NA,in WHO but not shpfile,NA,NA,annobon,NA,107.8304276,,NA,NA,NA,NA
+195,195,annobn,mabana,GNQ,Equatorial Guinea,NA,NA,14868,in shpfile but not WHO,NA,Annob??n,NA,mabana,NA,,NA,NA,NA,NA
+196,196,annobn,sanantoniodepal,GNQ,Equatorial Guinea,NA,NA,14869,in shpfile but not WHO,NA,Annob??n,NA,sanantoniodepal,NA,,NA,NA,NA,NA
+197,197,biokonorte,rebola,GNQ,Equatorial Guinea,NA,NA,14872,in shpfile but not WHO,NA,Bioko Norte,NA,rebola,NA,,NA,NA,NA,NA
+198,198,centrosur,bicurga,GNQ,Equatorial Guinea,NA,NA,14876,in shpfile but not WHO,NA,Centro Sur,NA,bicurga,NA,,NA,NA,NA,NA
+199,199,centrosur,nkimi,GNQ,Equatorial Guinea,NA,NA,14879,in shpfile but not WHO,NA,Centro Sur,NA,nkimi,NA,,NA,NA,NA,NA
+200,200,kintem,bidjabidjan,GNQ,Equatorial Guinea,NA,NA,14880,in shpfile but not WHO,NA,Ki??-Ntem,NA,bidjabidjan,NA,,NA,NA,NA,NA
+201,201,kintem,nasng,GNQ,Equatorial Guinea,NA,NA,14883,in shpfile but not WHO,NA,Ki??-Ntem,NA,nasng,NA,,NA,NA,NA,NA
+202,202,kintem,nkue,GNQ,Equatorial Guinea,NA,NA,14884,in shpfile but not WHO,NA,Ki??-Ntem,NA,nkue,NA,,NA,NA,NA,NA
+203,203,litoral,bitica,GNQ,Equatorial Guinea,NA,NA,14887,in shpfile but not WHO,NA,Litoral,NA,bitica,NA,,NA,NA,NA,NA
+204,204,litoral,corisco,GNQ,Equatorial Guinea,NA,NA,14889,in shpfile but not WHO,NA,Litoral,NA,corisco,NA,,NA,NA,NA,NA
+205,205,litoral,machinda,GNQ,Equatorial Guinea,NA,NA,14890,in shpfile but not WHO,NA,Litoral,NA,machinda,NA,,NA,NA,NA,NA
+206,206,litoral,riocampo,GNQ,Equatorial Guinea,NA,NA,14892,in shpfile but not WHO,NA,Litoral,NA,riocampo,NA,,NA,NA,NA,NA
+207,207,welenzas,ayene,GNQ,Equatorial Guinea,NA,NA,14895,in shpfile but not WHO,NA,Wele-Nzas,NA,ayene,NA,,NA,NA,NA,NA
+208,208,welenzas,ciudadnuevaoyala,GNQ,Equatorial Guinea,NA,NA,14896,in shpfile but not WHO,NA,Wele-Nzas,NA,ciudadnuevaoyala,NA,,NA,NA,NA,NA
+209,209,welenzas,mongomeyenmongomeyen,GNQ,Equatorial Guinea,NA,NA,14897,in shpfile but not WHO,NA,Wele-Nzas,NA,mongomeyenmongomeyen,NA,,NA,NA,NA,NA
+210,210,gao,ansongo,MLI,Mali,2016,DTP3,22118,success,NA,NA,ansongo,NA,104.0580851,,NA,NA,NA,NA
+211,211,gao,bourem,MLI,Mali,2016,DTP3,22119,success,NA,NA,bourem,NA,86.33817975,,NA,NA,NA,NA
+212,212,gao,gao,MLI,Mali,2016,DTP3,22120,success,NA,NA,gao,NA,88.17407457,,NA,NA,NA,NA
+213,213,kayes,kayes,MLI,Mali,2016,DTP3,22125,success,NA,NA,kayes,NA,86.18302645,,NA,NA,NA,NA
+214,214,kayes,kita,MLI,Mali,2016,DTP3,22126,success,NA,NA,kita,NA,84.98948051,,NA,NA,NA,NA
+215,215,kayes,nioro,MLI,Mali,2016,DTP3,22127,success,NA,NA,nioro,NA,97.46254966,,NA,NA,NA,NA
+216,216,kidal,kidal,MLI,Mali,2016,DTP3,22130,success,NA,NA,kidal,NA,102.2352422,,NA,NA,NA,NA
+217,217,kidal,tessalit,MLI,Mali,2016,DTP3,22131,success,NA,NA,tessalit,NA,55,,NA,NA,NA,NA
+218,218,kidal,tinessako,MLI,Mali,2016,DTP3,22132,success,NA,NA,tinessako,NA,20,,NA,NA,NA,NA
+219,219,koulikoro,banamba,MLI,Mali,2016,DTP3,22133,success,NA,NA,banamba,NA,97.71534889,,NA,NA,NA,NA
+220,220,koulikoro,kangaba,MLI,Mali,2016,DTP3,22135,success,NA,NA,kangaba,NA,111.5543035,,NA,NA,NA,NA
+221,221,koulikoro,kati,MLI,Mali,2016,DTP3,22136,success,NA,NA,kati,NA,99.45503894,,NA,NA,NA,NA
+222,222,koulikoro,kolokani,MLI,Mali,2016,DTP3,22137,success,NA,NA,kolokani,NA,94.93528716,,NA,NA,NA,NA
+223,223,koulikoro,koulikoro,MLI,Mali,2016,DTP3,22138,success,NA,NA,koulikoro,NA,79.45785146,,NA,NA,NA,NA
+224,224,koulikoro,nara,MLI,Mali,2016,DTP3,22139,success,NA,NA,nara,NA,93.8434713,,NA,NA,NA,NA
+225,225,mopti,bandiagara,MLI,Mali,2016,DTP3,22140,success,NA,NA,bandiagara,NA,93.43651032,,NA,NA,NA,NA
+226,226,mopti,bankass,MLI,Mali,2016,DTP3,22141,success,NA,NA,bankass,NA,105.9964861,,NA,NA,NA,NA
+227,227,mopti,douentza,MLI,Mali,2016,DTP3,22143,success,NA,NA,douentza,NA,78.8084625,,NA,NA,NA,NA
+228,228,mopti,koro,MLI,Mali,2016,DTP3,22144,success,NA,NA,koro,NA,94.52576935,,NA,NA,NA,NA
+229,229,mopti,mopti,MLI,Mali,2016,DTP3,22145,success,NA,NA,mopti,NA,83.80182359,,NA,NA,NA,NA
+230,230,mopti,youwarou,MLI,Mali,2016,DTP3,22147,success,NA,NA,youwarou,NA,104.2100353,,NA,NA,NA,NA
+231,231,sikasso,bougouni,MLI,Mali,2016,DTP3,22155,success,NA,NA,bougouni,NA,90.83017934,,NA,NA,NA,NA
+232,232,sikasso,kadiolo,MLI,Mali,2016,DTP3,22156,success,NA,NA,kadiolo,NA,105.8033057,,NA,NA,NA,NA
+233,233,sikasso,koutiala,MLI,Mali,2016,DTP3,22158,success,NA,NA,koutiala,NA,105.9686643,,NA,NA,NA,NA
+234,234,sikasso,sikasso,MLI,Mali,2016,DTP3,22159,success,NA,NA,sikasso,NA,88.73616088,,NA,NA,NA,NA
+235,235,sikasso,yanfolila,MLI,Mali,2016,DTP3,22160,success,NA,NA,yanfolila,NA,111.322674,,NA,NA,NA,NA
+236,236,sikasso,yorosso,MLI,Mali,2016,DTP3,22161,success,NA,NA,yorosso,NA,98.31325063,,NA,NA,NA,NA
+237,237,NA,NA,MLI,Mali,2016,NA,22123,fuzzy need fix,kayes,kayes,diema,dima,106.1269867,,NA,NA,NA,NA
+238,238,NA,NA,MLI,Mali,2016,NA,22162,fuzzy need fix,tombouctou,timbuktu,dire,dir,110.9549474,,NA,NA,NA,NA
+239,239,NA,NA,MLI,Mali,2016,NA,22121,fuzzy success,gao,gao,menaka,mnaka,103.847012,,NA,NA,NA,NA
+240,240,NA,NA,MLI,Mali,2016,NA,22122,fuzzy success,kayes,kayes,bafoulabe,bafoulab,86.4665855,,NA,NA,NA,NA
+241,241,NA,NA,MLI,Mali,2016,NA,22124,fuzzy success,kayes,kayes,kenieba,kniba,83.32585042,,NA,NA,NA,NA
+242,242,NA,NA,MLI,Mali,2016,NA,22128,fuzzy success,kayes,kayes,yelimane,yliman,75.11199697,,NA,NA,NA,NA
+243,243,NA,NA,MLI,Mali,2016,NA,22129,fuzzy success,kidal,kidal,abeibara,abebara,32,,NA,NA,NA,NA
+244,244,NA,NA,MLI,Mali,2016,NA,22134,fuzzy success,koulikoro,koulikoro,dioila,diola,85.93707825,,NA,NA,NA,NA
+245,245,NA,NA,MLI,Mali,2016,NA,22153,need change,koulikoro,sgou,fana,san,106.0954161,change,NA,NA,NA,NA
+246,246,NA,NA,MLI,Mali,2016,NA,22142,fuzzy success,mopti,mopti,djenne,djenn,99.324266,,NA,NA,NA,NA
+247,247,NA,NA,MLI,Mali,2016,NA,22146,fuzzy success,mopti,mopti,tenenkou,tnenkou,83.98717425,,NA,NA,NA,NA
+248,248,NA,NA,MLI,Mali,2016,NA,22148,fuzzy success,segou,sgou,baroueli,barouli,94.63245028,,NA,NA,NA,NA
+249,249,NA,NA,MLI,Mali,2016,NA,22149,fuzzy success,segou,sgou,bla,bla,104.873165,,NA,NA,NA,NA
+250,250,NA,NA,MLI,Mali,2016,NA,22150,fuzzy success,segou,sgou,macina,macina,93.29303179,,NA,NA,NA,NA
+251,251,NA,NA,MLI,Mali,2016,NA,22151,fuzzy success,segou,sgou,niono,niono,89.34643701,,NA,NA,NA,NA
+252,252,NA,NA,MLI,Mali,2016,NA,22153,fuzzy success,segou,sgou,san,san,100.4334492,,NA,NA,NA,NA
+253,253,NA,NA,MLI,Mali,2016,NA,22152,fuzzy success,segou,sgou,segou,sgou,77.53270009,,NA,NA,NA,NA
+254,254,NA,NA,MLI,Mali,2016,NA,22154,fuzzy success,segou,sgou,tominian,tominian,91.06358025,,NA,NA,NA,NA
+255,255,NA,NA,MLI,Mali,2016,NA,22157,fuzzy success,sikasso,sikasso,kolondieba,kolondiba,107.9367004,,NA,NA,NA,NA
+256,256,NA,NA,MLI,Mali,2016,NA,22151,need change,sikasso,sgou,niena,niono,103.9593401,change,NA,NA,NA,NA
+257,257,NA,NA,MLI,Mali,2016,NA,22163,fuzzy success,tombouctou,timbuktu,goundam,goundam,57.89588535,,NA,NA,NA,NA
+258,258,NA,NA,MLI,Mali,2016,NA,22164,fuzzy success,tombouctou,timbuktu,gourmarharous,gourmarharous,80.78614338,,NA,NA,NA,NA
+259,259,NA,NA,MLI,Mali,2016,NA,22165,fuzzy success,tombouctou,timbuktu,niafunke,niafunk,88.3754695,,NA,NA,NA,NA
+260,260,NA,NA,MLI,Mali,2016,NA,22166,fuzzy success,tombouctou,timbuktu,tombouctou,tombouctou,77.05750509,,NA,NA,NA,NA
+261,261,bamako,commune1,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,commune1,NA,105.2129812,,NA,NA,NA,NA
+262,262,bamako,commune2,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,commune2,NA,97.39811625,,NA,NA,NA,NA
+263,263,bamako,commune3,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,commune3,NA,99.77854567,,NA,NA,NA,NA
+264,264,bamako,commune4,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,commune4,NA,94.63187451,,NA,NA,NA,NA
+265,265,bamako,commune5,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,commune5,NA,91.63277695,,NA,NA,NA,NA
+266,266,bamako,commune6,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,commune6,NA,119.4316644,,NA,NA,NA,NA
+267,267,kayes,oussoubidiagna,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,oussoubidiagna,NA,93.62229412,,NA,NA,NA,NA
+268,268,kayes,sagabary,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,sagabary,NA,76.8659333,,NA,NA,NA,NA
+269,269,kayes,sefeto,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,sefeto,NA,52.318914,,NA,NA,NA,NA
+270,270,koulikoro,kalabancoro,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,kalabancoro,NA,103.8033691,,NA,NA,NA,NA
+271,271,koulikoro,ouelessebougou,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,ouelessebougou,NA,78.27991896,,NA,NA,NA,NA
+272,272,segou,markala,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,markala,NA,105.7875782,,NA,NA,NA,NA
+273,273,sikasso,kignan,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,kignan,NA,95.63969767,,NA,NA,NA,NA
+274,274,sikasso,selingue,MLI,Mali,2016,DTP3,NA,in WHO but not shpfile,NA,NA,selingue,NA,87.19124664,,NA,NA,NA,NA
+275,275,bamako,bamako,MLI,Mali,NA,NA,22117,in shpfile but not WHO,NA,Bamako,NA,bamako,NA,,NA,NA,NA,NA
+276,276,agadez,arlit,NER,Niger,2016,DTP3,25602,success,NA,NA,arlit,NA,68.0310963,,NA,NA,NA,NA
+277,277,agadez,bilma,NER,Niger,2016,DTP3,25603,success,NA,NA,bilma,NA,84.01869159,,NA,NA,NA,NA
+278,278,diffa,diffa,NER,Niger,2016,DTP3,25605,success,NA,NA,diffa,NA,96.25497235,,NA,NA,NA,NA
+279,279,diffa,nguigmi,NER,Niger,2016,DTP3,25607,success,NA,NA,nguigmi,NA,67.12876682,,NA,NA,NA,NA
+280,280,dosso,boboye,NER,Niger,2016,DTP3,25608,success,NA,NA,boboye,NA,97.80753138,,NA,NA,NA,NA
+281,281,dosso,dosso,NER,Niger,2016,DTP3,25610,success,NA,NA,dosso,NA,92.26459144,,NA,NA,NA,NA
+282,282,dosso,gaya,NER,Niger,2016,DTP3,25611,success,NA,NA,gaya,NA,77.83731612,,NA,NA,NA,NA
+283,283,dosso,loga,NER,Niger,2016,DTP3,25612,success,NA,NA,loga,NA,93.95536268,,NA,NA,NA,NA
+284,284,maradi,dakoro,NER,Niger,2016,DTP3,25614,success,NA,NA,dakoro,NA,95.71452433,,NA,NA,NA,NA
+285,285,maradi,madarounfa,NER,Niger,2016,DTP3,25616,success,NA,NA,madarounfa,NA,95.80017,,NA,NA,NA,NA
+286,286,maradi,mayahi,NER,Niger,2016,DTP3,25617,success,NA,NA,mayahi,NA,93.61106694,,NA,NA,NA,NA
+287,287,maradi,tessaoua,NER,Niger,2016,DTP3,25618,success,NA,NA,tessaoua,NA,92.20752483,,NA,NA,NA,NA
+288,288,tahoua,bouza,NER,Niger,2016,DTP3,25621,success,NA,NA,bouza,NA,88.03773437,,NA,NA,NA,NA
+289,289,tahoua,keita,NER,Niger,2016,DTP3,25623,success,NA,NA,keita,NA,101.6100693,,NA,NA,NA,NA
+290,290,tahoua,madaoua,NER,Niger,2016,DTP3,25624,success,NA,NA,madaoua,NA,97.21605568,,NA,NA,NA,NA
+291,291,tahoua,tahoua,NER,Niger,2016,DTP3,25625,success,NA,NA,tahoua,NA,96.17622935,,NA,NA,NA,NA
+292,292,zinder,magaria,NER,Niger,2016,DTP3,25634,success,NA,NA,magaria,NA,93.27197212,,NA,NA,NA,NA
+293,293,zinder,matameye,NER,Niger,2016,DTP3,25635,success,NA,NA,matameye,NA,99.1846329,,NA,NA,NA,NA
+294,294,zinder,mirriah,NER,Niger,2016,DTP3,25636,success,NA,NA,mirriah,NA,93.55672389,,NA,NA,NA,NA
+295,295,zinder,tanout,NER,Niger,2016,DTP3,25637,success,NA,NA,tanout,NA,92.74318597,,NA,NA,NA,NA
+296,296,NA,NA,NER,Niger,2016,NA,25613,fuzzy success,maradi,maradi,aguie,agui,103.8179568,,NA,NA,NA,NA
+297,297,NA,NA,NER,Niger,2016,NA,25615,fuzzy success,maradi,maradi,groumji,groumdji,84.0457573,,NA,NA,NA,NA
+298,298,NA,NA,NER,Niger,2016,NA,25619,fuzzy success,niamey,niamey,niamey1,niamey,98.59656059,slightly different,NA,NA,NA,NA
+299,299,NA,NA,NER,Niger,2016,NA,25619,fuzzy success,niamey,niamey,niamey2,niamey,81.3365484,slightly different,NA,NA,NA,NA
+300,300,NA,NA,NER,Niger,2016,NA,25619,fuzzy success,niamey,niamey,niamey3,niamey,88.77373111,slightly different,NA,NA,NA,NA
+301,301,NA,NA,NER,Niger,2016,NA,25619,fuzzy success,niamey,niamey,niamey4,niamey,103.5920342,slightly different,NA,NA,NA,NA
+302,302,NA,NA,NER,Niger,2016,NA,25619,fuzzy success,niamey,niamey,niamey5,niamey,80.85954807,slightly different,NA,NA,NA,NA
+303,303,NA,NA,NER,Niger,2016,NA,25622,fuzzy success,tahoua,tahoua,illela,illla,103.4454153,,NA,NA,NA,NA
+304,304,NA,NA,NER,Niger,2016,NA,25620,fuzzy success,tahoua,tahoua,konni,bkonni,96.18662519,,NA,NA,NA,NA
+305,305,NA,NA,NER,Niger,2016,NA,25627,fuzzy success,tillaberi,tillabry,filingue,filingu,96.887826,,NA,NA,NA,NA
+306,306,NA,NA,NER,Niger,2016,NA,25628,fuzzy success,tillaberi,tillabry,kollo,kollo,86.40160511,,NA,NA,NA,NA
+307,307,NA,NA,NER,Niger,2016,NA,25629,fuzzy success,tillaberi,tillabry,ouallam,ouallam,100.3595147,,NA,NA,NA,NA
+308,308,NA,NA,NER,Niger,2016,NA,25630,fuzzy success,tillaberi,tillabry,say,say,87.46714279,,NA,NA,NA,NA
+309,309,NA,NA,NER,Niger,2016,NA,25631,fuzzy success,tillaberi,tillabry,tera,tra,91.15549215,,NA,NA,NA,NA
+310,310,NA,NA,NER,Niger,2016,NA,25632,fuzzy success,tillaberi,tillabry,tillaberi,tillabry,95.14085373,,NA,NA,NA,NA
+311,311,NA,NA,NER,Niger,2016,NA,25633,fuzzy success,zinder,zinder,goure,gour,94.37644399,,NA,NA,NA,NA
+312,312,agadez,agadez,NER,Niger,2016,DTP3,NA,in WHO but not shpfile,NA,NA,agadez,NA,97.38356164,,NA,NA,NA,NA
+313,313,agadez,tchiro,NER,Niger,2016,DTP3,NA,in WHO but not shpfile,NA,NA,tchiro,NA,92.57743363,,NA,NA,NA,NA
+314,314,diffa,maine,NER,Niger,2016,DTP3,NA,in WHO but not shpfile,NA,NA,maine,NA,69.62195256,,NA,NA,NA,NA
+315,315,dosso,doutchi,NER,Niger,2016,DTP3,NA,in WHO but not shpfile,NA,NA,doutchi,NA,99.95606456,,NA,NA,NA,NA
+316,316,maradi,maradic,NER,Niger,2016,DTP3,NA,in WHO but not shpfile,NA,NA,maradic,NA,60.67492486,,NA,NA,NA,NA
+317,317,tahoua,abalak,NER,Niger,2016,DTP3,NA,in WHO but not shpfile,NA,NA,abalak,NA,87.17009408,,NA,NA,NA,NA
+318,318,tahoua,tchinta,NER,Niger,2016,DTP3,NA,in WHO but not shpfile,NA,NA,tchinta,NA,84.54848062,,NA,NA,NA,NA
+319,319,zinder,zinder,NER,Niger,2016,DTP3,NA,in WHO but not shpfile,NA,NA,zinder,NA,98.92758964,,NA,NA,NA,NA
+320,320,agadez,tchighozerine,NER,Niger,NA,NA,25604,in shpfile but not WHO,NA,Agadez,NA,tchighozerine,NA,,NA,NA,NA,NA
+321,321,diffa,mansoroa,NER,Niger,NA,NA,25606,in shpfile but not WHO,NA,Diffa,NA,mansoroa,NA,,NA,NA,NA,NA
+322,322,dosso,dogondoutchi,NER,Niger,NA,NA,25609,in shpfile but not WHO,NA,Dosso,NA,dogondoutchi,NA,,NA,NA,NA,NA
+323,323,tahoua,tchintabarade,NER,Niger,NA,NA,25626,in shpfile but not WHO,NA,Tahoua,NA,tchintabarade,NA,,NA,NA,NA,NA
+324,324,eastern,kailahun,SLE,Sierra Leone,2016,DTP3,35802,success,NA,NA,kailahun,NA,87.87755394,,NA,NA,NA,NA
+325,325,eastern,kenema,SLE,Sierra Leone,2016,DTP3,35803,success,NA,NA,kenema,NA,94.52608945,,NA,NA,NA,NA
+326,326,eastern,kono,SLE,Sierra Leone,2016,DTP3,35804,success,NA,NA,kono,NA,97.08766549,,NA,NA,NA,NA
+327,327,northern,bombali,SLE,Sierra Leone,2016,DTP3,35805,success,NA,NA,bombali,NA,91.03429298,,NA,NA,NA,NA
+328,328,northern,kambia,SLE,Sierra Leone,2016,DTP3,35806,success,NA,NA,kambia,NA,104.4481448,,NA,NA,NA,NA
+329,329,northern,koinadugu,SLE,Sierra Leone,2016,DTP3,35807,success,NA,NA,koinadugu,NA,132.7239211,,NA,NA,NA,NA
+330,330,northern,portloko,SLE,Sierra Leone,2016,DTP3,35808,success,NA,NA,portloko,NA,98.42064022,,NA,NA,NA,NA
+331,331,northern,tonkolili,SLE,Sierra Leone,2016,DTP3,35809,success,NA,NA,tonkolili,NA,133.8497893,,NA,NA,NA,NA
+332,332,southern,bo,SLE,Sierra Leone,2016,DTP3,35810,success,NA,NA,bo,NA,72.22502853,,NA,NA,NA,NA
+333,333,southern,bonthe,SLE,Sierra Leone,2016,DTP3,35811,success,NA,NA,bonthe,NA,91.10528866,,NA,NA,NA,NA
+334,334,southern,moyamba,SLE,Sierra Leone,2016,DTP3,35812,success,NA,NA,moyamba,NA,132.7818007,,NA,NA,NA,NA
+335,335,southern,pujehun,SLE,Sierra Leone,2016,DTP3,35813,success,NA,NA,pujehun,NA,90.4151111,,NA,NA,NA,NA
+336,336,western,westernrural,SLE,Sierra Leone,2016,DTP3,35814,success,NA,NA,westernrural,NA,157.849416,,NA,NA,NA,NA
+337,337,western,westernurban,SLE,Sierra Leone,2016,DTP3,35815,success,NA,NA,westernurban,NA,76.44280254,,NA,NA,NA,NA
+338,338,NA,NA,TZA,Tanzania,2016,NA,37847,fuzzy success,arusha,arusha,arushacc,arusha,108.4924459,slightly different,NA,NA,NA,NA
+339,339,NA,NA,TZA,Tanzania,2016,NA,37847,fuzzy success,arusha,arusha,arushadc,arusha,91.56368971,slightly different,NA,NA,NA,NA
+340,340,NA,NA,TZA,Tanzania,2016,NA,37848,fuzzy success,arusha,arusha,karatudc,karatu,89.518255,,NA,NA,NA,NA
+341,341,NA,NA,TZA,Tanzania,2016,NA,37851,fuzzy success,arusha,arusha,longidodc,longido,114.7889853,,NA,NA,NA,NA
+342,342,NA,NA,TZA,Tanzania,2016,NA,37852,fuzzy success,arusha,arusha,merudc,meru,82.15036988,,NA,NA,NA,NA
+343,343,NA,NA,TZA,Tanzania,2016,NA,37853,fuzzy success,arusha,arusha,mondulidc,monduli,101.3489485,,NA,NA,NA,NA
+344,344,NA,NA,TZA,Tanzania,2016,NA,37854,fuzzy success,arusha,arusha,ngorongorodc,ngorongoro,104.1024446,,NA,NA,NA,NA
+345,345,NA,NA,TZA,Tanzania,2016,NA,37855,fuzzy success,daressalaam,daressalaam,ilalamc,ilala,81.35371804,,NA,NA,NA,NA
+346,346,NA,NA,TZA,Tanzania,2016,NA,37856,fuzzy success,daressalaam,daressalaam,kinondonimc,kinondoni,62.39245534,,NA,NA,NA,NA
+347,347,NA,NA,TZA,Tanzania,2016,NA,37857,fuzzy success,daressalaam,daressalaam,temekemc,temeke,89.48958516,,NA,NA,NA,NA
+348,348,NA,NA,TZA,Tanzania,2016,NA,37858,fuzzy success,dodoma,dodoma,bahidc,bahi,95.68208456,,NA,NA,NA,NA
+349,349,NA,NA,TZA,Tanzania,2016,NA,37859,fuzzy success,dodoma,dodoma,chamwinodc,chamwino,98.74336123,,NA,NA,NA,NA
+350,350,NA,NA,TZA,Tanzania,2016,NA,37860,fuzzy success,dodoma,dodoma,chembadc,chemba,90.95404148,,NA,NA,NA,NA
+351,351,NA,NA,TZA,Tanzania,2016,NA,37862,fuzzy success,dodoma,dodoma,kondoadc,kondoa,78.67162228,,NA,NA,NA,NA
+352,352,NA,NA,TZA,Tanzania,2016,NA,37863,fuzzy success,dodoma,dodoma,kongwadc,kongwa,89.49825168,,NA,NA,NA,NA
+353,353,NA,NA,TZA,Tanzania,2016,NA,37864,fuzzy success,dodoma,dodoma,mpwapwadc,mpwapwa,96.06275558,,NA,NA,NA,NA
+354,354,NA,NA,TZA,Tanzania,2016,NA,37865,fuzzy success,geita,geita,bukombedc,bukombe,128.5504341,,NA,NA,NA,NA
+355,355,NA,NA,TZA,Tanzania,2016,NA,37866,fuzzy success,geita,geita,chatodc,chato,103.4883022,,NA,NA,NA,NA
+356,356,NA,NA,TZA,Tanzania,2016,NA,37867,fuzzy success,geita,geita,geitadc,geita,108.0026031,slightly different,NA,NA,NA,NA
+357,357,NA,NA,TZA,Tanzania,2016,NA,37867,fuzzy success,geita,geita,geitatc,geita,88.16883564,slightly different,NA,NA,NA,NA
+358,358,NA,NA,TZA,Tanzania,2016,NA,37868,fuzzy success,geita,geita,mbogwedc,mbogwe,108.8170886,,NA,NA,NA,NA
+359,359,NA,NA,TZA,Tanzania,2016,NA,37872,fuzzy success,iringa,iringa,kilolodc,kilolo,91.41168594,,NA,NA,NA,NA
+360,360,NA,NA,TZA,Tanzania,2016,NA,37874,fuzzy success,iringa,iringa,mufindidc,mufindi,85.67360044,,NA,NA,NA,NA
+361,361,NA,NA,TZA,Tanzania,2016,NA,37875,fuzzy success,kagera,kagera,biharamulodc,biharamulo,120.5833554,,NA,NA,NA,NA
+362,362,NA,NA,TZA,Tanzania,2016,NA,37878,fuzzy success,kagera,kagera,karagwedc,karagwe,91.37790799,,NA,NA,NA,NA
+363,363,NA,NA,TZA,Tanzania,2016,NA,37879,fuzzy success,kagera,kagera,kyerwadc,kyerwa,99.32057261,,NA,NA,NA,NA
+364,364,NA,NA,TZA,Tanzania,2016,NA,37881,fuzzy success,kagera,kagera,missenyidc,missenyi,92.86746383,,NA,NA,NA,NA
+365,365,NA,NA,TZA,Tanzania,2016,NA,37882,fuzzy success,kagera,kagera,mulebadc,muleba,102.7494192,,NA,NA,NA,NA
+366,366,NA,NA,TZA,Tanzania,2016,NA,37883,fuzzy success,kagera,kagera,ngaradc,ngara,108.8348866,,NA,NA,NA,NA
+367,367,NA,NA,TZA,Tanzania,2016,NA,37886,fuzzy success,katavi,katavi,mleledc,mlele,130.7339191,,NA,NA,NA,NA
+368,368,NA,NA,TZA,Tanzania,2016,NA,37888,fuzzy success,katavi,katavi,mpandadc,mpanda,125.4070759,slightly different,NA,NA,NA,NA
+369,369,NA,NA,TZA,Tanzania,2016,NA,37888,fuzzy success,katavi,katavi,mpandatc,mpanda,118.214643,slightly different,NA,NA,NA,NA
+370,370,NA,NA,TZA,Tanzania,2016,NA,37889,fuzzy success,kigoma,kigoma,buhigwedc,buhigwe,100.6606936,,NA,NA,NA,NA
+371,371,NA,NA,TZA,Tanzania,2016,NA,37890,fuzzy success,kigoma,kigoma,kakonkodc,kakonko,100.7899642,,NA,NA,NA,NA
+372,372,NA,NA,TZA,Tanzania,2016,NA,37892,fuzzy success,kigoma,kigoma,kasuludc,kasulu,120.3184128,slightly different,NA,NA,NA,NA
+373,373,NA,NA,TZA,Tanzania,2016,NA,37892,fuzzy success,kigoma,kigoma,kasulutc,kasulu,87.39503622,slightly different,NA,NA,NA,NA
+374,374,NA,NA,TZA,Tanzania,2016,NA,37893,fuzzy success,kigoma,kigoma,kibondodc,kibondo,101.3024807,,NA,NA,NA,NA
+375,375,NA,NA,TZA,Tanzania,2016,NA,37897,fuzzy success,kigoma,kigoma,uvinzadc,uvinza,100.1059294,,NA,NA,NA,NA
+376,376,NA,NA,TZA,Tanzania,2016,NA,37898,fuzzy success,kilimanjaro,kilimanjaro,haidc,hai,88.10872436,,NA,NA,NA,NA
+377,377,NA,NA,TZA,Tanzania,2016,NA,37901,fuzzy success,kilimanjaro,kilimanjaro,mwangadc,mwanga,79.29582596,,NA,NA,NA,NA
+378,378,NA,NA,TZA,Tanzania,2016,NA,37902,fuzzy success,kilimanjaro,kilimanjaro,rombodc,rombo,85.35425067,,NA,NA,NA,NA
+379,379,NA,NA,TZA,Tanzania,2016,NA,37903,fuzzy success,kilimanjaro,kilimanjaro,samedc,same,79.14488316,,NA,NA,NA,NA
+380,380,NA,NA,TZA,Tanzania,2016,NA,37904,fuzzy success,kilimanjaro,kilimanjaro,sihadc,siha,92.46186018,,NA,NA,NA,NA
+381,381,NA,NA,TZA,Tanzania,2016,NA,37905,fuzzy success,lindi,lindi,kilwadc,kilwa,105.3539515,,NA,NA,NA,NA
+382,382,NA,NA,TZA,Tanzania,2016,NA,37908,fuzzy success,lindi,lindi,liwaledc,liwale,94.93872523,,NA,NA,NA,NA
+383,383,NA,NA,TZA,Tanzania,2016,NA,37909,fuzzy success,lindi,lindi,nachingweadc,nachingwea,95.84461451,,NA,NA,NA,NA
+384,384,NA,NA,TZA,Tanzania,2016,NA,37910,fuzzy success,lindi,lindi,ruangwadc,ruangwa,92.10138917,,NA,NA,NA,NA
+385,385,NA,NA,TZA,Tanzania,2016,NA,37912,fuzzy success,manyara,manyara,babatidc,babati,90.76208472,,NA,NA,NA,NA
+386,386,NA,NA,TZA,Tanzania,2016,NA,37912,fuzzy success,manyara,manyara,babatitc,babati,89.92853165,,NA,NA,NA,NA
+387,387,NA,NA,TZA,Tanzania,2016,NA,37913,fuzzy success,manyara,manyara,hanangdc,hanang,96.84044123,,NA,NA,NA,NA
+388,388,NA,NA,TZA,Tanzania,2016,NA,37914,fuzzy success,manyara,manyara,kitetodc,kiteto,102.5617361,,NA,NA,NA,NA
+389,389,NA,NA,TZA,Tanzania,2016,NA,37916,fuzzy success,manyara,manyara,mbuludc,mbulu,94.77846622,,NA,NA,NA,NA
+390,390,NA,NA,TZA,Tanzania,2016,NA,37917,fuzzy success,manyara,manyara,simanjirodc,simanjiro,124.1217732,,NA,NA,NA,NA
+391,391,NA,NA,TZA,Tanzania,2016,NA,37918,fuzzy success,mara,mara,bundadc,bunda,119.6017265,slightly different,NA,NA,NA,NA
+392,392,NA,NA,TZA,Tanzania,2016,NA,37918,fuzzy success,mara,mara,bundatc,bunda,102.0138383,slightly different,NA,NA,NA,NA
+393,393,NA,NA,TZA,Tanzania,2016,NA,37919,fuzzy success,mara,mara,butiamadc,butiama,89.24014568,,NA,NA,NA,NA
+394,394,NA,NA,TZA,Tanzania,2016,NA,37923,fuzzy success,mara,mara,roryadc,rorya,108.9316368,,NA,NA,NA,NA
+395,395,NA,NA,TZA,Tanzania,2016,NA,37924,fuzzy success,mara,mara,serengetidc,serengeti,114.416492,,NA,NA,NA,NA
+396,396,NA,NA,TZA,Tanzania,2016,NA,37925,fuzzy success,mara,mara,tarimedc,tarime,123.6621737,,NA,NA,NA,NA
+397,397,NA,NA,TZA,Tanzania,2016,NA,37925,fuzzy success,mara,mara,tarimetc,tarime,148.3347058,,NA,NA,NA,NA
+398,398,NA,NA,TZA,Tanzania,2016,NA,37926,fuzzy success,mbeya,mbeya,chunyadc,chunya,126.4308333,,NA,NA,NA,NA
+399,399,NA,NA,TZA,Tanzania,2016,NA,37927,fuzzy success,mbeya,mbeya,ilejedc,ileje,71.29897475,,NA,NA,NA,NA
+400,400,NA,NA,TZA,Tanzania,2016,NA,37928,fuzzy success,mbeya,mbeya,kyeladc,kyela,89.24398422,,NA,NA,NA,NA
+401,401,NA,NA,TZA,Tanzania,2016,NA,37930,fuzzy success,mbeya,mbeya,mbaralidc,mbarali,113.6429667,,NA,NA,NA,NA
+402,402,NA,NA,TZA,Tanzania,2016,NA,37933,fuzzy success,mbeya,mbeya,mbozidc,mbozi,88.98575306,,NA,NA,NA,NA
+403,403,NA,NA,TZA,Tanzania,2016,NA,37934,fuzzy success,mbeya,mbeya,mombadc,momba,88.75848651,,NA,NA,NA,NA
+404,404,NA,NA,TZA,Tanzania,2016,NA,37935,fuzzy success,mbeya,mbeya,rungwedc,rungwe,88.69560361,,NA,NA,NA,NA
+405,405,NA,NA,TZA,Tanzania,2016,NA,37936,fuzzy success,mbeya,mbeya,tundumatc,tunduma,153.2963872,,NA,NA,NA,NA
+406,406,NA,NA,TZA,Tanzania,2016,NA,37937,fuzzy success,morogoro,morogoro,gairodc,gairo,112.9673243,,NA,NA,NA,NA
+407,407,NA,NA,TZA,Tanzania,2016,NA,37938,fuzzy success,morogoro,morogoro,kilomberodc,kilombero,79.4809401,,NA,NA,NA,NA
+408,408,NA,NA,TZA,Tanzania,2016,NA,37939,fuzzy success,morogoro,morogoro,kilosadc,kilosa,78.61220241,,NA,NA,NA,NA
+409,409,NA,NA,TZA,Tanzania,2016,NA,37942,fuzzy success,morogoro,morogoro,mvomerodc,mvomero,83.98550749,,NA,NA,NA,NA
+410,410,NA,NA,TZA,Tanzania,2016,NA,37943,fuzzy success,morogoro,morogoro,ulangadc,ulanga,102.4119377,,NA,NA,NA,NA
+411,411,NA,NA,TZA,Tanzania,2016,NA,37945,fuzzy success,mtwara,mtwara,masasidc,masasi,97.0733285,slightly different,NA,NA,NA,NA
+412,412,NA,NA,TZA,Tanzania,2016,NA,37945,fuzzy success,mtwara,mtwara,masasitc,masasi,95.03650069,slightly different,NA,NA,NA,NA
+413,413,NA,NA,TZA,Tanzania,2016,NA,37948,fuzzy success,mtwara,mtwara,nanyumbudc,nanyumbu,97.02760577,,NA,NA,NA,NA
+414,414,NA,NA,TZA,Tanzania,2016,NA,37949,fuzzy success,mtwara,mtwara,newaladc,newala,89.43490982,,NA,NA,NA,NA
+415,415,NA,NA,TZA,Tanzania,2016,NA,37950,fuzzy success,mtwara,mtwara,tandahimbadc,tandahimba,92.39034653,,NA,NA,NA,NA
+416,416,NA,NA,TZA,Tanzania,2016,NA,37951,fuzzy success,mwanza,mwanza,ilemelamc,ilemela,87.66103387,,NA,NA,NA,NA
+417,417,NA,NA,TZA,Tanzania,2016,NA,37952,fuzzy success,mwanza,mwanza,kwimbadc,kwimba,89.56634998,,NA,NA,NA,NA
+418,418,NA,NA,TZA,Tanzania,2016,NA,37954,fuzzy success,mwanza,mwanza,magudc,magu,100.3697395,,NA,NA,NA,NA
+419,419,NA,NA,TZA,Tanzania,2016,NA,37955,fuzzy success,mwanza,mwanza,misungwidc,misungwi,96.45765424,,NA,NA,NA,NA
+420,420,NA,NA,TZA,Tanzania,2016,NA,37956,fuzzy success,mwanza,mwanza,nyamaganamc,nyamagana,101.1220813,,NA,NA,NA,NA
+421,421,NA,NA,TZA,Tanzania,2016,NA,37957,fuzzy success,mwanza,mwanza,sengeremadc,sengerema,83.91811848,,NA,NA,NA,NA
+422,422,NA,NA,TZA,Tanzania,2016,NA,37958,fuzzy success,mwanza,mwanza,ukerewedc,ukerewe,88.30231428,,NA,NA,NA,NA
+423,423,NA,NA,TZA,Tanzania,2016,NA,37959,fuzzy success,njombe,njombe,ludewadc,ludewa,88.89762759,,NA,NA,NA,NA
+424,424,NA,NA,TZA,Tanzania,2016,NA,37961,fuzzy success,njombe,njombe,maketedc,makete,75.87610483,,NA,NA,NA,NA
+425,425,NA,NA,TZA,Tanzania,2016,NA,37963,fuzzy success,njombe,njombe,njombedc,njombe,96.20824456,slightly different,NA,NA,NA,NA
+426,426,NA,NA,TZA,Tanzania,2016,NA,37963,fuzzy success,njombe,njombe,njombetc,njombe,91.2948966,slightly different,NA,NA,NA,NA
+427,427,NA,NA,TZA,Tanzania,2016,NA,37964,fuzzy success,njombe,njombe,wangingombedc,wangingombe,79.19038534,,NA,NA,NA,NA
+428,428,NA,NA,TZA,Tanzania,2016,NA,37965,fuzzy success,northpemba,pembanorth,micheweni,micheweni,98.34363461,,NA,NA,NA,NA
+429,429,NA,NA,TZA,Tanzania,2016,NA,37966,fuzzy success,northpemba,pembanorth,wete,wete,127.5386453,,NA,NA,NA,NA
+430,430,NA,NA,TZA,Tanzania,2016,NA,37969,fuzzy success,pwani,pwani,bagamoyodc,bagamoyo,88.79182339,,NA,NA,NA,NA
+431,431,NA,NA,TZA,Tanzania,2016,NA,37971,fuzzy success,pwani,pwani,kibahadc,kibaha,103.3470035,slightly different,NA,NA,NA,NA
+432,432,NA,NA,TZA,Tanzania,2016,NA,37971,fuzzy success,pwani,pwani,kibahatc,kibaha,89.3065691,slightly different,NA,NA,NA,NA
+433,433,NA,NA,TZA,Tanzania,2016,NA,37972,fuzzy success,pwani,pwani,kisarawedc,kisarawe,87.80000806,,NA,NA,NA,NA
+434,434,NA,NA,TZA,Tanzania,2016,NA,37973,fuzzy success,pwani,pwani,mafiadc,mafia,79.11142707,,NA,NA,NA,NA
+435,435,NA,NA,TZA,Tanzania,2016,NA,37974,fuzzy success,pwani,pwani,mkurangadc,mkuranga,91.0900116,,NA,NA,NA,NA
+436,436,NA,NA,TZA,Tanzania,2016,NA,37975,fuzzy success,pwani,pwani,rufijidc,rufiji,93.87934208,,NA,NA,NA,NA
+437,437,NA,NA,TZA,Tanzania,2016,NA,37976,fuzzy success,rukwa,rukwa,kalambodc,kalambo,116.9253349,,NA,NA,NA,NA
+438,438,NA,NA,TZA,Tanzania,2016,NA,37979,fuzzy success,rukwa,rukwa,nkasidc,nkasi,132.0227027,,NA,NA,NA,NA
+439,439,NA,NA,TZA,Tanzania,2016,NA,37982,fuzzy success,ruvuma,ruvuma,mbingadc,mbinga,91.09910727,,NA,NA,NA,NA
+440,440,NA,NA,TZA,Tanzania,2016,NA,37983,fuzzy success,ruvuma,ruvuma,namtumbodc,namtumbo,101.1952996,,NA,NA,NA,NA
+441,441,NA,NA,TZA,Tanzania,2016,NA,37984,fuzzy success,ruvuma,ruvuma,nyasadc,nyasa,97.24090695,,NA,NA,NA,NA
+442,442,NA,NA,TZA,Tanzania,2016,NA,37987,fuzzy success,ruvuma,ruvuma,tundurudc,tunduru,92.46478081,,NA,NA,NA,NA
+443,443,NA,NA,TZA,Tanzania,2016,NA,37989,fuzzy success,shinyanga,shinyanga,kahamatc,kahama,88.829422,,NA,NA,NA,NA
+444,444,NA,NA,TZA,Tanzania,2016,NA,37990,fuzzy success,shinyanga,shinyanga,kishapudc,kishapu,96.70226574,,NA,NA,NA,NA
+445,445,NA,NA,TZA,Tanzania,2016,NA,37993,fuzzy success,simiyu,simiyu,bariadidc,bariadi,118.8794255,slightly different,NA,NA,NA,NA
+446,446,NA,NA,TZA,Tanzania,2016,NA,37993,fuzzy success,simiyu,simiyu,bariaditc,bariadi,89.44917321,slightly different,NA,NA,NA,NA
+447,447,NA,NA,TZA,Tanzania,2016,NA,37994,fuzzy success,simiyu,simiyu,busegadc,busega,94.44309473,,NA,NA,NA,NA
+448,448,NA,NA,TZA,Tanzania,2016,NA,37995,fuzzy success,simiyu,simiyu,itilimadc,itilima,104.7634959,,NA,NA,NA,NA
+449,449,NA,NA,TZA,Tanzania,2016,NA,37998,fuzzy success,simiyu,simiyu,maswadc,maswa,94.01366115,,NA,NA,NA,NA
+450,450,NA,NA,TZA,Tanzania,2016,NA,37999,fuzzy success,simiyu,simiyu,meatudc,meatu,91.95988178,,NA,NA,NA,NA
+451,451,NA,NA,TZA,Tanzania,2016,NA,38000,fuzzy success,singida,singida,ikungidc,ikungi,110.1834178,,NA,NA,NA,NA
+452,452,NA,NA,TZA,Tanzania,2016,NA,38001,fuzzy success,singida,singida,irambadc,iramba,103.531909,,NA,NA,NA,NA
+453,453,NA,NA,TZA,Tanzania,2016,NA,38002,fuzzy success,singida,singida,manyonidc,manyoni,121.6923833,,NA,NA,NA,NA
+454,454,NA,NA,TZA,Tanzania,2016,NA,38003,fuzzy success,singida,singida,mkalamadc,mkalama,89.44890499,,NA,NA,NA,NA
+455,455,NA,NA,TZA,Tanzania,2016,NA,37968,fuzzy success,southpemba,pembasouth,mkoani,mkoani,99.36558008,,NA,NA,NA,NA
+456,456,NA,NA,TZA,Tanzania,2016,NA,38006,fuzzy success,tabora,tabora,igungadc,igunga,108.7565303,,NA,NA,NA,NA
+457,457,NA,NA,TZA,Tanzania,2016,NA,38007,fuzzy success,tabora,tabora,kaliuadc,kaliua,102.0323277,,NA,NA,NA,NA
+458,458,NA,NA,TZA,Tanzania,2016,NA,38008,fuzzy success,tabora,tabora,nzegadc,nzega,100.875473,,NA,NA,NA,NA
+459,459,NA,NA,TZA,Tanzania,2016,NA,38009,fuzzy success,tabora,tabora,sikongedc,sikonge,105.9940219,,NA,NA,NA,NA
+460,460,NA,NA,TZA,Tanzania,2016,NA,38011,fuzzy success,tabora,tabora,urambodc,urambo,119.2113996,,NA,NA,NA,NA
+461,461,NA,NA,TZA,Tanzania,2016,NA,38012,fuzzy success,tabora,tabora,uyuidc,uyui,99.64173436,,NA,NA,NA,NA
+462,462,NA,NA,TZA,Tanzania,2016,NA,38014,fuzzy success,tanga,tanga,handenidc,handeni,102.5094867,,NA,NA,NA,NA
+463,463,NA,NA,TZA,Tanzania,2016,NA,38015,fuzzy success,tanga,tanga,kilindidc,kilindi,139.1405582,,NA,NA,NA,NA
+464,464,NA,NA,TZA,Tanzania,2016,NA,38017,fuzzy success,tanga,tanga,korogwedc,korogwe,95.8147943,slightly different,NA,NA,NA,NA
+465,465,NA,NA,TZA,Tanzania,2016,NA,38017,fuzzy success,tanga,tanga,korogwetc,korogwe,79.45572138,slightly different,NA,NA,NA,NA
+466,466,NA,NA,TZA,Tanzania,2016,NA,38018,fuzzy success,tanga,tanga,lushotodc,lushoto,91.57956243,,NA,NA,NA,NA
+467,467,NA,NA,TZA,Tanzania,2016,NA,38019,fuzzy success,tanga,tanga,mkingadc,mkinga,98.92734289,,NA,NA,NA,NA
+468,468,NA,NA,TZA,Tanzania,2016,NA,38020,fuzzy success,tanga,tanga,muhezadc,muheza,97.56831527,,NA,NA,NA,NA
+469,469,NA,NA,TZA,Tanzania,2016,NA,38021,fuzzy success,tanga,tanga,panganidc,pangani,91.93310142,,NA,NA,NA,NA
+470,470,NA,NA,TZA,Tanzania,2016,NA,38022,fuzzy success,tanga,tanga,tangacc,tanga,89.45167661,,NA,NA,NA,NA
+471,471,NA,NA,TZA,Tanzania,2016,NA,37966,need change,urbanwest,pembanorth,west,wete,56.76378012,change,NA,NA,NA,NA
+472,472,dodoma,dodomamc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,dodomamc,NA,96.75891399,,NA,NA,NA,NA
+473,473,geita,nyanghwaledc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,nyanghwaledc,NA,100.0372648,,NA,NA,NA,NA
+474,474,iringa,iringadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,iringadc,NA,92.22578406,,NA,NA,NA,NA
+475,475,iringa,iringamc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,iringamc,NA,97.43053913,,NA,NA,NA,NA
+476,476,iringa,mafingatc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,mafingatc,NA,155.4787755,,NA,NA,NA,NA
+477,477,kagera,bukobadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,bukobadc,NA,93.21155548,,NA,NA,NA,NA
+478,478,kagera,bukobamc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,bukobamc,NA,89.59874511,,NA,NA,NA,NA
+479,479,katavi,nsimbodc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,nsimbodc,NA,113.8816953,,NA,NA,NA,NA
+480,480,kigoma,kigomadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,kigomadc,NA,97.74283767,,NA,NA,NA,NA
+481,481,kigoma,kigomamc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,kigomamc,NA,85.34641266,,NA,NA,NA,NA
+482,482,kilimanjaro,moshidc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,moshidc,NA,87.99419403,,NA,NA,NA,NA
+483,483,kilimanjaro,moshimc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,moshimc,NA,85.4763031,,NA,NA,NA,NA
+484,484,lindi,lindidc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,lindidc,NA,92.57683158,,NA,NA,NA,NA
+485,485,lindi,lindimc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,lindimc,NA,123.8535523,,NA,NA,NA,NA
+486,486,mara,musomadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,musomadc,NA,125.9943247,,NA,NA,NA,NA
+487,487,mara,musomamc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,musomamc,NA,173.8246322,,NA,NA,NA,NA
+488,488,mbeya,busokelodc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,busokelodc,NA,90.35241008,,NA,NA,NA,NA
+489,489,mbeya,mbeyacc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,mbeyacc,NA,91.02973938,,NA,NA,NA,NA
+490,490,mbeya,mbeyadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,mbeyadc,NA,101.9538641,,NA,NA,NA,NA
+491,491,morogoro,malinyidc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,malinyidc,NA,101.4937639,,NA,NA,NA,NA
+492,492,morogoro,morogorodc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,morogorodc,NA,100.9291053,,NA,NA,NA,NA
+493,493,morogoro,morogoromc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,morogoromc,NA,91.01823568,,NA,NA,NA,NA
+494,494,mtwara,mtwaradc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,mtwaradc,NA,101.6596079,,NA,NA,NA,NA
+495,495,mtwara,mtwaramc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,mtwaramc,NA,99.20111895,,NA,NA,NA,NA
+496,496,mtwara,nanyambadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,nanyambadc,NA,79.20554876,,NA,NA,NA,NA
+497,497,mwanza,buchosa,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,buchosa,NA,85.65372825,,NA,NA,NA,NA
+498,498,njombe,makambakotc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,makambakotc,NA,118.2874322,,NA,NA,NA,NA
+499,499,northunguja,northa,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,northa,NA,83.48727226,,NA,NA,NA,NA
+500,500,northunguja,northb,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,northb,NA,70.507586,,NA,NA,NA,NA
+501,501,rukwa,sumbawangadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,sumbawangadc,NA,117.0600772,,NA,NA,NA,NA
+502,502,rukwa,sumbawangamc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,sumbawangamc,NA,107.5284123,,NA,NA,NA,NA
+503,503,ruvuma,songeadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,songeadc,NA,89.26185369,,NA,NA,NA,NA
+504,504,ruvuma,songeamc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,songeamc,NA,94.21787858,,NA,NA,NA,NA
+505,505,shinyanga,msalaladc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,msalaladc,NA,89.54950571,,NA,NA,NA,NA
+506,506,shinyanga,shinyangadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,shinyangadc,NA,89.45963979,,NA,NA,NA,NA
+507,507,shinyanga,shinyangamc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,shinyangamc,NA,117.3121691,,NA,NA,NA,NA
+508,508,shinyanga,ushetudc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,ushetudc,NA,106.6239238,,NA,NA,NA,NA
+509,509,singida,singidadc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,singidadc,NA,93.21473241,,NA,NA,NA,NA
+510,510,singida,singidamc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,singidamc,NA,97.16295004,,NA,NA,NA,NA
+511,511,southpemba,chakechake,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,chakechake,NA,131.8169713,,NA,NA,NA,NA
+512,512,southunguja,central,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,central,NA,104.9051642,,NA,NA,NA,NA
+513,513,southunguja,south,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,south,NA,72.8930831,,NA,NA,NA,NA
+514,514,tabora,taboramc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,taboramc,NA,94.68571544,,NA,NA,NA,NA
+515,515,tanga,bumbulidc,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,bumbulidc,NA,93.13825369,,NA,NA,NA,NA
+516,516,urbanwest,urban,TZA,Tanzania,2016,DTP3,NA,in WHO but not shpfile,NA,NA,urban,NA,83.0180943,,NA,NA,NA,NA
+517,517,arusha,arushaurban,TZA,Tanzania,NA,NA,37846,in shpfile but not WHO,NA,Arusha,NA,arushaurban,NA,,NA,NA,NA,NA
+518,518,arusha,lakeeyasi,TZA,Tanzania,NA,NA,37849,in shpfile but not WHO,NA,Arusha,NA,lakeeyasi,NA,,NA,NA,NA,NA
+519,519,arusha,lakemanyara,TZA,Tanzania,NA,NA,37850,in shpfile but not WHO,NA,Arusha,NA,lakemanyara,NA,,NA,NA,NA,NA
+520,520,dodoma,dodomaurban,TZA,Tanzania,NA,NA,37861,in shpfile but not WHO,NA,Dodoma,NA,dodomaurban,NA,,NA,NA,NA,NA
+521,521,geita,nyangwale,TZA,Tanzania,NA,NA,37869,in shpfile but not WHO,NA,Geita,NA,nyangwale,NA,,NA,NA,NA,NA
+522,522,iringa,iringarural,TZA,Tanzania,NA,NA,37870,in shpfile but not WHO,NA,Iringa,NA,iringarural,NA,,NA,NA,NA,NA
+523,523,iringa,iringaurban,TZA,Tanzania,NA,NA,37871,in shpfile but not WHO,NA,Iringa,NA,iringaurban,NA,,NA,NA,NA,NA
+524,524,iringa,mafingatownshipauthority,TZA,Tanzania,NA,NA,37873,in shpfile but not WHO,NA,Iringa,NA,mafingatownshipauthority,NA,,NA,NA,NA,NA
+525,525,kagera,bukobarural,TZA,Tanzania,NA,NA,37876,in shpfile but not WHO,NA,Kagera,NA,bukobarural,NA,,NA,NA,NA,NA
+526,526,kagera,bukobaurban,TZA,Tanzania,NA,NA,37877,in shpfile but not WHO,NA,Kagera,NA,bukobaurban,NA,,NA,NA,NA,NA
+527,527,kagera,lakevictoria,TZA,Tanzania,NA,NA,37880,in shpfile but not WHO,NA,Kagera,NA,lakevictoria,NA,,NA,NA,NA,NA
+528,528,katavi,lakerukwa,TZA,Tanzania,NA,NA,37884,in shpfile but not WHO,NA,Katavi,NA,lakerukwa,NA,,NA,NA,NA,NA
+529,529,katavi,laketanganyika,TZA,Tanzania,NA,NA,37885,in shpfile but not WHO,NA,Katavi,NA,laketanganyika,NA,,NA,NA,NA,NA
+530,530,katavi,mpandaurban,TZA,Tanzania,NA,NA,37887,in shpfile but not WHO,NA,Katavi,NA,mpandaurban,NA,,NA,NA,NA,NA
+531,531,kigoma,kasulutownshipauthority,TZA,Tanzania,NA,NA,37891,in shpfile but not WHO,NA,Kigoma,NA,kasulutownshipauthority,NA,,NA,NA,NA,NA
+532,532,kigoma,kigomarural,TZA,Tanzania,NA,NA,37894,in shpfile but not WHO,NA,Kigoma,NA,kigomarural,NA,,NA,NA,NA,NA
+533,533,kigoma,kigomaurban,TZA,Tanzania,NA,NA,37895,in shpfile but not WHO,NA,Kigoma,NA,kigomaurban,NA,,NA,NA,NA,NA
+534,534,kilimanjaro,moshirural,TZA,Tanzania,NA,NA,37899,in shpfile but not WHO,NA,Kilimanjaro,NA,moshirural,NA,,NA,NA,NA,NA
+535,535,kilimanjaro,moshiurban,TZA,Tanzania,NA,NA,37900,in shpfile but not WHO,NA,Kilimanjaro,NA,moshiurban,NA,,NA,NA,NA,NA
+536,536,lindi,lindirural,TZA,Tanzania,NA,NA,37906,in shpfile but not WHO,NA,Lindi,NA,lindirural,NA,,NA,NA,NA,NA
+537,537,lindi,lindiurban,TZA,Tanzania,NA,NA,37907,in shpfile but not WHO,NA,Lindi,NA,lindiurban,NA,,NA,NA,NA,NA
+538,538,manyara,babatiurban,TZA,Tanzania,NA,NA,37911,in shpfile but not WHO,NA,Manyara,NA,babatiurban,NA,,NA,NA,NA,NA
+539,539,mara,musomarural,TZA,Tanzania,NA,NA,37921,in shpfile but not WHO,NA,Mara,NA,musomarural,NA,,NA,NA,NA,NA
+540,540,mara,musomaurban,TZA,Tanzania,NA,NA,37922,in shpfile but not WHO,NA,Mara,NA,musomaurban,NA,,NA,NA,NA,NA
+541,541,mbeya,mbeyarural,TZA,Tanzania,NA,NA,37931,in shpfile but not WHO,NA,Mbeya,NA,mbeyarural,NA,,NA,NA,NA,NA
+542,542,mbeya,mbeyaurban,TZA,Tanzania,NA,NA,37932,in shpfile but not WHO,NA,Mbeya,NA,mbeyaurban,NA,,NA,NA,NA,NA
+543,543,morogoro,morogororural,TZA,Tanzania,NA,NA,37940,in shpfile but not WHO,NA,Morogoro,NA,morogororural,NA,,NA,NA,NA,NA
+544,544,morogoro,morogorourban,TZA,Tanzania,NA,NA,37941,in shpfile but not WHO,NA,Morogoro,NA,morogorourban,NA,,NA,NA,NA,NA
+545,545,mtwara,masasitownshipauthority,TZA,Tanzania,NA,NA,37944,in shpfile but not WHO,NA,Mtwara,NA,masasitownshipauthority,NA,,NA,NA,NA,NA
+546,546,mtwara,mtwararural,TZA,Tanzania,NA,NA,37946,in shpfile but not WHO,NA,Mtwara,NA,mtwararural,NA,,NA,NA,NA,NA
+547,547,mtwara,mtwaraurban,TZA,Tanzania,NA,NA,37947,in shpfile but not WHO,NA,Mtwara,NA,mtwaraurban,NA,,NA,NA,NA,NA
+548,548,njombe,makambakotownshipauthority,TZA,Tanzania,NA,NA,37960,in shpfile but not WHO,NA,Njombe,NA,makambakotownshipauthority,NA,,NA,NA,NA,NA
+549,549,njombe,njombeurban,TZA,Tanzania,NA,NA,37962,in shpfile but not WHO,NA,Njombe,NA,njombeurban,NA,,NA,NA,NA,NA
+550,550,pembasouth,chake,TZA,Tanzania,NA,NA,37967,in shpfile but not WHO,NA,Pemba South,NA,chake,NA,,NA,NA,NA,NA
+551,551,pwani,kibahaurban,TZA,Tanzania,NA,NA,37970,in shpfile but not WHO,NA,Pwani,NA,kibahaurban,NA,,NA,NA,NA,NA
+552,552,rukwa,sumbawangarural,TZA,Tanzania,NA,NA,37980,in shpfile but not WHO,NA,Rukwa,NA,sumbawangarural,NA,,NA,NA,NA,NA
+553,553,rukwa,sumbawangaurban,TZA,Tanzania,NA,NA,37981,in shpfile but not WHO,NA,Rukwa,NA,sumbawangaurban,NA,,NA,NA,NA,NA
+554,554,ruvuma,songearural,TZA,Tanzania,NA,NA,37985,in shpfile but not WHO,NA,Ruvuma,NA,songearural,NA,,NA,NA,NA,NA
+555,555,ruvuma,songeaurban,TZA,Tanzania,NA,NA,37986,in shpfile but not WHO,NA,Ruvuma,NA,songeaurban,NA,,NA,NA,NA,NA
+556,556,shinyanga,kahamatownshipauthority,TZA,Tanzania,NA,NA,37988,in shpfile but not WHO,NA,Shinyanga,NA,kahamatownshipauthority,NA,,NA,NA,NA,NA
+557,557,shinyanga,shinyangarural,TZA,Tanzania,NA,NA,37991,in shpfile but not WHO,NA,Shinyanga,NA,shinyangarural,NA,,NA,NA,NA,NA
+558,558,shinyanga,shinyangaurban,TZA,Tanzania,NA,NA,37992,in shpfile but not WHO,NA,Shinyanga,NA,shinyangaurban,NA,,NA,NA,NA,NA
+559,559,singida,singidarural,TZA,Tanzania,NA,NA,38004,in shpfile but not WHO,NA,Singida,NA,singidarural,NA,,NA,NA,NA,NA
+560,560,singida,singidaurban,TZA,Tanzania,NA,NA,38005,in shpfile but not WHO,NA,Singida,NA,singidaurban,NA,,NA,NA,NA,NA
+561,561,tabora,taboraurban,TZA,Tanzania,NA,NA,38010,in shpfile but not WHO,NA,Tabora,NA,taboraurban,NA,,NA,NA,NA,NA
+562,562,tanga,handenitownshipauthority,TZA,Tanzania,NA,NA,38013,in shpfile but not WHO,NA,Tanga,NA,handenitownshipauthority,NA,,NA,NA,NA,NA
+563,563,tanga,korogwetownshipauthority,TZA,Tanzania,NA,NA,38016,in shpfile but not WHO,NA,Tanga,NA,korogwetownshipauthority,NA,,NA,NA,NA,NA
+564,564,zanzibarnorth,kaskazinia,TZA,Tanzania,NA,NA,38023,in shpfile but not WHO,NA,Zanzibar North,NA,kaskazinia,NA,,NA,NA,NA,NA
+565,565,zanzibarnorth,kaskazinib,TZA,Tanzania,NA,NA,38024,in shpfile but not WHO,NA,Zanzibar North,NA,kaskazinib,NA,,NA,NA,NA,NA
+566,566,zanzibarsouthandcentral,kati,TZA,Tanzania,NA,NA,38025,in shpfile but not WHO,NA,Zanzibar South and Central,NA,kati,NA,,NA,NA,NA,NA
+567,567,zanzibarsouthandcentral,kusini,TZA,Tanzania,NA,NA,38026,in shpfile but not WHO,NA,Zanzibar South and Central,NA,kusini,NA,,NA,NA,NA,NA
+568,568,zanzibarwest,magharibi,TZA,Tanzania,NA,NA,38027,in shpfile but not WHO,NA,Zanzibar West,NA,magharibi,NA,,NA,NA,NA,NA
+569,569,zanzibarwest,mjini,TZA,Tanzania,NA,NA,38028,in shpfile but not WHO,NA,Zanzibar West,NA,mjini,NA,,NA,NA,NA,NA
+570,570,chobe,chobe,BWA,Botswana,2016,DTP3,4720,success,NA,NA,chobe,NA,104.7449901,NA,NA,NA,NA,NA
+571,571,francistown,francistown,BWA,Botswana,2016,DTP3,4721,success,NA,NA,francistown,NA,115.6849791,NA,NA,NA,NA,NA
+572,572,gaborone,gaborone,BWA,Botswana,2016,DTP3,4722,success,NA,NA,gaborone,NA,80.17833862,NA,NA,NA,NA,NA
+573,573,jwaneng,jwaneng,BWA,Botswana,2016,DTP3,4724,success,NA,NA,jwaneng,NA,142.0061201,NA,NA,NA,NA,NA
+574,574,kgatleng,kgatleng,BWA,Botswana,2016,DTP3,4728,success,NA,NA,kgatleng,NA,97.84214457,NA,NA,NA,NA,NA
+575,575,lobatse,lobatse,BWA,Botswana,2016,DTP3,4731,success,NA,NA,lobatse,NA,142.0214849,NA,NA,NA,NA,NA
+576,576,selibephikwe,selibephikwe,BWA,Botswana,2016,DTP3,4735,success,NA,NA,selibephikwe,NA,112.9552776,NA,NA,NA,NA,NA
+577,577,southeast,southeast,BWA,Botswana,2016,DTP3,4736,success,NA,NA,southeast,NA,46.0289434,NA,NA,NA,NA,NA
+578,578,NA,NA,BWA,Botswana,2016,NA,4726,fuzzy success,hukuntsi,kgalagadi,hukuntsi,hukunsti,107.5637247,NA,NA,NA,NA,NA
+579,579,NA,NA,BWA,Botswana,2016,NA,4715,fuzzy success,mahalapye,central,mahalapye,mahalapye,112.8748713,NA,NA,NA,NA,NA
+580,580,NA,NA,BWA,Botswana,2016,NA,4719,fuzzy success,tutume,central,tutume,tutume,100.6508825,NA,NA,NA,NA,NA
+581,581,bobirwa,bobirwa,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,bobirwa,NA,104.0499923,NA,NA,NA,NA,NA
+582,582,boteti,boteti,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,boteti,NA,123.2165296,NA,NA,NA,NA,NA
+583,583,gantsi,gantsi,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,gantsi,NA,80.08258365,NA,NA,NA,NA,NA
+584,584,goodhope,goodhope,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,goodhope,NA,67.86490806,NA,NA,NA,NA,NA
+585,585,kanyemoshupa,kanyemoshupa,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,kanyemoshupa,NA,74.23785987,NA,NA,NA,NA,NA
+586,586,kgalagadisouth,kgalagadisouth,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,kgalagadisouth,NA,86.97220129,NA,NA,NA,NA,NA
+587,587,kwenengeast,kwenengeast,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,kwenengeast,NA,44.4604858,NA,NA,NA,NA,NA
+588,588,kwenengwest,kwenengwest,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,kwenengwest,NA,102.2254236,NA,NA,NA,NA,NA
+589,589,mabutsane,mabutsane,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,mabutsane,NA,82.09977522,NA,NA,NA,NA,NA
+590,590,ngami,ngami,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,ngami,NA,115.1028739,NA,NA,NA,NA,NA
+591,591,northeast,northeast,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,northeast,NA,71.50257582,NA,NA,NA,NA,NA
+592,592,okavango,okavango,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,okavango,NA,116.4088368,NA,NA,NA,NA,NA
+593,593,serowepalapye,serowepalapye,BWA,Botswana,2016,DTP3,NA,in WHO but not shpfile,NA,NA,serowepalapye,NA,101.3430445,NA,NA,NA,NA,NA
+594,594,central,bobonong,BWA,Botswana,NA,NA,4712,in shpfile but not WHO,NA,NA,NA,bobonong,NA,NA,NA,NA,NA,NA
+595,595,central,lethlakane,BWA,Botswana,NA,NA,4713,in shpfile but not WHO,NA,NA,NA,lethlakane,NA,NA,NA,NA,NA,NA
+596,596,central,machaneng,BWA,Botswana,NA,NA,4714,in shpfile but not WHO,NA,NA,NA,machaneng,NA,NA,NA,NA,NA,NA
+597,597,central,palapye,BWA,Botswana,NA,NA,4716,in shpfile but not WHO,NA,NA,NA,palapye,NA,NA,NA,NA,NA,NA
+598,598,central,serowe,BWA,Botswana,NA,NA,4717,in shpfile but not WHO,NA,NA,NA,serowe,NA,NA,NA,NA,NA,NA
+599,599,central,tuli,BWA,Botswana,NA,NA,4718,in shpfile but not WHO,NA,NA,NA,tuli,NA,NA,NA,NA,NA,NA
+600,600,ghanzi,ghanzi,BWA,Botswana,NA,NA,4723,in shpfile but not WHO,NA,NA,NA,ghanzi,NA,NA,NA,NA,NA,NA
+601,601,kgalagadi,gemsbok,BWA,Botswana,NA,NA,4725,in shpfile but not WHO,NA,NA,NA,gemsbok,NA,NA,NA,NA,NA,NA
+602,602,kgalagadi,tshabong,BWA,Botswana,NA,NA,4727,in shpfile but not WHO,NA,NA,NA,tshabong,NA,NA,NA,NA,NA,NA
+603,603,kweneng,kwenengnorth,BWA,Botswana,NA,NA,4729,in shpfile but not WHO,NA,NA,NA,kwenengnorth,NA,NA,NA,NA,NA,NA
+604,604,kweneng,kwenengsouth,BWA,Botswana,NA,NA,4730,in shpfile but not WHO,NA,NA,NA,kwenengsouth,NA,NA,NA,NA,NA,NA
+605,605,northeast,masungu,BWA,Botswana,NA,NA,4732,in shpfile but not WHO,NA,NA,NA,masungu,NA,NA,NA,NA,NA,NA
+606,606,northwest,ngamilandeast,BWA,Botswana,NA,NA,4733,in shpfile but not WHO,NA,NA,NA,ngamilandeast,NA,NA,NA,NA,NA,NA
+607,607,northwest,ngamilandwest,BWA,Botswana,NA,NA,4734,in shpfile but not WHO,NA,NA,NA,ngamilandwest,NA,NA,NA,NA,NA,NA
+608,608,southern,barolong,BWA,Botswana,NA,NA,4737,in shpfile but not WHO,NA,NA,NA,barolong,NA,NA,NA,NA,NA,NA
+609,609,southern,ngwaketsecentral,BWA,Botswana,NA,NA,4738,in shpfile but not WHO,NA,NA,NA,ngwaketsecentral,NA,NA,NA,NA,NA,NA
+610,610,southern,ngwaketsenorth,BWA,Botswana,NA,NA,4739,in shpfile but not WHO,NA,NA,NA,ngwaketsenorth,NA,NA,NA,NA,NA,NA
+611,611,southern,ngwaketsesouth,BWA,Botswana,NA,NA,4740,in shpfile but not WHO,NA,NA,NA,ngwaketsesouth,NA,NA,NA,NA,NA,NA
+612,612,sowa,sowa,BWA,Botswana,NA,NA,4741,in shpfile but not WHO,NA,NA,NA,sowa,NA,NA,NA,NA,NA,NA
+613,613,NA,NA,STP,Sao Tome and Principe,2016,NA,35589,fuzzy success,2222,suotom,aguagrande,üguagrande,94.6,NA,NA,NA,NA,NA
+614,614,NA,NA,STP,Sao Tome and Principe,2016,NA,35590,fuzzy success,2222,suotom,cantagalo,cantagalo,99.3,NA,NA,NA,NA,NA
+615,615,NA,NA,STP,Sao Tome and Principe,2016,NA,35591,fuzzy success,2222,suotom,caue,cau,99,NA,NA,NA,NA,NA
+616,616,NA,NA,STP,Sao Tome and Principe,2016,NA,35592,fuzzy success,2222,suotom,lemba,lembi,97,NA,NA,NA,NA,NA
+617,617,NA,NA,STP,Sao Tome and Principe,2016,NA,35593,fuzzy success,2222,suotom,lobata,lobata,99,NA,NA,NA,NA,NA
+618,618,NA,NA,STP,Sao Tome and Principe,2016,NA,35594,fuzzy success,2222,suotom,mezochi,mzchi,93.5,NA,NA,NA,NA,NA
+619,619,NA,NA,STP,Sao Tome and Principe,2016,NA,35591,in WHO but not shpfile,2222,suotom,rap,NA,97.3,NA,NA,NA,NA,NA
+620,620,prncipe,pagu,STP,Sao Tome and Principe,NA,NA,35588,in shpfile but not WHO,NA,NA,NA,pagu,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,104 @@
+,ADM1_NAME,iso3.x,ADM0_NAME.x,year,who_coverage,vaccine,iso3.y,ADM0_NAME.y,merge_status,ADM1_NAME.who,ADM1_NAME.shpfile,GAUL_CODE,Note
+1,baringo,KEN,Kenya,2016,67,DTP3,KEN,Kenya,success,baringo,baringo,1459,
+2,bomet,KEN,Kenya,2016,68,DTP3,KEN,Kenya,success,bomet,bomet,1460,
+3,bungoma,KEN,Kenya,2016,76,DTP3,KEN,Kenya,success,bungoma,bungoma,1461,
+4,busia,KEN,Kenya,2016,76,DTP3,KEN,Kenya,success,busia,busia,1462,
+5,elgeyomarakwet,KEN,Kenya,2016,68,DTP3,KEN,Kenya,success,elgeyomarakwet,elgeyomarakwet,1463,
+6,embu,KEN,Kenya,2016,85,DTP3,KEN,Kenya,success,embu,embu,1464,
+7,garissa,KEN,Kenya,2016,163,DTP3,KEN,Kenya,success,garissa,garissa,1465,
+8,homabay,KEN,Kenya,2016,75,DTP3,KEN,Kenya,success,homabay,homabay,1466,
+9,isiolo,KEN,Kenya,2016,108,DTP3,KEN,Kenya,success,isiolo,isiolo,1467,
+10,kajiado,KEN,Kenya,2016,99,DTP3,KEN,Kenya,success,kajiado,kajiado,1468,
+11,kakamega,KEN,Kenya,2016,78,DTP3,KEN,Kenya,success,kakamega,kakamega,1469,
+12,kericho,KEN,Kenya,2016,70,DTP3,KEN,Kenya,success,kericho,kericho,1470,
+13,kiambu,KEN,Kenya,2016,105,DTP3,KEN,Kenya,success,kiambu,kiambu,1471,
+14,kilifi,KEN,Kenya,2016,80,DTP3,KEN,Kenya,success,kilifi,kilifi,1472,
+15,kirinyaga,KEN,Kenya,2016,83,DTP3,KEN,Kenya,success,kirinyaga,kirinyaga,1473,
+16,kisii,KEN,Kenya,2016,69,DTP3,KEN,Kenya,success,kisii,kisii,1474,
+17,kisumu,KEN,Kenya,2016,79,DTP3,KEN,Kenya,success,kisumu,kisumu,1475,
+18,kitui,KEN,Kenya,2016,68,DTP3,KEN,Kenya,success,kitui,kitui,1476,
+19,kwale,KEN,Kenya,2016,84,DTP3,KEN,Kenya,success,kwale,kwale,1477,
+20,laikipia,KEN,Kenya,2016,86,DTP3,KEN,Kenya,success,laikipia,laikipia,1478,
+21,lamu,KEN,Kenya,2016,87,DTP3,KEN,Kenya,success,lamu,lamu,1479,
+22,machakos,KEN,Kenya,2016,86,DTP3,KEN,Kenya,success,machakos,machakos,1480,
+23,makueni,KEN,Kenya,2016,75,DTP3,KEN,Kenya,success,makueni,makueni,1481,
+24,mandera,KEN,Kenya,2016,126,DTP3,KEN,Kenya,success,mandera,mandera,1482,
+25,marsabit,KEN,Kenya,2016,117,DTP3,KEN,Kenya,success,marsabit,marsabit,1483,
+26,meru,KEN,Kenya,2016,75,DTP3,KEN,Kenya,success,meru,meru,1484,
+27,migori,KEN,Kenya,2016,85,DTP3,KEN,Kenya,success,migori,migori,1485,
+28,mombasa,KEN,Kenya,2016,87,DTP3,KEN,Kenya,success,mombasa,mombasa,1486,
+29,muranga,KEN,Kenya,2016,74,DTP3,KEN,Kenya,success,muranga,muranga,1487,
+30,nairobi,KEN,Kenya,2016,93,DTP3,KEN,Kenya,success,nairobi,nairobi,1488,
+31,nakuru,KEN,Kenya,2016,87,DTP3,KEN,Kenya,success,nakuru,nakuru,1489,
+32,nandi,KEN,Kenya,2016,61,DTP3,KEN,Kenya,success,nandi,nandi,1490,
+33,narok,KEN,Kenya,2016,72,DTP3,KEN,Kenya,success,narok,narok,1491,
+34,nyamira,KEN,Kenya,2016,84,DTP3,KEN,Kenya,success,nyamira,nyamira,1492,
+35,nyandarua,KEN,Kenya,2016,78,DTP3,KEN,Kenya,success,nyandarua,nyandarua,1493,
+36,nyeri,KEN,Kenya,2016,79,DTP3,KEN,Kenya,success,nyeri,nyeri,1494,
+37,samburu,KEN,Kenya,2016,67,DTP3,KEN,Kenya,success,samburu,samburu,1495,
+38,siaya,KEN,Kenya,2016,75,DTP3,KEN,Kenya,success,siaya,siaya,1496,
+39,taitataveta,KEN,Kenya,2016,73,DTP3,KEN,Kenya,success,taitataveta,taitataveta,1497,
+40,tanariver,KEN,Kenya,2016,63,DTP3,KEN,Kenya,success,tanariver,tanariver,1498,
+41,tharakanithi,KEN,Kenya,2016,74,DTP3,KEN,Kenya,success,tharakanithi,tharakanithi,1499,
+42,transnzoia,KEN,Kenya,2016,64,DTP3,KEN,Kenya,success,transnzoia,transnzoia,1500,
+43,turkana,KEN,Kenya,2016,102,DTP3,KEN,Kenya,success,turkana,turkana,1501,
+44,uasingishu,KEN,Kenya,2016,82,DTP3,KEN,Kenya,success,uasingishu,uasingishu,1502,
+45,vihiga,KEN,Kenya,2016,82,DTP3,KEN,Kenya,success,vihiga,vihiga,1503,
+46,wajir,KEN,Kenya,2016,172,DTP3,KEN,Kenya,success,wajir,wajir,1504,
+47,westpokot,KEN,Kenya,2016,70,DTP3,KEN,Kenya,success,westpokot,westpokot,1505,
+48,central,MWI,Malawi,2016,91,DTP3,NA,NA,in WHO but not shpfile,Dedza,Dedza,1728,manual add
+49,central,MWI,Malawi,2016,68,DTP3,NA,NA,in WHO but not shpfile,Dowa,Dowa,1729,manual add
+50,central,MWI,Malawi,2016,77,DTP3,NA,NA,in WHO but not shpfile,Kasungu,Kasungu,1731,manual add
+51,central,MWI,Malawi,2016,88,DTP3,NA,NA,in WHO but not shpfile,Lilongwe,Lilongwe,1733,manual add
+52,central,MWI,Malawi,2016,73,DTP3,NA,NA,in WHO but not shpfile,Mchinji,Mchinji,1736,manual add
+53,central,MWI,Malawi,2016,96,DTP3,NA,NA,in WHO but not shpfile,Nkhotakota,Nkhotakota,1742,manual add
+54,central,MWI,Malawi,2016,87,DTP3,NA,NA,in WHO but not shpfile,Ntcheu,Ntcheu,1744,manual add
+55,central,MWI,Malawi,2016,72,DTP3,NA,NA,in WHO but not shpfile,Ntchisi,Ntchisi,1745,manual add
+56,central,MWI,Malawi,2016,95,DTP3,NA,NA,in WHO but not shpfile,Salima,Salima,1748,manual add
+57,north,MWI,Malawi,2016,74,DTP3,NA,NA,in WHO but not shpfile,Chitipa,Chitipa,1727,manual add
+58,north,MWI,Malawi,2016,82,DTP3,NA,NA,in WHO but not shpfile,Karonga,Karonga,1730,manual add
+59,north,MWI,Malawi,2016,82,DTP3,NA,NA,in WHO but not shpfile,Likoma,Likoma,1732,manual add
+60,north,MWI,Malawi,2016,72,DTP3,NA,NA,in WHO but not shpfile,Mzimba,Mzimba,1739,manual add
+61,south,MWI,Malawi,2016,72,DTP3,NA,NA,in WHO but not shpfile,Nkhatabay,Nkhata Bay,1741,manual add
+62,south,MWI,Malawi,2016,71,DTP3,NA,NA,in WHO but not shpfile,Rumphi,Rumphi,1747,manual add
+63,south,MWI,Malawi,2016,83,DTP3,NA,NA,in WHO but not shpfile,Balaka,Balaka,1723,manual add
+64,south,MWI,Malawi,2016,80,DTP3,NA,NA,in WHO but not shpfile,Blantyre,Blantyre,1724,manual add
+65,south,MWI,Malawi,2016,96,DTP3,NA,NA,in WHO but not shpfile,Chikwawa,Chikwawa,1725,manual add
+66,south,MWI,Malawi,2016,92,DTP3,NA,NA,in WHO but not shpfile,Chiradzulu,Chiradzulu,1726,manual add
+67,south,MWI,Malawi,2016,96,DTP3,NA,NA,in WHO but not shpfile,Machinga,Machinga,1734,manual add
+68,south,MWI,Malawi,2016,89,DTP3,NA,NA,in WHO but not shpfile,Mangochi,Mangochi,1735,manual add
+69,south,MWI,Malawi,2016,97,DTP3,NA,NA,in WHO but not shpfile,Mulanje,Mulanje,1737,manual add
+70,south,MWI,Malawi,2016,98,DTP3,NA,NA,in WHO but not shpfile,Mwanza,Mwanza,1738,manual add
+71,central,MWI,Malawi,2016,79,DTP3,NA,NA,in WHO but not shpfile,Neno,Neno,1740,manual add
+72,central,MWI,Malawi,2016,99,DTP3,NA,NA,in WHO but not shpfile,Nsanje,Nsanje,1743,manual add
+73,central,MWI,Malawi,2016,92,DTP3,NA,NA,in WHO but not shpfile,Phalombe,Phalombe,1746,manual add
+74,central,MWI,Malawi,2016,82,DTP3,NA,NA,in WHO but not shpfile,Thyolo,Thyolo,1749,manual add
+75,central,MWI,Malawi,2016,80,DTP3,NA,NA,in WHO but not shpfile,Zomba,Zomba,1750,manual add
+76,balaka,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Balaka,1723,match
+77,blantyre,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Blantyre,1724,match
+78,chikwawa,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Chikwawa,1725,match
+79,chiradzulu,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Chiradzulu,1726,match
+80,chitipa,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Chitipa,1727,match
+81,dedza,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Dedza,1728,match
+82,dowa,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Dowa,1729,match
+83,karonga,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Karonga,1730,match
+84,kasungu,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Kasungu,1731,match
+85,likoma,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Likoma,1732,match
+86,lilongwe,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Lilongwe,1733,match
+87,machinga,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Machinga,1734,match
+88,mangochi,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Mangochi,1735,match
+89,mchinji,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Mchinji,1736,match
+90,mulanje,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Mulanje,1737,match
+91,mwanza,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Mwanza,1738,match
+92,mzimba,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Mzimba,1739,match
+93,neno,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Neno,1740,match
+94,nkhatabay,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Nkhata Bay,1741,match
+95,nkhotakota,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Nkhotakota,1742,match
+96,nsanje,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Nsanje,1743,match
+97,ntcheu,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Ntcheu,1744,match
+98,ntchisi,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Ntchisi,1745,match
+99,phalombe,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Phalombe,1746,match
+100,rumphi,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Rumphi,1747,match
+101,salima,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Salima,1748,match
+102,thyolo,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Thyolo,1749,match
+103,zomba,MWI,Malawi,2016,NA,DTP3,MWI,Malawi,in shpfile but not WHO,NA,Zomba,1750,match

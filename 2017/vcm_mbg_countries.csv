@@ -1,0 +1,129 @@
+Country,loc_id,parent_id,level,loc_nm_sh,spr_reg_id,region_id,ihme_lc_id,GAUL_CODE,phase
+Afghanistan,160,138,3,Afghanistan,137,138,AFG,1,2
+Algeria,139,138,3,Algeria,137,138,DZA,4,1
+American Samoa,298,21,3,Am Samoa,4,21,ASM,5,2
+Angola,168,167,3,Angola,166,167,AGO,8,1
+Armenia,33,32,3,Armenia,31,32,ARM,13,2
+Azerbaijan,34,32,3,Azerbaijan,31,32,AZE,19,2
+Bahrain,140,138,3,Bahrain,137,138,BHR,21,2
+Bangladesh,161,159,3,Bangladesh,158,159,BGD,23,2
+Belize,108,104,3,Belize,103,104,BLZ,28,2
+Benin,200,199,3,Benin,166,199,BEN,29,1
+Bhutan,162,159,3,Bhutan,158,159,BTN,31,2
+Bolivia,121,120,3,Bolivia,103,120,BOL,33,2
+Botswana,193,192,3,Botswana,166,192,BWA,35,1
+Brazil,135,134,3,Brazil,103,134,BRA,37,2
+Burkina Faso,201,199,3,Burkina Faso,166,199,BFA,42,1
+Burundi,175,174,3,Burundi,166,174,BDI,43,1
+Cambodia,10,9,3,Cambodia,4,9,KHM,44,2
+Cameroon,202,199,3,Cameroon,166,199,CMR,45,1
+Cape Verde,203,199,3,Cape Verde,166,199,CPV,47,1
+Central African Republic,169,167,3,C African Rep,166,167,CAF,49,1
+Chad,204,199,3,Chad,166,199,TCD,50,1
+China,6,5,3,China,4,5,CHN,147295,2
+Colombia,125,124,3,Colombia,103,124,COL,57,2
+Comoros,176,174,3,Comoros,166,174,COM,58,1
+Congo,170,167,3,Congo,166,167,COG,59,1
+Costa Rica,126,124,3,Costa Rica,103,124,CRI,61,2
+Cote d'Ivoire,205,199,3,Cote d'Ivoire,166,199,CIV,66,1
+Cuba,109,104,3,Cuba,103,104,CUB,63,2
+Democratic Republic of the Congo,171,167,3,Congo DR,166,167,COD,68,1
+Djibouti,177,174,3,Djibouti,166,174,DJI,70,1
+Dominica,110,104,3,Dominica,103,104,DMA,71,2
+Dominican Republic,111,104,3,Dominican Rep,103,104,DOM,72,2
+Ecuador,122,120,3,Ecuador,103,120,ECU,73,2
+Egypt,141,138,3,Egypt,137,138,EGY,40765,1
+El Salvador,127,124,3,El Salvador,103,124,SLV,75,2
+Equatorial Guinea,172,167,3,Eq Guinea,166,167,GNQ,76,1
+Eritrea,178,174,3,Eritrea,166,174,ERI,77,1
+Ethiopia,179,174,3,Ethiopia,166,174,ETH,79,1
+Federated States of Micronesia,25,21,3,Micronesia,4,21,FSM,163,2
+Fiji,22,21,3,Fiji,4,21,FJI,83,2
+French Guiana,NA,NA,NA,NA,NA,NA,NA,86,2
+Gabon,173,167,3,Gabon,166,167,GAB,89,1
+Georgia,35,32,3,Georgia,31,32,GEO,92,2
+Ghana,207,199,3,Ghana,166,199,GHA,94,1
+Grenada,112,104,3,Grenada,103,104,GRD,99,2
+Guatemala,128,124,3,Guatemala,103,124,GTM,103,2
+Guinea,208,199,3,Guinea,166,199,GIN,106,1
+Guinea-Bissau,209,199,3,Guinea-Bissau,166,199,GNB,105,1
+Guyana,113,104,3,Guyana,103,104,GUY,107,2
+Haiti,114,104,3,Haiti,103,104,HTI,108,2
+Honduras,129,124,3,Honduras,103,124,HND,111,2
+India,163,159,3,India,158,159,IND,115,2
+Indonesia,11,9,3,Indonesia,4,9,IDN,116,2
+Iran,142,138,3,Iran,137,138,IRN,117,2
+Iraq,143,138,3,Iraq,137,138,IRQ,118,2
+Jamaica,115,104,3,Jamaica,103,104,JAM,123,2
+Jordan,144,138,3,Jordan,137,138,JOR,130,2
+Kenya,180,174,3,Kenya,166,174,KEN,133,1
+Kiribati,23,21,3,Kiribati,4,21,KIR,135,2
+Kyrgyzstan,37,32,3,Kyrgyzstan,31,32,KGZ,138,2
+Laos,12,9,3,Laos,4,9,LAO,139,2
+Lesotho,194,192,3,Lesotho,166,192,LSO,142,1
+Liberia,210,199,3,Liberia,166,199,LBR,144,1
+Madagascar,181,174,3,Madagascar,166,174,MDG,150,1
+Malawi,182,174,3,Malawi,166,174,MWI,152,1
+Malaysia,13,9,3,Malaysia,4,9,MYS,153,2
+Maldives,14,9,3,Maldives,4,9,MDV,154,2
+Mali,211,199,3,Mali,166,199,MLI,155,1
+Marshall Islands,24,21,3,Marshall,4,21,MHL,157,2
+Mauritania,212,199,3,Mauritania,166,199,MRT,159,1
+Mexico,130,124,3,Mexico,103,124,MEX,162,2
+Moldova,61,56,3,Moldova,31,56,MDA,165,2
+Mongolia,38,32,3,Mongolia,31,32,MNG,167,2
+Morocco,148,138,3,Morocco,137,138,MAR,169,2
+Mozambique,184,174,3,Mozambique,166,174,MOZ,170,1
+Myanmar,15,9,3,Myanmar,4,9,MMR,171,2
+Namibia,195,192,3,Namibia,166,192,NAM,172,1
+Nepal,164,159,3,Nepal,158,159,NPL,175,2
+Nicaragua,131,124,3,Nicaragua,103,124,NIC,180,2
+Niger,213,199,3,Niger,166,199,NER,181,1
+Nigeria,214,199,3,Nigeria,166,199,NGA,182,1
+North Korea,7,5,3,N Korea,4,5,PRK,67,2
+Oman,150,138,3,Oman,137,138,OMN,187,2
+Pakistan,165,159,3,Pakistan,158,159,PAK,188,2
+Palestine,149,138,3,Palestine,137,138,PSE,267,2
+Panama,132,124,3,Panama,103,124,PAN,191,2
+Papua New Guinea,26,21,3,PNG,4,21,PNG,192,2
+Paraguay,136,134,3,Paraguay,103,134,PRY,194,2
+Peru,123,120,3,Peru,103,120,PER,195,2
+Philippines,16,9,3,Philippines,4,9,PHL,196,2
+Rwanda,185,174,3,Rwanda,166,174,RWA,205,1
+Saint Lucia,116,104,3,St Lucia,103,104,LCA,209,2
+Saint Vincent and the Grenadines,117,104,3,St Vincent,103,104,VCT,211,2
+Samoa,27,21,3,Samoa,4,21,WSM,212,2
+Sao Tome and Principe,215,199,3,Sao Tome Principe,166,199,STP,214,1
+Senegal,216,199,3,Senegal,166,199,SEN,217,1
+Seychelles,186,9,3,Seychelles,4,9,SYC,220,2
+Sierra Leone,217,199,3,Sierra Leone,166,199,SLE,221,1
+Solomon Islands,28,21,3,Solomon,4,21,SLB,225,2
+Somalia,187,174,3,Somalia,166,174,SOM,226,1
+South Africa,196,192,3,S Africa,166,192,ZAF,227,1
+South Sudan,435,174,3,S Sudan,166,174,SSD,74,1
+Sri Lanka,17,9,3,Sri Lanka,4,9,LKA,231,2
+Sudan,522,138,3,Sudan,137,138,SDN,6,1
+Suriname,118,104,3,Suriname,103,104,SUR,233,2
+Swaziland,197,192,3,Swaziland,166,192,SWZ,235,1
+Syria,153,138,3,Syria,137,138,SYR,238,2
+Tajikistan,39,32,3,Tajikistan,31,32,TJK,239,2
+Tanzania,189,174,3,Tanzania,166,174,TZA,257,1
+Thailand,18,9,3,Thailand,4,9,THA,240,2
+The Gambia,206,199,3,Gambia,166,199,GMB,90,1
+Timor-Leste,19,9,3,Timor-Leste,4,9,TLS,242,2
+Togo,218,199,3,Togo,166,199,TGO,243,1
+Tonga,29,21,3,Tonga,4,21,TON,245,2
+Tunisia,154,138,3,Tunisia,137,138,TUN,248,1
+Turkmenistan,40,32,3,Turkmenistan,31,32,TKM,250,2
+Uganda,190,174,3,Uganda,166,174,UGA,253,1
+Ukraine,63,56,3,Ukraine,31,56,UKR,254,2
+Uruguay,99,96,3,Uruguay,64,96,URY,260,2
+Uzbekistan,41,32,3,Uzbekistan,31,32,UZB,261,2
+Vanuatu,30,21,3,Vanuatu,4,21,VUT,262,2
+Venezuela,133,124,3,Venezuela,103,124,VEN,263,2
+Vietnam,20,9,3,Vietnam,4,9,VNM,264,2
+West Bank and Gaza,NA,NA,NA,NA,NA,NA,NA,267,2
+Western Sahara,NA,NA,NA,NA,NA,NA,NA,268,1
+Yemen,157,138,3,Yemen,137,138,YEM,269,2
+Zambia,191,174,3,Zambia,166,174,ZMB,270,1
+Zimbabwe,198,192,3,Zimbabwe,166,192,ZWE,271,1

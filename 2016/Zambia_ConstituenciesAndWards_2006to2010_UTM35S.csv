@@ -1,0 +1,1359 @@
+OBJECTID,distName,constName,NAME,wardNum,GAUL_CODE,constCode,notes,mergedWard,province,area,ADM0_NAME
+1,Mansa,Bahati,Lukangaba,6,5906,59,,0,Luapula,1032.06,Zambia
+2,Samfya,Bangeulu,Mano,12,6712,67,,0,Luapula,479.024,Zambia
+3,Kabwe,Bwacha,Muwowo East,2,402,4,,0,Central,161.572,Zambia
+4,Ndola,Bwana Mkubwa,Chichele,16,3316,33,,0,Copperbelt,155.475,Zambia
+5,Monze,Bweengwa,Hamangaba,6,12706,127,,0,Southern,310.216,Zambia
+6,Chadiza,Chadiza,Mangwe,1,3701,37,,0,Eastern,143.874,Zambia
+7,Chama,Chama North,Mazonde,1,3901,39,,0,Eastern,1095.16,Zambia
+8,Chama,Chama South,Chipala,13,4013,40,,0,Eastern,1316.16,Zambia
+9,Lundazi,Chasefu,Kajilime,5,4805,48,,0,Eastern,892.497,Zambia
+10,Chavuma,Chavuma,Nyatanda Nyambingila,12,10312,103,,0,Northwestern,1563.66,Zambia
+11,Lusaka,Chawama,Lilayi,4,7504,75,,0,Lusaka,28.2623,Zambia
+12,Mansa,Mansa,Luapula,15,6115,61,,0,Luapula,1265.56,Zambia
+13,Chiengi,Chiengi,Mununga,13,6513,65,,0,Luapula,356.985,Zambia
+14,Ndola,Chifubu,Pamodzi,1,3401,34,,0,Copperbelt,87.9203,Zambia
+15,Samfya,Chifunabuli,Mbabala,10,6810,68,,0,Luapula,583.605,Zambia
+16,Kafue,Chilanga,Chinyanja,17,7217,72,,0,Lusaka,359.329,Zambia
+17,Chilubi,Chilubi,Luangwa,22,8222,82,,0,Northern,742.235,Zambia
+18,Kaputa,Chimbamilonga,Chubo,9,8809,88,,0,Northern,1748.79,Zambia
+19,Chinsali,Chinsali,Munwakubili,11,8311,83,,0,Northern,1084.92,Zambia
+20,Chipata,Chipangali,MISSING,-99,-99,41,Map only shows future wards. Maybe Nthope?,0,Eastern,1088.58,Zambia
+21,Chipata,Chipata,MISSING,-99,-99,42,Map only shows future wards. Maybe Kanjala?,0,Eastern,143.308,Zambia
+22,Mwense,Chipili,Nsenga,1,6201,62,,0,Luapula,1030.82,Zambia
+23,Chibombo,Chisamba,Chamuka,4,104,1,,0,Central,2003.11,Zambia
+24,Serenje,Chitambo,Muchinka,7,1207,12,,0,Central,1032.28,Zambia
+25,Choma,Choma,Moomba,20,11520,115,,0,Southern,314.576,Zambia
+26,Chongwe,Chongwe,Manyika,9,7309,73,,0,Lusaka,257.975,Zambia
+27,Kalomo,Dundumwezi,Chikanta,1,11901,119,,0,Southern,878.257,Zambia
+28,Luangwa,Feira,Kaunga,14,7114,71,,0,Lusaka,71.8385,Zambia
+29,Gwembe,Gwembe,Chisanga,1,11801,118,,0,Southern,563.86,Zambia
+30,Isoka,Mafinga,Mafinga,10,8510,85,,0,Eastern,702.871,Zambia
+31,Isoka,Isoka,Nkombwa,7,8607,86,,0,Eastern,1453.5,Zambia
+32,Itezhi Tezhi,Itezhi Tezhi,Itezhi Tezhi,1,13001,130,,0,Southern,8345.79,Zambia
+33,Kabompo,Kabompo East,Kashinakaji,3,10403,104,,0,Northwestern,2488.77,Zambia
+34,Kabompo,Kabompo West,Litoya,12,10512,105,,0,Northwestern,793.362,Zambia
+35,Lusaka,Kabwata,Kamulanga,9,7609,76,,0,Lusaka,15.9607,Zambia
+36,Kabwe,Kabwe Central,Mpima,16,516,5,,0,Central,180.314,Zambia
+37,Kafue,Kafue,Chikupi,11,7011,70,,0,Lusaka,503.585,Zambia
+38,Masaiti,Kafulafuta,Ishitwe,7,2907,29,,0,Copperbelt,392.654,Zambia
+39,Kalabo,Kalabo,Nguma,16,13416,134,,0,Western,713.527,Zambia
+40,Kalomo,Kalomo Central,Mayoba,10,12010,120,,0,Southern,1421.62,Zambia
+41,Kitwe,Kamfinsa,MISSING,-99,-99,20,,0,Copperbelt,288.558,Zambia
+42,Mpika,Kanchibiya,Lubaleshi,4,9804,98,,0,Northern,2477.35,Zambia
+43,Mufulira,Kankoyo,Kangwa Nsuluka,23,2623,26,,0,Copperbelt,84.4946,Zambia
+44,Lusaka,Kanyama,Kanyama,10,7710,77,,0,Lusaka,30.0195,Zambia
+45,Kaoma,Kaoma Central,Litoya,5,13705,137,,0,Western,1498.91,Zambia
+46,Kapiri Mposhi,Kapiri Mposhi,Lunchu,11,611,6,,0,Central,897.299,Zambia
+47,Petauke,Kapoche,Manyane,8,5308,53,,0,Eastern,310.252,Zambia
+48,Kaputa,Kaputa,Munkonge,22,8922,89,,0,Northern,1254.89,Zambia
+49,Kasama,Kasama,Bululu,2,9002,90,,0,Northern,799.722,Zambia
+50,Kasempa,Kasempa,Nyoka,17,10617,106,,0,Northwestern,2300.67,Zambia
+51,Chipata,Kasenengwa,MISSING,-99,-99,43,Map only shows future wards. Maybe Ngongwe?,0,Eastern,645.215,Zambia
+52,Kazungula,Katombola,Ngwezi,6,12106,121,,0,Southern,1751.42,Zambia
+53,Chibombo,Katuba,Mungule,9,209,2,,0,Central,392.33,Zambia
+54,Kawambwa,Kawambwa,Senga,1,5601,56,,0,Luapula,1010.03,Zambia
+55,Chibombo,Keembe,Chitanda,18,318,3,,0,Central,1001.78,Zambia
+56,Mufulira,Mufulira,Mutundu,11,2811,28,,0,Copperbelt,322.312,Zambia
+57,Kalabo,Liuwa,Kuuli,6,13506,135,,0,Western,2877.7,Zambia
+58,Livingstone,Livingstone,Kasiya,5,12305,123,,0,Southern,227.95,Zambia
+59,Kaoma,Luampa,Nyambi,10,13810,138,,0,Western,5052.68,Zambia
+60,Chipata,Luangeni,MISSING,-99,-99,44,Map only shows future wards. Maybe Nsingo?,0,Eastern,501.328,Zambia
+61,Samfya,Luapula,Nkutila,14,6914,69,,0,Luapula,1758.39,Zambia
+62,Luwingu,Lubasenshi,Isangano,22,9322,93,,0,Northern,988.833,Zambia
+63,Mongu,Luena,Mabili,2,14202,142,,0,Western,469.773,Zambia
+64,Lufwanyama,Lufwanyama,Mwelushi,12,3012,30,,0,Copperbelt,584.136,Zambia
+65,Kasama,Lukashya,Lusenga,9,9109,91,,0,Northern,1268.84,Zambia
+66,Lukulu,Lukulu East,Mbanga,9,14009,140,,0,Western,458.72,Zambia
+67,Lukulu,Lukulu West,Kashizhi,21,14121,141,,0,Western,803.717,Zambia
+68,Lundazi,Lumezi,Lumimba,24,4924,49,,0,Eastern,2228.17,Zambia
+69,Mporokoso,Lunte,Malaila,15,10115,101,,0,Northern,402.675,Zambia
+70,Luwingu,Lupososhi,Mwelawamangu,12,9412,94,,0,Northern,792.118,Zambia
+71,Lusaka,Lusaka Central,Kabulonga,16,7816,78,,0,Lusaka,74.8851,Zambia
+72,Mazabuka,Magoye,Chivuna,10,12510,125,,0,Southern,445.625,Zambia
+73,Mambwe,Mambwe,MISSING,-99,-99,51,,0,Eastern,5958.61,Zambia
+74,Mungwi,Malole,Fube,8,9208,92,,0,Northern,768.051,Zambia
+75,Mwense,Mambilima,Mpasa,7,6307,63,,0,Luapula,639.918,Zambia
+76,Kaoma,Mangango,Mangango,20,13920,139,,0,Western,835.99,Zambia
+77,Milenge,Chembe,Chipundu,9,6009,60,,0,Luapula,854.747,Zambia
+78,Kalomo,Mapatizya,Mbwiko,22,12222,122,,0,Southern,1379.76,Zambia
+79,Masaiti,Masaiti,Katuba,14,3114,31,,0,Copperbelt,234.575,Zambia
+80,Lusaka,Matero,Mwembeshi,27,8027,80,,0,Lusaka,27.8359,Zambia
+81,Mazabuka,Mazabuka,Lubombo,21,12621,126,,0,Southern,648.206,Zambia
+82,Choma,Mbabala,Mbabala,7,11607,116,,0,Southern,412.713,Zambia
+83,Mbala,Mbala,Nsunzu,5,9505,95,,0,Northern,1055.08,Zambia
+84,Mpika,Mfuwe,Mupamazi,22,9922,99,,0,Northern,6595.5,Zambia
+85,Katete,Milanzi,Kapangulula,6,4506,45,,0,Eastern,105.163,Zambia
+86,Katete,Mkaika,Mkaika,17,4617,46,,0,Eastern,397.193,Zambia
+87,Mkushi,Mkushi North,Munda,10,710,7,,0,Central,1061.13,Zambia
+88,Mkushi,Mkushi South,MERGED WARDS,-88,888,8,Chingombe AND Kamimbya - wards 13 15,1,Central,3163.28,Zambia
+89,Mongu,Mongu,Yeta,17,14317,143,,0,Western,259.025,Zambia
+90,Monze,Monze,Ufwenuka,9,12809,128,,0,Southern,299.932,Zambia
+91,Monze,Moomba,Moomba,22,12922,129,,0,Southern,298.818,Zambia
+92,Kawambwa,Pambashe,Luongo,12,5812,58,,0,Luapula,1104.55,Zambia
+93,Mpika,Mpika,Nachikufu,16,10016,100,,0,Northern,2131.2,Zambia
+94,Mpongwe,Mpongwe,Ibenga,8,3208,32,,0,Copperbelt,593.581,Zambia
+95,Mporokoso,Mporokoso,Mabale,10,10210,102,,0,Northern,503.903,Zambia
+96,Mpulungu,Mpulungu,Iyendwe,8,9608,96,,0,Northern,1553.51,Zambia
+97,Petauke,Msanzala,Lusangazi,20,5420,54,,0,Eastern,1288.34,Zambia
+98,Mufulira,Mufulira,Bwananyina,12,2812,28,,0,Copperbelt,111.357,Zambia
+99,Mufumbwe,Mufumbwe,Lalafuta,15,10715,107,,0,Northwestern,4178.48,Zambia
+100,Sesheke,Mulobezi,Nawinda,1,14801,148,,0,Western,6140.7,Zambia
+101,Mumbwa,Mumbwa,Nalusanga,1,1001,10,,0,Central,11196.1,Zambia
+102,Lusaka,Munali,Chainda,29,8129,81,,0,Lusaka,15.0141,Zambia
+103,Sesheke,Mwandi,Sankolonga,8,14908,149,,0,Western,752.934,Zambia
+104,Kawambwa,Mwansabombwe,Mununshi,15,5715,57,,0,Luapula,327.653,Zambia
+105,Mumbwa,Mwembezhi,Milandu,20,920,9,,0,Central,595.488,Zambia
+106,Mwense,Mwense,MAP LABELS UNCLEAR,-99,-99,64,,0,Luapula,196.776,Zambia
+107,Mwinilunga,Mwinilunga,Kanongesha,1,10801,108,,0,Northwestern,1682.04,Zambia
+108,Mwinilunga,Ikelenge,Mukangala,6,10906,109,,0,Northwestern,630.521,Zambia
+109,Nakonde,Nakonde,Popomozi,5,8705,87,,0,Northern,540.496,Zambia
+110,Mongu,Nalikwanda,Nakato,15,14415,144,,0,Western,814.351,Zambia
+111,Senanga,Nalolo,Lyamakumbi,1,14501,145,,0,Western,699.188,Zambia
+112,Namwala,Namwala,Mandondo,8,13108,131,,0,Southern,649.531,Zambia
+113,Mumbwa,Nangoma,Nalubanda,14,1114,11,,0,Central,953.067,Zambia
+114,Chingola,Nchanga,Kwacha,1,1701,17,,0,Copperbelt,24.4264,Zambia
+115,Nchelenge,Nchelenge,Mofwe,12,6612,66,,0,Luapula,343.636,Zambia
+116,Ndola,Ndola,Dag Hammerskjoeld,27,3627,36,,0,Copperbelt,400.89,Zambia
+117,Kitwe,Nkana,Mindolo,27,2227,22,,0,Copperbelt,27.4098,Zambia
+118,Nyimba,Nyimba,Chinambi,12,5212,52,,0,Eastern,1355.59,Zambia
+119,Petauke,Petauke,Msumbazi,9,5509,55,,0,Eastern,387.019,Zambia
+120,Chongwe,Rufunsa,Bunda Bunda,13,7413,74,,0,Lusaka,1351.8,Zambia
+121,Senanga,Senanga,Lumbe,15,14615,146,,0,Western,1188.76,Zambia
+122,Mbala,Senga Hill,Ipembe,16,9716,97,,0,Northern,598.349,Zambia
+123,Serenje,Serenje,Kabamba,17,1417,14,,0,Central,607.702,Zambia
+124,Sesheke,Sesheke,Kalobolelwa,19,15019,150,,0,Western,2921.71,Zambia
+125,Chinsali,Shiwangadu,Mukumbi,15,8415,84,,0,Northern,1671.27,Zambia
+126,Siavonga,Siavonga,Simamba,9,13209,132,,0,Southern,558.073,Zambia
+127,Kalabo,Sikongo,Lulangunyi,19,13619,136,,0,Western,2254.42,Zambia
+128,Sinazongwe,Sinazongwe,Namazambwe,2,13302,133,,0,Southern,591.683,Zambia
+129,Katete,Sinda,Kasangazi,27,4727,47,,0,Eastern,192.027,Zambia
+130,Shangombo,Sinjembela,MISSING,-99,-99,147,,0,Western,16275,Zambia
+131,Solwezi,Solwezi Central,MISSING,-99,-99,110,,0,Northwestern,3333.51,Zambia
+132,Solwezi,Solwezi East,MISSING,-99,-99,111,,0,Northwestern,10451.6,Zambia
+133,Solwezi,Solwezi West,MISSING,-99,-99,112,,0,Northwestern,16296.9,Zambia
+134,Chadiza,Vubwi,Khumba,15,3815,38,,0,Eastern,186.774,Zambia
+135,Kitwe,Wusakile,MISSING,-99,-99,23,,0,Copperbelt,266.186,Zambia
+136,Zambezi,Zambezi East,Lukunyi,1,11301,113,,0,Northwestern,979.129,Zambia
+137,Zambezi,Zambezi West,Likungu,12,11412,114,,0,Northwestern,625.923,Zambia
+138,Chililabombwe,Chililabombwe,Chitambi,7,1507,15,,0,Copperbelt,271.317,Zambia
+139,Chingola,Chingola,Lulamba,14,1614,16,,0,Copperbelt,137.788,Zambia
+140,Choma,Pemba,Hamaundu,10,11710,117,,0,Southern,464.479,Zambia
+141,Serenje,Muchinga,Chisomo,12,1312,13,,0,Central,3376.54,Zambia
+142,Ndola,Kabushi,Skyways,24,3524,35,,0,Copperbelt,1.69743,Zambia
+143,Kitwe,Kwacha,Chantete,10,2110,21,,0,Copperbelt,14.8424,Zambia
+144,Luanshya,Roan,Muva Hill,28,2528,25,,0,Copperbelt,255.278,Zambia
+145,Mazabuka,Chikankanta,Mabwetuba,7,12407,124,,0,Southern,362.941,Zambia
+146,Chibombo,Keembe,Ipongo,22,322,3,,0,Central,1927.74,Zambia
+147,Chibombo,Keembe,Lunjofwa,21,321,3,,0,Central,474.42,Zambia
+148,Chibombo,Keembe,Keembe,20,320,3,,0,Central,470.361,Zambia
+149,Chibombo,Keembe,Mashikili,19,319,3,,0,Central,518.634,Zambia
+150,Chibombo,Keembe,Kalola,14,314,3,,0,Central,581.281,Zambia
+151,Chibombo,Katuba,Kabile,12,212,2,,0,Central,420.156,Zambia
+152,Chibombo,Katuba,Chilochabalenge,11,211,2,,0,Central,355.441,Zambia
+153,Chibombo,Katuba,Muchenje,10,210,2,,0,Central,345.406,Zambia
+154,Chibombo,Katuba,Katuba,7,207,2,,0,Central,184.759,Zambia
+155,Chibombo,Katuba,Chunga,8,208,2,,0,Central,54.4187,Zambia
+156,Chibombo,Keembe,Chaloshi,13,313,3,,0,Central,318.675,Zambia
+157,Chibombo,Keembe,Chibimbi,17,317,3,,0,Central,119.498,Zambia
+158,Chibombo,Keembe,Chikobo,16,316,3,,0,Central,108.533,Zambia
+159,Chibombo,Keembe,Kakoma,15,315,3,,0,Central,905.729,Zambia
+160,Chibombo,Chisamba,Liteta,6,106,1,,0,Central,489.958,Zambia
+161,Chibombo,Chisamba,Chisamba,5,105,1,,0,Central,1135.24,Zambia
+162,Chibombo,Chisamba,Chinkokomene,3,103,1,,0,Central,571.344,Zambia
+163,Chibombo,Chisamba,Mulungushi,2,102,1,,0,Central,579.593,Zambia
+164,Chibombo,Chisamba,Mushishi,1,101,1,,0,Central,472.201,Zambia
+165,Kabwe,Bwacha,Muwowo,1,401,4,,0,Central,263.498,Zambia
+166,Kabwe,Bwacha,Munga,14,414,4,,0,Central,213.452,Zambia
+167,Kabwe,Bwacha,Munyama,13,413,4,,0,Central,236.303,Zambia
+168,Kabwe,Bwacha,Chinyanja,12,412,4,,0,Central,143.281,Zambia
+169,Kabwe,Bwacha,Kangomba,11,411,4,,0,Central,73.8743,Zambia
+170,Kabwe,Bwacha,Chililalila,15,415,4,,0,Central,72.3303,Zambia
+171,Kabwe,Kabwe Central,Waya,18,518,5,,0,Central,49.0593,Zambia
+172,Kabwe,Kabwe Central,Luansase,17,517,5,,0,Central,69.4774,Zambia
+173,Kabwe,Kabwe Central,Chirwa,19,519,5,,0,Central,7.90438,Zambia
+174,Kabwe,Kabwe Central,Justine Kabwe,21,521,5,,0,Central,5.5298,Zambia
+175,Kabwe,Bwacha,Ben Kapufi,7,407,4,,0,Central,13.5738,Zambia
+176,Kabwe,Bwacha,Ngungu,3,403,4,,0,Central,1.48105,Zambia
+177,Kabwe,Kabwe Central,Kaputula,27,527,5,,0,Central,11.4629,Zambia
+178,Kabwe,Kabwe Central,Kalonga,24,524,5,,0,Central,8.84882,Zambia
+179,Kabwe,Kabwe Central,Nakoli,26,526,5,,0,Central,3.29367,Zambia
+180,Kabwe,Bwacha,Bwacha,5,405,4,,0,Central,6.20436,Zambia
+181,Kabwe,Bwacha,Zambezi,10,410,4,,0,Central,4.32269,Zambia
+182,Kabwe,Kabwe Central,Luangwa,25,525,5,,0,Central,9.39677,Zambia
+183,Kabwe,Kabwe Central,Highridge,23,523,5,,0,Central,3.32028,Zambia
+184,Kabwe,Kabwe Central,Njanji,20,520,5,,0,Central,1.56782,Zambia
+185,Kabwe,Kabwe Central,Kavid Ramushu,22,522,5,,0,Central,1.60883,Zambia
+186,Kabwe,Bwacha,Makululu,8,408,4,,0,Central,1.10476,Zambia
+187,Kabwe,Bwacha,Moomba,9,409,4,,0,Central,1.79083,Zambia
+188,Kapiri Mposhi,Kapiri Mposhi,Ngabwe,1,601,6,,0,Central,2903.28,Zambia
+189,Kapiri Mposhi,Kapiri Mposhi,Mukubwe,2,602,6,,0,Central,3578.73,Zambia
+190,Kapiri Mposhi,Kapiri Mposhi,Kapandwe,5,605,6,,0,Central,1185.15,Zambia
+191,Kapiri Mposhi,Kapiri Mposhi,Chipepo,4,604,6,,0,Central,583.554,Zambia
+192,Kapiri Mposhi,Kapiri Mposhi,Luanchele,3,603,6,,0,Central,1826.41,Zambia
+193,Kapiri Mposhi,Kapiri Mposhi,Kapiri Central,8,608,6,,0,Central,572.861,Zambia
+194,Kapiri Mposhi,Kapiri Mposhi,Chibwelelo,7,607,6,,0,Central,187.889,Zambia
+195,Kapiri Mposhi,Kapiri Mposhi,Mpunde,6,606,6,,0,Central,1237.26,Zambia
+196,Kapiri Mposhi,Kapiri Mposhi,Kakwelesa,13,613,6,,0,Central,1024.07,Zambia
+197,Kapiri Mposhi,Kapiri Mposhi,Kapumba,14,614,6,,0,Central,970.2,Zambia
+198,Kapiri Mposhi,Kapiri Mposhi,Changondo,12,612,6,,0,Central,1142.93,Zambia
+199,Kapiri Mposhi,Kapiri Mposhi,Mushimbili,10,610,6,,0,Central,545.785,Zambia
+200,Kapiri Mposhi,Kapiri Mposhi,Kashitu,9,609,6,,0,Central,349.236,Zambia
+201,Mkushi,Mkushi North,Mosofu,1,701,7,,0,Central,619.355,Zambia
+202,Mkushi,Mkushi North,Upper Lunsemfwa,2,702,7,,0,Central,1257.64,Zambia
+203,Mkushi,Mkushi North,Chibefwe,4,704,7,,0,Central,117.908,Zambia
+204,Mkushi,Mkushi North,Chalata,3,703,7,,0,Central,887.907,Zambia
+205,Mkushi,Mkushi North,Nkumbi,5,705,7,,0,Central,647.711,Zambia
+206,Mkushi,Mkushi North,Munshibemba,6,706,7,,0,Central,786.954,Zambia
+207,Mkushi,Mkushi North,Tembwe,9,709,7,,0,Central,492.929,Zambia
+208,Mkushi,Mkushi North,Matuku,8,708,7,,0,Central,708.483,Zambia
+209,Mkushi,Mkushi North,Nshinso,7,707,7,,0,Central,968.235,Zambia
+210,Mkushi,Mkushi North,Chikanda,11,711,7,,0,Central,904.803,Zambia
+211,Mkushi,Mkushi South,Kalwa,12,812,8,,0,Central,2415.13,Zambia
+212,Mkushi,Mkushi South,Nkombashi,14,814,8,,0,Central,935.912,Zambia
+213,Mkushi,Mkushi South,Mwalala,17,817,8,,0,Central,1263.41,Zambia
+214,Mkushi,Mkushi South,Chipaba,16,816,8,,0,Central,1443.52,Zambia
+215,Mumbwa,Mumbwa,Kalwanyembe,3,1003,10,,0,Central,2181.89,Zambia
+216,Mumbwa,Mumbwa,Lutale,2,1002,10,,0,Central,301.444,Zambia
+217,Mumbwa,Mumbwa,Chibolyo,7,1007,10,,0,Central,613.539,Zambia
+218,Mumbwa,Mumbwa,Nambala,8,1008,10,,0,Central,394.432,Zambia
+219,Mumbwa,Mumbwa,Shimbizhi,9,1009,10,,0,Central,138.756,Zambia
+220,Mumbwa,Mumbwa,Mpusu,4,1004,10,,0,Central,1167.33,Zambia
+221,Mumbwa,Mumbwa,Mumba,5,1005,10,,0,Central,365.117,Zambia
+222,Mumbwa,Mumbwa,Mupona,6,1006,10,,0,Central,13.908,Zambia
+223,Mumbwa,Nangoma,Nakasaka,10,1110,11,,0,Central,383.096,Zambia
+224,Mumbwa,Nangoma,Nangoma,11,1111,11,,0,Central,590.322,Zambia
+225,Mumbwa,Mwembezhi,Lutondo,17,917,9,,0,Central,249.243,Zambia
+226,Mumbwa,Mwembezhi,Chabota,18,918,9,,0,Central,285.18,Zambia
+227,Mumbwa,Nangoma,Myooye,12,1112,11,,0,Central,88.5976,Zambia
+228,Mumbwa,Nangoma,Shiohanzu,13,1113,11,,0,Central,364.873,Zambia
+229,Mumbwa,Nangoma,Chisalu,16,1116,11,,0,Central,440.154,Zambia
+230,Mumbwa,Nangoma,Choma,15,1115,11,,0,Central,578.279,Zambia
+231,Mumbwa,Mwembezhi,Nampundwe,22,922,9,,0,Central,239.602,Zambia
+232,Mumbwa,Mwembezhi,Kalundu,19,919,9,,0,Central,217.044,Zambia
+233,Mumbwa,Mwembezhi,Makombwe,21,921,9,,0,Central,120.545,Zambia
+234,Serenje,Chitambo,Lulimala,1,1201,12,,0,Central,1223.54,Zambia
+235,Serenje,Chitambo,Mpelembe,2,1202,12,,0,Central,204.821,Zambia
+236,Serenje,Chitambo,Luombwa,4,1204,12,,0,Central,1027.89,Zambia
+237,Serenje,Chitambo,Chipundu,3,1203,12,,0,Central,716.367,Zambia
+238,Serenje,Chitambo,Chalilo,5,1205,12,,0,Central,1178.07,Zambia
+239,Serenje,Chitambo,Chitambo,6,1206,12,,0,Central,939.229,Zambia
+240,Serenje,Serenje,Musangashi,22,1422,14,,0,Central,821.715,Zambia
+241,Serenje,Serenje,Nganswa,20,1420,14,,0,Central,1218.86,Zambia
+242,Serenje,Serenje,Lupiya,21,1421,14,,0,Central,699.359,Zambia
+243,Serenje,Serenje,Muchinga,19,1419,14,,0,Central,1000.75,Zambia
+244,Serenje,Serenje,Ibolelo,18,1418,14,,0,Central,497.824,Zambia
+245,Serenje,Muchinga,Mailo,8,1308,13,,0,Central,978.54,Zambia
+246,Serenje,Muchinga,Serenje,10,1310,13,,0,Central,2968.19,Zambia
+247,Serenje,Muchinga,Kabansa,11,1311,13,,0,Central,444.503,Zambia
+248,Serenje,Muchinga,Kanona,9,1309,13,,0,Central,1023.7,Zambia
+249,Serenje,Muchinga,Lukusanshi,13,1313,13,,0,Central,1116.51,Zambia
+250,Serenje,Muchinga,Sancha,14,1314,13,,0,Central,704.588,Zambia
+251,Serenje,Muchinga,Masaninga,16,1316,13,,0,Central,814.03,Zambia
+252,Serenje,Muchinga,Chibale,15,1315,13,,0,Central,1072.18,Zambia
+253,Chililabombwe,Chililabombwe,Chilimina,1,1501,15,,0,Copperbelt,187.601,Zambia
+254,Chililabombwe,Chililabombwe,Iyanda,2,1502,15,,0,Copperbelt,151.566,Zambia
+255,Chililabombwe,Chililabombwe,Kawama,5,1505,15,,0,Copperbelt,68.5984,Zambia
+256,Chililabombwe,Chililabombwe,Silwizya,13,1513,15,,0,Copperbelt,105.561,Zambia
+257,Chililabombwe,Chililabombwe,Miteta,6,1506,15,,0,Copperbelt,173.599,Zambia
+258,Chililabombwe,Chililabombwe,James Phiri,12,1512,15,,0,Copperbelt,0.476831,Zambia
+259,Chililabombwe,Chililabombwe,Yeta,16,1516,15,,0,Copperbelt,0.150693,Zambia
+260,Chililabombwe,Chililabombwe,Chitimukulu,15,1515,15,,0,Copperbelt,0.210243,Zambia
+261,Chililabombwe,Chililabombwe,Kamina,18,1518,15,,0,Copperbelt,0.132465,Zambia
+262,Chililabombwe,Chililabombwe,Ngebe,17,1517,15,,0,Copperbelt,0.186424,Zambia
+263,Chililabombwe,Chililabombwe,Yotam Muleya,20,1520,15,,0,Copperbelt,0.11763,Zambia
+264,Chililabombwe,Chililabombwe,Mukuka,19,1519,15,,0,Copperbelt,0.396879,Zambia
+265,Chililabombwe,Chililabombwe,Nakatindi,21,1521,15,,0,Copperbelt,0.964028,Zambia
+266,Chililabombwe,Chililabombwe,Mumba,22,1522,15,,0,Copperbelt,1.07799,Zambia
+267,Chililabombwe,Chililabombwe,Mathew Nkoloma,11,1511,15,,0,Copperbelt,0.413025,Zambia
+268,Chililabombwe,Chililabombwe,Mvula,10,1510,15,,0,Copperbelt,0.627831,Zambia
+269,Chililabombwe,Chililabombwe,Kafue,9,1509,15,,0,Copperbelt,9.23515,Zambia
+270,Chililabombwe,Chililabombwe,Helen Kaunda,14,1514,15,,0,Copperbelt,4.53608,Zambia
+271,Chililabombwe,Chililabombwe,Kakoso,8,1508,15,,0,Copperbelt,8.24133,Zambia
+272,Chingola,Chingola,Mutenda,26,1626,16,,0,Copperbelt,428.75,Zambia
+273,Chingola,Chingola,Muchinshi,25,1625,16,,0,Copperbelt,114.915,Zambia
+274,Chingola,Chingola,Ipafu,24,1624,16,,0,Copperbelt,297.895,Zambia
+275,Chingola,Chingola,Kalilo,23,1623,16,,0,Copperbelt,170.021,Zambia
+276,Chingola,Nchanga,Bupalo,10,1710,17,,0,Copperbelt,161.883,Zambia
+277,Chingola,Chingola,Kasompe,12,1612,16,,0,Copperbelt,103.181,Zambia
+278,Chingola,Chingola,Musenga,11,1611,16,,0,Copperbelt,35.5828,Zambia
+279,Chingola,Chingola,Mimbula,13,1613,16,,0,Copperbelt,81.4197,Zambia
+280,Chingola,Chingola,Chiwempala,21,1621,16,,0,Copperbelt,2.18585,Zambia
+281,Chingola,Chingola,Chitimukulu,19,1619,16,,0,Copperbelt,0.849668,Zambia
+282,Chingola,Chingola,Maiteneke,18,1618,16,,0,Copperbelt,1.8813,Zambia
+283,Chingola,Chingola,Chabanyama,17,1617,16,,0,Copperbelt,0.47515,Zambia
+284,Chingola,Chingola,G Chifwembe,16,1616,16,,0,Copperbelt,0.275906,Zambia
+285,Chingola,Chingola,Twatasha,15,1615,16,,0,Copperbelt,0.943772,Zambia
+286,Chingola,Chingola,Chikola,20,1620,16,,0,Copperbelt,2.11993,Zambia
+287,Chingola,Chingola,Chingola,27,1627,16,,0,Copperbelt,15.3686,Zambia
+288,Chingola,Nchanga,Nchanga,2,1702,17,,0,Copperbelt,1.1661,Zambia
+289,Chingola,Nchanga,Sekela,3,1703,17,,0,Copperbelt,0.839622,Zambia
+290,Chingola,Nchanga,Nsansa,4,1704,17,,0,Copperbelt,0.963369,Zambia
+291,Chingola,Nchanga,Buntungwa,5,1705,17,,0,Copperbelt,1.02163,Zambia
+292,Chingola,Nchanga,Kasala,7,1707,17,,0,Copperbelt,1.76747,Zambia
+293,Chingola,Nchanga,Kabundi,6,1706,17,,0,Copperbelt,2.27767,Zambia
+294,Chingola,Nchanga,Kapisha,8,1708,17,,0,Copperbelt,9.60541,Zambia
+295,Chingola,Nchanga,Luano,9,1709,17,,0,Copperbelt,70.6785,Zambia
+296,Chingola,Chingola,Kabungo,22,1622,16,,0,Copperbelt,56.7146,Zambia
+297,Kalulushi,Kalulushi,Chati,21,1821,18,,0,Copperbelt,412.485,Zambia
+298,Kalulushi,Kalulushi,Chankalamo,20,1820,18,,0,Copperbelt,80.9933,Zambia
+299,Kalulushi,Kalulushi,Chembe,22,1822,18,,0,Copperbelt,43.2291,Zambia
+300,Kalulushi,Kalulushi,Lulamba,5,1805,18,,0,Copperbelt,147.684,Zambia
+301,Kalulushi,Kalulushi,Mwambashi,6,1806,18,,0,Copperbelt,166.159,Zambia
+302,Kalulushi,Kalulushi,Musakashi,1,1801,18,,0,Copperbelt,20.23,Zambia
+303,Kalulushi,Kalulushi,Chambishi,2,1802,18,,0,Copperbelt,3.7385,Zambia
+304,Kalulushi,Kalulushi,Twaiteka,3,1803,18,,0,Copperbelt,17.6406,Zambia
+305,Kalulushi,Kalulushi,Ichimpe,7,1807,18,,0,Copperbelt,50.6969,Zambia
+306,Kalulushi,Kalulushi,Kafue,19,1819,18,,0,Copperbelt,14.6535,Zambia
+307,Kalulushi,Kalulushi,Chisupa,16,1816,18,,0,Copperbelt,33.2412,Zambia
+308,Kalulushi,Kalulushi,Dongwe,18,1818,18,,0,Copperbelt,0.674519,Zambia
+309,Kalulushi,Kalulushi,Lubuto,9,1809,18,,0,Copperbelt,0.99284,Zambia
+310,Kalulushi,Kalulushi,Kalanga,8,1808,18,,0,Copperbelt,0.145475,Zambia
+311,Kalulushi,Kalulushi,Kalungwishi,10,1810,18,,0,Copperbelt,0.27683,Zambia
+312,Kalulushi,Kalulushi,Luapula,11,1811,18,,0,Copperbelt,0.215772,Zambia
+313,Kalulushi,Kalulushi,Ngweshi,12,1812,18,,0,Copperbelt,0.388825,Zambia
+314,Kalulushi,Kalulushi,Kankonshi,15,1815,18,,0,Copperbelt,0.879978,Zambia
+315,Kalulushi,Kalulushi,Buseko,17,1817,18,,0,Copperbelt,1.32632,Zambia
+316,Kalulushi,Kalulushi,Kalengwa,13,1813,18,,0,Copperbelt,0.200719,Zambia
+317,Kalulushi,Kalulushi,Chibuluma,14,1814,18,,0,Copperbelt,0.772648,Zambia
+318,Chililabombwe,Chililabombwe,Joseph Mwila,3,1503,15,,0,Copperbelt,4.64776,Zambia
+319,Chililabombwe,Chililabombwe,Anoya Zulu,4,1504,15,,0,Copperbelt,7.2118,Zambia
+320,Kitwe,Chimwemwe,Twatasha,2,1902,19,,0,Copperbelt,5.89942,Zambia
+321,Kitwe,Chimwemwe,Buntungwa,4,1904,19,,0,Copperbelt,1.93068,Zambia
+322,Kitwe,Chimwemwe,Lubuto,5,1905,19,,0,Copperbelt,1.1495,Zambia
+323,Kitwe,Chimwemwe,Chimwemwe,6,1906,19,,0,Copperbelt,0.830364,Zambia
+324,Kitwe,Nkana,Buchi,24,2224,22,,0,Copperbelt,3.31137,Zambia
+325,Kitwe,Nkana,Parkland,23,2223,22,,0,Copperbelt,4.45258,Zambia
+326,Kitwe,Nkana,Rokana,22,2222,22,,0,Copperbelt,2.92618,Zambia
+327,Kitwe,Wusakile,Chibote,20,2320,23,,0,Copperbelt,2.56783,Zambia
+328,Kitwe,Wusakile,Wusakile,21,2321,23,,0,Copperbelt,1.98745,Zambia
+329,Kitwe,Wusakile,Chamboli,19,2319,23,,0,Copperbelt,3.03972,Zambia
+330,Kitwe,Kamfinsa,Bupe,13,2013,20,,0,Copperbelt,6.72748,Zambia
+331,Kitwe,Kamfinsa,Ndeke,14,2014,20,,0,Copperbelt,6.47054,Zambia
+332,Kitwe,Kwacha,Lubwa,12,2112,21,,0,Copperbelt,11.2602,Zambia
+333,Kitwe,Kwacha,Riverside,11,2111,21,,0,Copperbelt,12.1398,Zambia
+334,Kitwe,Kwacha,Kwacha,7,2107,21,,0,Copperbelt,1.98519,Zambia
+335,Kitwe,Kwacha,Bulangililo,8,2108,21,,0,Copperbelt,2.98434,Zambia
+336,Kitwe,Kwacha,Ipusukilo,9,2109,21,,0,Copperbelt,2.61722,Zambia
+337,Kitwe,Nkana,Misheshi,26,2226,22,,0,Copperbelt,2.74437,Zambia
+338,Kitwe,Nkana,Kamakonde,28,2228,22,,0,Copperbelt,28.333,Zambia
+339,Kitwe,Nkana,Mukuba,25,2225,22,,0,Copperbelt,6.05288,Zambia
+340,Kitwe,Chimwemwe,Itimpi,1,1901,19,,0,Copperbelt,44.4074,Zambia
+341,Luanshya,Luanshya,Mpelembe,7,2407,24,,0,Copperbelt,6.42023,Zambia
+342,Luanshya,Luanshya,James Phiri,9,2409,24,,0,Copperbelt,2.81781,Zambia
+343,Luanshya,Luanshya,Levi Chito,10,2410,24,,0,Copperbelt,1.76856,Zambia
+344,Luanshya,Luanshya,Miko Mfwa,11,2411,24,,0,Copperbelt,3.88258,Zambia
+345,Luanshya,Luanshya,Mipundu,14,2414,24,,0,Copperbelt,0.851228,Zambia
+346,Luanshya,Luanshya,Zambezi,12,2412,24,,0,Copperbelt,0.643206,Zambia
+347,Luanshya,Luanshya,Mulungushi,13,2413,24,,0,Copperbelt,0.495917,Zambia
+348,Luanshya,Roan,Kafue,18,2518,25,,0,Copperbelt,2.7371,Zambia
+349,Luanshya,Roan,Lumumba,17,2517,25,,0,Copperbelt,3.22502,Zambia
+350,Luanshya,Roan,Nkoloma,16,2516,25,,0,Copperbelt,1.63627,Zambia
+351,Luanshya,Roan,Mpatamatu,20,2520,25,,0,Copperbelt,4.09788,Zambia
+352,Luanshya,Roan,Justine Kabwe,21,2521,25,,0,Copperbelt,1.3757,Zambia
+353,Luanshya,Roan,Nkulumashimba,22,2522,25,,0,Copperbelt,0.374408,Zambia
+354,Luanshya,Roan,Baluba,23,2523,25,,0,Copperbelt,0.768874,Zambia
+355,Luanshya,Roan,Kansengu,26,2526,25,,0,Copperbelt,0.921414,Zambia
+356,Luanshya,Roan,Milaushi,24,2524,25,,0,Copperbelt,1.80531,Zambia
+357,Luanshya,Roan,Ngebe,25,2525,25,,0,Copperbelt,2.34486,Zambia
+358,Luanshya,Roan,Kafubu,15,2515,25,,0,Copperbelt,18.1715,Zambia
+359,Luanshya,Luanshya,Fisenge,2,2402,24,,0,Copperbelt,100.598,Zambia
+360,Luanshya,Luanshya,Misaka,1,2401,24,,0,Copperbelt,109.424,Zambia
+361,Luanshya,Luanshya,Buteko,8,2408,24,,0,Copperbelt,18.3394,Zambia
+362,Luanshya,Luanshya,Twashuka,3,2403,24,,0,Copperbelt,44.5166,Zambia
+363,Luanshya,Luanshya,Chifulube,5,2405,24,,0,Copperbelt,24.9929,Zambia
+364,Luanshya,Luanshya,Chitwi,4,2404,24,,0,Copperbelt,76.9603,Zambia
+365,Luanshya,Luanshya,Buntungwa,6,2406,24,,0,Copperbelt,36.1988,Zambia
+366,Luanshya,Roan,Kawama,27,2527,25,,0,Copperbelt,92.106,Zambia
+367,Luanshya,Roan,Chilabula,19,2519,25,,0,Copperbelt,125.391,Zambia
+368,Lufwanyama,Lufwanyama,Mushingashi,16,3016,30,,0,Copperbelt,1315.59,Zambia
+369,Lufwanyama,Lufwanyama,Mpindi,13,3013,30,,0,Copperbelt,2950.54,Zambia
+370,Lufwanyama,Lufwanyama,Luswishi,15,3015,30,,0,Copperbelt,976.63,Zambia
+371,Lufwanyama,Lufwanyama,Kansanta,1,3001,30,,0,Copperbelt,1210.81,Zambia
+372,Lufwanyama,Lufwanyama,Lufwanyama,14,3014,30,,0,Copperbelt,563.424,Zambia
+373,Lufwanyama,Lufwanyama,Boso,3,3003,30,,0,Copperbelt,541.697,Zambia
+374,Lufwanyama,Lufwanyama,Kabundia,2,3002,30,,0,Copperbelt,724.268,Zambia
+375,Lufwanyama,Lufwanyama,Kansonka,4,3004,30,,0,Copperbelt,572.185,Zambia
+376,Lufwanyama,Lufwanyama,Kafubu,5,3005,30,,0,Copperbelt,579.611,Zambia
+377,Lufwanyama,Lufwanyama,Chibanga,6,3006,30,,0,Copperbelt,145.545,Zambia
+378,Lufwanyama,Lufwanyama,Sokotwe,7,3007,30,,0,Copperbelt,70.1283,Zambia
+379,Lufwanyama,Lufwanyama,Bulaya,10,3010,30,,0,Copperbelt,164.952,Zambia
+380,Lufwanyama,Lufwanyama,Chantete,9,3009,30,,0,Copperbelt,45.4029,Zambia
+381,Lufwanyama,Lufwanyama,Mibenge,8,3008,30,,0,Copperbelt,357.434,Zambia
+382,Lufwanyama,Lufwanyama,Mukumbo,11,3011,30,,0,Copperbelt,543.972,Zambia
+383,Masaiti,Kafulafuta,Mwatishi,1,2901,29,,0,Copperbelt,113.065,Zambia
+384,Masaiti,Kafulafuta,Majaliwa,2,2902,29,,0,Copperbelt,126.673,Zambia
+385,Masaiti,Kafulafuta,Chondwe,3,2903,29,,0,Copperbelt,294.14,Zambia
+386,Masaiti,Kafulafuta,Mutaba,4,2904,29,,0,Copperbelt,235.937,Zambia
+387,Masaiti,Kafulafuta,Katonte,6,2906,29,,0,Copperbelt,125.274,Zambia
+388,Masaiti,Kafulafuta,Miengwe,5,2905,29,,0,Copperbelt,329.983,Zambia
+389,Masaiti,Masaiti,Kashitu,8,3108,31,,0,Copperbelt,237.128,Zambia
+390,Masaiti,Masaiti,Luansobe,9,3109,31,,0,Copperbelt,313.679,Zambia
+391,Masaiti,Masaiti,Chinondo,10,3110,31,,0,Copperbelt,225.17,Zambia
+392,Masaiti,Masaiti,Mishikishi,11,3111,31,,0,Copperbelt,170.497,Zambia
+393,Masaiti,Masaiti,Masangano,12,3112,31,,0,Copperbelt,211.206,Zambia
+394,Masaiti,Masaiti,Miputu,17,3117,31,,0,Copperbelt,208.616,Zambia
+395,Masaiti,Masaiti,Chilulu,16,3116,31,,0,Copperbelt,65.2867,Zambia
+396,Masaiti,Masaiti,Shimibanga,15,3115,31,,0,Copperbelt,113.839,Zambia
+397,Masaiti,Masaiti,Lumano,13,3113,31,,0,Copperbelt,164.986,Zambia
+398,Mpongwe,Mpongwe,Luswishi,1,3201,32,,0,Copperbelt,2491.31,Zambia
+399,Mpongwe,Mpongwe,Kasonga,2,3202,32,,0,Copperbelt,985.522,Zambia
+400,Mpongwe,Mpongwe,Munkumpu,3,3203,32,,0,Copperbelt,472.54,Zambia
+401,Mpongwe,Mpongwe,Kashiba,4,3204,32,,0,Copperbelt,733.975,Zambia
+402,Mpongwe,Mpongwe,Mpongwe,5,3205,32,,0,Copperbelt,272.84,Zambia
+403,Mpongwe,Mpongwe,Kasamba,7,3207,32,,0,Copperbelt,113.139,Zambia
+404,Mpongwe,Mpongwe,Kanyenda,6,3206,32,,0,Copperbelt,489.075,Zambia
+405,Mpongwe,Mpongwe,Impumbu,13,3213,32,,0,Copperbelt,256.874,Zambia
+406,Mpongwe,Mpongwe,Musofu,12,3212,32,,0,Copperbelt,704.385,Zambia
+407,Mpongwe,Mpongwe,Nampamba,11,3211,32,,0,Copperbelt,380.403,Zambia
+408,Mpongwe,Mpongwe,Mikata,10,3210,32,,0,Copperbelt,542.5,Zambia
+409,Mpongwe,Mpongwe,Kalweo,9,3209,32,,0,Copperbelt,495.926,Zambia
+410,Mufulira,Kankoyo,Butondo,25,2625,26,,0,Copperbelt,116.584,Zambia
+411,Mufulira,Kankoyo,Luansobe,24,2624,26,,0,Copperbelt,192.088,Zambia
+412,Mufulira,Kantanshi,Leya Mukutu,9,2709,27,,0,Copperbelt,0.938825,Zambia
+413,Mufulira,Kantanshi,Bwembya Silwizya,8,2708,27,,0,Copperbelt,0.935068,Zambia
+414,Mufulira,Kantanshi,Shinde,7,2707,27,,0,Copperbelt,0.738133,Zambia
+415,Mufulira,Kantanshi,Mulungushi,6,2706,27,,0,Copperbelt,0.577561,Zambia
+416,Mufulira,Kantanshi,Bwafwano,5,2705,27,,0,Copperbelt,0.856092,Zambia
+417,Mufulira,Kantanshi,David Kaunda,10,2710,27,Note two wards called David Kaunda,0,Copperbelt,1.17962,Zambia
+418,Mufulira,Kantanshi,Maina Soko,4,2704,27,,0,Copperbelt,2.81091,Zambia
+419,Mufulira,Kantanshi,Francis Mukuka,3,2703,27,,0,Copperbelt,18.8607,Zambia
+420,Mufulira,Mufulira,David Kaunda,13,2813,28,Note two wards called David Kaunda,0,Copperbelt,1.55214,Zambia
+421,Mufulira,Mufulira,Chachacha,14,2814,28,,0,Copperbelt,1.7511,Zambia
+422,Mufulira,Mufulira,Kamuchanga,15,2815,28,,0,Copperbelt,0.51389,Zambia
+423,Mufulira,Mufulira,Kasempa,16,2816,28,,0,Copperbelt,2.20626,Zambia
+424,Mufulira,Mufulira,Hanky Kalanga,20,2820,28,,0,Copperbelt,3.24074,Zambia
+425,Mufulira,Kankoyo,John Kampengele,21,2621,26,,0,Copperbelt,0.722077,Zambia
+426,Mufulira,Kankoyo,Buntungwa,22,2622,26,,0,Copperbelt,1.66021,Zambia
+427,Mufulira,Kankoyo,Mpelembe,28,2628,26,,0,Copperbelt,8.56471,Zambia
+428,Mufulira,Mufulira,Kansuswa,17,2817,28,,0,Copperbelt,1.2592,Zambia
+429,Mufulira,Kantanshi,Mulundu,2,2702,27,,0,Copperbelt,243.404,Zambia
+430,Mufulira,Kantanshi,Minambe,1,2701,27,,0,Copperbelt,87.6935,Zambia
+431,Mufulira,Mufulira,Kawama,19,2819,28,,0,Copperbelt,7.29776,Zambia
+432,Kalulushi,Kalulushi,Lukoshi,4,1804,18,,0,Copperbelt,33.9956,Zambia
+433,Mufulira,Kankoyo,Fibusa,27,2627,26,,0,Copperbelt,1.2086,Zambia
+434,Mufulira,Kankoyo,Kwancha,26,2626,26,,0,Copperbelt,6.28289,Zambia
+435,Ndola,Ndola,Nkwazi,7,3607,36,,0,Copperbelt,0.761061,Zambia
+436,Ndola,Ndola,Yengwe,8,3608,36,,0,Copperbelt,6.84613,Zambia
+437,Ndola,Ndola,Kansenshi,6,3606,36,,0,Copperbelt,5.23645,Zambia
+438,Ndola,Ndola,Chipulukusu,9,3609,36,,0,Copperbelt,4.8528,Zambia
+439,Ndola,Ndola,Kanini,10,3610,36,,0,Copperbelt,14.3857,Zambia
+440,Ndola,Chifubu,Chifubu,4,3404,34,,0,Copperbelt,0.643366,Zambia
+441,Ndola,Chifubu,Kamba,5,3405,34,,0,Copperbelt,1.11778,Zambia
+442,Ndola,Chifubu,Fibobe,3,3403,34,,0,Copperbelt,1.22409,Zambia
+443,Ndola,Chifubu,Kawama,2,3402,34,,0,Copperbelt,1.29316,Zambia
+444,Ndola,Kabushi,Lubuto,18,3518,35,,0,Copperbelt,2.97764,Zambia
+445,Ndola,Bwana Mkubwa,Kantolomba,17,3317,33,,0,Copperbelt,2.10881,Zambia
+446,Ndola,Kabushi,Mukuba,19,3519,35,,0,Copperbelt,1.26848,Zambia
+447,Ndola,Kabushi,Kafubu,23,3523,35,,0,Copperbelt,1.58551,Zambia
+448,Ndola,Kabushi,Kabushi,22,3522,35,,0,Copperbelt,1.27388,Zambia
+449,Ndola,Kabushi,Toka,20,3520,35,,0,Copperbelt,0.624121,Zambia
+450,Ndola,Kabushi,Kaloko,21,3521,35,,0,Copperbelt,0.768753,Zambia
+451,Ndola,Kabushi,Masala,25,3525,35,,0,Copperbelt,0.871741,Zambia
+452,Ndola,Bwana Mkubwa,Itawa,11,3311,33,,0,Copperbelt,8.7161,Zambia
+453,Ndola,Bwana Mkubwa,Mushili,15,3315,33,,0,Copperbelt,5.40107,Zambia
+454,Ndola,Bwana Mkubwa,Munkulungwe,12,3312,33,,0,Copperbelt,114.205,Zambia
+455,Ndola,Bwana Mkubwa,Kavu,14,3314,33,,0,Copperbelt,21.2771,Zambia
+456,Ndola,Bwana Mkubwa,Twashuka,13,3313,33,,0,Copperbelt,51.5098,Zambia
+457,Ndola,Ndola,Twapia,26,3626,36,,0,Copperbelt,53.0359,Zambia
+458,Ndola,Ndola,Kaniki,28,3628,36,,0,Copperbelt,17.2015,Zambia
+459,Chadiza,Vubwi,Zozwe,22,3822,38,,0,Eastern,136.027,Zambia
+460,Chadiza,Vubwi,Mlawe,21,3821,38,,0,Eastern,109.682,Zambia
+461,Chadiza,Vubwi,Chisiya,19,3819,38,,0,Eastern,64.493,Zambia
+462,Chadiza,Vubwi,Chimphanje,20,3820,38,,0,Eastern,38.0877,Zambia
+463,Chadiza,Vubwi,Vubwi,18,3818,38,,0,Eastern,270.637,Zambia
+464,Chadiza,Vubwi,Mbozi,17,3817,38,,0,Eastern,320.723,Zambia
+465,Chadiza,Vubwi,Mwangazi,16,3816,38,,0,Eastern,330.949,Zambia
+466,Chadiza,Vubwi,Kabvumo,14,3814,38,,0,Eastern,97.7685,Zambia
+467,Chadiza,Vubwi,Ambidzi,13,3813,38,,0,Eastern,84.6941,Zambia
+468,Chadiza,Chadiza,Tafelansoni,12,3712,37,,0,Eastern,63.9779,Zambia
+469,Chadiza,Chadiza,Kampini,11,3711,37,,0,Eastern,74.5112,Zambia
+470,Chadiza,Chadiza,Chamandala,9,3709,37,,0,Eastern,75.1444,Zambia
+471,Chadiza,Chadiza,Naviruli,8,3708,37,,0,Eastern,98.4747,Zambia
+472,Chadiza,Chadiza,Chilenga,7,3707,37,,0,Eastern,64.1614,Zambia
+473,Chadiza,Chadiza,Kandabwako,10,3710,37,,0,Eastern,66.3747,Zambia
+474,Chadiza,Chadiza,Chadiza,6,3706,37,,0,Eastern,32.9889,Zambia
+475,Chadiza,Chadiza,Kapachi,5,3705,37,,0,Eastern,38.2415,Zambia
+476,Chadiza,Chadiza,Manje,3,3703,37,,0,Eastern,133.424,Zambia
+477,Chadiza,Chadiza,Chanjowe,4,3704,37,,0,Eastern,52.0313,Zambia
+478,Chadiza,Chadiza,Nsadzu,2,3702,37,,0,Eastern,89.9648,Zambia
+479,Chama,Chama South,Mapamba,22,4022,40,,0,Eastern,723.942,Zambia
+480,Chama,Chama South,Chilenje,21,4021,40,,0,Eastern,920.441,Zambia
+481,Chama,Chama South,Vilimukulu,20,4020,40,,0,Eastern,1076.09,Zambia
+482,Chama,Chama South,Lumezi,17,4017,40,,0,Eastern,508.255,Zambia
+483,Chama,Chama South,Mabinga,15,4015,40,,0,Eastern,509.406,Zambia
+484,Chama,Chama South,Lunzi,19,4019,40,,0,Eastern,589.669,Zambia
+485,Chama,Chama South,Chibungwe,18,4018,40,,0,Eastern,572.688,Zambia
+486,Chama,Chama South,Lupamazi,16,4016,40,,0,Eastern,281.708,Zambia
+487,Chama,Chama South,Bazimu,14,4014,40,,0,Eastern,466.932,Zambia
+488,Chama,Chama North,Muchinga,12,3912,39,,0,Eastern,3621.63,Zambia
+489,Chama,Chama North,Mwalala,11,3911,39,,0,Eastern,784.108,Zambia
+490,Chama,Chama North,Kamphemba,10,3910,39,,0,Eastern,194.032,Zambia
+491,Chama,Chama North,Mphalausenga,8,3908,39,,0,Eastern,355.868,Zambia
+492,Chama,Chama North,Kalinkhu,9,3909,39,,0,Eastern,279.684,Zambia
+493,Chama,Chama North,Manthepa,7,3907,39,,0,Eastern,420.915,Zambia
+494,Chama,Chama North,Mbazi,6,3906,39,,0,Eastern,201.373,Zambia
+495,Chama,Chama North,Ndunda,5,3905,39,,0,Eastern,690.94,Zambia
+496,Chama,Chama North,Chisunga,4,3904,39,,0,Eastern,1446.17,Zambia
+497,Chama,Chama North,Luangwa,3,3903,39,,0,Eastern,798.583,Zambia
+498,Chama,Chama North,Nkhankha,2,3902,39,,0,Eastern,707.607,Zambia
+499,Chipata,Chipangali,MISSING,-99,-99,41,Map only shows future wards. Maybe Chipangali,0,Eastern,686.881,Zambia
+500,Chipata,Chipangali,MISSING,-99,-99,41,Map only shows future wards. Maybe Rukuzye,0,Eastern,219.27,Zambia
+501,Chipata,Chipangali,MISSING,-99,-99,41,Map only shows future wards. Maybe Kasenga?,0,Eastern,186.754,Zambia
+502,Chipata,Chipangali,MISSING,-99,-99,41,Map only shows future wards. Maybe Msandile?,0,Eastern,245.609,Zambia
+503,Chipata,Chipangali,MISSING,-99,-99,41,Map only shows future wards. Maybe Sisinje,0,Eastern,225.541,Zambia
+504,Chipata,Kasenengwa,MISSING,-99,-99,43,Map only shows future wards. Maybe Mkowe?,0,Eastern,64.485,Zambia
+505,Chipata,Kasenengwa,MISSING,-99,-99,43,Map only shows future wards. Maybe Mboza?,0,Eastern,206.242,Zambia
+506,Chipata,Kasenengwa,MISSING,-99,-99,43,Map only shows future wards. Maybe Chiparamba?,0,Eastern,204.924,Zambia
+507,Chipata,Kasenengwa,MISSING,-99,-99,43,Map only shows future wards. Maybe Makungwa?,0,Eastern,110.234,Zambia
+508,Chipata,Kasenengwa,MISSING,-99,-99,43,Map only shows future wards. Maybe Chingazi,0,Eastern,160.599,Zambia
+509,Chipata,Kasenengwa,MISSING,-99,-99,43,Map only shows future wards. Maybe Kwenje?,0,Eastern,457.738,Zambia
+510,Chipata,Luangeni,MISSING,-99,-99,44,Map only shows future wards. Maybe Kazimule?,0,Eastern,188.503,Zambia
+511,Chipata,Luangeni,MISSING,-99,-99,44,Map only shows future wards. Maybe Chikando?,0,Eastern,194.365,Zambia
+512,Chipata,Luangeni,MISSING,-99,-99,44,Map only shows future wards. Maybe Makangila?,0,Eastern,129.082,Zambia
+513,Chipata,Luangeni,MISSING,-99,-99,44,Map only shows future wards. Maybe Khova?,0,Eastern,288.55,Zambia
+514,Chipata,Chipata,MISSING,-99,-99,42,Map only shows future wards. Maybe Msanga?,0,Eastern,152.609,Zambia
+515,Chipata,Chipata,MISSING,-99,-99,42,Map only shows future wards. Maybe Dilika?,0,Eastern,107.737,Zambia
+516,Chipata,Chipata,MISSING,-99,-99,42,Map only shows future wards. Maybe Kapata?,0,Eastern,10.6765,Zambia
+517,Katete,Milanzi,Kafumbwe,1,4501,45,,0,Eastern,174.958,Zambia
+518,Katete,Milanzi,Kapoche,4,4504,45,,0,Eastern,51.7813,Zambia
+519,Katete,Milanzi,Milanzi,3,4503,45,,0,Eastern,85.4843,Zambia
+520,Katete,Milanzi,Kazala,2,4502,45,,0,Eastern,143.073,Zambia
+521,Katete,Milanzi,Katiula,10,4510,45,,0,Eastern,170.093,Zambia
+522,Katete,Milanzi,Mwandafisi,9,4509,45,,0,Eastern,102.527,Zambia
+523,Katete,Milanzi,Dole,7,4507,45,,0,Eastern,95.0586,Zambia
+524,Katete,Milanzi,Chimwa,8,4508,45,,0,Eastern,37.1193,Zambia
+525,Katete,Milanzi,Chindwale,5,4505,45,,0,Eastern,44.1722,Zambia
+526,Katete,Sinda,Kamwaza,19,4719,47,,0,Eastern,144.622,Zambia
+527,Katete,Sinda,Nchingilizya,20,4720,47,,0,Eastern,81.735,Zambia
+528,Katete,Sinda,Luandazi,21,4721,47,,0,Eastern,136.807,Zambia
+529,Katete,Sinda,Chiwuyu,22,4722,47,,0,Eastern,124.223,Zambia
+530,Katete,Sinda,Sinda,23,4723,47,,0,Eastern,126.077,Zambia
+531,Katete,Sinda,Nyamasasonkho,25,4725,47,,0,Eastern,194.615,Zambia
+532,Katete,Sinda,Mngomba,26,4726,47,,0,Eastern,240.064,Zambia
+533,Katete,Sinda,Mnyamanzi,24,4724,47,,0,Eastern,121.619,Zambia
+534,Katete,Sinda,Chitawe,28,4728,47,,0,Eastern,99.977,Zambia
+535,Katete,Mkaika,Chimtende,15,4615,46,,0,Eastern,169.157,Zambia
+536,Katete,Mkaika,Vulamkoko,14,4614,46,,0,Eastern,89.1432,Zambia
+537,Katete,Mkaika,Kadula,13,4613,46,,0,Eastern,220.736,Zambia
+538,Katete,Mkaika,Chavuka,12,4612,46,,0,Eastern,122.531,Zambia
+539,Katete,Mkaika,Lukweta,16,4616,46,,0,Eastern,132.953,Zambia
+540,Katete,Mkaika,Matunga,18,4618,46,,0,Eastern,166.911,Zambia
+541,Katete,Mkaika,Mphangwe,11,4611,46,,0,Eastern,141.426,Zambia
+542,Petauke,Msanzala,Singozi,17,5417,54,,0,Eastern,330.892,Zambia
+543,Petauke,Msanzala,Mawanda,19,5419,54,,0,Eastern,1822.16,Zambia
+544,Petauke,Msanzala,Ukwimi,21,5421,54,,0,Eastern,359.313,Zambia
+545,Petauke,Msanzala,Chisangu,22,5422,54,,0,Eastern,253.171,Zambia
+546,Petauke,Kapoche,Kapoche,1,5301,53,,0,Eastern,170.293,Zambia
+547,Petauke,Kapoche,Chingombe,2,5302,53,,0,Eastern,198.432,Zambia
+548,Petauke,Kapoche,Mwangila,3,5303,53,,0,Eastern,370.16,Zambia
+549,Petauke,Kapoche,Matambazi,4,5304,53,,0,Eastern,401.032,Zambia
+550,Petauke,Kapoche,Kaumbwe,5,5305,53,,0,Eastern,239.693,Zambia
+551,Petauke,Kapoche,Lusinde,6,5306,53,,0,Eastern,188.402,Zambia
+552,Petauke,Kapoche,Manjazi,7,5307,53,,0,Eastern,211.925,Zambia
+553,Petauke,Petauke,Chilimanyama,16,5516,55,,0,Eastern,259.539,Zambia
+554,Petauke,Petauke,Nyika,15,5515,55,,0,Eastern,220.445,Zambia
+555,Petauke,Petauke,Kovyane,11,5511,55,,0,Eastern,188.572,Zambia
+556,Petauke,Petauke,Mbala,12,5512,55,,0,Eastern,168.056,Zambia
+557,Petauke,Petauke,Ongolwe,10,5510,55,,0,Eastern,250.643,Zambia
+558,Petauke,Petauke,Simbo,13,5513,55,,0,Eastern,253.872,Zambia
+559,Petauke,Msanzala,Mateyo Mseka,18,5418,54,,0,Eastern,339.519,Zambia
+560,Petauke,Msanzala,Nyakawise,14,5414,54,,0,Eastern,101.618,Zambia
+561,Chiengi,Chiengi,Lunchinda,1,6501,65,,0,Luapula,154.032,Zambia
+562,Chiengi,Chiengi,Chipungu,2,6502,65,,0,Luapula,101.587,Zambia
+563,Chiengi,Chiengi,Luau,3,6503,65,,0,Luapula,573.04,Zambia
+564,Chiengi,Chiengi,Lambwe Chomba,4,6504,65,,0,Luapula,424.119,Zambia
+565,Chiengi,Chiengi,Chiengi,5,6505,65,,0,Luapula,323.793,Zambia
+566,Chiengi,Chiengi,Katete,6,6506,65,,0,Luapula,594.748,Zambia
+567,Chiengi,Chiengi,Ifuna,7,6507,65,,0,Luapula,272.79,Zambia
+568,Chiengi,Chiengi,Chipamba,8,6508,65,,0,Luapula,335.887,Zambia
+569,Chiengi,Chiengi,Kalobwa,9,6509,65,,0,Luapula,271.721,Zambia
+570,Chiengi,Chiengi,Chitutu,10,6510,65,,0,Luapula,217.635,Zambia
+571,Chiengi,Chiengi,Munwa,11,6511,65,,0,Luapula,70.2971,Zambia
+572,Chiengi,Chiengi,Kalungwishi,12,6512,65,,0,Luapula,70.8482,Zambia
+573,Kawambwa,Mwansabombwe,Mbereshi,22,5722,57,,0,Luapula,55.7399,Zambia
+574,Kawambwa,Mwansabombwe,Kayo,21,5721,57,,0,Luapula,109.4,Zambia
+575,Kawambwa,Mwansabombwe,Chipita,20,5720,57,,0,Luapula,64.5228,Zambia
+576,Kawambwa,Mwansabombwe,Kakose,19,5719,57,,0,Luapula,8.52953,Zambia
+577,Kawambwa,Mwansabombwe,Mwansabombwe,18,5718,57,,0,Luapula,7.54424,Zambia
+578,Kawambwa,Mwansabombwe,Lufubu,17,5717,57,,0,Luapula,386.384,Zambia
+579,Kawambwa,Mwansabombwe,Mulele,16,5716,57,,0,Luapula,286.158,Zambia
+580,Kawambwa,Kawambwa,Iyanga,14,5614,56,,0,Luapula,670.616,Zambia
+581,Kawambwa,Kawambwa,Nthumbachushi,4,5604,56,,0,Luapula,289.209,Zambia
+582,Kawambwa,Kawambwa,Kawambwa,5,5605,56,,0,Luapula,71.5485,Zambia
+583,Kawambwa,Kawambwa,Ngona,6,5606,56,,0,Luapula,170.187,Zambia
+584,Kawambwa,Kawambwa,Fisaka,7,5607,56,,0,Luapula,377.182,Zambia
+585,Kawambwa,Kawambwa,Luela,3,5603,56,,0,Luapula,45.3667,Zambia
+586,Kawambwa,Pambashe,Kabanse,2,5802,58,,0,Luapula,1366.5,Zambia
+587,Kawambwa,Pambashe,Ilombe,8,5808,58,,0,Luapula,168.287,Zambia
+588,Kawambwa,Pambashe,Pambashe,13,5813,58,,0,Luapula,632.843,Zambia
+589,Kawambwa,Pambashe,Mulunda,9,5809,58,,0,Luapula,330.822,Zambia
+590,Kawambwa,Pambashe,Chibote,10,5810,58,,0,Luapula,1113.23,Zambia
+591,Kawambwa,Pambashe,Chipili,11,5811,58,,0,Luapula,615.114,Zambia
+592,Mansa,Bahati,Mutuna,1,5901,59,,0,Luapula,739.114,Zambia
+593,Mansa,Bahati,Misakalala,2,5902,59,,0,Luapula,544.517,Zambia
+594,Mansa,Bahati,Kaole,3,5903,59,,0,Luapula,675.389,Zambia
+595,Mansa,Bahati,Mushipashi,4,5904,59,,0,Luapula,314.197,Zambia
+596,Mansa,Bahati,Chibeleka,5,5905,59,,0,Luapula,276.883,Zambia
+597,Mansa,Mansa,Katangashi,13,6113,61,,0,Luapula,1137.46,Zambia
+598,Mansa,Mansa,Myulu,12,6112,61,,0,Luapula,426.374,Zambia
+599,Mansa,Mansa,Chansunsu,11,6111,61,,0,Luapula,67.4025,Zambia
+600,Mansa,Mansa,Mansa,10,6110,61,,0,Luapula,1012.27,Zambia
+601,Mansa,Mansa,MERGED WARDS,-88,6188,61,Muchinka AND Chilyapa - wards 8 9,1,Luapula,23.5018,Zambia
+602,Mansa,Mansa,Lwingishi,14,6114,61,,0,Luapula,1317.25,Zambia
+603,Mansa,Mansa,Lukola,16,6116,61,,0,Luapula,711.294,Zambia
+604,Mansa,Bahati,Muleshi,7,5907,59,,0,Luapula,117.025,Zambia
+605,Milenge,Chembe,Chiswishi,1,6001,60,,0,Luapula,296.062,Zambia
+606,Milenge,Chembe,Mulumbi,2,6002,60,,0,Luapula,154.827,Zambia
+607,Milenge,Chembe,Lusubwe,4,6004,60,,0,Luapula,230.981,Zambia
+608,Milenge,Chembe,Itembo,3,6003,60,,0,Luapula,925.011,Zambia
+609,Milenge,Chembe,Fibalala,7,6007,60,,0,Luapula,494.847,Zambia
+610,Milenge,Chembe,Nsaka,6,6006,60,,0,Luapula,855.037,Zambia
+611,Milenge,Chembe,Milambo,5,6005,60,,0,Luapula,687.289,Zambia
+612,Milenge,Chembe,Nsunga,8,6008,60,,0,Luapula,807.482,Zambia
+613,Milenge,Chembe,Mumbotuta,11,6011,60,,0,Luapula,478.128,Zambia
+614,Milenge,Chembe,Kapalala,12,6012,60,,0,Luapula,94.8939,Zambia
+615,Milenge,Chembe,Mikula,13,6013,60,,0,Luapula,192.331,Zambia
+616,Milenge,Chembe,Sokontwe,10,6010,60,,0,Luapula,109.012,Zambia
+617,Mwense,Chipili,Mweshi,2,6202,62,,0,Luapula,612.7,Zambia
+618,Mwense,Chipili,Mumbwe,3,6203,62,,0,Luapula,487.125,Zambia
+619,Mwense,Chipili,Chibalashi,4,6204,62,,0,Luapula,796.816,Zambia
+620,Mwense,Chipili,Nalupembe,5,6205,62,,0,Luapula,600.006,Zambia
+621,Mwense,Chipili,Nkonge,6,6206,62,,0,Luapula,623.53,Zambia
+622,Mwense,Mwense,Kaombe,22,6422,64,,0,Luapula,52.1082,Zambia
+623,Mwense,Mwense,Nkanga,21,6421,64,,0,Luapula,63.9097,Zambia
+624,Mwense,Mwense,Luche,20,6420,64,,0,Luapula,130.052,Zambia
+625,Mwense,Mwense,Pabekabesa,19,6419,64,,0,Luapula,234.486,Zambia
+626,Mwense,Mwense,Kapela,18,6418,64,,0,Luapula,61.2881,Zambia
+627,Mwense,Mwense,Chachacha,17,6417,64,,0,Luapula,197.329,Zambia
+628,Mwense,Mwense,Katiti,16,6416,64,,0,Luapula,188.164,Zambia
+629,Mwense,Mambilima,MAP LABELS UNCLEAR,-99,-99,63,Maybe Nsomfi?,0,Luapula,69.1031,Zambia
+630,Mwense,Mambilima,MAP LABELS UNCLEAR,-99,-99,63,Maybe Kalanga?,0,Luapula,161.213,Zambia
+631,Mwense,Mambilima,Munwa,12,6312,63,,0,Luapula,20.9142,Zambia
+632,Mwense,Mambilima,Mambilima,11,6311,63,,0,Luapula,68.1879,Zambia
+633,Mwense,Mambilima,Lundashi,10,6310,63,,0,Luapula,204.972,Zambia
+634,Mwense,Mambilima,Musonda,9,6309,63,,0,Luapula,154.341,Zambia
+635,Mwense,Mambilima,Chibembe,8,6308,63,,0,Luapula,198.375,Zambia
+636,Nchelenge,Nchelenge,Munkombwe,3,6603,66,,0,Luapula,722.161,Zambia
+637,Nchelenge,Nchelenge,Kabuta,1,6601,66,,0,Luapula,452.972,Zambia
+638,Nchelenge,Nchelenge,Mwatishi,2,6602,66,,0,Luapula,581.264,Zambia
+639,Nchelenge,Nchelenge,Kashikishi,5,6605,66,,0,Luapula,375.962,Zambia
+640,Nchelenge,Nchelenge,Nchelenge,6,6606,66,,0,Luapula,235.063,Zambia
+641,Nchelenge,Nchelenge,Kilwa,4,6604,66,,0,Luapula,259.323,Zambia
+642,Nchelenge,Nchelenge,Chisenga,8,6608,66,,0,Luapula,296.299,Zambia
+643,Nchelenge,Nchelenge,Kasamba,9,6609,66,,0,Luapula,91.5511,Zambia
+644,Nchelenge,Nchelenge,Chilongo,7,6607,66,,0,Luapula,205.952,Zambia
+645,Nchelenge,Nchelenge,Mulwe,10,6610,66,,0,Luapula,260.884,Zambia
+646,Nchelenge,Nchelenge,Shabo,11,6611,66,,0,Luapula,235.797,Zambia
+647,Nchelenge,Nchelenge,Katofyo,13,6613,66,,0,Luapula,253.168,Zambia
+648,Samfya,Luapula,Lunga,15,6915,69,,0,Luapula,365.051,Zambia
+649,Samfya,Luapula,Nsalushi,19,6919,69,,0,Luapula,640.333,Zambia
+650,Samfya,Luapula,Ncheta,18,6918,69,,0,Luapula,965.035,Zambia
+651,Samfya,Bangeulu,Lumamya,22,6722,67,,0,Luapula,437.727,Zambia
+652,Samfya,Bangeulu,Kapilibila,21,6721,67,,0,Luapula,486.056,Zambia
+653,Samfya,Bangeulu,Musaba,20,6720,67,,0,Luapula,546.293,Zambia
+654,Samfya,Bangeulu,Kapata,17,6717,67,,0,Luapula,506.152,Zambia
+655,Samfya,Bangeulu,Katanshya,13,6713,67,,0,Luapula,154.927,Zambia
+656,Samfya,Bangeulu,Isamba,16,6716,67,,0,Luapula,381.215,Zambia
+657,Samfya,Bangeulu,Chimana,11,6711,67,,0,Luapula,247.423,Zambia
+658,Samfya,Chifunabuli,Chifunauli,9,6809,68,,0,Luapula,403.503,Zambia
+659,Samfya,Chifunabuli,Kasongole,5,6805,68,,0,Luapula,430.098,Zambia
+660,Samfya,Chifunabuli,Kafumbo,6,6806,68,,0,Luapula,232.445,Zambia
+661,Samfya,Chifunabuli,Masonde,1,6801,68,,0,Luapula,366.015,Zambia
+662,Samfya,Chifunabuli,Chinkutila,7,6807,68,,0,Luapula,261.441,Zambia
+663,Samfya,Chifunabuli,Chisi,8,6808,68,,0,Luapula,263.456,Zambia
+664,Samfya,Chifunabuli,Kapamba,4,6804,68,,0,Luapula,184.024,Zambia
+665,Samfya,Chifunabuli,Kasaba,3,6803,68,,0,Luapula,208.116,Zambia
+666,Samfya,Chifunabuli,Kasansa,2,6802,68,,0,Luapula,156.929,Zambia
+667,Chongwe,Rufunsa,Shikabeta,17,7417,74,,0,Lusaka,1977.78,Zambia
+668,Chongwe,Rufunsa,Mankanda,16,7416,74,,0,Lusaka,1435.61,Zambia
+669,Chongwe,Rufunsa,Rufunsa,15,7415,74,,0,Lusaka,2738.55,Zambia
+670,Chongwe,Rufunsa,Nyamanongo,14,7414,74,,0,Lusaka,1387.14,Zambia
+671,Chongwe,Rufunsa,Mwachilele,11,7411,74,,0,Lusaka,174.394,Zambia
+672,Chongwe,Rufunsa,Nyangwena,12,7412,74,,0,Lusaka,434.954,Zambia
+673,Chongwe,Chongwe,Kapwayambale,1,7301,73,,0,Lusaka,289.536,Zambia
+674,Chongwe,Chongwe,Chinkuli,2,7302,73,,0,Lusaka,264.913,Zambia
+675,Chongwe,Chongwe,Kanakantapa,5,7305,73,,0,Lusaka,330.396,Zambia
+676,Chongwe,Chongwe,Chalimbana,6,7306,73,,0,Lusaka,147.745,Zambia
+677,Chongwe,Chongwe,Chongwe,4,7304,73,,0,Lusaka,168.296,Zambia
+678,Chongwe,Chongwe,Ntandabale,3,7303,73,,0,Lusaka,329.54,Zambia
+679,Chongwe,Chongwe,Nakatindi,7,7307,73,,0,Lusaka,280.072,Zambia
+680,Chongwe,Chongwe,Lukoshi,8,7308,73,,0,Lusaka,259.402,Zambia
+681,Chongwe,Chongwe,Lwimba,10,7310,73,,0,Lusaka,176.905,Zambia
+682,Kafue,Kafue,Chiyaba,1,7001,70,,0,Lusaka,1626.44,Zambia
+683,Kafue,Kafue,Kambale,2,7002,70,,0,Lusaka,680.693,Zambia
+684,Kafue,Kafue,Chisankane,4,7004,70,,0,Lusaka,335.522,Zambia
+685,Kafue,Kafue,Malundu,3,7003,70,,0,Lusaka,886.114,Zambia
+686,Kafue,Kafue,Lukolongo,5,7005,70,,0,Lusaka,121.758,Zambia
+687,Kafue,Kafue,Kafue,6,7006,70,,0,Lusaka,41.9303,Zambia
+688,Kafue,Kafue,Matanda,7,7007,70,,0,Lusaka,41.1031,Zambia
+689,Kafue,Kafue,Kasenje,9,7009,70,,0,Lusaka,20.2316,Zambia
+690,Kafue,Kafue,Shabusale,8,7008,70,,0,Lusaka,34.1112,Zambia
+691,Kafue,Kafue,Muungu,10,7010,70,,0,Lusaka,168.515,Zambia
+692,Kafue,Chilanga,Chilanga,12,7212,72,,0,Lusaka,225.655,Zambia
+693,Kafue,Chilanga,Chilongolo,13,7213,72,,0,Lusaka,321.02,Zambia
+694,Kafue,Chilanga,Namalombwe,14,7214,72,,0,Lusaka,136.161,Zambia
+695,Kafue,Chilanga,Nyemba,15,7215,72,,0,Lusaka,177.775,Zambia
+696,Kafue,Chilanga,Nakachenje,16,7216,72,,0,Lusaka,114.355,Zambia
+697,Luangwa,Feira,Nkaliva,2,7102,71,,0,Lusaka,1919.06,Zambia
+698,Luangwa,Feira,Dzalo,1,7101,71,,0,Lusaka,77.5094,Zambia
+699,Luangwa,Feira,Mandombe,3,7103,71,,0,Lusaka,30.743,Zambia
+700,Luangwa,Feira,Phwazi,4,7104,71,,0,Lusaka,111.607,Zambia
+701,Luangwa,Feira,Mphuka,5,7105,71,,0,Lusaka,185.16,Zambia
+702,Luangwa,Feira,Kabowo,6,7106,71,,0,Lusaka,705.318,Zambia
+703,Luangwa,Feira,Kapoche,7,7107,71,,0,Lusaka,69.4478,Zambia
+704,Luangwa,Feira,Chiriwe,8,7108,71,,0,Lusaka,37.5454,Zambia
+705,Luangwa,Feira,Lunya,9,7109,71,,0,Lusaka,69.2432,Zambia
+706,Luangwa,Feira,Katondwe,10,7110,71,,0,Lusaka,332.62,Zambia
+707,Luangwa,Feira,Chikoma,11,7111,71,,0,Lusaka,30.244,Zambia
+708,Luangwa,Feira,Mburuma,12,7112,71,,0,Lusaka,148.435,Zambia
+709,Luangwa,Feira,Mwalilia,13,7113,71,,0,Lusaka,26.7977,Zambia
+710,Luangwa,Feira,Mankhokwe,15,7115,71,,0,Lusaka,63.3081,Zambia
+711,Lusaka,Lusaka Central,Lubwa,15,7815,78,,0,Lusaka,20.8703,Zambia
+712,Lusaka,Lusaka Central,Independence,14,7814,78,,0,Lusaka,7.23382,Zambia
+713,Lusaka,Lusaka Central,Silwizya,13,7813,78,,0,Lusaka,2.08856,Zambia
+714,Lusaka,Kabwata,Chilenje,8,7608,76,,0,Lusaka,10.9481,Zambia
+715,Lusaka,Kabwata,Kamwala,5,7605,76,,0,Lusaka,6.28882,Zambia
+716,Lusaka,Kabwata,Kabwata,6,7606,76,,0,Lusaka,3.11342,Zambia
+717,Lusaka,Kabwata,Libala,7,7607,76,,0,Lusaka,6.85322,Zambia
+718,Lusaka,Chawama,Nkoloma,1,7501,75,,0,Lusaka,3.86584,Zambia
+719,Lusaka,Chawama,Chawama,2,7502,75,,0,Lusaka,4.40438,Zambia
+720,Lusaka,Chawama,John Howard,3,7503,75,,0,Lusaka,2.0532,Zambia
+721,Lusaka,Kanyama,Munkolo,12,7712,77,,0,Lusaka,34.9247,Zambia
+722,Lusaka,Kanyama,Harry Mwaanga Nkumbula,11,7711,77,,0,Lusaka,20.9516,Zambia
+723,Lusaka,Matero,Matero,28,8028,80,,0,Lusaka,6.92226,Zambia
+724,Lusaka,Matero,Lima,26,8026,80,,0,Lusaka,2.01355,Zambia
+725,Lusaka,Matero,Kapwepwe,25,8025,80,,0,Lusaka,2.68262,Zambia
+726,Lusaka,Matero,Muchinga,24,8024,80,,0,Lusaka,3.72694,Zambia
+727,Lusaka,Mandevu,Justine Kabwe,21,7921,79,,0,Lusaka,1.41696,Zambia
+728,Lusaka,Mandevu,Chaisa,20,7920,79,,0,Lusaka,0.619447,Zambia
+729,Lusaka,Mandevu,Ngwerere,19,7919,79,,0,Lusaka,3.72857,Zambia
+730,Lusaka,Mandevu,Mulungushi,18,7918,79,,0,Lusaka,6.01525,Zambia
+731,Lusaka,Mandevu,Mpulungu,23,7923,79,,0,Lusaka,18.2245,Zambia
+732,Lusaka,Mandevu,Raphael Chota,22,7922,79,,0,Lusaka,7.44588,Zambia
+733,Lusaka,Munali,Munali,33,8133,81,,0,Lusaka,14.4919,Zambia
+734,Lusaka,Munali,Kalingalinga,31,8131,81,,0,Lusaka,10.3774,Zambia
+735,Lusaka,Munali,Mtendere,30,8130,81,,0,Lusaka,5.44846,Zambia
+736,Lusaka,Munali,Chakunkula,32,8132,81,,0,Lusaka,4.60009,Zambia
+737,Lusaka,Mandevu,Roma,17,7917,79,,0,Lusaka,14.474,Zambia
+738,Chilubi,Chilubi,Mulanda,1,8201,82,,0,Northern,429.914,Zambia
+739,Chilubi,Chilubi,Mpanshya,10,8210,82,,0,Northern,115.666,Zambia
+740,Chilubi,Chilubi,Ndela,5,8205,82,,0,Northern,58.7495,Zambia
+741,Chilubi,Chilubi,Katamba,6,8206,82,,0,Northern,110.331,Zambia
+742,Chilubi,Chilubi,Kashitu,11,8211,82,,0,Northern,34.5469,Zambia
+743,Chilubi,Chilubi,Kambashi,12,8212,82,,0,Northern,40.9145,Zambia
+744,Chilubi,Chilubi,Nguni,13,8213,82,,0,Northern,35.8364,Zambia
+745,Chilubi,Chilubi,Kanchindi,16,8216,82,,0,Northern,338.194,Zambia
+746,Chilubi,Chilubi,Kapoka,17,8217,82,,0,Northern,34.5815,Zambia
+747,Chilubi,Chilubi,Kawena,18,8218,82,,0,Northern,89.9909,Zambia
+748,Chilubi,Chilubi,Mubemba,21,8221,82,,0,Northern,54.456,Zambia
+749,Chilubi,Chilubi,Chinkundu,14,8214,82,,0,Northern,114.338,Zambia
+750,Chilubi,Chilubi,Kanama,19,8219,82,,0,Northern,76.8916,Zambia
+751,Chilubi,Chilubi,Muteka,7,8207,82,,0,Northern,107.605,Zambia
+752,Chilubi,Chilubi,Chifwenge,2,8202,82,,0,Northern,253.887,Zambia
+753,Chilubi,Chilubi,Lwenda,8,8208,82,,0,Northern,90.8503,Zambia
+754,Chilubi,Chilubi,Bulilo,3,8203,82,,0,Northern,208.133,Zambia
+755,Chilubi,Chilubi,Chisupa,4,8204,82,,0,Northern,267.436,Zambia
+756,Chilubi,Chilubi,Mofu,9,8209,82,,0,Northern,440.762,Zambia
+757,Chilubi,Chilubi,Chiloba,15,8215,82,,0,Northern,296.959,Zambia
+758,Chilubi,Chilubi,Bumba,20,8220,82,,0,Northern,392.369,Zambia
+759,Mbala,Mbala,Intala,1,9501,95,,0,Northern,624.45,Zambia
+760,Mbala,Mbala,Moto Moto,2,9502,95,,0,Northern,109.228,Zambia
+761,Mbala,Mbala,Kawimbe,6,9506,95,,0,Northern,127.522,Zambia
+762,Mbala,Mbala,Mwamba,7,9507,95,,0,Northern,167.145,Zambia
+763,Mbala,Mbala,Lwandi,8,9508,95,,0,Northern,574.081,Zambia
+764,Mbala,Mbala,Kazimolwa,3,9503,95,,0,Northern,51.0621,Zambia
+765,Mbala,Mbala,Mwambezi,4,9504,95,,0,Northern,552.783,Zambia
+766,Mbala,Senga Hill,Mwiluzi,14,9714,97,,0,Northern,443.972,Zambia
+767,Mbala,Senga Hill,Chela,13,9713,97,,0,Northern,873.837,Zambia
+768,Mbala,Senga Hill,Chimbili,12,9712,97,,0,Northern,826.991,Zambia
+769,Mbala,Senga Hill,Malamba,11,9711,97,,0,Northern,469.893,Zambia
+770,Mbala,Senga Hill,Chinyika,15,9715,97,,0,Northern,547.024,Zambia
+771,Mbala,Senga Hill,Lapisha,10,9710,97,,0,Northern,625.495,Zambia
+772,Mbala,Senga Hill,Mukololo,9,9709,97,,0,Northern,696.519,Zambia
+773,Mbala,Senga Hill,Chozi,17,9717,97,,0,Northern,255.933,Zambia
+774,Mpika,Mfuwe,Chifungwe,19,9919,99,,0,Northern,7501.02,Zambia
+775,Mpika,Mfuwe,Muchinga,20,9920,99,,0,Northern,2198.46,Zambia
+776,Mpika,Mfuwe,Chikanda,21,9921,99,,0,Northern,1363.82,Zambia
+777,Mpika,Kanchibiya,Lulimala,9,9809,98,,0,Northern,2424.75,Zambia
+778,Mpika,Kanchibiya,Lukulu,8,9808,98,,0,Northern,3979.32,Zambia
+779,Mpika,Kanchibiya,Chibwa,10,9810,98,,0,Northern,1557.69,Zambia
+780,Mpika,Kanchibiya,Chinama,7,9807,98,,0,Northern,1011.33,Zambia
+781,Mpika,Kanchibiya,Munikashi,6,9806,98,,0,Northern,1195.1,Zambia
+782,Mpika,Kanchibiya,Lulingila,5,9805,98,,0,Northern,765.37,Zambia
+783,Mpika,Kanchibiya,Chambeshi,1,9801,98,,0,Northern,651.227,Zambia
+784,Mpika,Kanchibiya,Mansha,2,9802,98,,0,Northern,501.834,Zambia
+785,Mpika,Kanchibiya,Mumbubu,3,9803,98,,0,Northern,919.396,Zambia
+786,Mpika,Mpika,Mutekwe,17,10017,100,,0,Northern,1504.37,Zambia
+787,Mpika,Mpika,Mukungwa,11,10011,100,,0,Northern,886.839,Zambia
+788,Mpika,Mpika,Lwitikila,12,10012,100,,0,Northern,496.608,Zambia
+789,Mpika,Mpika,Chipembele,18,10018,100,,0,Northern,1520.54,Zambia
+790,Mpika,Mpika,Chishibe Isonde,15,10015,100,,0,Northern,558.061,Zambia
+791,Mpika,Mpika,MERGED WARDS,-88,10088,100,Musakanya AND Lubambala  - wards 13 and 14,1,Northern,51.4517,Zambia
+792,Mporokoso,Mporokoso,Lumangwe,1,10201,102,,0,Northern,1240.78,Zambia
+793,Mporokoso,Mporokoso,Chikulu,2,10202,102,,0,Northern,389.841,Zambia
+794,Mporokoso,Mporokoso,Mumbulama,3,10203,102,,0,Northern,334.575,Zambia
+795,Mporokoso,Mporokoso,Chimpolonge,8,10208,102,,0,Northern,641.427,Zambia
+796,Mporokoso,Mporokoso,Chishamwamba,4,10204,102,,0,Northern,651.902,Zambia
+797,Mporokoso,Mporokoso,Muchinga,7,10207,102,,0,Northern,138.009,Zambia
+798,Mporokoso,Mporokoso,MERGED WARDS,-88,10288,102,Mikomba AND Kapumo  - wards 5 AND 6,1,Northern,22.4247,Zambia
+799,Mporokoso,Mporokoso,Mutotoshi,9,10209,102,,0,Northern,341.206,Zambia
+800,Mporokoso,Lunte,Kasanshi,11,10111,101,,0,Northern,516.298,Zambia
+801,Mporokoso,Lunte,Luangwa,18,10118,101,,0,Northern,2042.25,Zambia
+802,Mporokoso,Lunte,Masonde,17,10117,101,,0,Northern,765.543,Zambia
+803,Mporokoso,Lunte,Bwandela,16,10116,101,,0,Northern,240.086,Zambia
+804,Mporokoso,Lunte,Lunte,20,10120,101,,0,Northern,836.225,Zambia
+805,Mporokoso,Lunte,Lubushi,22,10122,101,,0,Northern,285.762,Zambia
+806,Mporokoso,Lunte,Kanyanta,21,10121,101,,0,Northern,696.977,Zambia
+807,Mporokoso,Lunte,Kalungwishi,19,10119,101,,0,Northern,884.602,Zambia
+808,Mporokoso,Lunte,Isenga,12,10112,101,,0,Northern,278.423,Zambia
+809,Mporokoso,Lunte,Nchelenje,13,10113,101,,0,Northern,442.035,Zambia
+810,Mporokoso,Lunte,Malambwa,14,10114,101,,0,Northern,331.001,Zambia
+811,Mpulungu,Mpulungu,Isunga,13,9613,96,,0,Northern,569.672,Zambia
+812,Mpulungu,Mpulungu,Chisha,12,9612,96,,0,Northern,2827.32,Zambia
+813,Mpulungu,Mpulungu,Vyamba,11,9611,96,,0,Northern,623.017,Zambia
+814,Mpulungu,Mpulungu,Itimbwe,10,9610,96,,0,Northern,1048.22,Zambia
+815,Mpulungu,Mpulungu,Mumila,9,9609,96,,0,Northern,912.38,Zambia
+816,Mpulungu,Mpulungu,Isoko,7,9607,96,,0,Northern,190.417,Zambia
+817,Mpulungu,Mpulungu,Katwe,2,9602,96,,0,Northern,862.863,Zambia
+818,Mpulungu,Mpulungu,Chibulula,3,9603,96,,0,Northern,267.155,Zambia
+819,Mpulungu,Mpulungu,Mpulungu Central,4,9604,96,,0,Northern,131.593,Zambia
+820,Mpulungu,Mpulungu,Chilumba,6,9606,96,,0,Northern,56.5105,Zambia
+821,Mpulungu,Mpulungu,Tanganyika,5,9605,96,,0,Northern,39.9877,Zambia
+822,Mpulungu,Mpulungu,Kapembwa,1,9601,96,,0,Northern,948.585,Zambia
+823,Mungwi,Malole,Lubala,1,9201,92,,0,Northern,1641.87,Zambia
+824,Mungwi,Malole,Mpanda,2,9202,92,,0,Northern,772.714,Zambia
+825,Mungwi,Malole,Kabisha,3,9203,92,,0,Northern,888.487,Zambia
+826,Mungwi,Malole,Fibwe,4,9204,92,,0,Northern,864.735,Zambia
+827,Mungwi,Malole,Chamfubu,5,9205,92,,0,Northern,988.313,Zambia
+828,Mungwi,Malole,Ngulula,9,9209,92,,0,Northern,273.07,Zambia
+829,Mungwi,Malole,Mabula,12,9212,92,,0,Northern,182.569,Zambia
+830,Mungwi,Malole,Mfinshe,13,9213,92,,0,Northern,343.689,Zambia
+831,Mungwi,Malole,Chabeshi,11,9211,92,,0,Northern,1084.01,Zambia
+832,Mungwi,Malole,Kalungu,7,9207,92,,0,Northern,991.981,Zambia
+833,Mungwi,Malole,Iyaya,6,9206,92,,0,Northern,747.89,Zambia
+834,Mungwi,Malole,Mungwi,10,9210,92,,0,Northern,317.204,Zambia
+835,Nakonde,Nakonde,Mulalo,1,8701,87,,0,Northern,796.783,Zambia
+836,Nakonde,Nakonde,Chiwanza,6,8706,87,,0,Northern,890.75,Zambia
+837,Nakonde,Nakonde,Ilonda,7,8707,87,,0,Northern,302.419,Zambia
+838,Nakonde,Nakonde,Mukulika,13,8713,87,,0,Northern,523.033,Zambia
+839,Nakonde,Nakonde,Mpande,12,8712,87,,0,Northern,409.1,Zambia
+840,Nakonde,Nakonde,Musele,11,8711,87,,0,Northern,211.948,Zambia
+841,Nakonde,Nakonde,Old Fife,10,8710,87,,0,Northern,75.6372,Zambia
+842,Nakonde,Nakonde,Nakonde,9,8709,87,,0,Northern,36.4737,Zambia
+843,Nakonde,Nakonde,Musyani,4,8704,87,,0,Northern,91.9708,Zambia
+844,Nakonde,Nakonde,Isunda,8,8708,87,,0,Northern,273.373,Zambia
+845,Nakonde,Nakonde,Ngumba,3,8703,87,,0,Northern,295.38,Zambia
+846,Nakonde,Nakonde,Luchinde,2,8702,87,,0,Northern,317.812,Zambia
+847,Chavuma,Chavuma,Nguvu,13,10313,103,,0,Northwestern,684.809,Zambia
+848,Chavuma,Chavuma,Lingundu,9,10309,103,,0,Northwestern,685.725,Zambia
+849,Chavuma,Chavuma,Lukolwe/Musumba,10,10310,103,,0,Northwestern,288.939,Zambia
+850,Chavuma,Chavuma,Kambuya Mukelangombe,11,10311,103,,0,Northwestern,651.295,Zambia
+851,Chavuma,Chavuma,Chambi/Mandalo,1,10301,103,,0,Northwestern,51.7463,Zambia
+852,Chavuma,Chavuma,Sewe,2,10302,103,,0,Northwestern,24.332,Zambia
+853,Chavuma,Chavuma,Chavuma Central,7,10307,103,,0,Northwestern,22.0226,Zambia
+854,Chavuma,Chavuma,Chiyeke,4,10304,103,,0,Northwestern,62.952,Zambia
+855,Chavuma,Chavuma,Lingelengenda,3,10303,103,,0,Northwestern,33.9387,Zambia
+856,Chavuma,Chavuma,Kalombo Kamisamba,5,10305,103,,0,Northwestern,101.446,Zambia
+857,Chavuma,Chavuma,Chivombo Mbalango,6,10306,103,,0,Northwestern,270.307,Zambia
+858,Chavuma,Chavuma,Sanjongo,8,10308,103,,0,Northwestern,178.417,Zambia
+859,Mwinilunga,Ikelenge,Jimbe,2,10902,109,,0,Northwestern,145.646,Zambia
+860,Mwinilunga,Ikelenge,Chana-Chamuhinga,1,10901,109,,0,Northwestern,367.893,Zambia
+861,Mwinilunga,Ikelenge,Nyakaseya,3,10903,109,,0,Northwestern,243.416,Zambia
+862,Mwinilunga,Ikelenge,Mwininyilamba,5,10905,109,,0,Northwestern,476.101,Zambia
+863,Mwinilunga,Ikelenge,Ikelengi,4,10904,109,,0,Northwestern,423.685,Zambia
+864,Kabompo,Kabompo East,Dihamba,1,10401,104,,0,Northwestern,590.551,Zambia
+865,Kabompo,Kabompo East,Lunsona,2,10402,104,,0,Northwestern,1867.46,Zambia
+866,Kabompo,Kabompo East,Chongo,9,10409,104,,0,Northwestern,627.646,Zambia
+867,Kabompo,Kabompo East,Manyinga,5,10405,104,,0,Northwestern,429.631,Zambia
+868,Kabompo,Kabompo East,Chiteve,4,10404,104,,0,Northwestern,549.789,Zambia
+869,Kabompo,Kabompo East,Kawanda,7,10407,104,,0,Northwestern,202.879,Zambia
+870,Kabompo,Kabompo East,Kaula,8,10408,104,,0,Northwestern,467.324,Zambia
+871,Kabompo,Kabompo East,Loloma,6,10406,104,,0,Northwestern,102.751,Zambia
+872,Kabompo,Kabompo West,Lunyiwe,20,10520,105,,0,Northwestern,521.09,Zambia
+873,Kabompo,Kabompo West,Kayombo,21,10521,105,,0,Northwestern,398.496,Zambia
+874,Kabompo,Kabompo West,Chikonkwelo,22,10522,105,,0,Northwestern,712.378,Zambia
+875,Kabompo,Kabompo West,Kamafwafwa,10,10510,105,,0,Northwestern,250.231,Zambia
+876,Kabompo,Kabompo West,Kabompo,11,10511,105,,0,Northwestern,95.7153,Zambia
+877,Kabompo,Kabompo West,Luli,16,10516,105,,0,Northwestern,730.938,Zambia
+878,Kabompo,Kabompo West,Katuva,17,10517,105,,0,Northwestern,656.075,Zambia
+879,Kabompo,Kabompo West,Chikenge,19,10519,105,,0,Northwestern,703.772,Zambia
+880,Kabompo,Kabompo West,Maveve,18,10518,105,,0,Northwestern,563.098,Zambia
+881,Kabompo,Kabompo West,Mumbeji,15,10515,105,,0,Northwestern,681.683,Zambia
+882,Kabompo,Kabompo West,Kabulamema,14,10514,105,,0,Northwestern,364.788,Zambia
+883,Kabompo,Kabompo West,Kamisombo,13,10513,105,,0,Northwestern,744.156,Zambia
+884,Mwinilunga,Mwinilunga,Kakoma,7,10807,108,,0,Northwestern,1226.96,Zambia
+885,Mwinilunga,Mwinilunga,Kasampula,8,10808,108,,0,Northwestern,1111.48,Zambia
+886,Mwinilunga,Mwinilunga,Mundwinji,4,10804,108,,0,Northwestern,776.757,Zambia
+887,Mwinilunga,Mwinilunga,Kapundu,5,10805,108,,0,Northwestern,620.378,Zambia
+888,Mwinilunga,Mwinilunga,Kanyama,6,10806,108,,0,Northwestern,460.649,Zambia
+889,Mwinilunga,Mwinilunga,Kawiku,2,10802,108,,0,Northwestern,338.179,Zambia
+890,Mwinilunga,Mwinilunga,Mulumbi,3,10803,108,,0,Northwestern,96.6986,Zambia
+891,Mwinilunga,Mwinilunga,Mudyanyama,14,10814,108,,0,Northwestern,243.454,Zambia
+892,Mwinilunga,Mwinilunga,Samuteba,13,10813,108,,0,Northwestern,2338.48,Zambia
+893,Mwinilunga,Mwinilunga,Lumwana,9,10809,108,,0,Northwestern,1348.35,Zambia
+894,Mwinilunga,Mwinilunga,Sailunga,10,10810,108,,0,Northwestern,1065,Zambia
+895,Mwinilunga,Mwinilunga,Chisasa,11,10811,108,,0,Northwestern,680.839,Zambia
+896,Mwinilunga,Mwinilunga,Ntambu,12,10812,108,,0,Northwestern,3698.42,Zambia
+897,Mwinilunga,Mwinilunga,Chibwika,15,10815,108,,0,Northwestern,1853.23,Zambia
+898,Mwinilunga,Mwinilunga,Kamapanda,16,10816,108,,0,Northwestern,1016.74,Zambia
+899,Zambezi,Zambezi West,Matondo,16,11416,114,,0,Northwestern,1164.22,Zambia
+900,Zambezi,Zambezi West,Mwange Nyawanda,15,11415,114,,0,Northwestern,1363.9,Zambia
+901,Zambezi,Zambezi West,Muyembe,14,11414,114,,0,Northwestern,1950.92,Zambia
+902,Zambezi,Zambezi West,Liyovu,13,11413,114,,0,Northwestern,1014.87,Zambia
+903,Zambezi,Zambezi West,Mapachi Chinyingi,11,11411,114,,0,Northwestern,507.408,Zambia
+904,Zambezi,Zambezi East,Zambezi,10,11310,113,,0,Northwestern,15.1296,Zambia
+905,Zambezi,Zambezi East,Chilenga Chizenzi,5,11305,113,,0,Northwestern,316.36,Zambia
+906,Zambezi,Zambezi East,Chivweji Kasesi,9,11309,113,,0,Northwestern,556.153,Zambia
+907,Zambezi,Zambezi East,Chitokokoki,8,11308,113,,0,Northwestern,556.137,Zambia
+908,Zambezi,Zambezi East,Mpidi Kakonga,7,11307,113,,0,Northwestern,1184.26,Zambia
+909,Zambezi,Zambezi East,Lwitadi Lwatembo,6,11306,113,,0,Northwestern,1908.9,Zambia
+910,Zambezi,Zambezi East,Dipalata,3,11303,113,,0,Northwestern,771.372,Zambia
+911,Zambezi,Zambezi East,Nyakulenga,2,11302,113,,0,Northwestern,848.297,Zambia
+912,Zambezi,Zambezi East,Mukanda Nkunda,4,11304,113,,0,Northwestern,367.514,Zambia
+913,Namwala,Namwala,Namakube,12,13112,131,,0,Southern,520.469,Zambia
+914,Namwala,Namwala,Itapa,13,13113,131,,0,Southern,378.711,Zambia
+915,Namwala,Namwala,Moobola,14,13114,131,,0,Southern,338.19,Zambia
+916,Namwala,Namwala,Ndema,11,13111,131,,0,Southern,537.379,Zambia
+917,Namwala,Namwala,Ngabo,2,13102,131,,0,Southern,430.084,Zambia
+918,Namwala,Namwala,Namwala Central,1,13101,131,,0,Southern,175.421,Zambia
+919,Namwala,Namwala,Baambwe,3,13103,131,,0,Southern,329.575,Zambia
+920,Namwala,Namwala,Maala,4,13104,131,,0,Southern,330.068,Zambia
+921,Namwala,Namwala,Kantengwa,5,13105,131,,0,Southern,512.323,Zambia
+922,Namwala,Namwala,Mbeza,10,13110,131,,0,Southern,376.531,Zambia
+923,Namwala,Namwala,Nakamboma,9,13109,131,,0,Southern,335.443,Zambia
+924,Namwala,Namwala,Chitongo,7,13107,131,,0,Southern,256.773,Zambia
+925,Namwala,Namwala,Kabulamwanda,6,13106,131,,0,Southern,500.361,Zambia
+926,Choma,Mbabala,Simaubi,1,11601,116,,0,Southern,269.012,Zambia
+927,Choma,Mbabala,Mapanza,2,11602,116,,0,Southern,107.837,Zambia
+928,Choma,Mbabala,Mangunza,3,11603,116,,0,Southern,186.548,Zambia
+929,Choma,Mbabala,Chilalantambo,4,11604,116,,0,Southern,254.843,Zambia
+930,Choma,Mbabala,Macha,5,11605,116,,0,Southern,195.835,Zambia
+931,Choma,Mbabala,Kabimba,6,11606,116,,0,Southern,77.0308,Zambia
+932,Choma,Choma,Simamvwa,17,11517,115,,0,Southern,606.87,Zambia
+933,Choma,Choma,MERGED WARDS,-88,11588,115,Kulundana AND Simacheche AND Sikalundu AND mubula  - wards  21 22 23 24,1,Southern,9.23726,Zambia
+934,Choma,Choma,Stateland,18,11518,115,,0,Southern,594.81,Zambia
+935,Choma,Choma,Nakeempa,19,11519,115,,0,Southern,251.145,Zambia
+936,Choma,Choma,Namuswa,27,11527,115,,0,Southern,640.59,Zambia
+937,Choma,Choma,Siasikabole,26,11526,115,,0,Southern,324.623,Zambia
+938,Choma,Choma,Singani,25,11525,115,,0,Southern,423.812,Zambia
+939,Choma,Choma,Sikalongo,16,11516,115,,0,Southern,298.465,Zambia
+940,Choma,Choma,Batoka,15,11515,115,,0,Southern,238.124,Zambia
+941,Choma,Pemba,Pemba,9,11709,117,,0,Southern,6.21475,Zambia
+942,Choma,Pemba,Kasiya,8,11708,117,,0,Southern,430.78,Zambia
+943,Choma,Pemba,Habunkululu,13,11713,117,,0,Southern,176.369,Zambia
+944,Choma,Pemba,Kauba,12,11712,117,,0,Southern,271.937,Zambia
+945,Choma,Pemba,Nachibanga,14,11714,117,,0,Southern,208.263,Zambia
+946,Choma,Pemba,Maambo,11,11711,117,,0,Southern,258.469,Zambia
+947,Gwembe,Gwembe,Lukonde,14,11814,118,,0,Southern,211.435,Zambia
+948,Gwembe,Gwembe,Jongola,13,11813,118,,0,Southern,79.9769,Zambia
+949,Gwembe,Gwembe,Fumbo,12,11812,118,,0,Southern,322.182,Zambia
+950,Gwembe,Gwembe,Bbondo,10,11810,118,,0,Southern,595.413,Zambia
+951,Gwembe,Gwembe,Chaamwe,11,11811,118,,0,Southern,144.845,Zambia
+952,Gwembe,Gwembe,Kkole,9,11809,118,,0,Southern,462.041,Zambia
+953,Gwembe,Gwembe,Luumbo,8,11808,118,,0,Southern,441.766,Zambia
+954,Gwembe,Gwembe,Kota Kota,7,11807,118,,0,Southern,199.214,Zambia
+955,Gwembe,Gwembe,Siampande,6,11806,118,,0,Southern,170.122,Zambia
+956,Gwembe,Gwembe,Chibuwe,5,11805,118,,0,Southern,190.229,Zambia
+957,Gwembe,Gwembe,Kkoma,4,11804,118,,0,Southern,179.839,Zambia
+958,Gwembe,Gwembe,Sinafala,2,11802,118,,0,Southern,68.0355,Zambia
+959,Gwembe,Gwembe,Jumbo,3,11803,118,,0,Southern,269.995,Zambia
+960,Itezhi Tezhi,Itezhi Tezhi,Kabulungwe,7,13007,130,,0,Southern,452.169,Zambia
+961,Itezhi Tezhi,Itezhi Tezhi,Itumbi,2,13002,130,,0,Southern,630.891,Zambia
+962,Itezhi Tezhi,Itezhi Tezhi,Kaanzwa,3,13003,130,,0,Southern,1007.65,Zambia
+963,Itezhi Tezhi,Itezhi Tezhi,Masemu,9,13009,130,,0,Southern,47.6498,Zambia
+964,Itezhi Tezhi,Itezhi Tezhi,Luchena,12,13012,130,,0,Southern,852.057,Zambia
+965,Itezhi Tezhi,Itezhi Tezhi,Basanga,11,13011,130,,0,Southern,573.324,Zambia
+966,Itezhi Tezhi,Itezhi Tezhi,Mbila,13,13013,130,,0,Southern,680.57,Zambia
+967,Itezhi Tezhi,Itezhi Tezhi,Luubwe,10,13010,130,,0,Southern,430.289,Zambia
+968,Itezhi Tezhi,Itezhi Tezhi,Lubanda,8,13008,130,,0,Southern,680.176,Zambia
+969,Itezhi Tezhi,Itezhi Tezhi,Banamwaze,4,13004,130,,0,Southern,1181.28,Zambia
+970,Itezhi Tezhi,Itezhi Tezhi,Makunku,5,13005,130,,0,Southern,416.518,Zambia
+971,Itezhi Tezhi,Itezhi Tezhi,Nyambo,6,13006,130,,0,Southern,402.895,Zambia
+972,Kalomo,Kalomo Central,Siachitema,7,12007,120,,0,Southern,730.218,Zambia
+973,Kalomo,Kalomo Central,Kalonda,8,12008,120,,0,Southern,505.547,Zambia
+974,Kalomo,Kalomo Central,Choonga,9,12009,120,,0,Southern,462.317,Zambia
+975,Kalomo,Kalomo Central,Namwianga,11,12011,120,,0,Southern,521.271,Zambia
+976,Kalomo,Kalomo Central,Simayakwe,12,12012,120,,0,Southern,219.978,Zambia
+977,Kalomo,Kalomo Central,Nachikungu,15,12015,120,,0,Southern,369.842,Zambia
+978,Kalomo,Kalomo Central,Chawila,13,12013,120,,0,Southern,405.909,Zambia
+979,Kalomo,Kalomo Central,Sipatunyana,14,12014,120,,0,Southern,313.969,Zambia
+980,Kalomo,Mapatizya,Luyaba,19,12219,122,,0,Southern,463.887,Zambia
+981,Kalomo,Mapatizya,Zimba,20,12220,122,,0,Southern,937.48,Zambia
+982,Kalomo,Mapatizya,Siamafumba,21,12221,122,,0,Southern,1509.71,Zambia
+983,Kalomo,Mapatizya,Chidi,16,12216,122,,0,Southern,407.313,Zambia
+984,Kalomo,Mapatizya,Mulamfu,17,12217,122,,0,Southern,476.934,Zambia
+985,Kalomo,Mapatizya,Simwatachela,18,12218,122,,0,Southern,386.135,Zambia
+986,Kalomo,Dundumwezi,Naluja,6,11906,119,,0,Southern,438.58,Zambia
+987,Kalomo,Dundumwezi,Bbilili,5,11905,119,,0,Southern,713.636,Zambia
+988,Kalomo,Dundumwezi,Omba,4,11904,119,,0,Southern,677.791,Zambia
+989,Kalomo,Dundumwezi,Kasukwe,3,11903,119,,0,Southern,424.473,Zambia
+990,Kalomo,Dundumwezi,Chamuka,2,11902,119,,0,Southern,284.179,Zambia
+991,Kazungula,Katombola,Moomba,1,12101,121,,0,Southern,4000.12,Zambia
+992,Kazungula,Katombola,Nguba,3,12103,121,,0,Southern,847.126,Zambia
+993,Kazungula,Katombola,Kauwe,4,12104,121,,0,Southern,543.733,Zambia
+994,Kazungula,Katombola,Chooma,2,12102,121,,0,Southern,2905.92,Zambia
+995,Kazungula,Katombola,Sikaunzwe,7,12107,121,,0,Southern,1902.17,Zambia
+996,Kazungula,Katombola,Mandia,8,12108,121,,0,Southern,691.68,Zambia
+997,Kazungula,Katombola,Sekute,9,12109,121,,0,Southern,745.263,Zambia
+998,Kazungula,Katombola,Mukuni,14,12114,121,,0,Southern,979.776,Zambia
+999,Kazungula,Katombola,Simango,11,12111,121,,0,Southern,407.386,Zambia
+1000,Kazungula,Katombola,Musokotwane,12,12112,121,,0,Southern,320.101,Zambia
+1001,Kazungula,Katombola,Kanchele,10,12110,121,,0,Southern,1288.12,Zambia
+1002,Kazungula,Katombola,Nyawa,5,12105,121,,0,Southern,1087.74,Zambia
+1003,Kazungula,Katombola,Katapazi,13,12113,121,,0,Southern,802.126,Zambia
+1004,Mazabuka,Magoye,Itebe,17,12517,125,,0,Southern,870.6,Zambia
+1005,Mazabuka,Magoye,Kalama,14,12514,125,,0,Southern,370.901,Zambia
+1006,Mazabuka,Magoye,Munenga,15,12515,125,,0,Southern,25.9005,Zambia
+1007,Mazabuka,Magoye,Mwanachingwala,16,12516,125,,0,Southern,151.853,Zambia
+1008,Mazabuka,Magoye,Ngwezi,13,12513,125,,0,Southern,196.188,Zambia
+1009,Mazabuka,Magoye,Munjile,12,12512,125,,0,Southern,40.8801,Zambia
+1010,Mazabuka,Magoye,Musuma,11,12511,125,,0,Southern,84.339,Zambia
+1011,Mazabuka,Magoye,Nkonkola,9,12509,125,,0,Southern,196.07,Zambia
+1012,Mazabuka,Mazabuka,Chizobo,20,12620,126,,0,Southern,359.297,Zambia
+1013,Mazabuka,Mazabuka,Mazabuka Central,18,12618,126,,0,Southern,368.795,Zambia
+1014,Mazabuka,Mazabuka,Nakambala,19,12619,126,,0,Southern,139.738,Zambia
+1015,Mazabuka,Mazabuka,Nega Nega,22,12622,126,,0,Southern,102.041,Zambia
+1016,Mazabuka,Chikankanta,Kasengo,1,12401,124,,0,Southern,259.567,Zambia
+1017,Mazabuka,Chikankanta,Namalundu,2,12402,124,,0,Southern,283.557,Zambia
+1018,Mazabuka,Chikankanta,Musaya,3,12403,124,,0,Southern,395.118,Zambia
+1019,Mazabuka,Chikankanta,Nansenga,4,12404,124,,0,Southern,194.071,Zambia
+1020,Mazabuka,Chikankanta,Upper Kaleya,8,12408,124,,0,Southern,332.138,Zambia
+1021,Mazabuka,Chikankanta,Chitete,5,12405,124,,0,Southern,590.518,Zambia
+1022,Mazabuka,Chikankanta,Malala,6,12406,124,,0,Southern,311.073,Zambia
+1023,Monze,Bweengwa,Kaila,2,12702,127,,0,Southern,389.957,Zambia
+1024,Monze,Bweengwa,Keemba,3,12703,127,,0,Southern,229.478,Zambia
+1025,Monze,Bweengwa,Malundu,1,12701,127,,0,Southern,535.693,Zambia
+1026,Monze,Bweengwa,Choongo East,7,12707,127,,0,Southern,290.373,Zambia
+1027,Monze,Bweengwa,Choongo West,4,12704,127,,0,Southern,101.78,Zambia
+1028,Monze,Monze,Monze Urban,18,12818,128,,0,Southern,68.0657,Zambia
+1029,Monze,Monze,Manungu,10,12810,128,,0,Southern,153.119,Zambia
+1030,Monze,Monze,Mayaba,12,12812,128,,0,Southern,62.7102,Zambia
+1031,Monze,Monze,Hufwa / Hamapande,13,12813,128,,0,Southern,98.0136,Zambia
+1032,Monze,Monze,Hamamvwa,14,12814,128,,0,Southern,178.729,Zambia
+1033,Monze,Monze,Katimba,15,12815,128,,0,Southern,144.583,Zambia
+1034,Monze,Monze,Hantotola,16,12816,128,,0,Southern,376.706,Zambia
+1035,Monze,Monze,Bbombo,17,12817,128,,0,Southern,145.663,Zambia
+1036,Monze,Monze,Chisekesi,11,12811,128,,0,Southern,213.842,Zambia
+1037,Monze,Moomba,Mwanza West,19,12919,129,,0,Southern,250.228,Zambia
+1038,Monze,Moomba,Mwanza East,21,12921,129,,0,Southern,91.1242,Zambia
+1039,Monze,Moomba,Chona,20,12920,129,,0,Southern,193.441,Zambia
+1040,Monze,Monze,Chipembele,8,12808,128,,0,Southern,192.475,Zambia
+1041,Monze,Bweengwa,Bweengwa,5,12705,127,,0,Southern,207.732,Zambia
+1042,Siavonga,Siavonga,Lusangazi,13,13213,132,,0,Southern,323.579,Zambia
+1043,Siavonga,Siavonga,Sinadambwe,12,13212,132,,0,Southern,161.058,Zambia
+1044,Siavonga,Siavonga,Manchanvwa,11,13211,132,,0,Southern,582.806,Zambia
+1045,Siavonga,Siavonga,Mulima,10,13210,132,,0,Southern,374.497,Zambia
+1046,Siavonga,Siavonga,Ibwe Munyama,1,13201,132,,0,Southern,285.293,Zambia
+1047,Siavonga,Siavonga,Musaya,2,13202,132,,0,Southern,242.748,Zambia
+1048,Siavonga,Siavonga,Chirundu,3,13203,132,,0,Southern,26.8751,Zambia
+1049,Siavonga,Siavonga,Ngombe Ilede,4,13204,132,,0,Southern,207.301,Zambia
+1050,Siavonga,Siavonga,Sikoongo,5,13205,132,,0,Southern,348.994,Zambia
+1051,Siavonga,Siavonga,Lusitu,6,13206,132,,0,Southern,297.424,Zambia
+1052,Siavonga,Siavonga,Nanyanga,7,13207,132,,0,Southern,299.478,Zambia
+1053,Siavonga,Siavonga,Kariba,8,13208,132,,0,Southern,214.1,Zambia
+1054,Sinazongwe,Sinazongwe,Malima,14,13314,133,,0,Southern,342.841,Zambia
+1055,Sinazongwe,Sinazongwe,Sinenge,13,13313,133,,0,Southern,372.925,Zambia
+1056,Sinazongwe,Sinazongwe,Nangombe,12,13312,133,,0,Southern,185.682,Zambia
+1057,Sinazongwe,Sinazongwe,Nkandabwe,10,13310,133,,0,Southern,321.371,Zambia
+1058,Sinazongwe,Sinazongwe,Sinazongwe,11,13311,133,,0,Southern,377.013,Zambia
+1059,Sinazongwe,Sinazongwe,Mweezya,9,13309,133,,0,Southern,622.889,Zambia
+1060,Sinazongwe,Sinazongwe,Maamba,8,13308,133,,0,Southern,66.2108,Zambia
+1061,Sinazongwe,Sinazongwe,Muchekwa,7,13307,133,,0,Southern,254.78,Zambia
+1062,Sinazongwe,Sinazongwe,Mweemba,6,13306,133,,0,Southern,355.164,Zambia
+1063,Sinazongwe,Sinazongwe,Tekelo,5,13305,133,,0,Southern,232.786,Zambia
+1064,Sinazongwe,Sinazongwe,Muuka,4,13304,133,,0,Southern,320.172,Zambia
+1065,Sinazongwe,Sinazongwe,Mweenda,3,13303,133,,0,Southern,471.91,Zambia
+1066,Sinazongwe,Sinazongwe,Mabinga,1,13301,133,,0,Southern,249.669,Zambia
+1067,Kalabo,Liuwa,Likulundundu,2,13502,135,,0,Western,547.306,Zambia
+1068,Kalabo,Liuwa,Siluwe,1,13501,135,,0,Western,228.925,Zambia
+1069,Kalabo,Liuwa,Luola,3,13503,135,,0,Western,779.841,Zambia
+1070,Kalabo,Liuwa,Salunda,4,13504,135,,0,Western,449.938,Zambia
+1071,Kalabo,Liuwa,Sishekanu,5,13505,135,,0,Western,607.695,Zambia
+1072,Kalabo,Liuwa,Libonda,7,13507,135,,0,Western,769.639,Zambia
+1073,Kalabo,Sikongo,Licha,23,13623,136,,0,Western,962.487,Zambia
+1074,Kalabo,Sikongo,Lwambi,24,13624,136,,0,Western,380.891,Zambia
+1075,Kalabo,Sikongo,Mutala,26,13626,136,,0,Western,551.754,Zambia
+1076,Kalabo,Sikongo,Mwenyi,27,13627,136,,0,Western,457.569,Zambia
+1077,Kalabo,Sikongo,Liumena,22,13622,136,,0,Western,315.018,Zambia
+1078,Kalabo,Kalabo,Liumba,10,13410,134,,0,Western,127.895,Zambia
+1079,Kalabo,Kalabo,Luanginga,9,13409,134,,0,Western,13.6871,Zambia
+1080,Kalabo,Kalabo,Yuka,11,13411,134,,0,Western,167.146,Zambia
+1081,Kalabo,Kalabo,Mapungu,8,13408,134,,0,Western,101.483,Zambia
+1082,Kalabo,Kalabo,Buleya,12,13412,134,,0,Western,169.731,Zambia
+1083,Kalabo,Kalabo,Lutiwi,13,13413,134,,0,Western,539.753,Zambia
+1084,Kalabo,Kalabo,Ndoka,14,13414,134,,0,Western,419.018,Zambia
+1085,Kalabo,Kalabo,Namulilo,15,13415,134,,0,Western,326.105,Zambia
+1086,Kalabo,Kalabo,Kandambo,17,13417,134,,0,Western,294.085,Zambia
+1087,Kalabo,Sikongo,Lueti,18,13618,136,,0,Western,1825.16,Zambia
+1088,Kalabo,Sikongo,Tuuwa,20,13620,136,,0,Western,715.261,Zambia
+1089,Kalabo,Sikongo,Maala,21,13621,136,,0,Western,392.459,Zambia
+1090,Lukulu,Lukulu West,Kakwacha,18,14118,141,,0,Western,792.868,Zambia
+1091,Lukulu,Lukulu West,Lupui,17,14117,141,,0,Western,1353.37,Zambia
+1092,Lukulu,Lukulu West,Lutembwe,19,14119,141,,0,Western,891.131,Zambia
+1093,Lukulu,Lukulu West,Mitete,20,14120,141,,0,Western,489.757,Zambia
+1094,Lukulu,Lukulu West,Mataba,16,14116,141,,0,Western,608.922,Zambia
+1095,Lukulu,Lukulu West,Nyaala,15,14115,141,,0,Western,486.788,Zambia
+1096,Lukulu,Lukulu West,Muyondoti,14,14114,141,,0,Western,542.869,Zambia
+1097,Lukulu,Lukulu West,Chinonwe,22,14122,141,,0,Western,444.019,Zambia
+1098,Lukulu,Lukulu East,Simakumba,1,14001,140,,0,Western,383.247,Zambia
+1099,Lukulu,Lukulu East,Kamilende,2,14002,140,,0,Western,646.931,Zambia
+1100,Lukulu,Lukulu East,Dongwe,3,14003,140,,0,Western,2621.92,Zambia
+1101,Lukulu,Lukulu East,Kashamba,4,14004,140,,0,Western,1222.45,Zambia
+1102,Lukulu,Lukulu East,Mwito,5,14005,140,,0,Western,773.554,Zambia
+1103,Lukulu,Lukulu East,Kangoti,6,14006,140,,0,Western,1721.67,Zambia
+1104,Lukulu,Lukulu East,Luanchuma,13,14013,140,,0,Western,294.018,Zambia
+1105,Lukulu,Lukulu East,Namayula,12,14012,140,,0,Western,93.513,Zambia
+1106,Lukulu,Lukulu East,Mwandi,11,14011,140,,0,Western,54.4128,Zambia
+1107,Lukulu,Lukulu East,Kawaya,10,14010,140,,0,Western,259.155,Zambia
+1108,Lukulu,Lukulu East,Lukau,7,14007,140,,0,Western,634.125,Zambia
+1109,Lukulu,Lukulu East,Likapai,8,14008,140,,0,Western,203.994,Zambia
+1110,Mongu,Nalikwanda,Namengo,12,14412,144,,0,Western,458.961,Zambia
+1111,Mongu,Nalikwanda,Mutondo,11,14411,144,,0,Western,503.171,Zambia
+1112,Mongu,Nalikwanda,Lui,9,14409,144,,0,Western,978.819,Zambia
+1113,Mongu,Nalikwanda,Imalyo,10,14410,144,,0,Western,1094.08,Zambia
+1114,Mongu,Nalikwanda,Nakanyaa,13,14413,144,,0,Western,531.961,Zambia
+1115,Mongu,Nalikwanda,Mbekise,14,14414,144,,0,Western,552.373,Zambia
+1116,Mongu,Luena,Namboma,4,14204,142,,0,Western,254.581,Zambia
+1117,Mongu,Luena,Ikwichi,3,14203,142,,0,Western,180.011,Zambia
+1118,Mongu,Luena,Nangula,5,14205,142,,0,Western,1046.85,Zambia
+1119,Mongu,Luena,Ndanda,8,14208,142,,0,Western,196.704,Zambia
+1120,Mongu,Luena,Simaa,7,14207,142,,0,Western,389.012,Zambia
+1121,Mongu,Luena,Ushaa,6,14206,142,,0,Western,638.636,Zambia
+1122,Mongu,Luena,Limulunga,1,14201,142,,0,Western,383.088,Zambia
+1123,Mongu,Mongu,Kaande,28,14328,143,,0,Western,64.7956,Zambia
+1124,Mongu,Mongu,Mabumbu,27,14327,143,,0,Western,82.8673,Zambia
+1125,Mongu,Mongu,Lealui,26,14326,143,,0,Western,222.301,Zambia
+1126,Mongu,Mongu,MERGED WARDS,-88,14388,143,Kanyonyo AND Kambule AND lewanika AND mulambwa AND Imwiko - wards  21 22 23 24 25,1,Western,89.805,Zambia
+1127,Mongu,Mongu,Katongo,20,14320,143,,0,Western,248.835,Zambia
+1128,Mongu,Mongu,Kama,18,14318,143,,0,Western,364.573,Zambia
+1129,Mongu,Mongu,Namushakende,16,14316,143,,0,Western,111.047,Zambia
+1130,Senanga,Nalolo,Shekela,3,14503,145,,0,Western,2090.62,Zambia
+1131,Senanga,Nalolo,Silowana,2,14502,145,,0,Western,654.84,Zambia
+1132,Senanga,Nalolo,Makoka,4,14504,145,,0,Western,188.072,Zambia
+1133,Senanga,Nalolo,Kambai,5,14505,145,,0,Western,381.267,Zambia
+1134,Senanga,Nalolo,Muoyo,7,14507,145,,0,Western,197.092,Zambia
+1135,Senanga,Nalolo,Katabi,6,14506,145,,0,Western,235.108,Zambia
+1136,Senanga,Nalolo,Nanjucha,8,14508,145,,0,Western,441.46,Zambia
+1137,Senanga,Senanga,Wanyau,12,14612,146,,0,Western,353.906,Zambia
+1138,Senanga,Senanga,Imatanda,11,14611,146,,0,Western,118.828,Zambia
+1139,Senanga,Senanga,Imatongo,10,14610,146,,0,Western,148.186,Zambia
+1140,Senanga,Senanga,Mwanambuyu,9,14609,146,,0,Western,859.735,Zambia
+1141,Senanga,Senanga,Lipuwe,13,14613,146,,0,Western,1387.78,Zambia
+1142,Senanga,Senanga,Mata,17,14617,146,,0,Western,3901.74,Zambia
+1143,Senanga,Senanga,Sibukali,16,14616,146,,0,Western,1681.82,Zambia
+1144,Senanga,Senanga,Naluywa,14,14614,146,,0,Western,1050.25,Zambia
+1145,Sesheke,Mulobezi,Kamanga,2,14802,148,,0,Western,2204.22,Zambia
+1146,Sesheke,Mulobezi,Lwamuloba,3,14803,148,,0,Western,1543.15,Zambia
+1147,Sesheke,Mulobezi,Machile,6,14806,148,,0,Western,929.005,Zambia
+1148,Sesheke,Mulobezi,Sichili,4,14804,148,,0,Western,895.538,Zambia
+1149,Sesheke,Mulobezi,Mulobezi,5,14805,148,,0,Western,517.184,Zambia
+1150,Sesheke,Sesheke,Luampungu,18,15018,150,,0,Western,3646.9,Zambia
+1151,Sesheke,Sesheke,Lusu,17,15017,150,,0,Western,1018.65,Zambia
+1152,Sesheke,Sesheke,Maondo,15,15015,150,,0,Western,755.418,Zambia
+1153,Sesheke,Sesheke,Mulimambango,16,15016,150,,0,Western,1557.41,Zambia
+1154,Sesheke,Sesheke,Imusho,20,15020,150,,0,Western,2301.29,Zambia
+1155,Sesheke,Mwandi,Mushukula,14,14914,149,,0,Western,2019.99,Zambia
+1156,Sesheke,Mwandi,Lwazamba,13,14913,149,,0,Western,950.737,Zambia
+1157,Sesheke,Mwandi,Simungoma,11,14911,149,,0,Western,262.374,Zambia
+1158,Sesheke,Mwandi,Mwandi,10,14910,149,,0,Western,67.5771,Zambia
+1159,Sesheke,Mwandi,Mabumbu,9,14909,149,,0,Western,413.657,Zambia
+1160,Sesheke,Mwandi,Loanja,12,14912,149,,0,Western,510.978,Zambia
+1161,Sesheke,Mwandi,Magumwi,7,14907,149,,0,Western,478.878,Zambia
+1162,Kaoma,Kaoma Central,Lalafuta,1,13701,137,,0,Western,1509.18,Zambia
+1163,Kaoma,Kaoma Central,Shitwe,2,13702,137,,0,Western,597.162,Zambia
+1164,Kaoma,Kaoma Central,Mulamatila,6,13706,137,,0,Western,89.711,Zambia
+1165,Kaoma,Kaoma Central,Namilangi,3,13703,137,,0,Western,1268.03,Zambia
+1166,Kaoma,Kaoma Central,Nkeyema,4,13704,137,,0,Western,758.877,Zambia
+1167,Kaoma,Kaoma Central,Longe,7,13707,137,,0,Western,654.67,Zambia
+1168,Kaoma,Luampa,Naliele,8,13808,138,,0,Western,134.134,Zambia
+1169,Kaoma,Luampa,Mbanyutu,14,13814,138,,0,Western,645.114,Zambia
+1170,Kaoma,Luampa,Luampa,15,13815,138,,0,Western,367.418,Zambia
+1171,Kaoma,Luampa,Namando,9,13809,138,,0,Western,1354.43,Zambia
+1172,Kaoma,Luampa,Mulwa,11,13811,138,,0,Western,2184.02,Zambia
+1173,Kaoma,Luampa,Nkenga,13,13813,138,,0,Western,414.951,Zambia
+1174,Kaoma,Luampa,Lui,12,13812,138,,0,Western,576.465,Zambia
+1175,Kaoma,Mangango,Namafulo,16,13916,139,,0,Western,918.92,Zambia
+1176,Kaoma,Mangango,Mushwala,18,13918,139,,0,Western,1105.33,Zambia
+1177,Kaoma,Mangango,Shikombwe,22,13922,139,,0,Western,458.065,Zambia
+1178,Kaoma,Mangango,Kapili,19,13919,139,,0,Western,671.356,Zambia
+1179,Kaoma,Mangango,Kanabilumbu,21,13921,139,,0,Western,371.667,Zambia
+1180,Mufumbwe,Mufumbwe,Kikonge,8,10708,107,,0,Northwestern,1178.4,Zambia
+1181,Mufumbwe,Mufumbwe,Shukwe,7,10707,107,,0,Northwestern,512.531,Zambia
+1182,Mufumbwe,Mufumbwe,Chizera,6,10706,107,,0,Northwestern,167.821,Zambia
+1183,Mufumbwe,Mufumbwe,Kalambu,5,10705,107,,0,Northwestern,97.429,Zambia
+1184,Mufumbwe,Mufumbwe,Kamabuta,4,10704,107,,0,Northwestern,72.4416,Zambia
+1185,Mufumbwe,Mufumbwe,Kashima West,1,10701,107,,0,Northwestern,196.277,Zambia
+1186,Mufumbwe,Mufumbwe,Kashima East,2,10702,107,,0,Northwestern,252.605,Zambia
+1187,Mufumbwe,Mufumbwe,Matushi,3,10703,107,,0,Northwestern,778.73,Zambia
+1188,Mufumbwe,Mufumbwe,Kalengwa,10,10710,107,,0,Northwestern,458.016,Zambia
+1189,Mufumbwe,Mufumbwe,Munyambala,9,10709,107,,0,Northwestern,804.852,Zambia
+1190,Mufumbwe,Mufumbwe,Mushima,12,10712,107,,0,Northwestern,2880.69,Zambia
+1191,Mufumbwe,Mufumbwe,Musonweji,13,10713,107,,0,Northwestern,507.674,Zambia
+1192,Mufumbwe,Mufumbwe,Kaminzekenzeke,14,10714,107,,0,Northwestern,1740.89,Zambia
+1193,Mufumbwe,Mufumbwe,Miluji,16,10716,107,,0,Northwestern,4546.05,Zambia
+1194,Mufumbwe,Mufumbwe,Kabi Pupu,11,10711,107,,0,Northwestern,868.488,Zambia
+1195,Kasempa,Kasempa,Jifumpa,22,10622,106,,0,Northwestern,7115.38,Zambia
+1196,Kasempa,Kasempa,Kamankechi,21,10621,106,,0,Northwestern,890.002,Zambia
+1197,Kasempa,Kasempa,Mukunashi,19,10619,106,,0,Northwestern,1701.02,Zambia
+1198,Kasempa,Kasempa,Mukinge,13,10613,106,,0,Northwestern,47.071,Zambia
+1199,Kasempa,Kasempa,Mutenda,14,10614,106,,0,Northwestern,231.476,Zambia
+1200,Kasempa,Kasempa,Nkenyauna,12,10612,106,,0,Northwestern,30.0156,Zambia
+1201,Kasempa,Kasempa,Kikonkomeme,11,10611,106,,0,Northwestern,28.4477,Zambia
+1202,Kasempa,Kasempa,Kamusongolwa,10,10610,106,,0,Northwestern,14.7907,Zambia
+1203,Kasempa,Kasempa,Kalombe,9,10609,106,,0,Northwestern,50.7129,Zambia
+1204,Kasempa,Kasempa,Njenga,8,10608,106,,0,Northwestern,977.829,Zambia
+1205,Kasempa,Kasempa,Kamakoko,1,10601,106,,0,Northwestern,1566.66,Zambia
+1206,Kasempa,Kasempa,Ingwe,3,10603,106,,0,Northwestern,333.148,Zambia
+1207,Kasempa,Kasempa,Kaimbwe,4,10604,106,,0,Northwestern,455.472,Zambia
+1208,Kasempa,Kasempa,Mbelauke,2,10602,106,,0,Northwestern,329.389,Zambia
+1209,Kasempa,Kasempa,Dengwe,7,10607,106,,0,Northwestern,316.555,Zambia
+1210,Kasempa,Kasempa,Kamatete,6,10606,106,,0,Northwestern,857.432,Zambia
+1211,Kasempa,Kasempa,Lubofu,15,10615,106,,0,Northwestern,336.112,Zambia
+1212,Kasempa,Kasempa,Mpungu,16,10616,106,,0,Northwestern,167.4,Zambia
+1213,Kasempa,Kasempa,Kanongo,20,10620,106,,0,Northwestern,170.412,Zambia
+1214,Kasempa,Kasempa,Kelongwa,18,10618,106,,0,Northwestern,1797.51,Zambia
+1215,Kasempa,Kasempa,Mukema,5,10605,106,,0,Northwestern,1772.21,Zambia
+1216,Luwingu,Lupososhi,Itandashi,1,9401,94,,0,Northern,534.639,Zambia
+1217,Luwingu,Lupososhi,Kaela,2,9402,94,,0,Northern,569.975,Zambia
+1218,Luwingu,Lupososhi,Mushinga,3,9403,94,,0,Northern,294.838,Zambia
+1219,Luwingu,Lupososhi,Katilye,4,9404,94,,0,Northern,299.142,Zambia
+1220,Luwingu,Lupososhi,Kafinsa,5,9405,94,,0,Northern,271.152,Zambia
+1221,Luwingu,Lupososhi,Ilambo,9,9409,94,,0,Northern,151.6,Zambia
+1222,Luwingu,Lupososhi,Ibale,10,9410,94,,0,Northern,110.768,Zambia
+1223,Luwingu,Lupososhi,Kampemba,6,9406,94,,0,Northern,722.383,Zambia
+1224,Luwingu,Lupososhi,Mulalashi,7,9407,94,,0,Northern,350.304,Zambia
+1225,Luwingu,Lupososhi,Mufili,8,9408,94,,0,Northern,299.63,Zambia
+1226,Luwingu,Lupososhi,Isansa,13,9413,94,,0,Northern,455.302,Zambia
+1227,Luwingu,Lupososhi,Bwalinde,11,9411,94,,0,Northern,394.769,Zambia
+1228,Luwingu,Lubasenshi,Ipusukilo,14,9314,93,,0,Northern,236.174,Zambia
+1229,Luwingu,Lubasenshi,Masonde,18,9318,93,,0,Northern,668.67,Zambia
+1230,Luwingu,Lubasenshi,Chulungoma,17,9317,93,,0,Northern,350.501,Zambia
+1231,Luwingu,Lubasenshi,Katopola,15,9315,93,,0,Northern,128.114,Zambia
+1232,Luwingu,Lubasenshi,Namukolo,16,9316,93,,0,Northern,18.2178,Zambia
+1233,Luwingu,Lubasenshi,Mushituwamboo,20,9320,93,,0,Northern,460.464,Zambia
+1234,Luwingu,Lubasenshi,Chifwile,19,9319,93,,0,Northern,798.195,Zambia
+1235,Luwingu,Lubasenshi,Lwata,21,9321,93,,0,Northern,957.935,Zambia
+1236,Kasama,Kasama,Kasenga,1,9001,90,,0,Northern,981.042,Zambia
+1237,Kasama,Kasama,Chilunga,3,9003,90,,0,Northern,459.651,Zambia
+1238,Kasama,Kasama,Julia Chikamoneka,5,9005,90,,0,Northern,148.618,Zambia
+1239,Kasama,Kasama,Lukupa,6,9006,90,,0,Northern,83.868,Zambia
+1240,Kasama,Kasama,Buseko,8,9008,90,,0,Northern,32.6375,Zambia
+1241,Kasama,Kasama,Mulilansolo,7,9007,90,,0,Northern,22.2183,Zambia
+1242,Kasama,Lukashya,Kapumaula,13,9113,91,,0,Northern,222.236,Zambia
+1243,Kasama,Lukashya,Chiba,12,9112,91,,0,Northern,155.799,Zambia
+1244,Kasama,Lukashya,Kapongolo,15,9115,91,,0,Northern,827.762,Zambia
+1245,Kasama,Lukashya,Chibundu,14,9114,91,,0,Northern,840.235,Zambia
+1246,Kasama,Lukashya,Lualuo,11,9111,91,,0,Northern,482.136,Zambia
+1247,Kasama,Lukashya,Chumba,17,9117,91,,0,Northern,511.365,Zambia
+1248,Kasama,Lukashya,Musowa,16,9116,91,,0,Northern,2098.88,Zambia
+1249,Kasama,Lukashya,Mukanga,10,9110,91,,0,Northern,1001.62,Zambia
+1250,Kasama,Kasama,Lukulu,4,9004,90,,0,Northern,622.57,Zambia
+1251,Chinsali,Chinsali,Chilunda,2,8302,83,,0,Northern,115.21,Zambia
+1252,Chinsali,Chinsali,Malalo,5,8305,83,,0,Northern,831.393,Zambia
+1253,Chinsali,Chinsali,Itapa,1,8301,83,,0,Northern,880.77,Zambia
+1254,Chinsali,Chinsali,Chilinda,3,8303,83,,0,Northern,416.103,Zambia
+1255,Chinsali,Chinsali,Kaunga,4,8304,83,,0,Northern,867.291,Zambia
+1256,Chinsali,Chinsali,Chambeshi,7,8307,83,,0,Northern,515.352,Zambia
+1257,Chinsali,Chinsali,Chipanga,6,8306,83,,0,Northern,572.33,Zambia
+1258,Chinsali,Chinsali,MERGED WARDS,-88,8388,83,Ichinga AND Nkakula - wards  9 10,1,Northern,130.329,Zambia
+1259,Chinsali,Chinsali,Lubwa,8,8308,83,,0,Northern,832.302,Zambia
+1260,Chinsali,Shiwangadu,Nkulungwe,22,8422,84,,0,Northern,356.145,Zambia
+1261,Chinsali,Shiwangadu,Chimpundu,21,8421,84,,0,Northern,860.919,Zambia
+1262,Chinsali,Shiwangadu,Mwiche,19,8419,84,,0,Northern,723.504,Zambia
+1263,Chinsali,Shiwangadu,Ichingo,20,8420,84,,0,Northern,1441.33,Zambia
+1264,Chinsali,Shiwangadu,Chamusenga,12,8412,84,,0,Northern,1124.33,Zambia
+1265,Chinsali,Shiwangadu,MERGED WARDS,-88,8488,84,Muchinga AND Chandaula - wards  13 14,1,Northern,626.609,Zambia
+1266,Chinsali,Shiwangadu,Mwila Kabuswe,16,8416,84,,0,Northern,662.188,Zambia
+1267,Chinsali,Shiwangadu,Chibinda,17,8417,84,,0,Northern,931.889,Zambia
+1268,Chinsali,Shiwangadu,Mayembe,18,8418,84,,0,Northern,912.468,Zambia
+1269,Isoka,Mafinga,Kalanga,17,8517,85,,0,Eastern,638.575,Zambia
+1270,Isoka,Mafinga,Luhoka,16,8516,85,,0,Eastern,810.024,Zambia
+1271,Isoka,Mafinga,Kakoma,15,8515,85,,0,Eastern,168.087,Zambia
+1272,Isoka,Mafinga,Bemba,14,8514,85,,0,Eastern,182.172,Zambia
+1273,Isoka,Mafinga,Thendere,13,8513,85,,0,Eastern,401.603,Zambia
+1274,Isoka,Mafinga,Ntonga,11,8511,85,,0,Eastern,424.011,Zambia
+1275,Isoka,Mafinga,Mukutu,12,8512,85,,0,Eastern,635.515,Zambia
+1276,Isoka,Isoka,Mpungu,9,8609,86,,0,Eastern,925.045,Zambia
+1277,Isoka,Isoka,Luangwa,8,8608,86,,0,Eastern,293.38,Zambia
+1278,Isoka,Isoka,MERGED WARDS,-88,8688,86,Itukuta AND Milongo - wards  5 6,1,Eastern,751.525,Zambia
+1279,Isoka,Isoka,Kantenshya,2,8602,86,,0,Eastern,367.629,Zambia
+1280,Isoka,Isoka,Kapililonge,4,8604,86,,0,Eastern,296.155,Zambia
+1281,Isoka,Isoka,Sasamwenjue,3,8603,86,,0,Eastern,842.111,Zambia
+1282,Isoka,Isoka,Kasoka,1,8601,86,,0,Eastern,23.0263,Zambia
+1283,Kaputa,Chimbamilonga,Kapisha,1,8801,88,,0,Northern,553.349,Zambia
+1284,Kaputa,Chimbamilonga,Nsumbu,2,8802,88,,0,Northern,606.837,Zambia
+1285,Kaputa,Chimbamilonga,Chisela,3,8803,88,,0,Northern,267.358,Zambia
+1286,Kaputa,Chimbamilonga,Munwa,4,8804,88,,0,Northern,835.441,Zambia
+1287,Kaputa,Chimbamilonga,Kampinda,5,8805,88,,0,Northern,562.163,Zambia
+1288,Kaputa,Chimbamilonga,Mwambeshi,8,8808,88,,0,Northern,973.52,Zambia
+1289,Kaputa,Chimbamilonga,Fungwa,10,8810,88,,0,Northern,307.139,Zambia
+1290,Kaputa,Chimbamilonga,Kakusu,6,8806,88,,0,Northern,98.6948,Zambia
+1291,Kaputa,Chimbamilonga,Kashikishi,7,8807,88,,0,Northern,204.652,Zambia
+1292,Kaputa,Chimbamilonga,Mukubwe,11,8811,88,,0,Northern,510.213,Zambia
+1293,Kaputa,Kaputa,Kalungwishi,14,8914,89,,0,Northern,470.211,Zambia
+1294,Kaputa,Kaputa,Mofwe,13,8913,89,,0,Northern,519.105,Zambia
+1295,Kaputa,Kaputa,Chiyilunda,12,8912,89,,0,Northern,793.747,Zambia
+1296,Kaputa,Kaputa,Nkota,15,8915,89,,0,Northern,628.678,Zambia
+1297,Kaputa,Kaputa,Chipili,16,8916,89,,0,Northern,1129.26,Zambia
+1298,Kaputa,Kaputa,Choma,17,8917,89,,0,Northern,38.0263,Zambia
+1299,Kaputa,Kaputa,Mowa,18,8918,89,,0,Northern,282.387,Zambia
+1300,Kaputa,Kaputa,Mwawe,20,8920,89,,0,Northern,170.609,Zambia
+1301,Kaputa,Kaputa,Kaleulu,19,8919,89,,0,Northern,587.909,Zambia
+1302,Kaputa,Kaputa,Kapulwa,21,8921,89,,0,Northern,216.708,Zambia
+1303,Nyimba,Nyimba,Chinsimbwe,1,5201,52,,0,Eastern,664.551,Zambia
+1304,Nyimba,Nyimba,Katipa,2,5202,52,,0,Eastern,797.296,Zambia
+1305,Nyimba,Nyimba,Luangwa,13,5213,52,,0,Eastern,3944.83,Zambia
+1306,Nyimba,Nyimba,Chamilala,11,5211,52,,0,Eastern,1324.61,Zambia
+1307,Nyimba,Nyimba,Chiweza,9,5209,52,,0,Eastern,450.262,Zambia
+1308,Nyimba,Nyimba,Mombe,10,5210,52,,0,Eastern,691.68,Zambia
+1309,Nyimba,Nyimba,Kaliwe,8,5208,52,,0,Eastern,313.11,Zambia
+1310,Nyimba,Nyimba,Lwezi,5,5205,52,,0,Eastern,81.4208,Zambia
+1311,Nyimba,Nyimba,Ngozi,4,5204,52,,0,Eastern,173.89,Zambia
+1312,Nyimba,Nyimba,Vizimumba,3,5203,52,,0,Eastern,533.469,Zambia
+1313,Nyimba,Nyimba,Mtilizi,6,5206,52,,0,Eastern,101.441,Zambia
+1314,Nyimba,Nyimba,Nyimba,7,5207,52,,0,Eastern,155.416,Zambia
+1315,Livingstone,Livingstone,Simonga,12,12312,123,,0,Southern,238.431,Zambia
+1316,Livingstone,Livingstone,Freedom,1,12301,123,,0,Southern,20.4791,Zambia
+1317,Livingstone,Livingstone,Lizuma,11,12311,123,,0,Southern,0.919627,Zambia
+1318,Livingstone,Livingstone,Dambwa Central,13,12313,123,,0,Southern,1.709,Zambia
+1319,Livingstone,Livingstone,Zambezi,14,12314,123,,0,Southern,7.66017,Zambia
+1320,Livingstone,Livingstone,Nansanzu,16,12316,123,,0,Southern,4.76138,Zambia
+1321,Livingstone,Livingstone,Kariba,15,12315,123,,0,Southern,1.12354,Zambia
+1322,Livingstone,Livingstone,Maramba,9,12309,123,,0,Southern,2.18664,Zambia
+1323,Livingstone,Livingstone,Libuyu,6,12306,123,,0,Southern,2.69702,Zambia
+1324,Livingstone,Livingstone,Mulungushi,8,12308,123,,0,Southern,0.326296,Zambia
+1325,Livingstone,Livingstone,Mwalibonena,7,12307,123,,0,Southern,0.647875,Zambia
+1326,Livingstone,Livingstone,Namatama,4,12304,123,,0,Southern,5.05097,Zambia
+1327,Livingstone,Livingstone,Musi o Tunya,2,12302,123,,0,Southern,2.7546,Zambia
+1328,Livingstone,Livingstone,Dr Mubitana,3,12303,123,,0,Southern,135.006,Zambia
+1329,Livingstone,Livingstone,Akapelwa,10,12310,123,,0,Southern,2.00987,Zambia
+1330,Livingstone,Livingstone,Shungu,17,12317,123,,0,Southern,81.5177,Zambia
+1331,Lundazi,Lumezi,Diwa,26,4926,49,,0,Eastern,1057.16,Zambia
+1332,Lundazi,Lumezi,Chibande,27,4927,49,,0,Eastern,1577.46,Zambia
+1333,Lundazi,Lumezi,Lukusuzi,25,4925,49,,0,Eastern,2094.85,Zambia
+1334,Lundazi,Lumezi,Kamimba,22,4922,49,,0,Eastern,488.078,Zambia
+1335,Lundazi,Lumezi,MERGED WARDS,-88,4988,49,Chamtowa AND Kachama - wards  19 20,1,Eastern,488.844,Zambia
+1336,Lundazi,Lumezi,Wachitangati,21,4921,49,,0,Eastern,508.14,Zambia
+1337,Lundazi,Lundazi,Nthitimila,17,5017,50,,0,Eastern,178.442,Zambia
+1338,Lundazi,Lundazi,Lunevwa,18,5018,50,,0,Eastern,305.425,Zambia
+1339,Lundazi,Lundazi,Chimaliro,16,5016,50,,0,Eastern,142.111,Zambia
+1340,Lundazi,Lundazi,Chilola,15,5015,50,,0,Eastern,130.26,Zambia
+1341,Lundazi,Lundazi,Ndonda,12,5012,50,,0,Eastern,129.926,Zambia
+1342,Lundazi,Lundazi,Mnyamazi,11,5011,50,,0,Eastern,116.264,Zambia
+1343,Lundazi,Lundazi,MERGED WARDS,-88,5088,50,Msuzi AND Mkomba - wards  13 14,1,Eastern,245.058,Zambia
+1344,Lundazi,Chasefu,Chaboli,10,4810,48,,0,Eastern,132.453,Zambia
+1345,Lundazi,Chasefu,Membe,8,4808,48,,0,Eastern,61.5187,Zambia
+1346,Lundazi,Chasefu,Kapilinsanga,6,4806,48,,0,Eastern,204.647,Zambia
+1347,Lundazi,Chasefu,Magodi,2,4802,48,,0,Eastern,382.232,Zambia
+1348,Lundazi,Chasefu,Manda Hill,1,4801,48,,0,Eastern,362.267,Zambia
+1349,Lundazi,Chasefu,Susa,3,4803,48,,0,Eastern,284.429,Zambia
+1350,Lundazi,Chasefu,Nkhanga,7,4807,48,,0,Eastern,319.7,Zambia
+1351,Lundazi,Chasefu,Luwelezi,4,4804,48,,0,Eastern,216.458,Zambia
+1352,Lundazi,Lundazi,Vuli,9,5009,50,,0,Eastern,302.15,Zambia
+1353,Lundazi,Lumezi,Kazembe,23,4923,49,,0,Eastern,1327.35,Zambia
+1354,Kalabo,Sikongo,Nengu,25,13625,136,,0,Western,305.413,Zambia
+1355,Kaoma,Mangango,Luambuwa,17,13917,139,,0,Western,1540.04,Zambia
+1356,Kabwe,Bwacha,Kawama,6,406,4,,0,Central,1.74517,Zambia
+1357,Kitwe,Chimwemwe,Kawama,3,1903,19,,0,Copperbelt,56.8118,Zambia
+1358,Mufulira,Mufulira,Kafue,18,2818,28,,0,Copperbelt,29.0448,Zambia

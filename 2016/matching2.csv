@@ -1,0 +1,960 @@
+,NAME,NAME.who,NAME.shpfile,iso3.x,who_coverage,who_coverage.x,who_coverage.y,merge_status,merge_status.x,merge_status.y,GAUL_CODE,GAUL_CODE.x,GAUL_CODE.y
+191,NA,dano,sno,BFA,NA,103.6986167,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10579
+192,NA,dedougou,kndougou,BFA,NA,94.84991904,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10569
+193,NA,do,sno,BFA,NA,114.527027,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10579
+194,NA,dori,poni,BFA,NA,110.0082034,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10585
+195,NA,gourcy,gourma,BFA,NA,100.243129,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10564
+196,NA,koudougou,kndougou,BFA,NA,92.3246493,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10569
+197,NA,leo,sno,BFA,NA,105.4453723,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10579
+198,NA,manga,banwa,BFA,NA,83.1675534,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10542
+199,NA,manga,bazga,BFA,NA,83.1675534,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10559
+200,NA,pama,bam,BFA,NA,97.71123403,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10552
+201,NA,po,poni,BFA,NA,99.03004495,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10585
+202,NA,po,sno,BFA,NA,99.03004495,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10579
+203,NA,reo,sno,BFA,NA,106.5916198,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10579
+204,NA,toma,como,BFA,NA,104.9432739,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10547
+205,NA,toma,ioba,BFA,NA,104.9432739,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10583
+206,banfora,banfora,NA,BFA,105.0602585,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+207,barsalgho,barsalgho,NA,BFA,99.45458593,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+208,baskuy,baskuy,NA,BFA,98.38380897,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+209,batie,batie,NA,BFA,105.1007396,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+210,bittou,bittou,NA,BFA,98.70629371,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+211,bogande,bogande,NA,BFA,103.9014623,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+212,bogodogo,bogodogo,NA,BFA,112.3477038,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+213,boromo,boromo,NA,BFA,92.52684448,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+214,boulmiougou,boulmiougou,NA,BFA,87.45817593,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+215,boulsa,boulsa,NA,BFA,110.0512698,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+216,bousse,bousse,NA,BFA,110.8839854,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+217,boussouma,boussouma,NA,BFA,90.38356464,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+218,dafra,dafra,NA,BFA,105.1187388,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+219,dande,dande,NA,BFA,100.9054791,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+220,dano,dano,NA,BFA,103.6986167,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+221,dedougou,dedougou,NA,BFA,94.84991904,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+222,diapaga,diapaga,NA,BFA,104.9540085,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+223,diebougou,diebougou,NA,BFA,103.9138943,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+224,djibo,djibo,NA,BFA,109.8141607,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+225,do,do,NA,BFA,114.527027,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+226,dori,dori,NA,BFA,110.0082034,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+227,fadangourma,fadangourma,NA,BFA,118.3672383,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+228,gaoua,gaoua,NA,BFA,98.83732387,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+229,garango,garango,NA,BFA,89.79775281,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+230,gayeri,gayeri,NA,BFA,121.2268744,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+231,goromgorom,goromgorom,NA,BFA,100.6874386,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+232,gourcy,gourcy,NA,BFA,100.243129,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+233,hounde,hounde,NA,BFA,108.2864114,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+234,kampti,kampti,NA,BFA,109.6886675,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+235,karangassovigue,karangassovigue,NA,BFA,134.0771283,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+236,kaya,kaya,NA,BFA,96.73899411,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+237,kombissiri,kombissiri,NA,BFA,96.57808975,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+238,kongoussi,kongoussi,NA,BFA,101.4863749,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+239,koudougou,koudougou,NA,BFA,92.3246493,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+240,koupela,koupela,NA,BFA,90.98446683,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+241,lena,lena,NA,BFA,96.51759531,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+242,leo,leo,NA,BFA,105.4453723,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+243,manga,manga,NA,BFA,83.1675534,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+244,mangodara,mangodara,NA,BFA,133.7202813,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+245,manni,manni,NA,BFA,111.0688428,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+246,nanoro,nanoro,NA,BFA,107.0170244,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+247,ndorola,ndorola,NA,BFA,113.6657247,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+248,nongrmassom,nongrmassom,NA,BFA,115.926281,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+249,nouna,nouna,NA,BFA,101.9433911,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+250,orodara,orodara,NA,BFA,101.0547523,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+251,ouahigouya,ouahigouya,NA,BFA,110.3343925,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+252,ouargaye,ouargaye,NA,BFA,97.4507298,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+253,pama,pama,NA,BFA,97.71123403,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+254,po,po,NA,BFA,99.03004495,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+255,pouytenga,pouytenga,NA,BFA,96.46319965,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+256,reo,reo,NA,BFA,106.5916198,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+257,sabou,sabou,NA,BFA,95.86134454,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+258,sapone,sapone,NA,BFA,91.8134458,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+259,sapouy,sapouy,NA,BFA,108.5799701,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+260,sebba,sebba,NA,BFA,110.2063457,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+261,seguenega,seguenega,NA,BFA,103.9716172,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+262,signoghin,signoghin,NA,BFA,128.9488966,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+263,sindou,sindou,NA,BFA,110.2031101,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+264,solenzo,solenzo,NA,BFA,90.00759092,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+265,tenado,tenado,NA,BFA,104.0382572,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+266,tenkodogo,tenkodogo,NA,BFA,97.90954774,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+267,thiou,thiou,NA,BFA,113.4997316,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+268,titao,titao,NA,BFA,110.0881003,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+269,toma,toma,NA,BFA,104.9432739,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+270,tougan,tougan,NA,BFA,90.95081399,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+271,tougouri,tougouri,NA,BFA,98.25436409,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+272,yako,yako,NA,BFA,101.2560113,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+273,zabre,zabre,NA,BFA,110.6624395,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+274,ziniare,ziniare,NA,BFA,92.29163445,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+275,zorgho,zorgho,NA,BFA,98.08990049,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+276,bal,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10541,NA,NA
+277,bam,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10552,NA,NA
+278,banwa,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10542,NA,NA
+279,bazga,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10559,NA,NA
+280,bougouriba,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10582,NA,NA
+281,boulgou,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10549,NA,NA
+282,boulkiemd,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10555,NA,NA
+283,como,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10547,NA,NA
+284,ganzourgou,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10575,NA,NA
+285,gnagna,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10563,NA,NA
+286,gourma,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10564,NA,NA
+287,houet,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10568,NA,NA
+288,ioba,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10583,NA,NA
+289,kadiogo,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10562,NA,NA
+290,kndougou,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10569,NA,NA
+291,komandjoari,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10565,NA,NA
+292,kompienga,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10566,NA,NA
+293,kossi,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10543,NA,NA
+294,koulplogo,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10550,NA,NA
+295,kouritenga,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10551,NA,NA
+296,kourwogo,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10576,NA,NA
+297,loroum,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10571,NA,NA
+298,lraba,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10548,NA,NA
+299,mouhoun,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10544,NA,NA
+300,nahouri,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10560,NA,NA
+301,namentenga,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10553,NA,NA
+302,nayala,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10545,NA,NA
+303,noumbiel,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10584,NA,NA
+304,oubritenga,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10577,NA,NA
+305,oudalan,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10578,NA,NA
+306,passor,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10572,NA,NA
+307,poni,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10585,NA,NA
+308,sangui,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10556,NA,NA
+309,sanmatenga,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10554,NA,NA
+310,sissili,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10557,NA,NA
+311,sno,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10579,NA,NA
+312,soum,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10580,NA,NA
+313,sourou,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10546,NA,NA
+314,tapoa,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10567,NA,NA
+315,tuy,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10570,NA,NA
+316,yagha,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10581,NA,NA
+317,yatenga,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10573,NA,NA
+318,ziro,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10558,NA,NA
+319,zondoma,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10574,NA,NA
+320,zoundwogo,NA,NA,BFA,NA,NA,NA,in shpfile but not WHO,NA,NA,10561,NA,NA
+1,yamoussoukro,yamoussoukro,NA,CIV,93.84479718,NA,NA,success,NA,NA,12929,NA,NA
+2,NA,sanpedro,sanpdro,CIV,NA,96.24687239,NA,fuzzy need fix,in WHO but not shpfile,in shpfile but not WHO,NA,NA,12901
+3,NA,sanpedro,sanpdro,CIV,NA,96.24687239,NA,fuzzy need fix,in WHO but not shpfile,in shpfile but not WHO,NA,NA,12902
+4,NA,dabou,bagou,CIV,NA,94.4494721,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,12921
+5,NA,man,lam,CIV,NA,91.03663289,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,12915
+6,NA,tabou,bagou,CIV,NA,99.9245283,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,12921
+7,abengourou,abengourou,NA,CIV,98.54376452,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+8,aboboest,aboboest,NA,CIV,104.2693157,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+9,aboboouest,aboboouest,NA,CIV,93.01218162,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+10,aboisso,aboisso,NA,CIV,95.87490692,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+11,adiake,adiake,NA,CIV,95.25876461,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+12,adjameplateauattecoube,adjameplateauattecoube,NA,CIV,109.1909578,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+13,adzope,adzope,NA,CIV,101.8037135,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+14,agboville,agboville,NA,CIV,89.20489297,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+15,agnibilekrou,agnibilekrou,NA,CIV,93.17741935,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+16,akoupe,akoupe,NA,CIV,115.3735256,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+17,alepe,alepe,NA,CIV,99.3638171,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+18,anyama,anyama,NA,CIV,103.5694051,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+19,bangolo,bangolo,NA,CIV,97.53920386,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+20,beoumi,beoumi,NA,CIV,88.3882149,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+21,bettie,bettie,NA,CIV,86.61290323,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+22,biankouma,biankouma,NA,CIV,97.34575087,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+23,blolequin,blolequin,NA,CIV,107.9854809,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+24,bocanda,bocanda,NA,CIV,100.5555556,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+25,bondoukou,bondoukou,NA,CIV,93.70916079,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+26,bongouanou,bongouanou,NA,CIV,101.9781931,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+27,bouafle,bouafle,NA,CIV,108.1976744,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+28,bouakenordest,bouakenordest,NA,CIV,98.64197531,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+29,bouakenordouest,bouakenordouest,NA,CIV,78.24286514,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+30,bouakesud,bouakesud,NA,CIV,106.4441748,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+31,bouna,bouna,NA,CIV,112.9404617,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+32,boundiali,boundiali,NA,CIV,103.9578714,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+33,cocodybingerville,cocodybingerville,NA,CIV,107.9691689,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+34,dabakala,dabakala,NA,CIV,99.79345955,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+35,dabou,dabou,NA,CIV,94.4494721,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+36,daloa,daloa,NA,CIV,92.56798623,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+37,danane,danane,NA,CIV,94.40196078,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+38,daoukro,daoukro,NA,CIV,102.4823944,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+39,didievi,didievi,NA,CIV,93.02491103,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+40,dimbokro,dimbokro,NA,CIV,90.85903084,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+41,divo,divo,NA,CIV,105.4403523,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+42,duekoue,duekoue,NA,CIV,119.6782842,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+43,ferkessedougou,ferkessedougou,NA,CIV,107.4135723,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+44,fresco,fresco,NA,CIV,108.4148728,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+45,gagnoa,gagnoa,NA,CIV,105.6205962,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+46,grandbassam,grandbassam,NA,CIV,91.14849188,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+47,grandlahou,grandlahou,NA,CIV,102.3454158,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+48,gueyo,gueyo,NA,CIV,102.7217742,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+49,guiglo,guiglo,NA,CIV,96.84210526,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+50,issia,issia,NA,CIV,102.1288295,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+51,jacqueville,jacqueville,NA,CIV,98.76221498,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+52,katiola,katiola,NA,CIV,99.16849015,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+53,korhogo,korhogo,NA,CIV,104.9613302,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+54,kouibly,kouibly,NA,CIV,115.6987788,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+55,koumassiportbouetvridi,koumassiportbouetvridi,NA,CIV,113.1313485,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+56,lakota,lakota,NA,CIV,101.5338164,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+57,man,man,NA,CIV,91.03663289,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+58,mankono,mankono,NA,CIV,99.01106051,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+59,mbahiakro,mbahiakro,NA,CIV,97.37003058,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+60,minignan,minignan,NA,CIV,100.8528785,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+61,nassian,nassian,NA,CIV,87.54189944,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+62,niakaramadougou,niakaramadougou,NA,CIV,93.30882353,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+63,odienne,odienne,NA,CIV,98.67526377,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+64,ouangolodougou,ouangolodougou,NA,CIV,107.1270037,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+65,oume,oume,NA,CIV,99.97833153,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+66,prikro,prikro,NA,CIV,105.328084,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+67,sakassou,sakassou,NA,CIV,94.64935065,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+68,sanpedro,sanpedro,NA,CIV,96.24687239,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+69,sassandra,sassandra,NA,CIV,96.26865672,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+70,seguela,seguela,NA,CIV,106.7252544,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+71,sikensi,sikensi,NA,CIV,101.7819149,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+72,sinfra,sinfra,NA,CIV,101.6520788,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+73,soubre,soubre,NA,CIV,103.2741499,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+74,tabou,tabou,NA,CIV,99.9245283,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+75,tanda,tanda,NA,CIV,95.92,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+76,tengrela,tengrela,NA,CIV,98.66834171,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+77,tiassale,tiassale,NA,CIV,101.3793103,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+78,tiebissou,tiebissou,NA,CIV,97.54010695,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+79,touba,touba,NA,CIV,103.1767956,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+80,toulepleu,toulepleu,NA,CIV,77.36486486,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+81,toumodi,toumodi,NA,CIV,93.10714286,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+82,treichvillemarcory,treichvillemarcory,NA,CIV,91.40065147,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+83,vavoua,vavoua,NA,CIV,109.2402597,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+84,yopougonest,yopougonest,NA,CIV,108.5962302,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+85,yopougonouestsongon,yopougonouestsongon,NA,CIV,101.4027778,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+86,zouanhounien,zouanhounien,NA,CIV,94.39942113,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+87,zuenoula,zuenoula,NA,CIV,110.9294513,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+88,abidjan,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12898,NA,NA
+89,agnbytiassa,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12913,NA,NA
+90,bafing,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12927,NA,NA
+91,bagou,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12921,NA,NA
+92,blier,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12909,NA,NA
+93,bounkani,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12930,NA,NA
+94,br,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12926,NA,NA
+95,cavally,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12916,NA,NA
+96,folon,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12905,NA,NA
+97,gbeke,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12924,NA,NA
+98,gbkle,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12899,NA,NA
+99,gh,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12907,NA,NA
+100,gontougo,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12931,NA,NA
+101,grandsponts,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12914,NA,NA
+102,gumon,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12917,NA,NA
+103,hambol,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12925,NA,NA
+104,hautsassandra,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12919,NA,NA
+105,iffou,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12910,NA,NA
+106,indnidjuablin,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12903,NA,NA
+107,kabadougou,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12906,NA,NA
+108,lam,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12915,NA,NA
+109,lhdjiboua,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12908,NA,NA
+110,marahou,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12920,NA,NA
+111,moronou,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12911,NA,NA
+112,nawa,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12900,NA,NA
+113,nzi,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12912,NA,NA
+114,poro,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12922,NA,NA
+115,sanpdro,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12901,NA,NA
+116,sanpdro,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12902,NA,NA
+117,sudcomo,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12904,NA,NA
+118,tchologo,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12923,NA,NA
+119,tonkpi,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12918,NA,NA
+120,worodougou,NA,NA,CIV,NA,NA,NA,in shpfile but not WHO,NA,NA,12928,NA,NA
+321,mifi,mifi,NA,CMR,117.28,NA,NA,success,NA,NA,10942,NA,NA
+322,NA,abo,fako,CMR,NA,58.69,NA,fuzzy need fix,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10945
+323,NA,abo,faro,CMR,NA,58.69,NA,fuzzy need fix,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10934
+324,NA,abo,mbr,CMR,NA,58.69,NA,fuzzy need fix,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10900
+325,NA,ako,fako,CMR,NA,106.03,NA,fuzzy need fix,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10945
+326,NA,ako,faro,CMR,NA,106.03,NA,fuzzy need fix,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10934
+327,NA,bali,bui,CMR,NA,45.56,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10927
+328,NA,banyo,boyo,CMR,NA,91.87,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10926
+329,NA,banyo,manyu,CMR,NA,91.87,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10948
+330,NA,bogo,boyo,CMR,NA,86.06,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10926
+331,NA,bogo,momo,CMR,NA,86.06,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10931
+332,NA,boko,boyo,CMR,NA,62.44,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10926
+333,NA,boko,fako,CMR,NA,62.44,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10945
+334,NA,boko,momo,CMR,NA,62.44,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10931
+335,NA,buea,bui,CMR,NA,73.7,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10927
+336,NA,hina,vina,CMR,NA,78.85,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10901
+337,NA,loum,noun,CMR,NA,22.81,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10944
+338,NA,mamfe,meme,CMR,NA,87.19,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10949
+339,NA,manjo,manyu,CMR,NA,67.24,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10948
+340,NA,manoka,menoua,CMR,NA,8.57,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10941
+341,NA,meri,leki,CMR,NA,84.45,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10903
+342,NA,meri,mbr,CMR,NA,84.45,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10900
+343,NA,meri,meme,CMR,NA,84.45,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10949
+344,NA,mfou,bnou,CMR,NA,107.29,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10933
+345,NA,mora,mbr,CMR,NA,66.69,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10900
+346,NA,mora,momo,CMR,NA,66.69,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10931
+347,NA,ndom,nd,CMR,NA,60.65,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10943
+348,NA,ndom,nkam,CMR,NA,60.65,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10923
+349,NA,ndop,nd,CMR,NA,71.25,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10943
+350,NA,ndu,bnou,CMR,NA,68.49,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10933
+351,NA,ndu,nd,CMR,NA,68.49,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10943
+352,NA,ndu,noun,CMR,NA,68.49,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10944
+353,NA,nkambe,nkam,CMR,NA,73.54,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10923
+354,NA,ntui,bui,CMR,NA,92.77,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10927
+355,NA,ntui,noun,CMR,NA,92.77,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10944
+356,NA,nwa,nd,CMR,NA,93.45,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10943
+357,NA,nwa,nkam,CMR,NA,93.45,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10923
+358,NA,roua,noun,CMR,NA,90.27,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10944
+359,NA,tiko,fako,CMR,NA,76.06,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10945
+360,NA,vele,meme,CMR,NA,140.11,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10949
+361,NA,wum,bui,CMR,NA,75.9,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10927
+362,NA,yoko,boyo,CMR,NA,88.32,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10926
+363,NA,yoko,fako,CMR,NA,88.32,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10945
+364,NA,yoko,momo,CMR,NA,88.32,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,10931
+365,abo,abo,NA,CMR,58.69,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+366,abongmbang,abongmbang,NA,CMR,78.98,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+367,ako,ako,NA,CMR,106.03,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+368,akonolinga,akonolinga,NA,CMR,90.67,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+369,akwaya,akwaya,NA,CMR,89.84,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+370,ambam,ambam,NA,CMR,101.88,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+371,awae,awae,NA,CMR,102.31,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+372,ayos,ayos,NA,CMR,57.67,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+373,bafang,bafang,NA,CMR,74.11,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+374,bafia,bafia,NA,CMR,86.76,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+375,bafut,bafut,NA,CMR,41.37,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+376,baham,baham,NA,CMR,64.68,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+377,bakassi,bakassi,NA,CMR,110.24,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+378,bali,bali,NA,CMR,45.56,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+379,bamenda,bamenda,NA,CMR,75.39,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+380,bamendjou,bamendjou,NA,CMR,69.56,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+381,bandja,bandja,NA,CMR,101.62,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+382,bandjoun,bandjoun,NA,CMR,65.9,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+383,bangangte,bangangte,NA,CMR,68.61,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+384,bangem,bangem,NA,CMR,98.89,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+385,bangourain,bangourain,NA,CMR,95.51,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+386,bangue,bangue,NA,CMR,295.5,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+387,bankim,bankim,NA,CMR,92.33,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+388,banyo,banyo,NA,CMR,91.87,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+389,batcham,batcham,NA,CMR,64.83,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+390,batibo,batibo,NA,CMR,65.9,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+391,batouri,batouri,NA,CMR,108.97,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+392,benakuma,benakuma,NA,CMR,68.57,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+393,bertoua,bertoua,NA,CMR,118.67,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+394,betareoya,betareoya,NA,CMR,95.24,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+395,bibemi,bibemi,NA,CMR,88.3,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+396,biyemassi,biyemassi,NA,CMR,116.2,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+397,bogo,bogo,NA,CMR,86.06,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+398,boko,boko,NA,CMR,62.44,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+399,bonassama,bonassama,NA,CMR,174.48,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+400,bourha,bourha,NA,CMR,127.13,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+401,buea,buea,NA,CMR,73.7,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+402,citepalmiers,citepalmiers,NA,CMR,54.74,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+403,citeverte,citeverte,NA,CMR,68.76,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+404,deido,deido,NA,CMR,108.78,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+405,dibombari,dibombari,NA,CMR,2.2,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+406,djohong,djohong,NA,CMR,133.2,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+407,djoum,djoum,NA,CMR,82.01,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+408,djoungolo,djoungolo,NA,CMR,89.18,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+409,doume,doume,NA,CMR,90.49,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+410,dschang,dschang,NA,CMR,117.4,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+411,ebebda,ebebda,NA,CMR,64.23,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+412,ebolowa,ebolowa,NA,CMR,79.76,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+413,edea,edea,NA,CMR,457.15,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+414,efoulan,efoulan,NA,CMR,58.22,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+415,ekondotiti,ekondotiti,NA,CMR,82.9,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+416,eligmfomo,eligmfomo,NA,CMR,80.83,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+417,eseka,eseka,NA,CMR,72.79,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+418,esse,esse,NA,CMR,78.81,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+419,evodoula,evodoula,NA,CMR,112.18,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+420,eyumojock,eyumojock,NA,CMR,76.89,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+421,figuil,figuil,NA,CMR,85.48,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+422,fontem,fontem,NA,CMR,95.85,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+423,foumban,foumban,NA,CMR,114.87,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+424,foumbot,foumbot,NA,CMR,106.45,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+425,fundong,fundong,NA,CMR,66.25,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+426,galim,galim,NA,CMR,98.85,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+427,garouaboulai,garouaboulai,NA,CMR,138.87,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+428,garouai,garouai,NA,CMR,107.92,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+429,garouaii,garouaii,NA,CMR,84.34,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+430,gaschiga,gaschiga,NA,CMR,87.85,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+431,gazawa,gazawa,NA,CMR,97.31,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+432,golombe,golombe,NA,CMR,96.73,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+433,goulfey,goulfey,NA,CMR,42.44,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+434,guere,guere,NA,CMR,62.07,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+435,guider,guider,NA,CMR,90.23,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+436,guidiguis,guidiguis,NA,CMR,115.27,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+437,hina,hina,NA,CMR,78.85,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+438,japoma,japoma,NA,CMR,46.29,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+439,kaele,kaele,NA,CMR,79.38,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+440,karhay,karhay,NA,CMR,80.92,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+441,kekem,kekem,NA,CMR,82.86,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+442,kette,kette,NA,CMR,121.85,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+443,kolofata,kolofata,NA,CMR,141.47,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+444,konye,konye,NA,CMR,94.11,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+445,kouoptamo,kouoptamo,NA,CMR,98.3,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+446,kousseri,kousseri,NA,CMR,83.03,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+447,koza,koza,NA,CMR,113.37,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+448,kribi,kribi,NA,CMR,103.42,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+449,kumba,kumba,NA,CMR,94.7,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+450,kumboeast,kumboeast,NA,CMR,71.57,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+451,kumbowest,kumbowest,NA,CMR,74.77,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+452,lagdo,lagdo,NA,CMR,80.74,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+453,limbe,limbe,NA,CMR,87.61,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+454,logbaba,logbaba,NA,CMR,114.99,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+455,lolodorf,lolodorf,NA,CMR,62.97,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+456,lomie,lomie,NA,CMR,85.42,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+457,loum,loum,NA,CMR,22.81,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+458,mada,mada,NA,CMR,52.32,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+459,maga,maga,NA,CMR,100.87,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+460,makary,makary,NA,CMR,101.51,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+461,malantouen,malantouen,NA,CMR,144.26,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+462,mamfe,mamfe,NA,CMR,87.19,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+463,manjo,manjo,NA,CMR,67.24,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+464,manoka,manoka,NA,CMR,8.57,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+465,maroua1,maroua1,NA,CMR,79,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+466,maroua2,maroua2,NA,CMR,137.1,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+467,maroua3,maroua3,NA,CMR,113.92,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+468,massangam,massangam,NA,CMR,174.93,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+469,mayooulo,mayooulo,NA,CMR,107.68,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+470,mbalmayo,mbalmayo,NA,CMR,83.27,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+471,mbandjock,mbandjock,NA,CMR,69.63,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+472,mbang,mbang,NA,CMR,105.62,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+473,mbanga,mbanga,NA,CMR,459.54,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+474,mbankomo,mbankomo,NA,CMR,72.96,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+475,mbengwi,mbengwi,NA,CMR,55.34,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+476,mbonge,mbonge,NA,CMR,89.12,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+477,mbouda,mbouda,NA,CMR,85.64,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+478,meiganga,meiganga,NA,CMR,101.58,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+479,melong,melong,NA,CMR,70.73,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+480,meri,meri,NA,CMR,84.45,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+481,messamena,messamena,NA,CMR,78.72,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+482,meyomessala,meyomessala,NA,CMR,97.69,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+483,mfou,mfou,NA,CMR,107.29,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+484,mindif,mindif,NA,CMR,78.99,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+485,mogode,mogode,NA,CMR,91.94,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+486,mokolo,mokolo,NA,CMR,105.13,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+487,moloundou,moloundou,NA,CMR,93.81,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+488,monatele,monatele,NA,CMR,78.49,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+489,mora,mora,NA,CMR,66.69,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+490,moulvoudaye,moulvoudaye,NA,CMR,94.88,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+491,moutourwa,moutourwa,NA,CMR,96.75,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+492,mundemba,mundemba,NA,CMR,81.85,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+493,muyuka,muyuka,NA,CMR,96.75,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+494,mvangan,mvangan,NA,CMR,93.9,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+495,nangaeboko,nangaeboko,NA,CMR,78.39,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+496,ndelele,ndelele,NA,CMR,114.99,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+497,ndikinimeki,ndikinimeki,NA,CMR,73.1,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+498,ndom,ndom,NA,CMR,60.65,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+499,ndop,ndop,NA,CMR,71.25,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+500,ndu,ndu,NA,CMR,68.49,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+501,newbell,newbell,NA,CMR,54.37,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+502,ngambe,ngambe,NA,CMR,96.76,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+503,ngaoundal,ngaoundal,NA,CMR,94.93,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+504,ngaoundererural,ngaoundererural,NA,CMR,92.99,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+505,ngaoundereurbain,ngaoundereurbain,NA,CMR,86.69,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+506,ngogmapubi,ngogmapubi,NA,CMR,64.24,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+507,ngong,ngong,NA,CMR,104.05,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+508,ngoumou,ngoumou,NA,CMR,64.52,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+509,nguelemendouka,nguelemendouka,NA,CMR,84.56,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+510,nguti,nguti,NA,CMR,71.12,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+511,njikwa,njikwa,NA,CMR,98.35,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+512,njombepenja,njombepenja,NA,CMR,87.7,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+513,nkambe,nkambe,NA,CMR,73.54,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+514,nkolbisson,nkolbisson,NA,CMR,91.14,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+515,nkolndongo,nkolndongo,NA,CMR,68.8,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+516,nkondjock,nkondjock,NA,CMR,64.17,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+517,nkongsamba,nkongsamba,NA,CMR,60.3,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+518,ntui,ntui,NA,CMR,92.77,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+519,nwa,nwa,NA,CMR,93.45,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+520,nylon,nylon,NA,CMR,77.68,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+521,obala,obala,NA,CMR,78.17,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+522,okola,okola,NA,CMR,80.89,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+523,oku,oku,NA,CMR,64.3,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+524,olamze,olamze,NA,CMR,88.1,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+525,penkamichel,penkamichel,NA,CMR,66.67,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+526,pette,pette,NA,CMR,95.93,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+527,pitoa,pitoa,NA,CMR,82.95,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+528,poli,poli,NA,CMR,78.83,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+529,pouma,pouma,NA,CMR,87.5,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+530,reybouba,reybouba,NA,CMR,105.66,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+531,roua,roua,NA,CMR,90.27,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+532,saa,saa,NA,CMR,93.43,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+533,sangmelima,sangmelima,NA,CMR,95.84,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+534,santa,santa,NA,CMR,74.46,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+535,santchou,santchou,NA,CMR,101.97,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+536,soa,soa,NA,CMR,95.66,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+537,tchollire,tchollire,NA,CMR,94.37,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+538,tibati,tibati,NA,CMR,96,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+539,tignere,tignere,NA,CMR,92.56,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+540,tiko,tiko,NA,CMR,76.06,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+541,tokombere,tokombere,NA,CMR,84.54,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+542,tombel,tombel,NA,CMR,89.18,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+543,touboro,touboro,NA,CMR,81.83,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+544,tubah,tubah,NA,CMR,71.44,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+545,vele,vele,NA,CMR,140.11,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+546,wabane,wabane,NA,CMR,96.77,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+547,wum,wum,NA,CMR,75.9,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+548,yabassi,yabassi,NA,CMR,67.81,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+549,yagoua,yagoua,NA,CMR,82.11,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+550,yokadouma,yokadouma,NA,CMR,103.35,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+551,yoko,yoko,NA,CMR,88.32,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+552,zoetele,zoetele,NA,CMR,84,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+553,bamboutos,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10937,NA,NA
+554,bnou,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10933,NA,NA
+555,boumbaetngoko,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10912,NA,NA
+556,boyo,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10926,NA,NA
+557,bui,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10927,NA,NA
+558,diamar,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10916,NA,NA
+559,djaetlobo,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10951,NA,NA
+560,djerem,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10897,NA,NA
+561,dongamantung,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10928,NA,NA
+562,fako,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10945,NA,NA
+563,faro,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10934,NA,NA
+564,faroetdo,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10898,NA,NA
+565,hautesanaga,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10902,NA,NA
+566,hautnkam,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10938,NA,NA
+567,hautnyong,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10913,NA,NA
+568,hautsplateaux,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10939,NA,NA
+569,kadey,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10914,NA,NA
+570,koungkhi,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10940,NA,NA
+571,koupmanengouba,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10946,NA,NA
+572,lebialem,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10947,NA,NA
+573,leki,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10903,NA,NA
+574,logoneetchari,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10917,NA,NA
+575,lometdjerem,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10915,NA,NA
+576,manyu,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10948,NA,NA
+577,mayobanyo,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10899,NA,NA
+578,mayodanay,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10918,NA,NA
+579,mayokani,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10919,NA,NA
+580,mayolouti,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10935,NA,NA
+581,mayorey,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10936,NA,NA
+582,mayosava,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10920,NA,NA
+583,mayotsanaga,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10921,NA,NA
+584,mbametinoubou,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10904,NA,NA
+585,mbametkim,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10905,NA,NA
+586,mbr,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10900,NA,NA
+587,mefouetafamba,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10906,NA,NA
+588,mefouetakono,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10907,NA,NA
+589,meme,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10949,NA,NA
+590,menchum,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10929,NA,NA
+591,menoua,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10941,NA,NA
+592,mezam,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10930,NA,NA
+593,mfoundi,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10908,NA,NA
+594,momo,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10931,NA,NA
+595,moungo,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10922,NA,NA
+596,mvila,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10952,NA,NA
+597,nd,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10943,NA,NA
+598,ndian,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10950,NA,NA
+599,ngoketunjia,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10932,NA,NA
+600,nkam,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10923,NA,NA
+601,noun,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10944,NA,NA
+602,nyongetkll,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10909,NA,NA
+603,nyongetmfoumou,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10910,NA,NA
+604,nyongetsoo,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10911,NA,NA
+605,ocan,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10953,NA,NA
+606,sanagamaritime,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10924,NA,NA
+607,valleduntem,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10954,NA,NA
+608,vina,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10901,NA,NA
+609,wouri,NA,NA,CMR,NA,NA,NA,in shpfile but not WHO,NA,NA,10925,NA,NA
+610,akjoujt,akjoujt,NA,MRT,80.52551689,NA,NA,success,NA,NA,22229,NA,NA
+611,aleg,aleg,NA,MRT,74.92266366,NA,NA,success,NA,NA,22207,NA,NA
+612,amourj,amourj,NA,MRT,71.82895117,NA,NA,success,NA,NA,22219,NA,NA
+613,aoujeft,aoujeft,NA,MRT,81.55548235,NA,NA,success,NA,NA,22199,NA,NA
+614,atar,atar,NA,MRT,101.6236306,NA,NA,success,NA,NA,22200,NA,NA
+615,boutilimit,boutilimit,NA,MRT,91.64872136,NA,NA,success,NA,NA,22237,NA,NA
+616,djiguenni,djiguenni,NA,MRT,87.34634436,NA,NA,success,NA,NA,22221,NA,NA
+617,kankossa,kankossa,NA,MRT,82.17307479,NA,NA,success,NA,NA,22205,NA,NA
+618,kiffa,kiffa,NA,MRT,99.39651529,NA,NA,success,NA,NA,22206,NA,NA
+619,maghama,maghama,NA,MRT,109.4585999,NA,NA,success,NA,NA,22215,NA,NA
+620,mbagne,mbagne,NA,MRT,98.463329,NA,NA,success,NA,NA,22210,NA,NA
+621,nouadhibou,nouadhibou,NA,MRT,80.19277867,NA,NA,success,NA,NA,22212,NA,NA
+622,ouadane,ouadane,NA,MRT,88.41007908,NA,NA,success,NA,NA,22223,NA,NA
+623,ouadnaga,ouadnaga,NA,MRT,65.69878056,NA,NA,success,NA,NA,22240,NA,NA
+624,rkiz,rkiz,NA,MRT,90.33644382,NA,NA,success,NA,NA,22241,NA,NA
+625,rosso,rosso,NA,MRT,86.7472503,NA,NA,success,NA,NA,22242,NA,NA
+626,tintane,tintane,NA,MRT,75.65624971,NA,NA,success,NA,NA,22228,NA,NA
+627,NA,bababe,babab,MRT,NA,97.72138244,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22208
+628,NA,boghe,bogh,MRT,NA,113.9604672,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22209
+629,NA,boumdeid,boumded,MRT,NA,137.6769293,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22203
+630,NA,chinguitti,chinguetti,MRT,NA,97.20992852,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22201
+631,NA,fderick,fdrik,MRT,NA,138.9418036,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22235
+632,NA,guerou,gurou,MRT,NA,105.7246515,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22204
+633,NA,kaedi,kadi,MRT,NA,91.11374854,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22213
+634,NA,keurmacen,keurmacne,MRT,NA,73.96443538,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22238
+635,NA,koubenni,kobenni,MRT,NA,89.80799125,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22226
+636,NA,maghtalahjar,magtalahjar,MRT,NA,124.2856421,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22211
+637,NA,mboud,mbout,MRT,NA,75.74671467,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22214
+638,NA,mederdra,mderdra,MRT,NA,100.299872,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22239
+639,NA,moudjeria,moudjria,MRT,NA,99.88760092,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22231
+640,NA,mounguel,monguel,MRT,NA,114.2036343,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22216
+641,NA,nema,nma,MRT,NA,98.65581326,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22222
+642,NA,ouldyenge,ouldyeng,MRT,NA,118.2209245,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22217
+643,NA,selibabi,slibaby,MRT,NA,64.15576454,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22218
+644,NA,tamchekett,tamchakett,MRT,NA,81.17119134,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22227
+645,NA,tichit,tichitt,MRT,NA,51.0353067,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22232
+646,NA,tijikja,tidjikja,MRT,NA,110.5140076,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22233
+647,NA,zouerat,zourate,MRT,NA,87.42055565,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,22236
+648,aiounalatrouss,aiounalatrouss,NA,MRT,87.35823358,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+649,arafat,arafat,NA,MRT,63.41996623,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+650,bababe,bababe,NA,MRT,97.72138244,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+651,barkeiwel,barkeiwel,NA,MRT,78.05357105,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+652,basseknou,basseknou,NA,MRT,69.83321247,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+653,birmougrein,birmougrein,NA,MRT,32.05749773,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+654,boghe,boghe,NA,MRT,113.9604672,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+655,boumdeid,boumdeid,NA,MRT,137.6769293,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+656,chami,chami,NA,MRT,86.81557645,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+657,chinguitti,chinguitti,NA,MRT,97.20992852,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+658,darnaim,darnaim,NA,MRT,141.4077404,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+659,dhar,dhar,NA,MRT,25.87947625,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+660,elmina,elmina,NA,MRT,71.12322128,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+661,fderick,fderick,NA,MRT,138.9418036,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+662,guerou,guerou,NA,MRT,105.7246515,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+663,kaedi,kaedi,NA,MRT,91.11374854,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+664,keurmacen,keurmacen,NA,MRT,73.96443538,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+665,koubenni,koubenni,NA,MRT,89.80799125,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+666,ksar,ksar,NA,MRT,183.9634941,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+667,maghtalahjar,maghtalahjar,NA,MRT,124.2856421,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+668,mboud,mboud,NA,MRT,75.74671467,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+669,mederdra,mederdra,NA,MRT,100.299872,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+670,moudjeria,moudjeria,NA,MRT,99.88760092,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+671,mounguel,mounguel,NA,MRT,114.2036343,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+672,nema,nema,NA,MRT,98.65581326,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+673,oualata,oualata,NA,MRT,47.26850017,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+674,ouldyenge,ouldyenge,NA,MRT,118.2209245,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+675,riyadh,riyadh,NA,MRT,71.63695328,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+676,sebkha,sebkha,NA,MRT,114.1341787,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+677,selibabi,selibabi,NA,MRT,64.15576454,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+678,tamchekett,tamchekett,NA,MRT,81.17119134,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+679,tembedgha,tembedgha,NA,MRT,87.19930585,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+680,tevraghzeina,tevraghzeina,NA,MRT,110.4034072,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+681,teyarett,teyarett,NA,MRT,60.94044682,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+682,tichit,tichit,NA,MRT,51.0353067,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+683,tijikja,tijikja,NA,MRT,110.5140076,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+684,toujounine,toujounine,NA,MRT,62.04733846,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+685,zouerat,zouerat,NA,MRT,87.42055565,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+686,aoun,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22225,NA,NA
+687,babab,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22208,NA,NA
+688,barkol,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22202,NA,NA
+689,bassikounou,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22220,NA,NA
+690,birmoghren,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22234,NA,NA
+691,bogh,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22209,NA,NA
+692,boumded,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22203,NA,NA
+693,chinguetti,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22201,NA,NA
+694,fdrik,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22235,NA,NA
+695,gurou,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22204,NA,NA
+696,kadi,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22213,NA,NA
+697,keurmacne,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22238,NA,NA
+698,kobenni,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22226,NA,NA
+699,magtalahjar,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22211,NA,NA
+700,mbout,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22214,NA,NA
+701,mderdra,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22239,NA,NA
+702,monguel,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22216,NA,NA
+703,moudjria,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22231,NA,NA
+704,nma,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22222,NA,NA
+705,nouakchott,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22230,NA,NA
+706,ouldyeng,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22217,NA,NA
+707,slibaby,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22218,NA,NA
+708,tamchakett,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22227,NA,NA
+709,tichitt,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22232,NA,NA
+710,tidjikja,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22233,NA,NA
+711,timbdra,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22224,NA,NA
+712,zourate,NA,NA,MRT,NA,NA,NA,in shpfile but not WHO,NA,NA,22236,NA,NA
+121,arlit,arlit,NA,NER,68.0310963,NA,NA,success,NA,NA,25602,NA,NA
+122,bilma,bilma,NA,NER,84.01869159,NA,NA,success,NA,NA,25603,NA,NA
+123,boboye,boboye,NA,NER,97.80753138,NA,NA,success,NA,NA,25608,NA,NA
+124,bouza,bouza,NA,NER,88.03773437,NA,NA,success,NA,NA,25621,NA,NA
+125,dakoro,dakoro,NA,NER,95.71452433,NA,NA,success,NA,NA,25614,NA,NA
+126,diffa,diffa,NA,NER,96.25497235,NA,NA,success,NA,NA,25605,NA,NA
+127,dosso,dosso,NA,NER,92.26459144,NA,NA,success,NA,NA,25610,NA,NA
+128,gaya,gaya,NA,NER,77.83731612,NA,NA,success,NA,NA,25611,NA,NA
+129,keita,keita,NA,NER,101.6100693,NA,NA,success,NA,NA,25623,NA,NA
+130,kollo,kollo,NA,NER,86.40160511,NA,NA,success,NA,NA,25628,NA,NA
+131,loga,loga,NA,NER,93.95536268,NA,NA,success,NA,NA,25612,NA,NA
+132,madaoua,madaoua,NA,NER,97.21605568,NA,NA,success,NA,NA,25624,NA,NA
+133,madarounfa,madarounfa,NA,NER,95.80017,NA,NA,success,NA,NA,25616,NA,NA
+134,magaria,magaria,NA,NER,93.27197212,NA,NA,success,NA,NA,25634,NA,NA
+135,matameye,matameye,NA,NER,99.1846329,NA,NA,success,NA,NA,25635,NA,NA
+136,mayahi,mayahi,NA,NER,93.61106694,NA,NA,success,NA,NA,25617,NA,NA
+137,mirriah,mirriah,NA,NER,93.55672389,NA,NA,success,NA,NA,25636,NA,NA
+138,nguigmi,nguigmi,NA,NER,67.12876682,NA,NA,success,NA,NA,25607,NA,NA
+139,ouallam,ouallam,NA,NER,100.3595147,NA,NA,success,NA,NA,25629,NA,NA
+140,say,say,NA,NER,87.46714279,NA,NA,success,NA,NA,25630,NA,NA
+141,tahoua,tahoua,NA,NER,96.17622935,NA,NA,success,NA,NA,25625,NA,NA
+142,tanout,tanout,NA,NER,92.74318597,NA,NA,success,NA,NA,25637,NA,NA
+143,tessaoua,tessaoua,NA,NER,92.20752483,NA,NA,success,NA,NA,25618,NA,NA
+144,NA,aguie,agui,NER,NA,103.8179568,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25613
+145,NA,filingue,filingu,NER,NA,96.887826,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25627
+146,NA,goure,gour,NER,NA,94.37644399,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25633
+147,NA,groumji,groumdji,NER,NA,84.0457573,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25615
+148,NA,illela,illla,NER,NA,103.4454153,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25622
+149,NA,konni,bkonni,NER,NA,96.18662519,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25620
+150,NA,niamey1,niamey,NER,NA,98.59656059,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25619
+151,NA,niamey2,niamey,NER,NA,81.3365484,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25619
+152,NA,niamey3,niamey,NER,NA,88.77373111,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25619
+153,NA,niamey4,niamey,NER,NA,103.5920342,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25619
+154,NA,niamey5,niamey,NER,NA,80.85954807,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25619
+155,NA,tera,tra,NER,NA,91.15549215,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25631
+156,NA,tillaberi,tillabry,NER,NA,95.14085373,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,25632
+157,abalak,abalak,NA,NER,87.17009408,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+158,agadez,agadez,NA,NER,97.38356164,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+159,aguie,aguie,NA,NER,103.8179568,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+160,doutchi,doutchi,NA,NER,99.95606456,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+161,filingue,filingue,NA,NER,96.887826,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+162,goure,goure,NA,NER,94.37644399,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+163,groumji,groumji,NA,NER,84.0457573,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+164,illela,illela,NA,NER,103.4454153,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+165,konni,konni,NA,NER,96.18662519,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+166,maine,maine,NA,NER,69.62195256,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+167,maradic,maradic,NA,NER,60.67492486,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+168,niamey1,niamey1,NA,NER,98.59656059,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+169,niamey2,niamey2,NA,NER,81.3365484,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+170,niamey3,niamey3,NA,NER,88.77373111,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+171,niamey4,niamey4,NA,NER,103.5920342,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+172,niamey5,niamey5,NA,NER,80.85954807,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+173,tchinta,tchinta,NA,NER,84.54848062,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+174,tchiro,tchiro,NA,NER,92.57743363,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+175,tera,tera,NA,NER,91.15549215,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+176,tillaberi,tillaberi,NA,NER,95.14085373,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+177,zinder,zinder,NA,NER,98.92758964,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+178,agui,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25613,NA,NA
+179,bkonni,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25620,NA,NA
+180,dogondoutchi,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25609,NA,NA
+181,filingu,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25627,NA,NA
+182,gour,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25633,NA,NA
+183,groumdji,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25615,NA,NA
+184,illla,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25622,NA,NA
+185,mansoroa,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25606,NA,NA
+186,niamey,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25619,NA,NA
+187,tchighozerine,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25604,NA,NA
+188,tchintabarade,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25626,NA,NA
+189,tillabry,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25632,NA,NA
+190,tra,NA,NA,NER,NA,NA,NA,in shpfile but not WHO,NA,NA,25631,NA,NA
+713,bakel,bakel,NA,SEN,86.65298758,NA,NA,success,NA,NA,35631,NA,NA
+714,bambey,bambey,NA,SEN,120.320184,NA,NA,success,NA,NA,35599,NA,NA
+715,bignona,bignona,NA,SEN,71.8674585,NA,NA,success,NA,NA,35638,NA,NA
+716,bounkiling,bounkiling,NA,SEN,100.6895944,NA,NA,success,NA,NA,35625,NA,NA
+717,dagana,dagana,NA,SEN,108.0508856,NA,NA,success,NA,NA,35628,NA,NA
+718,diourbel,diourbel,NA,SEN,100.1746917,NA,NA,success,NA,NA,35600,NA,NA
+719,fatick,fatick,NA,SEN,82.22499779,NA,NA,success,NA,NA,35602,NA,NA
+720,foundiougne,foundiougne,NA,SEN,81.77714353,NA,NA,success,NA,NA,35603,NA,NA
+721,gossas,gossas,NA,SEN,108.3937848,NA,NA,success,NA,NA,35604,NA,NA
+722,goudiry,goudiry,NA,SEN,112.6704171,NA,NA,success,NA,NA,35632,NA,NA
+723,goudomp,goudomp,NA,SEN,101.9489612,NA,NA,success,NA,NA,35626,NA,NA
+724,kaffrine,kaffrine,NA,SEN,113.773003,NA,NA,success,NA,NA,35609,NA,NA
+725,kanel,kanel,NA,SEN,89.35979921,NA,NA,success,NA,NA,35622,NA,NA
+726,kaolack,kaolack,NA,SEN,94.9462251,NA,NA,success,NA,NA,35613,NA,NA
+727,kolda,kolda,NA,SEN,79.72865207,NA,NA,success,NA,NA,35615,NA,NA
+728,koungheul,koungheul,NA,SEN,131.3274716,NA,NA,success,NA,NA,35610,NA,NA
+729,louga,louga,NA,SEN,92.16816967,NA,NA,success,NA,NA,35621,NA,NA
+730,matam,matam,NA,SEN,90.46866293,NA,NA,success,NA,NA,35623,NA,NA
+731,mbour,mbour,NA,SEN,89.55018936,NA,NA,success,NA,NA,35635,NA,NA
+732,oussouye,oussouye,NA,SEN,61.22683873,NA,NA,success,NA,NA,35639,NA,NA
+733,pikine,pikine,NA,SEN,84.35297595,NA,NA,success,NA,NA,35597,NA,NA
+734,podor,podor,NA,SEN,101.3099016,NA,NA,success,NA,NA,35629,NA,NA
+735,rufisque,rufisque,NA,SEN,57.10656827,NA,NA,success,NA,NA,35598,NA,NA
+736,saintlouis,saintlouis,NA,SEN,86.79188294,NA,NA,success,NA,NA,35630,NA,NA
+737,saraya,saraya,NA,SEN,100.3006201,NA,NA,success,NA,NA,35607,NA,NA
+738,tambacounda,tambacounda,NA,SEN,85.25667179,NA,NA,success,NA,NA,35634,NA,NA
+739,tivaouane,tivaouane,NA,SEN,94.43980401,NA,NA,success,NA,NA,35637,NA,NA
+740,ziguinchor,ziguinchor,NA,SEN,56.55373381,NA,NA,success,NA,NA,35640,NA,NA
+741,NA,birkelane,birkilane,SEN,NA,125.2299141,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35608
+742,NA,dahra,dakar,SEN,NA,95.98567851,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35595
+743,NA,guediawaye,gudiawaye,SEN,NA,79.83080386,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35596
+744,NA,guinguineo,guinguino,SEN,NA,106.7241259,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35612
+745,NA,kebemer,kbmer,SEN,NA,109.5806116,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35618
+746,NA,kebemer,kbmer,SEN,NA,109.5806116,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35619
+747,NA,kedougou,kdougou,SEN,NA,120.253236,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35605
+748,NA,koumpentoum,koupentoum,SEN,NA,102.8218201,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35633
+749,NA,lingucre,lingure,SEN,NA,80.22913057,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35620
+750,NA,malemhoddar,malmehodar,SEN,NA,184.1974976,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35611
+751,NA,mbacke,mback,SEN,NA,137.7594099,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35601
+752,NA,mbao,mback,SEN,NA,81.86895929,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35601
+753,NA,medinayorofoulah,mdinayorofoula,SEN,NA,128.9036476,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35616
+754,NA,sakal,dakar,SEN,NA,107.8488201,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35595
+755,NA,salemata,salmata,SEN,NA,86.48632388,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35606
+756,NA,sedhiou,sdhiou,SEN,NA,81.55684487,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35627
+757,NA,thics,this,SEN,NA,80.78194699,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35636
+758,NA,velingara,vlingara,SEN,NA,84.34680097,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,35617
+759,birkelane,birkelane,NA,SEN,125.2299141,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+760,coki,coki,NA,SEN,89.71555556,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+761,dahra,dahra,NA,SEN,95.98567851,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+762,dakarcentre,dakarcentre,NA,SEN,76.67973711,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+763,dakarnord,dakarnord,NA,SEN,83.12657637,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+764,dakarouest,dakarouest,NA,SEN,103.0429027,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+765,dakarsud,dakarsud,NA,SEN,76.29675607,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+766,daroumousty,daroumousty,NA,SEN,103.5783917,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+767,diamniadio,diamniadio,NA,SEN,67.07333909,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+768,diankhemakha,diankhemakha,NA,SEN,114.7149287,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+769,dioffior,dioffior,NA,SEN,70.68584872,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+770,diouloulou,diouloulou,NA,SEN,77.55049356,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+771,guediawaye,guediawaye,NA,SEN,79.83080386,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+772,guinguineo,guinguineo,NA,SEN,106.7241259,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+773,joal,joal,NA,SEN,95.86677573,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+774,kebemer,kebemer,NA,SEN,109.5806116,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+775,kedougou,kedougou,NA,SEN,120.253236,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+776,keurmassar,keurmassar,NA,SEN,77.46220295,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+777,keurmomarsarr,keurmomarsarr,NA,SEN,89.28344598,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+778,khombole,khombole,NA,SEN,81.0631268,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+779,kidira,kidira,NA,SEN,105.8634561,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+780,koumpentoum,koumpentoum,NA,SEN,102.8218201,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+781,lingucre,lingucre,NA,SEN,80.22913057,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+782,makacolibantang,makacolibantang,NA,SEN,229.8227961,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+783,malemhoddar,malemhoddar,NA,SEN,184.1974976,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+784,mbacke,mbacke,NA,SEN,137.7594099,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+785,mbao,mbao,NA,SEN,81.86895929,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+786,medinayorofoulah,medinayorofoulah,NA,SEN,128.9036476,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+787,mekhe,mekhe,NA,SEN,84.53461574,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+788,ndoffane,ndoffane,NA,SEN,126.5058951,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+789,niakhar,niakhar,NA,SEN,81.25132117,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+790,nioro,nioro,NA,SEN,116.8105723,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+791,passy,passy,NA,SEN,132.7441319,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+792,pete,pete,NA,SEN,86.26760382,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+793,poponguine,poponguine,NA,SEN,59.25638681,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+794,pout,pout,NA,SEN,100.0119602,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+795,ranerou,ranerou,NA,SEN,142.2454561,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+796,richardtoll,richardtoll,NA,SEN,82.56078324,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+797,sakal,sakal,NA,SEN,107.8488201,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+798,salemata,salemata,NA,SEN,86.48632388,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+799,sedhiou,sedhiou,NA,SEN,81.55684487,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+800,sokone,sokone,NA,SEN,96.64053545,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+801,thiadiaye,thiadiaye,NA,SEN,90.26126963,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+802,thics,thics,NA,SEN,80.78194699,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+803,thilogne,thilogne,NA,SEN,79.84390678,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+804,thionckessyl,thionckessyl,NA,SEN,65.615304,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+805,touba,touba,NA,SEN,105.1221047,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+806,velingara,velingara,NA,SEN,84.34680097,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+807,birkilane,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35608,NA,NA
+808,dakar,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35595,NA,NA
+809,gudiawaye,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35596,NA,NA
+810,guinguino,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35612,NA,NA
+811,kbmer,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35618,NA,NA
+812,kbmer,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35619,NA,NA
+813,kdougou,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35605,NA,NA
+814,koupentoum,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35633,NA,NA
+815,lingure,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35620,NA,NA
+816,malmehodar,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35611,NA,NA
+817,mback,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35601,NA,NA
+818,mdinayorofoula,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35616,NA,NA
+819,niorodurip,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35614,NA,NA
+820,ranrouferlo,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35624,NA,NA
+821,salmata,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35606,NA,NA
+822,sdhiou,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35627,NA,NA
+823,this,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35636,NA,NA
+824,vlingara,NA,NA,SEN,NA,NA,NA,in shpfile but not WHO,NA,NA,35617,NA,NA
+825,akobo,akobo,NA,SSD,6.358385201,NA,NA,success,NA,NA,36633,NA,NA
+826,ayod,ayod,NA,SSD,2.457257591,NA,NA,success,NA,NA,36634,NA,NA
+827,magwi,magwi,NA,SSD,39.6954561,NA,NA,success,NA,NA,36631,NA,NA
+828,pibor,pibor,NA,SSD,7.350463649,NA,NA,success,NA,NA,36638,NA,NA
+829,raja,raja,NA,SSD,36.22024074,NA,NA,success,NA,NA,36664,NA,NA
+830,wau,wau,NA,SSD,44.00947464,NA,NA,success,NA,NA,36665,NA,NA
+831,yambio,yambio,NA,SSD,55.84499478,NA,NA,success,NA,NA,36669,NA,NA
+832,NA,awerial,aweil,SSD,NA,123.0977382,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36645
+833,NA,baliet,baleit,SSD,NA,0,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36654
+834,NA,fashoda,fashooda,SSD,NA,39.4147833,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36655
+835,NA,kajokeji,kajokaii,SSD,NA,47.85642487,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36626
+836,NA,maiwut,malut,SSD,NA,44.0765876,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36656
+837,NA,manyo,mayot,SSD,NA,4.285288389,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36657
+838,NA,maridi,meridi,SSD,NA,55.10616765,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36666
+839,NA,mayom,almayom,SSD,NA,5.547820498,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36649
+840,NA,mayom,mayot,SSD,NA,5.547820498,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36657
+841,NA,melut,malut,SSD,NA,0,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36656
+842,NA,nyirol,yerol,SSD,NA,27.06994292,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36643
+843,NA,pariang,faring,SSD,NA,76.75005941,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36650
+844,NA,renk,alrenk,SSD,NA,24.03889856,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36653
+845,NA,rubkoana,rabkona,SSD,NA,38.96080485,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36651
+846,NA,tambura,tombura,SSD,NA,67.61554037,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36668
+847,NA,terekeka,terkaka,SSD,NA,72.10310175,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36628
+848,NA,uror,bor,SSD,NA,1.179877252,NA,fuzzy success,in WHO but not shpfile,in shpfile but not WHO,NA,NA,36635
+849,abiemnhom,abiemnhom,NA,SSD,123.517626,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+850,abyei,abyei,NA,SSD,70.16283481,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+851,akoka,akoka,NA,SSD,6.008930814,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+852,aweilcentral,aweilcentral,NA,SSD,64.79901194,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+853,aweileast,aweileast,NA,SSD,38.33359871,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+854,aweilnorth,aweilnorth,NA,SSD,34.2454362,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+855,aweilsouth,aweilsouth,NA,SSD,71.04524165,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+856,aweilwest,aweilwest,NA,SSD,47.6460876,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+857,awerial,awerial,NA,SSD,123.0977382,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+858,baliet,baliet,NA,SSD,0,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+859,budi,budi,NA,SSD,14.07664167,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+860,cueibet,cueibet,NA,SSD,36.82705237,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+861,duk,duk,NA,SSD,6.940920896,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+862,ezo,ezo,NA,SSD,11.7515369,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+863,fashoda,fashoda,NA,SSD,39.4147833,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+864,gogrialeast,gogrialeast,NA,SSD,119.2309108,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+865,gogrialwest,gogrialwest,NA,SSD,105.0802813,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+866,guit,guit,NA,SSD,9.89621177,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+867,ibba,ibba,NA,SSD,104.2340417,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+868,ikotos,ikotos,NA,SSD,20.74839081,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+869,juba,juba,NA,SSD,81.27983165,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+870,jurriver,jurriver,NA,SSD,56.30348954,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+871,kajokeji,kajokeji,NA,SSD,47.85642487,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+872,kapoetaeast,kapoetaeast,NA,SSD,60.08667062,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+873,kapoetanorth,kapoetanorth,NA,SSD,34.70390327,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+874,kapoetasouth,kapoetasouth,NA,SSD,58.67898847,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+875,khorflus,khorflus,NA,SSD,0,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+876,koch,koch,NA,SSD,3.167443151,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+877,lafon,lafon,NA,SSD,62.91312003,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+878,lainya,lainya,NA,SSD,25.91572028,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+879,leer,leer,NA,SSD,0.089860769,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+880,longechuk,longechuk,NA,SSD,0.597908772,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+881,maban,maban,NA,SSD,81.6772977,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+882,maiwut,maiwut,NA,SSD,44.0765876,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+883,malakal,malakal,NA,SSD,7.186103086,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+884,manyo,manyo,NA,SSD,4.285288389,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+885,maridi,maridi,NA,SSD,55.10616765,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+886,mayendit,mayendit,NA,SSD,0,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+887,mayom,mayom,NA,SSD,5.547820498,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+888,melut,melut,NA,SSD,0,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+889,morobo,morobo,NA,SSD,41.73752368,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+890,mundrieast,mundrieast,NA,SSD,42.58419945,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+891,mundriwest,mundriwest,NA,SSD,14.49652876,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+892,mvolo,mvolo,NA,SSD,37.27007502,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+893,nagero,nagero,NA,SSD,62.50006862,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+894,nasir,nasir,NA,SSD,0,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+895,nyirol,nyirol,NA,SSD,27.06994292,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+896,nzara,nzara,NA,SSD,33.7778141,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+897,oldfangak,oldfangak,NA,SSD,5.091792891,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+898,panyijar,panyijar,NA,SSD,33.29846342,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+899,panyikang,panyikang,NA,SSD,98.13808377,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+900,pariang,pariang,NA,SSD,76.75005941,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+901,pochalla,pochalla,NA,SSD,0.413539099,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+902,renk,renk,NA,SSD,24.03889856,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+903,rubkoana,rubkoana,NA,SSD,38.96080485,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+904,rumbekcentre,rumbekcentre,NA,SSD,58.66370761,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+905,rumbekeast,rumbekeast,NA,SSD,91.58317214,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+906,rumbeknorth,rumbeknorth,NA,SSD,62.99228164,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+907,southbor,southbor,NA,SSD,33.8534959,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+908,tambura,tambura,NA,SSD,67.61554037,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+909,terekeka,terekeka,NA,SSD,72.10310175,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+910,tonjeast,tonjeast,NA,SSD,68.78073898,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+911,tonjnorth,tonjnorth,NA,SSD,77.93459195,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+912,tonjsouth,tonjsouth,NA,SSD,84.91578175,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+913,torit,torit,NA,SSD,76.18487618,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+914,twic,twic,NA,SSD,91.96544636,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+915,twiceast,twiceast,NA,SSD,27.62913195,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+916,ulang,ulang,NA,SSD,11.66520524,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+917,uror,uror,NA,SSD,1.179877252,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+918,wulu,wulu,NA,SSD,69.35368947,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+919,yei,yei,NA,SSD,60.29240619,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+920,yiroleast,yiroleast,NA,SSD,53.9019505,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+921,yirolwest,yirolwest,NA,SSD,48.84154909,NA,NA,in WHO but not shpfile,NA,NA,NA,NA,NA
+922,aliab,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36640,NA,NA
+923,alleiri,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36648,NA,NA
+924,almabien,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36652,NA,NA
+925,almayom,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36649,NA,NA
+926,alrenk,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36653,NA,NA
+927,amatonge,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36629,NA,NA
+928,aryat,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36644,NA,NA
+929,aweil,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36645,NA,NA
+930,bahraljabal,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36625,NA,NA
+931,baleit,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36654,NA,NA
+932,bor,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36635,NA,NA
+933,famalzaraf,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36636,NA,NA
+934,faring,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36650,NA,NA
+935,fashooda,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36655,NA,NA
+936,gogrial,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36660,NA,NA
+937,kajokaii,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36626,NA,NA
+938,kapoeta,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36630,NA,NA
+939,malek,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36661,NA,NA
+940,malut,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36656,NA,NA
+941,mayot,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36657,NA,NA
+942,meridi,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36666,NA,NA
+943,mundri,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36667,NA,NA
+944,nahratiem,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36637,NA,NA
+945,nahrlol,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36646,NA,NA
+946,nahryei,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36627,NA,NA
+947,rabkona,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36651,NA,NA
+948,rumbek,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36641,NA,NA
+949,shobet,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36642,NA,NA
+950,shokodom,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36632,NA,NA
+951,sobat,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36658,NA,NA
+952,terkaka,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36628,NA,NA
+953,tombura,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36668,NA,NA
+954,tonga,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36659,NA,NA
+955,tonj,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36662,NA,NA
+956,wanjuk,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36647,NA,NA
+957,warab,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36663,NA,NA
+958,wat,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36639,NA,NA
+959,yerol,NA,NA,SSD,NA,NA,NA,in shpfile but not WHO,NA,NA,36643,NA,NA

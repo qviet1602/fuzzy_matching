@@ -1,0 +1,517 @@
+Name,iso3,ADM0_NAME,LvlID,SourceYear,LvllD,Source,PROVNAME,Name_API,VSAT,zs_id,GAUL_CODE
+Pimu,CD,Democratic Republic of the Congo,CDH003013000000000000,2007,CDH003003004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Pimu,0,1,1
+Djombo,CD,Democratic Republic of the Congo,CDH003054000000000000,2007,CDH003002002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Djombo,0,2,2
+Bongandanga,CD,Democratic Republic of the Congo,CDH003053000000000000,2007,CDH003003001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bongandanga,0,3,3
+Bafale,CD,Democratic Republic of the Congo,CDH003035000000000000,2007,CDH003004001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Befale,0,4,4
+Basankusu,CD,Democratic Republic of the Congo,CDH003023000000000000,2007,CDH003002001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Basankusu,0,5,5
+Kalomda,CD,Democratic Republic of the Congo,CDH004042000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Kalomda,0,6,6
+Nyanga,CD,Democratic Republic of the Congo,CDH004016000000000000,2007,CDH004003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Nyanga,0,7,7
+Kalonda,CD,Democratic Republic of the Congo,CDH004050000000000000,2007,CDH004002002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Kalonda,0,8,8
+Kamonya,CD,Democratic Republic of the Congo,CDH004045000000000000,2007,CDH004003003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Kamonia,0,9,9
+Musuika,CD,Democratic Republic of the Congo,CDH004039000000000000,2007,CDH004004015,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Masuika,0,10,10
+Yangala,CD,Democratic Republic of the Congo,CDH004025000000000000,2007,CDH004004016,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Yangala,0,11,11
+Luambo,CD,Democratic Republic of the Congo,CDH004002000000000000,2007,CDH004004011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Luambo,0,12,12
+Mutenna,CD,Democratic Republic of the Congo,CDH004049000000000000,2007,CDH004003001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Mutena,0,13,13
+Ndekesha,CD,Democratic Republic of the Congo,CDH004018000000000000,2007,CDH004001004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Ndekesha,0,14,14
+Tshibala,CD,Democratic Republic of the Congo,CDH004010000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Tshibala,0,15,15
+Luiza,CD,Democratic Republic of the Congo,CDH004013000000000000,2007,CDH004004013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Luiza,0,16,16
+Bilonda,CD,Democratic Republic of the Congo,CDH004033000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Bilomba,0,17,17
+Bukonde,CD,Democratic Republic of the Congo,CDH004024000000000000,2007,CDH004004004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Bukonde,0,18,18
+Tshikula,CD,Democratic Republic of the Congo,CDH004006000000000000,2007,CDH004004003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Tshikula,0,19,19
+Ndesha,CD,Democratic Republic of the Congo,CDH004034000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Ndesha,0,20,20
+Banga Lubaka,CD,Democratic Republic of the Congo,CDH004032000000000000,2007,CDH004003011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Banga Lubaka,0,21,21
+Kamwesha,CD,Democratic Republic of the Congo,CDH004043000000000000,2007,CDH004003004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Kamuesha,0,22,22
+Ndjoko Punda,CD,Democratic Republic of the Congo,CDH004040000000000000,2007,CDH004003007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Ndjoku Punda,0,23,23
+Luebo,CD,Democratic Republic of the Congo,CDH004004000000000000,2007,CDH004003008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Luebo,0,24,24
+Mikalayi,CD,Democratic Republic of the Congo,CDH004026000000000000,2007,CDH004004010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Mikalayi,0,25,25
+Mutoto,CD,Democratic Republic of the Congo,CDH004037000000000000,2007,CDH004004007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Mutoto,0,26,26
+Demba,CD,Democratic Republic of the Congo,CDH004001000000000000,2007,CDH004004006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Demba,0,27,27
+Bena Leke,CD,Democratic Republic of the Congo,CDH004038000000000000,2007,CDH004004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Bena-leka,0,28,28
+Mweka,CD,Democratic Republic of the Congo,CDH004041000000000000,2007,CDH004003012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Mweka,0,29,29
+Bulape,CD,Democratic Republic of the Congo,CDH004030000000000000,2007,CDH004003013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Bulape,0,30,30
+Kakenge,CD,Democratic Republic of the Congo,CDH004035000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Kakenge,0,31,31
+Katende,CD,Democratic Republic of the Congo,CDH004028000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Katende,0,32,32
+Lubondaie,CD,Democratic Republic of the Congo,CDH004047000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Lubondayi,0,33,33
+Dibaya,CD,Democratic Republic of the Congo,CDH004017000000000000,2007,CDH004004001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Dibaya,0,34,34
+Lubunga,CD,Democratic Republic of the Congo,CDH004036000000000000,2007,CDH004004002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Lubunga,0,35,35
+Mwetshi,CD,Democratic Republic of the Congo,CDH004046000000000000,2007,CDH004004017,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Muetshi,0,36,36
+Ilebo,CD,Democratic Republic of the Congo,CDH004015000000000000,2007,CDH004003009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Ilebo,0,37,37
+Mushenge,CD,Democratic Republic of the Congo,CDH004019000000000000,2007,CDH004003014,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Mushenge,0,38,38
+Kabeya Kamuanga,CD,Democratic Republic of the Congo,CDH005035000000000000,2007,CDH005002009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kabeya-Kamuanga,0,39,39
+Kamana,CD,Democratic Republic of the Congo,CDH005059000000000000,2007,CDH005003009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kamana,0,40,40
+Winkong,CD,Democratic Republic of the Congo,CDH006051000000000000,2007,CDH005003015,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Wikong,0,41,41
+Makota,CD,Democratic Republic of the Congo,CDH005050000000000000,2007,CDH005003012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Makota,0,42,42
+Mwene Ditu,CD,Democratic Republic of the Congo,CDH005046000000000000,2007,CDH005003011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Mwene-Ditu,0,43,43
+Kyondo,CD,Democratic Republic of the Congo,CDH009002000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Kyondo,0,44,44
+Mabalako,CD,Democratic Republic of the Congo,CDH009022000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,45,45
+Biena,CD,Democratic Republic of the Congo,CDH009023000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Biena,0,46,46
+Masereka,CD,Democratic Republic of the Congo,CDH009024000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Masereka,0,47,47
+Lubero,CD,Democratic Republic of the Congo,CDH009010000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Lubero,0,48,48
+Manguredjipa,CD,Democratic Republic of the Congo,CDH009025000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Manguredjipa,0,49,49
+Mutwanga,CD,Democratic Republic of the Congo,CDH009014000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Mutwanga,0,50,50
+Kamango,CD,Democratic Republic of the Congo,CDH009027000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,51,51
+Oicha,CD,Democratic Republic of the Congo,CDH009001000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Oicha,0,52,52
+Binza,CD,Democratic Republic of the Congo,CDH009033000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Binza,0,53,53
+Birambizo,CD,Democratic Republic of the Congo,CDH009019000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Birambizo,0,54,54
+Kibirizi,CD,Democratic Republic of the Congo,CDH009020000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,55,55
+Kalunguta,CD,Democratic Republic of the Congo,CDH009030000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,56,56
+Beni,CD,Democratic Republic of the Congo,CDH009006000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Beni,0,57,57
+Vohovi,CD,Democratic Republic of the Congo,CDH009031000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Vuhovi,0,58,58
+Musienene,CD,Democratic Republic of the Congo,CDH009012000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Musienene,0,59,59
+Butembo,CD,Democratic Republic of the Congo,CDH009016000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Butembo,0,60,60
+Katwa,CD,Democratic Republic of the Congo,CDH009005000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Katwa,0,61,61
+Wembo Nyama,CD,Democratic Republic of the Congo,CDH005049000000000000,2007,CDH005004003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Wembo-Nyama,0,62,62
+Kayna,CD,Democratic Republic of the Congo,CDH009007000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Kayna,0,63,63
+Alimbongo,CD,Democratic Republic of the Congo,CDH009029000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,64,64
+Kole,CD,Democratic Republic of the Congo,CDH005026000000000000,2007,CDH005004006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kole,0,65,65
+Miabi,CD,Democratic Republic of the Congo,CDH005004000000000000,2007,CDH005002005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Miabi,0,66,66
+Nzaba,CD,Democratic Republic of the Congo,CDH005048000000000000,2007,CDH005001003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Nzaba,0,67,67
+Bonzola,CD,Democratic Republic of the Congo,CDH005006000000000000,2007,CDH005001001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Bonzola,0,68,68
+Lubilanji,CD,Democratic Republic of the Congo,CDH005041000000000000,2007,CDH005001006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Lubilanji,0,69,69
+Dibindi,CD,Democratic Republic of the Congo,CDH005021000000000000,2007,CDH005001005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Dibindi,0,70,70
+Kansele,CD,Democratic Republic of the Congo,CDH005014000000000000,2007,CDH005001009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kansele,0,71,71
+Lukelenge,CD,Democratic Republic of the Congo,CDH005042000000000000,2007,CDH005001007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Lukalenge,0,72,72
+Muya,CD,Democratic Republic of the Congo,CDH005043000000000000,2007,CDH005001010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Muya,0,73,73
+Bimpemba,CD,Democratic Republic of the Congo,CDH005044000000000000,2007,CDH005001002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Bipemba,0,74,74
+Diulu,CD,Democratic Republic of the Congo,CDH005040000000000000,2007,CDH005001008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Diulu,0,75,75
+Mpokolo,CD,Democratic Republic of the Congo,CDH005051000000000000,2007,CDH005001004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Mpokolo,0,76,76
+Luputa,CD,Democratic Republic of the Congo,CDH005009000000000000,2007,CDH005003013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Luputa,0,77,77
+Kalenda,CD,Democratic Republic of the Congo,CDH005052000000000000,2007,CDH005003016,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kalenda,0,78,78
+Kamiji,CD,Democratic Republic of the Congo,CDH005053000000000000,2007,CDH005003007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kamiji,0,79,79
+Tshilundu,CD,Democratic Republic of the Congo,CDH005054000000000000,2007,CDH005002006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Cilundu,0,80,80
+Tshitshimbi,CD,Democratic Republic of the Congo,CDH005055000000000000,2007,CDH005002007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Tshishimbi,0,81,81
+Mulumba,CD,Democratic Republic of the Congo,CDH005056000000000000,2007,CDH005003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Mulumba,0,82,82
+Kasansa,CD,Democratic Republic of the Congo,CDH005010000000000000,2007,CDH005002004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kasansa,0,83,83
+Ngandajika,CD,Democratic Republic of the Congo,CDH005057000000000000,2007,CDH005003004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Gandajika,0,84,84
+Kandakanda,CD,Democratic Republic of the Congo,CDH005058000000000000,2007,CDH005003014,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kanda Kanda,0,85,85
+Tshilenge,CD,Democratic Republic of the Congo,CDH005017000000000000,2007,CDH005002003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Tshilenge,0,86,86
+Tshitenge,CD,Democratic Republic of the Congo,CDH005060000000000000,2007,CDH005002002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Citenge,0,87,87
+Mukumbi,CD,Democratic Republic of the Congo,CDH005045000000000000,2007,CDH005002008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Mukumbi,0,88,88
+Bibanga,CD,Democratic Republic of the Congo,CDH005015000000000000,2007,CDH005002001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Bibanga,0,89,89
+Kalambayi Kabanga,CD,Democratic Republic of the Congo,CDH005047000000000000,2007,CDH005003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kalambayi Kabanga,0,90,90
+Lukashi lualu,CD,Democratic Republic of the Congo,CDH005028000000000000,2007,CDH005003002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,,0,91,91
+Kalonda Est,CD,Democratic Republic of the Congo,CDH005029000000000000,2007,CDH005003003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kalonda-Est,0,92,92
+Kabinda,CD,Democratic Republic of the Congo,CDH005002000000000000,2007,CDH005003001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Kabinda,0,93,93
+Tshofa,CD,Democratic Republic of the Congo,CDH005019000000000000,2007,CDH005003010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Tshofa,0,94,94
+Pania Mutombo,CD,Democratic Republic of the Congo,CDH005031000000000000,2007,CDH005004009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Pania Mutombo,0,95,95
+Minga,CD,Democratic Republic of the Congo,CDH005027000000000000,2007,CDH005004001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Minga,0,96,96
+Lusambo,CD,Democratic Republic of the Congo,CDH005008000000000000,2007,CDH005004008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Lusambo,0,97,97
+Dikungu Tshumbe,CD,Democratic Republic of the Congo,CDH005032000000000000,2007,CDH005004002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Dikungu,0,98,98
+Vanga Kete,CD,Democratic Republic of the Congo,CDH005033000000000000,2007,CDH005004014,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Vanga-Kete,0,99,99
+Lodja,CD,Democratic Republic of the Congo,CDH005039000000000000,2007,CDH005004012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Lodja,0,100,100
+Omondjadi,CD,Democratic Republic of the Congo,CDH005034000000000000,2007,CDH005004013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Omendjadi,0,101,101
+Djalo Djeka,CD,Democratic Republic of the Congo,CDH005030000000000000,2007,CDH005004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Djalo-Ndjeka,0,102,102
+Kitoyi,CD,Democratic Republic of the Congo,CDH011024000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,103,103
+Kibua,CD,Democratic Republic of the Congo,CDH009028000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,104,104
+Masisi,CD,Democratic Republic of the Congo,CDH009013000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Masisi,0,105,105
+Mweso,CD,Democratic Republic of the Congo,CDH009017000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Mweso,0,106,106
+Bambo,CD,Democratic Republic of the Congo,CDH009026000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,107,107
+Pinga,CD,Democratic Republic of the Congo,CDH009008000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Pinga,0,108,108
+Walikale,CD,Democratic Republic of the Congo,CDH009015000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Walikale,0,109,109
+Lubao,CD,Democratic Republic of the Congo,CDH005018000000000000,2007,CDH005003008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Lubao,0,110,110
+Moba,CD,Democratic Republic of the Congo,CDH006003000000000000,2007,CDH006004003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Moba,0,111,111
+Kambove,CD,Democratic Republic of the Congo,CDH006007000000000000,2007,CDH006002005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kambove,0,112,112
+Bunkeya,CD,Democratic Republic of the Congo,CDH006062000000000000,2007,CDH006005008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Bunkeya,0,113,113
+Bongosenubia,CD,Democratic Republic of the Congo,CDH003058000000000000,2007,CDH003006008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bogose nubea,0,114,114
+Moanda,CD,Democratic Republic of the Congo,CDH002035000000000000,2007,CDH002002003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Muanda,0,115,115
+Kitona,CD,Democratic Republic of the Congo,CDH002017000000000000,2007,CDH002002002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kitona,0,116,116
+Boma,CD,Democratic Republic of the Congo,CDH002006000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Boma,0,117,117
+Boma Bungu,CD,Democratic Republic of the Congo,CDH002036000000000000,2007,CDH002002004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Boma Bungu,0,118,118
+Seke Banza,CD,Democratic Republic of the Congo,CDH002030000000000000,2007,CDH002001008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Sekebanza,0,119,119
+Inga,CD,Democratic Republic of the Congo,CDH002032000000000000,2007,CDH002001009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Inga,0,120,120
+Lukula,CD,Democratic Republic of the Congo,CDH002020000000000000,2007,CDH002001006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Lukula,0,121,121
+Tshela,CD,Democratic Republic of the Congo,CDH002005000000000000,2007,CDH002001002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Tshela,0,122,122
+Vaku,CD,Democratic Republic of the Congo,CDH002003000000000000,2007,CDH002001003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Vaku,0,123,123
+Kizu,CD,Democratic Republic of the Congo,CDH002021000000000000,2007,CDH002001001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kizu,0,124,124
+Kibunzi,CD,Democratic Republic of the Congo,CDH002004000000000000,2007,CDH002003002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kibunzi,0,125,125
+Luozi,CD,Democratic Republic of the Congo,CDH002019000000000000,2007,CDH002001005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Luozi,0,126,126
+Kimpangu,CD,Democratic Republic of the Congo,CDH002008000000000000,2007,CDH002003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kimpangu,0,127,127
+Ngidinga,CD,Democratic Republic of the Congo,CDH002026000000000000,2007,CDH002004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Ngidinga,0,128,128
+Nselo,CD,Democratic Republic of the Congo,CDH002024000000000000,2007,CDH002004004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Nselo,0,129,129
+Boko Kivulu,CD,Democratic Republic of the Congo,CDH002038000000000000,2007,CDH002003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Boko-Kivulu,0,130,130
+Mbanza Ngungu,CD,Democratic Republic of the Congo,CDH002037000000000000,2007,CDH002003004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Mbanza-Ngungu,0,131,131
+Kwilu Ngongo,CD,Democratic Republic of the Congo,CDH002031000000000000,2007,CDH002003007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kwilu-Ngongo,0,132,132
+Kisantu,CD,Democratic Republic of the Congo,CDH002016000000000000,2007,CDH002004003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kisantu,0,133,133
+Bolobo,CD,Democratic Republic of the Congo,CDH001034000000000000,2007,CDH001006001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Bolobo,0,134,134
+Nioki,CD,Democratic Republic of the Congo,CDH001024000000000000,2007,CDH001005007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Nioki,0,135,135
+Mikope,CD,Democratic Republic of the Congo,CDH004027000000000000,2007,CDH004003010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Mikope,0,136,136
+Oshwe,CD,Democratic Republic of the Congo,CDH001062000000000000,2007,CDH001005010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Oshwe,0,137,137
+Mimia,CD,Democratic Republic of the Congo,CDH001033000000000000,2007,CDH001005009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Mimia,0,138,138
+Bosobe,CD,Democratic Republic of the Congo,CDH001037000000000000,2007,CDH001005008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Bosobe,0,139,139
+Bokoro,CD,Democratic Republic of the Congo,CDH001032000000000000,2007,CDH001005006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Bokoro,0,140,140
+Masi Manimba,CD,Democratic Republic of the Congo,CDH001045000000000000,2007,CDH001004018,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Masi-manimba,0,141,141
+Yanga bosa,CD,Democratic Republic of the Congo,CDH001046000000000000,2007,CDH001004017,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Yasa-Bonga,0,142,142
+Idiofa,CD,Democratic Republic of the Congo,CDH001014000000000000,2007,CDH001004016,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Idiofa,0,143,143
+Ipamu,CD,Democratic Republic of the Congo,CDH001012000000000000,2007,CDH001004015,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Ipamu,0,144,144
+Koshibanda,CD,Democratic Republic of the Congo,CDH001022000000000000,2007,CDH001004014,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Koshibanda,0,145,145
+Kingandu,CD,Democratic Republic of the Congo,CDH001017000000000000,2007,CDH001004011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kingandu,0,146,146
+Bulungu,CD,Democratic Republic of the Congo,CDH001031000000000000,2007,CDH001004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Bulungu,0,147,147
+Bagata,CD,Democratic Republic of the Congo,CDH001007000000000000,2007,CDH001004003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Bagata,0,148,148
+Bandundu,CD,Democratic Republic of the Congo,CDH001010000000000000,2007,CDH001001001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Bandundu,0,149,149
+Kajiji,CD,Democratic Republic of the Congo,CDH001003000000000000,2007,CDH001003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kajiji,0,150,150
+Mwela Lemba,CD,Democratic Republic of the Congo,CDH001058000000000000,2007,CDH001003002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Mwela Lembwa,0,151,151
+Feshi,CD,Democratic Republic of the Congo,CDH001018000000000000,2007,CDH001003001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Feshi,0,152,152
+Kisandji,CD,Democratic Republic of the Congo,CDH001048000000000000,2007,CDH001003003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kisanji,0,153,153
+Wamba Lwadi,CD,Democratic Republic of the Congo,CDH001052000000000000,2007,CDH001003008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Wamba luadi,0,154,154
+Panzi,CD,Democratic Republic of the Congo,CDH001019000000000000,2007,CDH001003007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Panzi,0,155,155
+Tembo,CD,Democratic Republic of the Congo,CDH001054000000000000,2007,CDH001003009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Tembo,0,156,156
+Moaza,CD,Democratic Republic of the Congo,CDH001043000000000000,2007,CDH001004021,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Moanza,0,157,157
+Kimbau,CD,Democratic Republic of the Congo,CDH001057000000000000,2007,CDH001003013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kimbau,0,158,158
+Kenge,CD,Democratic Republic of the Congo,CDH001006000000000000,2007,CDH001003011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kenge,0,159,159
+Boko,CD,Democratic Republic of the Congo,CDH001049000000000000,2007,CDH001003012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Boko,0,160,160
+Kiri,CD,Democratic Republic of the Congo,CDH003074000000000000,2007,CDH001005004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kiri,0,161,161
+Penzwa,CD,Democratic Republic of the Congo,CDH003076000000000000,2007,CDH001005005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Pendjua,0,162,162
+Inongo,CD,Democratic Republic of the Congo,CDH001013000000000000,2007,CDH001005001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Inongo,0,163,163
+Mushie,CD,Democratic Republic of the Congo,CDH001027000000000000,2007,CDH001006003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Mushie,0,164,164
+Tandembele,CD,Democratic Republic of the Congo,CDH001040000000000000,2007,CDH001005003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Ntand Embelo,0,165,165
+Bandjau,CD,Democratic Republic of the Congo,CDH001041000000000000,2007,CDH001005002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Banjow Moke,0,166,166
+Pawa,CD,Democratic Republic of the Congo,CDH010017000000000000,2007,CDH010007008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Pawa,0,167,167
+Mandima,CD,Democratic Republic of the Congo,CDH010002000000000000,2007,CDH010008003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Mandima,0,168,168
+Lolwa,CD,Democratic Republic of the Congo,CDH010022000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Lolwa,0,169,169
+Komanda,CD,Democratic Republic of the Congo,CDH010060000000000000,2007,CDH010008010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Kambala,0,170,170
+Rwampara,CD,Democratic Republic of the Congo,CDH010056000000000000,2007,CDH010008006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Rwampara,0,171,171
+Bunia,CD,Democratic Republic of the Congo,CDH010018000000000000,2007,CDH010008005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Bunia,0,172,172
+Nizi,CD,Democratic Republic of the Congo,CDH010070000000000000,2007,CDH010010011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Nizi,0,173,173
+Lita,CD,Democratic Republic of the Congo,CDH010073000000000000,2007,CDH010010010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Lita,0,174,174
+Drodro,CD,Democratic Republic of the Congo,CDH010038000000000000,2007,CDH010010009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Drodro,0,175,175
+Jiba,CD,Democratic Republic of the Congo,CDH010077000000000000,2007,CDH010010006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Jiba,0,176,176
+Mahagi,CD,Democratic Republic of the Congo,CDH010085000000000000,2007,CDH010009009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Mahagi,0,177,177
+Linga,CD,Democratic Republic of the Congo,CDH010078000000000000,2007,CDH010010005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Linga,0,178,178
+Damasi,CD,Democratic Republic of the Congo,CDH010089000000000000,2007,CDH010010003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Damas,0,179,179
+Nyakunde,CD,Democratic Republic of the Congo,CDH010048000000000000,2007,CDH010008007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Nyankunde,0,180,180
+Rimba,CD,Democratic Republic of the Congo,CDH010025000000000000,2007,CDH010009011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Rimba,0,181,181
+Bambu,CD,Democratic Republic of the Congo,CDH010087000000000000,2007,CDH010010013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Bambu-Mines,0,182,182
+Mangala,CD,Democratic Republic of the Congo,CDH010075000000000000,2007,CDH010010008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Mangala,0,183,183
+Fataki,CD,Democratic Republic of the Congo,CDH010042000000000000,2007,CDH010010007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Fataki,0,184,184
+Tchomia,CD,Democratic Republic of the Congo,CDH010036000000000000,2007,CDH010010012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Tchomia,0,185,185
+Boga,CD,Democratic Republic of the Congo,CDH010019000000000000,2007,CDH010008009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Boga,0,186,186
+Gethy,CD,Democratic Republic of the Congo,CDH010058000000000000,2007,CDH010008008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Ghety,0,187,187
+Niangara,CD,Democratic Republic of the Congo,CDH010003000000000000,2007,CDH010007005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Niangara,0,188,188
+Rungu,CD,Democratic Republic of the Congo,CDH010049000000000000,2007,CDH010007002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Rungu,0,189,189
+Viandana,CD,Democratic Republic of the Congo,CDH010083000000000000,2007,CDH010005002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Viadana,0,190,190
+Poko,CD,Democratic Republic of the Congo,CDH010020000000000000,2007,CDH010005001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Poko,0,191,191
+Mwana,CD,Democratic Republic of the Congo,CDH011028000000000000,2007,CDH011005005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Mwana,0,192,192
+Kaziba,CD,Democratic Republic of the Congo,CDH011012000000000000,2007,CDH011002004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kaziba,0,193,193
+Nyatende,CD,Democratic Republic of the Congo,CDH011036000000000000,2007,CDH011003004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Nyantende,0,194,194
+Nyangezi,CD,Democratic Republic of the Congo,CDH011002000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Nyangezi,0,195,195
+Idjwi,CD,Democratic Republic of the Congo,CDH011010000000000000,2007,CDH011003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Idjwi,0,196,196
+Itebero,CD,Democratic Republic of the Congo,CDH011019000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,197,197
+Kabare,CD,Democratic Republic of the Congo,CDH011011000000000000,2007,CDH011003001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kabare,0,198,198
+Mubumbano,CD,Democratic Republic of the Congo,CDH011020000000000000,2007,CDH011002002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Mubumbano,0,199,199
+Walungu,CD,Democratic Republic of the Congo,CDH011003000000000000,2007,CDH011002001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Walungu,0,200,200
+Haut Plateau,CD,Democratic Republic of the Congo,CDH011029000000000000,2007,CDH011004004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Hauts Plateaux,0,201,201
+Basali,CD,Democratic Republic of the Congo,CDH010081000000000000,2007,CDH010002003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Basali,0,202,202
+Basoko,CD,Democratic Republic of the Congo,CDH010033000000000000,2007,CDH010002001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Basoko,0,203,203
+Bengamisa,CD,Democratic Republic of the Congo,CDH010063000000000000,2007,CDH010003002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Bengamisa,0,204,204
+Yakusu,CD,Democratic Republic of the Congo,CDH010006000000000000,2007,CDH010002008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Yakusu,0,205,205
+Yahisule,CD,Democratic Republic of the Congo,CDH010067000000000000,2007,CDH010002007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Yahisuli,0,206,206
+Ubundu,CD,Democratic Republic of the Congo,CDH010045000000000000,2007,CDH010003003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Ubundu,0,207,207
+Yabahondo,CD,Democratic Republic of the Congo,CDH010062000000000000,2007,CDH010002006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Yabaondo,0,208,208
+Isangi,CD,Democratic Republic of the Congo,CDH010005000000000000,2007,CDH010002005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Isangi,0,209,209
+Yaleko,CD,Democratic Republic of the Congo,CDH010059000000000000,2007,CDH010003007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Yaleko,0,210,210
+Niania,CD,Democratic Republic of the Congo,CDH010051000000000000,2007,CDH010008004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Nia-Nia,0,211,211
+Isiro,CD,Democratic Republic of the Congo,CDH010004000000000000,2007,CDH010007001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Isiro,0,212,212
+Banalia,CD,Democratic Republic of the Congo,CDH010035000000000000,2007,CDH010003001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Banalia,0,213,213
+Bafwasende,CD,Democratic Republic of the Congo,CDH010046000000000000,2007,CDH010003008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Bafwasende,0,214,214
+Bafwabogbo,CD,Democratic Republic of the Congo,CDH010050000000000000,2007,CDH010003010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Bafwagbogbo,0,215,215
+Buta,CD,Democratic Republic of the Congo,CDH010015000000000000,2007,CDH010004001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Buta,0,216,216
+Titule,CD,Democratic Republic of the Congo,CDH010084000000000000,2007,CDH010004002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Titule,0,217,217
+Ganga,CD,Democratic Republic of the Congo,CDH010086000000000000,2007,CDH010005004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,,0,218,218
+Ariwara,CD,Democratic Republic of the Congo,CDH010068000000000000,2007,CDH010009002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Ariwara,0,219,219
+Aru,CD,Democratic Republic of the Congo,CDH010032000000000000,2007,CDH010009001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Aru,0,220,220
+Adia,CD,Democratic Republic of the Congo,CDH010057000000000000,2007,CDH010009006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Adja,0,221,221
+Biringi,CD,Democratic Republic of the Congo,CDH010009000000000000,2007,CDH010009004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Biringi,0,222,222
+Aungba,CD,Democratic Republic of the Congo,CDH010066000000000000,2007,CDH010009012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Aungba,0,223,223
+Gombari,CD,Democratic Republic of the Congo,CDH010008000000000000,2007,CDH010006005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Gombari,0,224,224
+Mbomomange,CD,Democratic Republic of the Congo,CDH010054000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,,0,225,225
+Mambasa,CD,Democratic Republic of the Congo,CDH010001000000000000,2007,CDH010008002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Mambasa,0,226,226
+Wamba,CD,Democratic Republic of the Congo,CDH010007000000000000,2007,CDH010007006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Wamba,0,227,227
+Mongbwalu,CD,Democratic Republic of the Congo,CDH010055000000000000,2007,CDH010010002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Mongbwalu,0,228,228
+Kilo,CD,Democratic Republic of the Congo,CDH010069000000000000,2007,CDH010010001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Kilo,0,229,229
+Wangata,CD,Democratic Republic of the Congo,CDH003048000000000000,2007,CDH003001001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Wangata,0,230,230
+Bolonge,CD,Democratic Republic of the Congo,CDH003049000000000000,2007,CDH003001002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bolenge,0,231,231
+Ibanda,CD,Democratic Republic of the Congo,CDH011023000000000000,2007,CDH011001001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Ibanda,0,232,232
+Kandutu,CD,Democratic Republic of the Congo,CDH011041000000000000,2007,CDH011001002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kadutu,0,233,233
+Bagira Kasha,CD,Democratic Republic of the Congo,CDH011040000000000000,2007,CDH011001003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Bagira-Kasha,0,234,234
+Vanga,CD,Democratic Republic of the Congo,CDH001005000000000000,2007,CDH001004006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Vanga,0,235,235
+Djuma,CD,Democratic Republic of the Congo,CDH001023000000000000,2007,CDH001004004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Djuma,0,236,236
+Sia,CD,Democratic Republic of the Congo,CDH001047000000000000,2007,CDH001004002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Sia,0,237,237
+Mungindu,CD,Democratic Republic of the Congo,CDH001051000000000000,2007,CDH001004010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Mungindu,0,238,238
+Mokala,CD,Democratic Republic of the Congo,CDH001060000000000000,2007,CDH001004012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Mokala,0,239,239
+Kimputu,CD,Democratic Republic of the Congo,CDH001061000000000000,2007,CDH001004013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kimputu,0,240,240
+Mosango,CD,Democratic Republic of the Congo,CDH001038000000000000,2007,CDH001004019,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Mosango,0,241,241
+Pay Kongila,CD,Democratic Republic of the Congo,CDH001044000000000000,2007,CDH001004020,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Pay Kongila,0,242,242
+Matadi,CD,Democratic Republic of the Congo,CDH002015000000000000,2007,CDH002005001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Matadi,0,243,243
+Nzanza,CD,Democratic Republic of the Congo,CDH002028000000000000,2007,CDH002005002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Nzanza,0,244,244
+Ndjili,CD,Democratic Republic of the Congo,CDH007008000000000000,2007,CDH007003010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Ndjili,0,245,245
+Mont Ngafula I,CD,Democratic Republic of the Congo,CDH007026000000000000,2007,CDH007002001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Mont-Ngafula I,0,246,246
+Biyela,CD,Democratic Republic of the Congo,CDH007016000000000000,2007,CDH007003007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Biyela,0,247,247
+Kikimi,CD,Democratic Republic of the Congo,CDH007027000000000000,2007,CDH007003004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kikimi,0,248,248
+Lemba,CD,Democratic Republic of the Congo,CDH007033000000000000,2007,CDH007004004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Lemba,0,249,249
+Matete,CD,Democratic Republic of the Congo,CDH007028000000000000,2007,CDH007004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Matete,0,250,250
+Kisenso,CD,Democratic Republic of the Congo,CDH007029000000000000,2007,CDH007004001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kisenso,0,251,251
+Lingwala,CD,Democratic Republic of the Congo,CDH007030000000000000,2007,CDH007002009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Lingwala,0,252,252
+Barumbu,CD,Democratic Republic of the Congo,CDH007031000000000000,2007,CDH007002005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Barumbu,0,253,253
+Kinshasa,CD,Democratic Republic of the Congo,CDH007032000000000000,2007,CDH007002007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kinshasa,0,254,254
+Limet??,CD,Democratic Republic of the Congo,CDH007048000000000000,2007,CDH007004002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Limet??,0,255,255
+Kalamu II,CD,Democratic Republic of the Congo,CDH007034000000000000,2007,CDH007001003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kalamu II,0,256,256
+Kalamu I,CD,Democratic Republic of the Congo,CDH007024000000000000,2007,CDH007001002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kalamu I,0,257,257
+Bumbu,CD,Democratic Republic of the Congo,CDH007020000000000000,2007,CDH007001001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Bumbu,0,258,258
+Makala,CD,Democratic Republic of the Congo,CDH007003000000000000,2007,CDH007001005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Makala,0,259,259
+Ngaba,CD,Democratic Republic of the Congo,CDH007007000000000000,2007,CDH007004006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Ngaba,0,260,260
+Bandalungwa,CD,Democratic Republic of the Congo,CDH007047000000000000,2007,CDH007001009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Bandalungwa,0,261,261
+Selembao,CD,Democratic Republic of the Congo,CDH007036000000000000,2007,CDH007001007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Selembao,0,262,262
+Gombe,CD,Democratic Republic of the Congo,CDH007037000000000000,2007,CDH007002006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Gombe,0,263,263
+Kingabwa,CD,Democratic Republic of the Congo,CDH007012000000000000,2007,CDH007004003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kingabwa,0,264,264
+Masina II,CD,Democratic Republic of the Congo,CDH007038000000000000,2007,CDH007003009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Masina II,0,265,265
+Masina I,CD,Democratic Republic of the Congo,CDH007039000000000000,2007,CDH007003008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Masina I,0,266,266
+Kintambo,CD,Democratic Republic of the Congo,CDH007040000000000000,2007,CDH007002008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kintambo,0,267,267
+Kasa_Vubu,CD,Democratic Republic of the Congo,CDH007041000000000000,2007,CDH007001004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kasa-Vubu,0,268,268
+Ngiri_Ngiri,CD,Democratic Republic of the Congo,CDH007042000000000000,2007,CDH007001006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Ngiri-Ngiri,0,269,269
+Binza_Met??o,CD,Democratic Republic of the Congo,CDH007049000000000000,2007,CDH007002003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Binza-M??t??o,0,270,270
+Binza_Ozone,CD,Democratic Republic of the Congo,CDH007035000000000000,2007,CDH007002004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Binza-Ozone,0,271,271
+Maluku I,CD,Democratic Republic of the Congo,CDH007023000000000000,2007,CDH007003002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Maluku I,0,272,272
+Kikongo,CD,Democratic Republic of the Congo,CDH001008000000000000,2007,CDH001004001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kikongo,0,273,273
+Mont Ngafula II,CD,Democratic Republic of the Congo,CDH007021000000000000,2007,CDH007002002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Mont-Ngafula II,0,274,274
+Sona Bata,CD,Democratic Republic of the Congo,CDH002033000000000000,2007,CDH002004001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Sona-Bata,0,275,275
+Nsele,CD,Democratic Republic of the Congo,CDH007022000000000000,2007,CDH007003003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Nsele,0,276,276
+Rethy,CD,Democratic Republic of the Congo,CDH010024000000000000,2007,CDH010010004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Rethy,0,277,277
+Kambala,CD,Democratic Republic of the Congo,CDH010065000000000000,2007,CDH010009013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Komanda,0,278,278
+Angumu,CD,Democratic Republic of the Congo,CDH010053000000000000,2007,CDH010009007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Angumu,0,279,279
+Nyarambe,CD,Democratic Republic of the Congo,CDH010039000000000000,2007,CDH010009008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Nyarambe,0,280,280
+Logo,CD,Democratic Republic of the Congo,CDH010023000000000000,2007,CDH010009010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Logo,0,281,281
+Watsa,CD,Democratic Republic of the Congo,CDH010030000000000000,2007,CDH010006004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Watsa,0,282,282
+Lualaba,CD,Democratic Republic of the Congo,CDH006070000000000000,2007,CDH006005006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Lualaba,0,283,283
+Kanzala,CD,Democratic Republic of the Congo,CDH004048000000000000,2007,CDH004002003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Kanzala,0,284,284
+Tshikapa,CD,Democratic Republic of the Congo,CDH004007000000000000,2007,CDH004001005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Tshikapa,0,285,285
+Katoka,CD,Democratic Republic of the Congo,CDH004029000000000000,2007,CDH004001002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Katoka,0,286,286
+Lukonga,CD,Democratic Republic of the Congo,CDH004021000000000000,2007,CDH004001003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Lukonga,0,287,287
+Kananga,CD,Democratic Republic of the Congo,CDH004012000000000000,2007,CDH004001001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Kananga,0,288,288
+Tshikaji,CD,Democratic Republic of the Congo,CDH004008000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Tshikaji,0,289,289
+Kingasani,CD,Democratic Republic of the Congo,CDH007013000000000000,2007,CDH007003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kingasani,0,290,290
+Kimbanseke,CD,Democratic Republic of the Congo,CDH007025000000000000,2007,CDH007003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kimbanseke,0,291,291
+Bwamanda,CD,Democratic Republic of the Congo,CDH003005000000000000,2007,CDH003006010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bwamanda,0,292,292
+Boto,CD,Democratic Republic of the Congo,CDH003071000000000000,2007,CDH003006012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Boto,0,293,293
+Kungu,CD,Democratic Republic of the Congo,CDH003070000000000000,2007,CDH003006011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Kungu,0,294,294
+Mampoko,CD,Democratic Republic of the Congo,CDH003065000000000000,2007,CDH003002007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Lolanga Mampoko,0,295,295
+Ntondo,CD,Democratic Republic of the Congo,CDH003069000000000000,2007,CDH003002005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Ntondo,0,296,296
+Iboko,CD,Democratic Republic of the Congo,CDH003073000000000000,2007,CDH003002004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Iboko,0,297,297
+Ingende,CD,Democratic Republic of the Congo,CDH003021000000000000,2007,CDH003002012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Ingende,0,298,298
+Mbandaka,CD,Democratic Republic of the Congo,CDH003014000000000000,2007,CDH003001003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Mbandaka,0,299,299
+Monika,CD,Democratic Republic of the Congo,CDH003056000000000000,2007,CDH003002008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Monieka,0,300,300
+Lotumbe,CD,Democratic Republic of the Congo,CDH003040000000000000,2007,CDH003002013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Lotumbe,0,301,301
+Bolomba,CD,Democratic Republic of the Congo,CDH003022000000000000,2007,CDH003002006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bolomba,0,302,302
+Boende,CD,Democratic Republic of the Congo,CDH003008000000000000,2007,CDH003004003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Boende,0,303,303
+Wema,CD,Democratic Republic of the Congo,CDH003051000000000000,2007,CDH003004004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Wema,0,304,304
+Bosanga,CD,Democratic Republic of the Congo,CDH003050000000000000,2007,CDH003004006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Busanga,0,305,305
+Bokungu,CD,Democratic Republic of the Congo,CDH003020000000000000,2007,CDH003004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bokungu,0,306,306
+Mompono,CD,Democratic Republic of the Congo,CDH003044000000000000,2007,CDH003004002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Mompono,0,307,307
+Loko,CD,Democratic Republic of the Congo,CDH003003000000000000,2007,CDH003005004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Loko,0,308,308
+Bangabola,CD,Democratic Republic of the Congo,CDH003024000000000000,2007,CDH003006001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bangabola,0,309,309
+Bosomondanda,CD,Democratic Republic of the Congo,CDH003043000000000000,2007,CDH003003002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bosomodanda,0,310,310
+Budjala,CD,Democratic Republic of the Congo,CDH003027000000000000,2007,CDH003006002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Budjala,0,311,311
+Binga,CD,Democratic Republic of the Congo,CDH003006000000000000,2007,CDH003003012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Binga,0,312,312
+Mankanza,CD,Democratic Republic of the Congo,CDH003042000000000000,2007,CDH003002011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Makanza,0,313,313
+Lisala,CD,Democratic Republic of the Congo,CDH003002000000000000,2007,CDH003003010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Lisala,0,314,314
+Yamaluka,CD,Democratic Republic of the Congo,CDH003034000000000000,2007,CDH003003007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Yamaluka,0,315,315
+Bosomanzi,CD,Democratic Republic of the Congo,CDH003060000000000000,2007,CDH003003011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bosomanzi,0,316,316
+Businga,CD,Democratic Republic of the Congo,CDH003010000000000000,2007,CDH003005003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Businga,0,317,317
+Ndage,CD,Democratic Republic of the Congo,CDH003046000000000000,2007,CDH003006005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Ndage,0,318,318
+Karawa,CD,Democratic Republic of the Congo,CDH003030000000000000,2007,CDH003005005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Karawa,0,319,319
+Bominenge,CD,Democratic Republic of the Congo,CDH003041000000000000,2007,CDH003006007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bominenge,0,320,320
+Gemena,CD,Democratic Republic of the Congo,CDH003012000000000000,2007,CDH003006006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Gemena,0,321,321
+Mbaya,CD,Democratic Republic of the Congo,CDH003015000000000000,2007,CDH003006003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Mbaya,0,322,322
+Bulu,CD,Democratic Republic of the Congo,CDH003064000000000000,2007,CDH003006004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bulu,0,323,323
+Tandala,CD,Democratic Republic of the Congo,CDH003025000000000000,2007,CDH003006009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Tandala,0,324,324
+Kibombo,CD,Democratic Republic of the Congo,CDH008008000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Kibombo,0,325,325
+Kindu,CD,Democratic Republic of the Congo,CDH008003000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Kindu,0,326,326
+Alunguli,CD,Democratic Republic of the Congo,CDH008011000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Alunguli,0,327,327
+Kokolo,CD,Democratic Republic of the Congo,CDH007011000000000000,2007,CDH007001008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Kokolo,0,328,328
+Police,CD,Democratic Republic of the Congo,CDH007046000000000000,2007,CDH007002010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Police,0,329,329
+Bobozo,CD,Democratic Republic of the Congo,CDH004044000000000000,2007,CDH004001006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Bobozo,0,330,330
+Makiso Kisangani,CD,Democratic Republic of the Congo,CDH010072000000000000,2007,CDH010001005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Makiso-Kisangani,0,331,331
+Lubunga,CD,Democratic Republic of the Congo,CDH010012000000000000,2007,CDH010001002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Lubunga,0,332,332
+Mangobo,CD,Democratic Republic of the Congo,CDH010076000000000000,2007,CDH010001001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Mangobo,0,333,333
+Kabondo,CD,Democratic Republic of the Congo,CDH010021000000000000,2007,CDH010001003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Kabondo,0,334,334
+Tshopo,CD,Democratic Republic of the Congo,CDH010071000000000000,2007,CDH010001004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Tshopo,0,335,335
+Kafakumba,CD,Democratic Republic of the Congo,CDH006067000000000000,2007,CDH006003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kafakumba,0,336,336
+Kaniama,CD,Democratic Republic of the Congo,CDH006029000000000000,2007,CDH006003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kaniama,0,337,337
+Kalemie,CD,Democratic Republic of the Congo,CDH006002000000000000,2007,CDH006004001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kalemie,0,338,338
+Kasimba,CD,Democratic Republic of the Congo,CDH006040000000000000,2007,CDH006004004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kansimba,0,339,339
+Pweto,CD,Democratic Republic of the Congo,CDH006023000000000000,2007,CDH006001001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Pweto,0,340,340
+Butumba,CD,Democratic Republic of the Congo,CDH006064000000000000,2007,CDH006006002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Butumba,0,341,341
+Kinkonja,CD,Democratic Republic of the Congo,CDH006063000000000000,2007,CDH006006004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kinkondja,0,342,342
+Lukafu,CD,Democratic Republic of the Congo,CDH006055000000000000,2007,CDH006001003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Lukafu,0,343,343
+Mufunga Sampwe,CD,Democratic Republic of the Congo,CDH006074000000000000,2007,CDH006002001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Mufunga-Sampwe,0,344,344
+Kilwa,CD,Democratic Republic of the Congo,CDH006038000000000000,2007,CDH006001002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kilwa,0,345,345
+Kamina,CD,Democratic Republic of the Congo,CDH006009000000000000,2007,CDH006006012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kamina,0,346,346
+Mitwaba,CD,Democratic Republic of the Congo,CDH006069000000000000,2007,CDH006002002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Mitwaba,0,347,347
+Kiambi,CD,Democratic Republic of the Congo,CDH006020000000000000,2007,CDH006004008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kiambi,0,348,348
+Manono,CD,Democratic Republic of the Congo,CDH006028000000000000,2007,CDH006004007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Manono,0,349,349
+Kikula,CD,Democratic Republic of the Congo,CDH006039000000000000,2007,CDH006002006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kikula,0,350,350
+Kapolobwe,CD,Democratic Republic of the Congo,CDH006068000000000000,2007,CDH006002004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kapolowe,0,351,351
+Likasi,CD,Democratic Republic of the Congo,CDH006076000000000000,2007,CDH006002008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Likasi,0,352,352
+Panda,CD,Democratic Republic of the Congo,CDH006073000000000000,2007,CDH006002007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Panda,0,353,353
+Fungurume,CD,Democratic Republic of the Congo,CDH006061000000000000,2007,CDH006005007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Fungurume,0,354,354
+Samba,CD,Democratic Republic of the Congo,CDH008009000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Samba,0,355,355
+Kasongo,CD,Democratic Republic of the Congo,CDH008005000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Kasongo,0,356,356
+Kunda,CD,Democratic Republic of the Congo,CDH008012000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Kunda,0,357,357
+Lusangi,CD,Democratic Republic of the Congo,CDH008007000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Lusangi,0,358,358
+Tumba,CD,Democratic Republic of the Congo,CDH008013000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Tunda,0,359,359
+Mulungu,CD,Democratic Republic of the Congo,CDH011032000000000000,2007,CDH011005004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Mulungu,0,360,360
+Kaniola,CD,Democratic Republic of the Congo,CDH011018000000000000,2007,CDH011002003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kaniola,0,361,361
+Kalonge,CD,Democratic Republic of the Congo,CDH011039000000000000,2007,CDH011003007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kalonge,0,362,362
+Miti Murhesa,CD,Democratic Republic of the Congo,CDH011035000000000000,2007,CDH011003003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Miti - Murhesa,0,363,363
+Bunyakiri,CD,Democratic Republic of the Congo,CDH011007000000000000,2007,CDH011003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Bunyakiri,0,364,364
+Kahele,CD,Democratic Republic of the Congo,CDH011031000000000000,2007,CDH011003009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kalehe,0,365,365
+Uvira,CD,Democratic Republic of the Congo,CDH011014000000000000,2007,CDH011004001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Uvira,0,366,366
+Kitutu,CD,Democratic Republic of the Congo,CDH011026000000000000,2007,CDH011005008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kitutu,0,367,367
+Kamituga,CD,Democratic Republic of the Congo,CDH011027000000000000,2007,CDH011005007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kamituga,0,368,368
+Mwenga,CD,Democratic Republic of the Congo,CDH011005000000000000,2007,CDH011005006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Mwenga,0,369,369
+Itombwe,CD,Democratic Republic of the Congo,CDH011025000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Itombwe,0,370,370
+Minembwe,CD,Democratic Republic of the Congo,CDH011017000000000000,2007,CDH011004008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Minembwe,0,371,371
+Nundu,CD,Democratic Republic of the Congo,CDH011004000000000000,2007,CDH011004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Nundu,0,372,372
+Ruzizi,CD,Democratic Republic of the Congo,CDH011015000000000000,2007,CDH011004003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Ruzizi,0,373,373
+Lemera,CD,Democratic Republic of the Congo,CDH011008000000000000,2007,CDH011004002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Lemera,0,374,374
+Salamabila,CD,Democratic Republic of the Congo,CDH008014000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Salamabila,0,375,375
+Kampene,CD,Democratic Republic of the Congo,CDH008002000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Kampene,0,376,376
+Kakole,CD,Democratic Republic of the Congo,CDH011033000000000000,2007,CDH011005003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kalole,0,377,377
+Nyemba,CD,Democratic Republic of the Congo,CDH006050000000000000,2007,CDH006004002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Nyemba,0,378,378
+Fizi,CD,Democratic Republic of the Congo,CDH011009000000000000,2007,CDH011004006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Fizi,0,379,379
+Nyunzu,CD,Democratic Republic of the Congo,CDH006032000000000000,2007,CDH006004010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Nyunzu,0,380,380
+Kimbi Lulenge,CD,Democratic Republic of the Congo,CDH011016000000000000,2007,CDH011004007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Kimbi Lulenge,0,381,381
+Kabambare,CD,Democratic Republic of the Congo,CDH008015000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Kabambare,0,382,382
+Pangi,CD,Democratic Republic of the Congo,CDH008016000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Pangi,0,383,383
+Kalima,CD,Democratic Republic of the Congo,CDH008006000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Kalima,0,384,384
+Wasolo,CD,Democratic Republic of the Congo,CDH003061000000000000,2007,CDH003005007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Wasolo,0,385,385
+Yalimbongo,CD,Democratic Republic of the Congo,CDH010074000000000000,2007,CDH010002002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Yalimbongo,0,386,386
+Likati,CD,Democratic Republic of the Congo,CDH010079000000000000,2007,CDH010004004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Likati,0,387,387
+Aketi,CD,Democratic Republic of the Congo,CDH010027000000000000,2007,CDH010004003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Aketi,0,388,388
+Lolo,CD,Democratic Republic of the Congo,CDH003063000000000000,2007,CDH003003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Lolo,0,389,389
+Yamongili,CD,Democratic Republic of the Congo,CDH003055000000000000,2007,CDH003003009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Yamongili,0,390,390
+Abuzi,CD,Democratic Republic of the Congo,CDH003059000000000000,2007,CDH003005006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Abuzi,0,391,391
+Yambuku,CD,Democratic Republic of the Congo,CDH003032000000000000,2007,CDH003003008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Yambuku,0,392,392
+wapinda,CD,Democratic Republic of the Congo,CDH003029000000000000,2007,CDH003005008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Wapinda,0,393,393
+Bosondjo,CD,Democratic Republic of the Congo,CDH003062000000000000,2007,CDH003003003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bosondjo,0,394,394
+Bumba,CD,Democratic Republic of the Congo,CDH003016000000000000,2007,CDH003003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bumba,0,395,395
+Lingomo,CD,Democratic Republic of the Congo,CDH003047000000000000,2007,CDH003004009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Lingomo,0,396,396
+Mondombe,CD,Democratic Republic of the Congo,CDH003038000000000000,2007,CDH003004011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Mondombe,0,397,397
+Djolu,CD,Democratic Republic of the Congo,CDH003033000000000000,2007,CDH003004008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Djolu,0,398,398
+Yahuma,CD,Democratic Republic of the Congo,CDH010044000000000000,2007,CDH010002004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Yahuma,0,399,399
+Opienge,CD,Democratic Republic of the Congo,CDH010052000000000000,2007,CDH010003009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Opienge,0,400,400
+Obokote,CD,Democratic Republic of the Congo,CDH008018000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Obokote,0,401,401
+Ferekeni,CD,Democratic Republic of the Congo,CDH008017000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Ferekeni,0,402,402
+Lowa,CD,Democratic Republic of the Congo,CDH008020000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Lowa,0,403,403
+Wanie Rukula,CD,Democratic Republic of the Congo,CDH010061000000000000,2007,CDH010003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Wanie-Rukula,0,404,404
+Lubutu,CD,Democratic Republic of the Congo,CDH008004000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Lubutu,0,405,405
+Kikenda,CD,Democratic Republic of the Congo,CDH001050000000000000,2007,CDH001003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kitenda,0,406,406
+Kasongo Lunda,CD,Democratic Republic of the Congo,CDH001056000000000000,2007,CDH001003010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kasongolunda,0,407,407
+Popokabaka,CD,Democratic Republic of the Congo,CDH001016000000000000,2007,CDH001003014,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Popokabaka,0,408,408
+Kimvula,CD,Democratic Republic of the Congo,CDH002013000000000000,2007,CDH002004002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kimvula,0,409,409
+Maluku II,CD,Democratic Republic of the Congo,CDH007045000000000000,2007,CDH007003001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kinshasa,Maluku II,0,410,410
+Kimpese,CD,Democratic Republic of the Congo,CDH002009000000000000,2007,CDH002003009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kimpese,0,411,411
+Sona Pangu,CD,Democratic Republic of the Congo,CDH002027000000000000,2007,CDH002003010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Nsona-Pangu,0,412,412
+Kangu,CD,Democratic Republic of the Congo,CDH002002000000000000,2007,CDH002001007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kangu,0,413,413
+Kuimba,CD,Democratic Republic of the Congo,CDH002023000000000000,2007,CDH002001004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kuimba,0,414,414
+Kinkonzi,CD,Democratic Republic of the Congo,CDH002014000000000000,2007,CDH002001005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Kinkonzi,0,415,415
+Mangembo,CD,Democratic Republic of the Congo,CDH002018000000000000,2007,CDH002003001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Mangembo,0,416,416
+Gombe Matadi,CD,Democratic Republic of the Congo,CDH002029000000000000,2007,CDH002003008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Gombe-Matadi,0,417,417
+Massa,CD,Democratic Republic of the Congo,CDH002034000000000000,2007,CDH002004006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bas-Congo,Masa,0,418,418
+Kwamouth,CD,Democratic Republic of the Congo,CDH001025000000000000,2007,CDH001006002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kwamouth,0,419,419
+Yumbi,CD,Democratic Republic of the Congo,CDH003075000000000000,2007,CDH001006004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Yumbi,0,420,420
+Irebu,CD,Democratic Republic of the Congo,CDH003036000000000000,2007,CDH003002015,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Irebu,0,421,421
+Bikoro,CD,Democratic Republic of the Congo,CDH003007000000000000,2007,CDH003002003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bikoro,0,422,422
+Lukolela,CD,Democratic Republic of the Congo,CDH003004000000000000,2007,CDH003002014,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Lukolela,0,423,423
+Bokonzi,CD,Democratic Republic of the Congo,CDH003018000000000000,2007,CDH003006013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bokonzi,0,424,424
+Bomongo,CD,Democratic Republic of the Congo,CDH003031000000000000,2007,CDH003002009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bomongo,0,425,425
+lilanga Bobangi,CD,Democratic Republic of the Congo,CDH003066000000000000,2007,CDH003002010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Lilanga Bobanga,0,426,426
+Mawuya,CD,Democratic Republic of the Congo,CDH003067000000000000,2007,CDH003006015,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Mawuya,0,427,427
+Zongo,CD,Democratic Republic of the Congo,CDH003009000000000000,2007,CDH003008001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Zongo,0,428,428
+Libenge,CD,Democratic Republic of the Congo,CDH003001000000000000,2007,CDH003006014,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Libenge,0,429,429
+Bosobolo,CD,Democratic Republic of the Congo,CDH003028000000000000,2007,CDH003005002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bosobolo,0,430,430
+Bili,CD,Democratic Republic of the Congo,CDH003052000000000000,2007,CDH003005001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Bili,0,431,431
+Gbadolite,CD,Democratic Republic of the Congo,CDH003011000000000000,2007,CDH003007001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Gbadolite,0,432,432
+Mobayi Mbongo,CD,Democratic Republic of the Congo,CDH003068000000000000,2007,CDH003005010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Mobayi,0,433,433
+Yakoma,CD,Democratic Republic of the Congo,CDH003072000000000000,2007,CDH003005009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Yakoma,0,434,434
+Monga,CD,Democratic Republic of the Congo,CDH010080000000000000,2007,CDH010004006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Monga,0,435,435
+Bondo,CD,Democratic Republic of the Congo,CDH010026000000000000,2007,CDH010004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Bondo,0,436,436
+Bili,CD,Democratic Republic of the Congo,CDH010016000000000000,2007,CDH010004007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Bili,0,437,437
+Ango,CD,Democratic Republic of the Congo,CDH010011000000000000,2007,CDH010005003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Ango,0,438,438
+Doruma,CD,Democratic Republic of the Congo,CDH010034000000000000,2007,CDH010007004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Doruma,0,439,439
+Dungu,CD,Democratic Republic of the Congo,CDH010040000000000000,2007,CDH010007003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Dungu,0,440,440
+Faradje,CD,Democratic Republic of the Congo,CDH010041000000000000,2007,CDH010006001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Faradje,0,441,441
+Aba,CD,Democratic Republic of the Congo,CDH010047000000000000,2007,CDH010006003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Aba,0,442,442
+Makoro,CD,Democratic Republic of the Congo,CDH010088000000000000,2007,CDH010006002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Makoro,0,443,443
+Laybo,CD,Democratic Republic of the Congo,CDH010029000000000000,2007,CDH010009005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Laybo,0,444,444
+Adi,CD,Democratic Republic of the Congo,CDH010064000000000000,2007,CDH010009003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Adi,0,445,445
+Kasenga,CD,Democratic Republic of the Congo,CDH006005000000000000,2007,CDH006001004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kasenga,0,446,446
+Shabunda,CD,Democratic Republic of the Congo,CDH011001000000000000,2007,CDH011005001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Shabunda Centre,0,447,447
+Lulingu,CD,Democratic Republic of the Congo,CDH011022000000000000,2007,CDH011005002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Lulingu,0,448,448
+Punia,CD,Democratic Republic of the Congo,CDH008001000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Punia,0,449,449
+Ikela,CD,Democratic Republic of the Congo,CDH003019000000000000,2007,CDH003004010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Ikela,0,450,450
+Opala,CD,Democratic Republic of the Congo,CDH010014000000000000,2007,CDH010003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Province Oriental,Opala,0,451,451
+Lomela,CD,Democratic Republic of the Congo,CDH005020000000000000,2007,CDH005004010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Lomela,0,452,452
+Katako Kombe,CD,Democratic Republic of the Congo,CDH005036000000000000,2007,CDH005004004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Katako-Kombe,0,453,453
+Kailo,CD,Democratic Republic of the Congo,CDH008019000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Maniema,Kailo,0,454,454
+Yalifafo,CD,Democratic Republic of the Congo,CDH003057000000000000,2007,CDH003004007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Yalifafu,0,455,455
+Tshudi Loto,CD,Democratic Republic of the Congo,CDH005037000000000000,2007,CDH005004011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Tshudi-Loto,0,456,456
+Bena Dibele,CD,Democratic Republic of the Congo,CDH005038000000000000,2007,CDH005004007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Oriental,Bena-Dibele,0,457,457
+Monkoto,CD,Democratic Republic of the Congo,CDH003026000000000000,2007,CDH003004012,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Equateur,Monkoto,0,458,458
+Dekese,CD,Democratic Republic of the Congo,CDH004022000000000000,2007,CDH004003006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Dekese,0,459,459
+Kahemba,CD,Democratic Republic of the Congo,CDH001030000000000000,2007,CDH001003004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kahemba,0,460,460
+Gungu,CD,Democratic Republic of the Congo,CDH001015000000000000,2007,CDH001004009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Gungu,0,461,461
+Kitangwa,CD,Democratic Republic of the Congo,CDH004031000000000000,2007,CDH004003002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Kasai Occidental,Kitangwa,0,462,462
+Mukedi,CD,Democratic Republic of the Congo,CDH001029000000000000,2007,CDH001004008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Mukedi,0,463,463
+Kongolo,CD,Democratic Republic of the Congo,CDH006010000000000000,2007,CDH006004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kongolo,0,464,464
+Mbulala,CD,Democratic Republic of the Congo,CDH006044000000000000,2007,CDH006004005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Mbulula,0,465,465
+Kabalo,CD,Democratic Republic of the Congo,CDH006035000000000000,2007,CDH006004011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kabalo,0,466,466
+Dilala,CD,Democratic Republic of the Congo,CDH006019000000000000,2007,CDH006005001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Dilala,0,467,467
+Mutshatsha,CD,Democratic Republic of the Congo,CDH006025000000000000,2007,CDH006005006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Mutshatsha,0,468,468
+Lubudi,CD,Democratic Republic of the Congo,CDH006060000000000000,2007,CDH006005006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Lubudi,0,469,469
+Bukama,CD,Democratic Republic of the Congo,CDH006036000000000000,2007,CDH006006001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Bukama,0,470,470
+Kabondo Dianda,CD,Democratic Republic of the Congo,CDH006065000000000000,2007,CDH006006003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kabondo-dianda,0,471,471
+Kabongo,CD,Democratic Republic of the Congo,CDH006001000000000000,2007,CDH006006009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kabongo,0,472,472
+Songa,CD,Democratic Republic of the Congo,CDH006012000000000000,2007,CDH006006014,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Songa,0,473,473
+Kayamba,CD,Democratic Republic of the Congo,CDH006047000000000000,2007,CDH006006011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kayamba,0,474,474
+Kitenge,CD,Democratic Republic of the Congo,CDH006004000000000000,2007,CDH006006010,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kitenge,0,475,475
+Ankoro,CD,Democratic Republic of the Congo,CDH006026000000000000,2007,CDH006004009,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Ankoro,0,476,476
+Mulongo,CD,Democratic Republic of the Congo,CDH006021000000000000,2007,CDH006006007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Mulongo,0,477,477
+Lwamba,CD,Democratic Republic of the Congo,CDH006057000000000000,2007,CDH006006006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Lwamba,0,478,478
+Mukanga,CD,Democratic Republic of the Congo,CDH006056000000000000,2007,CDH006006008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Mukanga,0,479,479
+Malemba Nkulu,CD,Democratic Republic of the Congo,CDH006058000000000000,2007,CDH006006005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Malemba-Nkulu,0,480,480
+Kipushi,CD,Democratic Republic of the Congo,CDH006072000000000000,2007,CDH006001006,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kipushi,0,481,481
+Sakania,CD,Democratic Republic of the Congo,CDH006016000000000000,2007,CDH006001005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Sakania,0,482,482
+Kafubu,CD,Democratic Republic of the Congo,CDH006053000000000000,2007,CDH006001004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kafubu,0,483,483
+Kilela Balanda,CD,Democratic Republic of the Congo,CDH006071000000000000,2007,CDH006002003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kilela Balanda,0,484,484
+Kanzenze,CD,Democratic Republic of the Congo,CDH006059000000000000,2007,CDH006005004,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kanzenze,0,485,485
+Kapanga,CD,Democratic Republic of the Congo,CDH006033000000000000,2007,CDH006003001,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kapanga,0,486,486
+Kasaji,CD,Democratic Republic of the Congo,CDH006013000000000000,2007,CDH006005002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kasaji,0,487,487
+Dilolo,CD,Democratic Republic of the Congo,CDH006014000000000000,2007,CDH006003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Dilolo,0,488,488
+Sandoa,CD,Democratic Republic of the Congo,CDH006015000000000000,2007,CDH006003005,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Sandoa,0,489,489
+Kinda,CD,Democratic Republic of the Congo,CDH006054000000000000,2007,CDH006006013,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kinda,0,490,490
+Kalemba,CD,Democratic Republic of the Congo,CDH006075000000000000,2007,CDH006003002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kalamba,0,491,491
+Manika,CD,Democratic Republic of the Congo,CDH006030000000000000,2007,CDH006002003,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Manika,0,492,492
+Vangu,CD,Democratic Republic of the Congo,CDH006048000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Vangu,0,493,493
+Kowe,CD,Democratic Republic of the Congo,CDH006049000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Kowe,0,494,494
+Kamina Base,CD,Democratic Republic of the Congo,CDH006046000000000000,2007,CDH006007011,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Katanga,Baka,0,495,495
+Lusanga,CD,Democratic Republic of the Congo,CDH001053000000000000,2007,CDH001004007,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Lusanga,0,496,496
+Kikwit-sud,CD,Democratic Republic of the Congo,CDH001011000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kikwit-sud,0,497,497
+Kikwit-sud,CD,Democratic Republic of the Congo,CDH001059000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Bandundu,Kikwit-Nord,0,498,498
+Kirotse,CD,Democratic Republic of the Congo,CDH009021000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Kirotshe,0,499,499
+Minova,CD,Democratic Republic of the Congo,CDH011037000000000000,2007,CDH011003008,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Minova,0,500,500
+Katana,CD,Democratic Republic of the Congo,CDH011013000000000000,2007,CDH011003002,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Sud Kivu,Katana,0,501,501
+Nyiragongo,CD,Democratic Republic of the Congo,CDH009032000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,,0,502,502
+Karisimbi,CD,Democratic Republic of the Congo,CDH011030000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Karisimbi,0,503,503
+Goma,CD,Democratic Republic of the Congo,CDH011038000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Goma,0,504,504
+Rwanguba,CD,Democratic Republic of the Congo,CDH009003000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Rwanguba,0,505,505
+Rutshuru,CD,Democratic Republic of the Congo,CDH009004000000000000,2007,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2003,Nord Kivu,Rutshuru,0,506,506
+Katuba,CD,Democratic Republic of the Congo,,2014,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2015,Haut Katanga,,0,507,507
+Kenya,CD,Democratic Republic of the Congo,,2014,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2015,Haut Katanga,,0,508,508
+Mumbunda,CD,Democratic Republic of the Congo,,2014,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2015,Haut Katanga,,0,509,509
+Lubumbashi,CD,Democratic Republic of the Congo,,2014,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2015,Haut Katanga,,0,510,510
+Tshamilemba,CD,Democratic Republic of the Congo,,2014,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2015,Haut Katanga,,0,511,511
+Kampemba,CD,Democratic Republic of the Congo,,2014,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2015,Haut Katanga,,0,512,512
+Ruashi,CD,Democratic Republic of the Congo,,2014,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2015,Haut Katanga,,0,513,513
+Kisanga,CD,Democratic Republic of the Congo,,2014,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2015,Haut Katanga,,0,514,514
+Tshamilemba,CD,Democratic Republic of the Congo,,2014,,Zones de sante - obtained from MOH DRC Arretes Ministeriels 2015,Haut Katanga,,0,515,515
+ZS Kamalondo,,Democratic Republic of the Congo,,0,,,,,0,516,516

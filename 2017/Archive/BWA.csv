@@ -1,0 +1,535 @@
+NAME.who,NAME.shpfile,NAME.who_adm1,vaccine,iso3,who_coverage,merge_status,GAUL_CODE
+bobirwa,bobirwa,bobirwa,BCG,BWA,60.89606311,success,21
+bobirwa,bobirwa,bobirwa,DTP1,BWA,100.9867655,success,21
+bobirwa,bobirwa,bobirwa,DTP3,BWA,84.44285852,success,21
+bobirwa,bobirwa,bobirwa,DTP4,BWA,-4444,success,21
+bobirwa,bobirwa,bobirwa,HepB_BD,BWA,-2222,success,21
+bobirwa,bobirwa,bobirwa,HepB_BDall,BWA,61.89670265,success,21
+bobirwa,bobirwa,bobirwa,HepB3,BWA,84.44285852,success,21
+bobirwa,bobirwa,bobirwa,Hib3,BWA,84.44285852,success,21
+bobirwa,bobirwa,bobirwa,IPV1,BWA,67.35733554,success,21
+bobirwa,bobirwa,bobirwa,MCV1,BWA,85.03371234,success,21
+bobirwa,bobirwa,bobirwa,MCV2,BWA,82.42410796,success,21
+bobirwa,bobirwa,bobirwa,MenA,BWA,-4444,success,21
+bobirwa,bobirwa,bobirwa,PAB_DTP1,BWA,-4444,success,21
+bobirwa,bobirwa,bobirwa,PCV1,BWA,96.50612402,success,21
+bobirwa,bobirwa,bobirwa,PCV2,BWA,80.15916832,success,21
+bobirwa,bobirwa,bobirwa,PCV3,BWA,79.66679013,success,21
+bobirwa,bobirwa,bobirwa,Pol3,BWA,84.54133415,success,21
+bobirwa,bobirwa,bobirwa,RCV1,BWA,85.03371234,success,21
+bobirwa,bobirwa,bobirwa,Rota1,BWA,94.88127601,success,21
+bobirwa,bobirwa,bobirwa,RotaC,BWA,82.42410796,success,21
+bobirwa,bobirwa,bobirwa,TT2plus,BWA,43.88519102,success,21
+bobirwa,bobirwa,bobirwa,VAD1,BWA,72,success,21
+bobirwa,bobirwa,bobirwa,YFV,BWA,-4444,success,21
+boteti,boteti,boteti,BCG,BWA,70.68042488,success,5
+boteti,boteti,boteti,DTP1,BWA,108.5005727,success,5
+boteti,boteti,boteti,DTP3,BWA,90.13605434,success,5
+boteti,boteti,boteti,DTP4,BWA,-4444,success,5
+boteti,boteti,boteti,HepB_BD,BWA,-2222,success,5
+boteti,boteti,boteti,HepB_BDall,BWA,66.96278868,success,5
+boteti,boteti,boteti,HepB3,BWA,90.13605434,success,5
+boteti,boteti,boteti,Hib3,BWA,90.13605434,success,5
+boteti,boteti,boteti,IPV1,BWA,100.9580027,success,5
+boteti,boteti,boteti,MCV1,BWA,91.54150217,success,5
+boteti,boteti,boteti,MCV2,BWA,81.89076039,success,5
+boteti,boteti,boteti,MenA,BWA,-4444,success,5
+boteti,boteti,boteti,PAB_DTP1,BWA,-4444,success,5
+boteti,boteti,boteti,PCV1,BWA,106.0644631,success,5
+boteti,boteti,boteti,PCV2,BWA,97.02274872,success,5
+boteti,boteti,boteti,PCV3,BWA,90.13605434,success,5
+boteti,boteti,boteti,Pol3,BWA,91.21356434,success,5
+boteti,boteti,boteti,RCV1,BWA,91.54150217,success,5
+boteti,boteti,boteti,Rota1,BWA,99.88049265,success,5
+boteti,boteti,boteti,RotaC,BWA,84.56111127,success,5
+boteti,boteti,boteti,TT2plus,BWA,71.36048028,success,5
+boteti,boteti,boteti,VAD1,BWA,88,success,5
+boteti,boteti,boteti,YFV,BWA,-4444,success,5
+chobe,chobe,chobe,BCG,BWA,68.30794541,success,6
+chobe,chobe,chobe,DTP1,BWA,78.24525117,success,6
+chobe,chobe,chobe,DTP3,BWA,80.98109911,success,6
+chobe,chobe,chobe,DTP4,BWA,-4444,success,6
+chobe,chobe,chobe,HepB_BD,BWA,-2222,success,6
+chobe,chobe,chobe,HepB_BDall,BWA,66.98414802,success,6
+chobe,chobe,chobe,HepB3,BWA,80.98109911,success,6
+chobe,chobe,chobe,Hib3,BWA,80.98109911,success,6
+chobe,chobe,chobe,IPV1,BWA,99.58486512,success,6
+chobe,chobe,chobe,MCV1,BWA,81.80185349,success,6
+chobe,chobe,chobe,MCV2,BWA,75.09902603,success,6
+chobe,chobe,chobe,MenA,BWA,-4444,success,6
+chobe,chobe,chobe,PAB_DTP1,BWA,-4444,success,6
+chobe,chobe,chobe,PCV1,BWA,79.74996754,success,6
+chobe,chobe,chobe,PCV2,BWA,79.20279795,success,6
+chobe,chobe,chobe,PCV3,BWA,78.38204356,success,6
+chobe,chobe,chobe,Pol3,BWA,79.20279795,success,6
+chobe,chobe,chobe,RCV1,BWA,81.80185349,success,6
+chobe,chobe,chobe,Rota1,BWA,80.29713712,success,6
+chobe,chobe,chobe,RotaC,BWA,82.75940027,success,6
+chobe,chobe,chobe,TT2plus,BWA,89.09156446,success,6
+chobe,chobe,chobe,VAD1,BWA,82,success,6
+chobe,chobe,chobe,YFV,BWA,-4444,success,6
+francistown,francistown,francistown,BCG,BWA,99.61395083,success,4
+francistown,francistown,francistown,DTP1,BWA,80.59259657,success,4
+francistown,francistown,francistown,DTP3,BWA,75.09333704,success,4
+francistown,francistown,francistown,DTP4,BWA,-4444,success,4
+francistown,francistown,francistown,HepB_BD,BWA,-2222,success,4
+francistown,francistown,francistown,HepB_BDall,BWA,96.31072486,success,4
+francistown,francistown,francistown,HepB3,BWA,75.09333704,success,4
+francistown,francistown,francistown,Hib3,BWA,75.09333704,success,4
+francistown,francistown,francistown,IPV1,BWA,85.09199073,success,4
+francistown,francistown,francistown,MCV1,BWA,73.93832015,success,4
+francistown,francistown,francistown,MCV2,BWA,69.04242765,success,4
+francistown,francistown,francistown,MenA,BWA,-4444,success,4
+francistown,francistown,francistown,PAB_DTP1,BWA,-4444,success,4
+francistown,francistown,francistown,PCV1,BWA,81.78209158,success,4
+francistown,francistown,francistown,PCV2,BWA,73.97279826,success,4
+francistown,francistown,francistown,PCV3,BWA,75.23124951,success,4
+francistown,francistown,francistown,Pol3,BWA,73.69697334,success,4
+francistown,francistown,francistown,RCV1,BWA,73.93832015,success,4
+francistown,francistown,francistown,Rota1,BWA,78.76525641,success,4
+francistown,francistown,francistown,RotaC,BWA,68.92175424,success,4
+francistown,francistown,francistown,TT2plus,BWA,57.60625895,success,4
+francistown,francistown,francistown,VAD1,BWA,137,success,4
+francistown,francistown,francistown,YFV,BWA,-4444,success,4
+gaborone,gaborone,gaborone,BCG,BWA,42.63437679,success,1
+gaborone,gaborone,gaborone,DTP1,BWA,57.26000946,success,1
+gaborone,gaborone,gaborone,DTP3,BWA,60.30251793,success,1
+gaborone,gaborone,gaborone,DTP4,BWA,-4444,success,1
+gaborone,gaborone,gaborone,HepB_BD,BWA,-2222,success,1
+gaborone,gaborone,gaborone,HepB_BDall,BWA,42.39882775,success,1
+gaborone,gaborone,gaborone,HepB3,BWA,60.30251793,success,1
+gaborone,gaborone,gaborone,Hib3,BWA,60.30251793,success,1
+gaborone,gaborone,gaborone,IPV1,BWA,71.58587793,success,1
+gaborone,gaborone,gaborone,MCV1,BWA,63.76228471,success,1
+gaborone,gaborone,gaborone,MCV2,BWA,55.36496132,success,1
+gaborone,gaborone,gaborone,MenA,BWA,-4444,success,1
+gaborone,gaborone,gaborone,PAB_DTP1,BWA,-4444,success,1
+gaborone,gaborone,gaborone,PCV1,BWA,57.87720403,success,1
+gaborone,gaborone,gaborone,PCV2,BWA,57.4251742,success,1
+gaborone,gaborone,gaborone,PCV3,BWA,61.30219929,success,1
+gaborone,gaborone,gaborone,Pol3,BWA,61.64991454,success,1
+gaborone,gaborone,gaborone,RCV1,BWA,63.76228471,success,1
+gaborone,gaborone,gaborone,Rota1,BWA,56.33856404,success,1
+gaborone,gaborone,gaborone,RotaC,BWA,61.94547251,success,1
+gaborone,gaborone,gaborone,TT2plus,BWA,73.24733993,success,1
+gaborone,gaborone,gaborone,VAD1,BWA,91,success,1
+gaborone,gaborone,gaborone,YFV,BWA,-4444,success,1
+goodhope,goodhope,goodhope,BCG,BWA,51.77850622,success,16
+goodhope,goodhope,goodhope,DTP1,BWA,67.06993637,success,16
+goodhope,goodhope,goodhope,DTP3,BWA,67.34537759,success,16
+goodhope,goodhope,goodhope,DTP4,BWA,-4444,success,16
+goodhope,goodhope,goodhope,HepB_BD,BWA,-2222,success,16
+goodhope,goodhope,goodhope,HepB_BDall,BWA,51.91178423,success,16
+goodhope,goodhope,goodhope,HepB3,BWA,67.34537759,success,16
+goodhope,goodhope,goodhope,Hib3,BWA,67.34537759,success,16
+goodhope,goodhope,goodhope,IPV1,BWA,69.1357455,success,16
+goodhope,goodhope,goodhope,MCV1,BWA,68.92916459,success,16
+goodhope,goodhope,goodhope,MCV2,BWA,68.10284094,success,16
+goodhope,goodhope,goodhope,MenA,BWA,-4444,success,16
+goodhope,goodhope,goodhope,PAB_DTP1,BWA,-4444,success,16
+goodhope,goodhope,goodhope,PCV1,BWA,69.34232642,success,16
+goodhope,goodhope,goodhope,PCV2,BWA,58.11809682,success,16
+goodhope,goodhope,goodhope,PCV3,BWA,67.62081881,success,16
+goodhope,goodhope,goodhope,Pol3,BWA,68.99802489,success,16
+goodhope,goodhope,goodhope,RCV1,BWA,68.92916459,success,16
+goodhope,goodhope,goodhope,Rota1,BWA,68.92916459,success,16
+goodhope,goodhope,goodhope,RotaC,BWA,60.11504564,success,16
+goodhope,goodhope,goodhope,TT2plus,BWA,41.31618257,success,16
+goodhope,goodhope,goodhope,VAD1,BWA,73,success,16
+goodhope,goodhope,goodhope,YFV,BWA,-4444,success,16
+jwaneng,jwaneng,jwaneng,BCG,BWA,296.7786755,success,22
+jwaneng,jwaneng,jwaneng,DTP1,BWA,202.7390568,success,22
+jwaneng,jwaneng,jwaneng,DTP3,BWA,189.0712552,success,22
+jwaneng,jwaneng,jwaneng,DTP4,BWA,-4444,success,22
+jwaneng,jwaneng,jwaneng,HepB_BD,BWA,-2222,success,22
+jwaneng,jwaneng,jwaneng,HepB_BDall,BWA,294.0230703,success,22
+jwaneng,jwaneng,jwaneng,HepB3,BWA,189.0712552,success,22
+jwaneng,jwaneng,jwaneng,Hib3,BWA,189.0712552,success,22
+jwaneng,jwaneng,jwaneng,IPV1,BWA,219,success,22
+jwaneng,jwaneng,jwaneng,MCV1,BWA,184.5153213,success,22
+jwaneng,jwaneng,jwaneng,MCV2,BWA,184.5153213,success,22
+jwaneng,jwaneng,jwaneng,MenA,BWA,-4444,success,22
+jwaneng,jwaneng,jwaneng,PAB_DTP1,BWA,-4444,success,22
+jwaneng,jwaneng,jwaneng,PCV1,BWA,200.176344,success,22
+jwaneng,jwaneng,jwaneng,PCV2,BWA,179.3898958,success,22
+jwaneng,jwaneng,jwaneng,PCV3,BWA,184.2305755,success,22
+jwaneng,jwaneng,jwaneng,Pol3,BWA,193.0576973,success,22
+jwaneng,jwaneng,jwaneng,RCV1,BWA,184.5153213,success,22
+jwaneng,jwaneng,jwaneng,Rota1,BWA,183.3763379,success,22
+jwaneng,jwaneng,jwaneng,RotaC,BWA,173.6949784,success,22
+jwaneng,jwaneng,jwaneng,TT2plus,BWA,198.6791319,success,22
+jwaneng,jwaneng,jwaneng,VAD1,BWA,181,success,22
+jwaneng,jwaneng,jwaneng,YFV,BWA,-4444,success,22
+kgatleng,kgatleng,kgatleng,BCG,BWA,62.1676079,success,24
+kgatleng,kgatleng,kgatleng,DTP1,BWA,90.3863726,success,24
+kgatleng,kgatleng,kgatleng,DTP3,BWA,73.55839613,success,24
+kgatleng,kgatleng,kgatleng,DTP4,BWA,-4444,success,24
+kgatleng,kgatleng,kgatleng,HepB_BD,BWA,-2222,success,24
+kgatleng,kgatleng,kgatleng,HepB_BDall,BWA,61.1435931,success,24
+kgatleng,kgatleng,kgatleng,HepB3,BWA,73.55839613,success,24
+kgatleng,kgatleng,kgatleng,Hib3,BWA,73.55839613,success,24
+kgatleng,kgatleng,kgatleng,IPV1,BWA,81.10197179,success,24
+kgatleng,kgatleng,kgatleng,MCV1,BWA,77.04004644,success,24
+kgatleng,kgatleng,kgatleng,MCV2,BWA,72.8757196,success,24
+kgatleng,kgatleng,kgatleng,MenA,BWA,-4444,success,24
+kgatleng,kgatleng,kgatleng,PAB_DTP1,BWA,-4444,success,24
+kgatleng,kgatleng,kgatleng,PCV1,BWA,88.74794893,success,24
+kgatleng,kgatleng,kgatleng,PCV2,BWA,76.80110965,success,24
+kgatleng,kgatleng,kgatleng,PCV3,BWA,72.29544455,success,24
+kgatleng,kgatleng,kgatleng,Pol3,BWA,73.83146674,success,24
+kgatleng,kgatleng,kgatleng,RCV1,BWA,77.04004644,success,24
+kgatleng,kgatleng,kgatleng,Rota1,BWA,82.33078954,success,24
+kgatleng,kgatleng,kgatleng,RotaC,BWA,68.98446338,success,24
+kgatleng,kgatleng,kgatleng,TT2plus,BWA,53.24876936,success,24
+kgatleng,kgatleng,kgatleng,VAD1,BWA,79,success,24
+kgatleng,kgatleng,kgatleng,YFV,BWA,-4444,success,24
+kwenengeast,kwenengeast,kwenengeast,BCG,BWA,76.87238857,success,9
+kwenengeast,kwenengeast,kwenengeast,DTP1,BWA,80.8720082,success,9
+kwenengeast,kwenengeast,kwenengeast,DTP3,BWA,66.26688088,success,9
+kwenengeast,kwenengeast,kwenengeast,DTP4,BWA,-4444,success,9
+kwenengeast,kwenengeast,kwenengeast,HepB_BD,BWA,-2222,success,9
+kwenengeast,kwenengeast,kwenengeast,HepB_BDall,BWA,77.3798591,success,9
+kwenengeast,kwenengeast,kwenengeast,HepB3,BWA,66.26688088,success,9
+kwenengeast,kwenengeast,kwenengeast,Hib3,BWA,66.26688088,success,9
+kwenengeast,kwenengeast,kwenengeast,IPV1,BWA,63.50899779,success,9
+kwenengeast,kwenengeast,kwenengeast,MCV1,BWA,65.56769925,success,9
+kwenengeast,kwenengeast,kwenengeast,MCV2,BWA,64.71314393,success,9
+kwenengeast,kwenengeast,kwenengeast,MenA,BWA,-4444,success,9
+kwenengeast,kwenengeast,kwenengeast,PAB_DTP1,BWA,-4444,success,9
+kwenengeast,kwenengeast,kwenengeast,PCV1,BWA,79.02694557,success,9
+kwenengeast,kwenengeast,kwenengeast,PCV2,BWA,67.66524413,success,9
+kwenengeast,kwenengeast,kwenengeast,PCV3,BWA,65.14042159,success,9
+kwenengeast,kwenengeast,kwenengeast,Pol3,BWA,59.89655939,success,9
+kwenengeast,kwenengeast,kwenengeast,RCV1,BWA,65.56769925,success,9
+kwenengeast,kwenengeast,kwenengeast,Rota1,BWA,74.73474725,success,9
+kwenengeast,kwenengeast,kwenengeast,RotaC,BWA,61.00359696,success,9
+kwenengeast,kwenengeast,kwenengeast,TT2plus,BWA,34.24486356,success,9
+kwenengeast,kwenengeast,kwenengeast,VAD1,BWA,70,success,9
+kwenengeast,kwenengeast,kwenengeast,YFV,BWA,-4444,success,9
+kwenengwest,kwenengwest,kwenengwest,BCG,BWA,42.28117635,success,17
+kwenengwest,kwenengwest,kwenengwest,DTP1,BWA,108.4266416,success,17
+kwenengwest,kwenengwest,kwenengwest,DTP3,BWA,109.100099,success,17
+kwenengwest,kwenengwest,kwenengwest,DTP4,BWA,-4444,success,17
+kwenengwest,kwenengwest,kwenengwest,HepB_BD,BWA,-2222,success,17
+kwenengwest,kwenengwest,kwenengwest,HepB_BDall,BWA,38.77811164,success,17
+kwenengwest,kwenengwest,kwenengwest,HepB3,BWA,109.100099,success,17
+kwenengwest,kwenengwest,kwenengwest,Hib3,BWA,109.100099,success,17
+kwenengwest,kwenengwest,kwenengwest,IPV1,BWA,118.1075917,success,17
+kwenengwest,kwenengwest,kwenengwest,MCV1,BWA,105.0593546,success,17
+kwenengwest,kwenengwest,kwenengwest,MCV2,BWA,110.0261029,success,17
+kwenengwest,kwenengwest,kwenengwest,MenA,BWA,-4444,success,17
+kwenengwest,kwenengwest,kwenengwest,PAB_DTP1,BWA,-4444,success,17
+kwenengwest,kwenengwest,kwenengwest,PCV1,BWA,104.4700793,success,17
+kwenengwest,kwenengwest,kwenengwest,PCV2,BWA,100.3451528,success,17
+kwenengwest,kwenengwest,kwenengwest,PCV3,BWA,109.8577385,success,17
+kwenengwest,kwenengwest,kwenengwest,Pol3,BWA,110.8679246,success,17
+kwenengwest,kwenengwest,kwenengwest,RCV1,BWA,105.0593546,success,17
+kwenengwest,kwenengwest,kwenengwest,Rota1,BWA,108.7633703,success,17
+kwenengwest,kwenengwest,kwenengwest,RotaC,BWA,99.33496665,success,17
+kwenengwest,kwenengwest,kwenengwest,TT2plus,BWA,59.71503326,success,17
+kwenengwest,kwenengwest,kwenengwest,VAD1,BWA,89,success,17
+kwenengwest,kwenengwest,kwenengwest,YFV,BWA,-4444,success,17
+lobatse,lobatse,lobatse,BCG,BWA,76.03450051,success,2
+lobatse,lobatse,lobatse,DTP1,BWA,86.55468386,success,2
+lobatse,lobatse,lobatse,DTP3,BWA,77.88204192,success,2
+lobatse,lobatse,lobatse,DTP4,BWA,-4444,success,2
+lobatse,lobatse,lobatse,HepB_BD,BWA,-2222,success,2
+lobatse,lobatse,lobatse,HepB_BDall,BWA,68.97118625,success,2
+lobatse,lobatse,lobatse,HepB3,BWA,77.88204192,success,2
+lobatse,lobatse,lobatse,Hib3,BWA,77.88204192,success,2
+lobatse,lobatse,lobatse,IPV1,BWA,89.47418708,success,2
+lobatse,lobatse,lobatse,MCV1,BWA,76.42229031,success,2
+lobatse,lobatse,lobatse,MCV2,BWA,68.09311934,success,2
+lobatse,lobatse,lobatse,MenA,BWA,-4444,success,2
+lobatse,lobatse,lobatse,PAB_DTP1,BWA,-4444,success,2
+lobatse,lobatse,lobatse,PCV1,BWA,86.38294837,success,2
+lobatse,lobatse,lobatse,PCV2,BWA,81.74609031,success,2
+lobatse,lobatse,lobatse,PCV3,BWA,75.39187741,success,2
+lobatse,lobatse,lobatse,Pol3,BWA,79.08419031,success,2
+lobatse,lobatse,lobatse,RCV1,BWA,76.42229031,success,2
+lobatse,lobatse,lobatse,Rota1,BWA,82.26129676,success,2
+lobatse,lobatse,lobatse,RotaC,BWA,70.6691516,success,2
+lobatse,lobatse,lobatse,TT2plus,BWA,61.32618729,success,2
+lobatse,lobatse,lobatse,VAD1,BWA,149,success,2
+lobatse,lobatse,lobatse,YFV,BWA,-4444,success,2
+mabutsane,mabutsane,mabutsane,BCG,BWA,34.87632604,success,13
+mabutsane,mabutsane,mabutsane,DTP1,BWA,95.01156699,success,13
+mabutsane,mabutsane,mabutsane,DTP3,BWA,85.1827842,success,13
+mabutsane,mabutsane,mabutsane,DTP4,BWA,-4444,success,13
+mabutsane,mabutsane,mabutsane,HepB_BD,BWA,-2222,success,13
+mabutsane,mabutsane,mabutsane,HepB_BDall,BWA,30.57340269,success,13
+mabutsane,mabutsane,mabutsane,HepB3,BWA,85.1827842,success,13
+mabutsane,mabutsane,mabutsane,Hib3,BWA,85.1827842,success,13
+mabutsane,mabutsane,mabutsane,IPV1,BWA,64.12110679,success,13
+mabutsane,mabutsane,mabutsane,MCV1,BWA,84.01269101,success,13
+mabutsane,mabutsane,mabutsane,MCV2,BWA,83.54465373,success,13
+mabutsane,mabutsane,mabutsane,MenA,BWA,-4444,success,13
+mabutsane,mabutsane,mabutsane,PAB_DTP1,BWA,-4444,success,13
+mabutsane,mabutsane,mabutsane,PCV1,BWA,92.67138061,success,13
+mabutsane,mabutsane,mabutsane,PCV2,BWA,90.09717559,success,13
+mabutsane,mabutsane,mabutsane,PCV3,BWA,80.73643008,success,13
+mabutsane,mabutsane,mabutsane,Pol3,BWA,79.33231825,success,13
+mabutsane,mabutsane,mabutsane,RCV1,BWA,84.01269101,success,13
+mabutsane,mabutsane,mabutsane,Rota1,BWA,97.35175337,success,13
+mabutsane,mabutsane,mabutsane,RotaC,BWA,90.56521287,success,13
+mabutsane,mabutsane,mabutsane,TT2plus,BWA,49.37038361,success,13
+mabutsane,mabutsane,mabutsane,VAD1,BWA,79,success,13
+mabutsane,mabutsane,mabutsane,YFV,BWA,-4444,success,13
+mahalapye,mahalapye,mahalapye,BCG,BWA,96.88230193,success,18
+mahalapye,mahalapye,mahalapye,DTP1,BWA,108.4938465,success,18
+mahalapye,mahalapye,mahalapye,DTP3,BWA,91.69995868,success,18
+mahalapye,mahalapye,mahalapye,DTP4,BWA,-4444,success,18
+mahalapye,mahalapye,mahalapye,HepB_BD,BWA,-2222,success,18
+mahalapye,mahalapye,mahalapye,HepB_BDall,BWA,95.93640963,success,18
+mahalapye,mahalapye,mahalapye,HepB3,BWA,91.69995868,success,18
+mahalapye,mahalapye,mahalapye,Hib3,BWA,91.69995868,success,18
+mahalapye,mahalapye,mahalapye,IPV1,BWA,99.31200305,success,18
+mahalapye,mahalapye,mahalapye,MCV1,BWA,90.98910628,success,18
+mahalapye,mahalapye,mahalapye,MCV2,BWA,88.50112291,success,18
+mahalapye,mahalapye,mahalapye,MenA,BWA,-4444,success,18
+mahalapye,mahalapye,mahalapye,PAB_DTP1,BWA,-4444,success,18
+mahalapye,mahalapye,mahalapye,PCV1,BWA,187.1615113,success,18
+mahalapye,mahalapye,mahalapye,PCV2,BWA,93.15128231,success,18
+mahalapye,mahalapye,mahalapye,PCV3,BWA,87.58293857,success,18
+mahalapye,mahalapye,mahalapye,Pol3,BWA,89.00464335,success,18
+mahalapye,mahalapye,mahalapye,RCV1,BWA,90.98910628,success,18
+mahalapye,mahalapye,mahalapye,Rota1,BWA,102.4516011,success,18
+mahalapye,mahalapye,mahalapye,RotaC,BWA,87.31636892,success,18
+mahalapye,mahalapye,mahalapye,TT2plus,BWA,47.55258547,success,18
+mahalapye,mahalapye,mahalapye,VAD1,BWA,60,success,18
+mahalapye,mahalapye,mahalapye,YFV,BWA,-4444,success,18
+northeast,northeast,northeast,BCG,BWA,29.41656829,success,11
+northeast,northeast,northeast,DTP1,BWA,63.140877,success,11
+northeast,northeast,northeast,DTP3,BWA,54.40920862,success,11
+northeast,northeast,northeast,DTP4,BWA,-4444,success,11
+northeast,northeast,northeast,HepB_BD,BWA,-2222,success,11
+northeast,northeast,northeast,HepB_BDall,BWA,28.94125569,success,11
+northeast,northeast,northeast,HepB3,BWA,54.40920862,success,11
+northeast,northeast,northeast,Hib3,BWA,54.40920862,success,11
+northeast,northeast,northeast,IPV1,BWA,59.86650136,success,11
+northeast,northeast,northeast,MCV1,BWA,53.372323,success,11
+northeast,northeast,northeast,MCV2,BWA,55.82810473,success,11
+northeast,northeast,northeast,MenA,BWA,-4444,success,11
+northeast,northeast,northeast,PAB_DTP1,BWA,-4444,success,11
+northeast,northeast,northeast,PCV1,BWA,62.81343944,success,11
+northeast,northeast,northeast,PCV2,BWA,55.99182351,success,11
+northeast,northeast,northeast,PCV3,BWA,54.02719813,success,11
+northeast,northeast,northeast,Pol3,BWA,53.86347935,success,11
+northeast,northeast,northeast,RCV1,BWA,53.372323,success,11
+northeast,northeast,northeast,Rota1,BWA,62.97715822,success,11
+northeast,northeast,northeast,RotaC,BWA,51.62598932,success,11
+northeast,northeast,northeast,TT2plus,BWA,41.93313325,success,11
+northeast,northeast,northeast,VAD1,BWA,65,success,11
+northeast,northeast,northeast,YFV,BWA,-4444,success,11
+okavango,okavango,okavango,BCG,BWA,102.3731846,success,14
+okavango,okavango,okavango,DTP1,BWA,128.0800898,success,14
+okavango,okavango,okavango,DTP3,BWA,114.4449238,success,14
+okavango,okavango,okavango,DTP4,BWA,-4444,success,14
+okavango,okavango,okavango,HepB_BD,BWA,-2222,success,14
+okavango,okavango,okavango,HepB_BDall,BWA,97.55783017,success,14
+okavango,okavango,okavango,HepB3,BWA,114.4449238,success,14
+okavango,okavango,okavango,Hib3,BWA,114.4449238,success,14
+okavango,okavango,okavango,IPV1,BWA,84.26661809,success,14
+okavango,okavango,okavango,MCV1,BWA,103.5238667,success,14
+okavango,okavango,okavango,MCV2,BWA,98.2895139,success,14
+okavango,okavango,okavango,MenA,BWA,-4444,success,14
+okavango,okavango,okavango,PAB_DTP1,BWA,-4444,success,14
+okavango,okavango,okavango,PCV1,BWA,134.5422537,success,14
+okavango,okavango,okavango,PCV2,BWA,115.9312215,success,14
+okavango,okavango,okavango,PCV3,BWA,114.8972753,success,14
+okavango,okavango,okavango,Pol3,BWA,114.6387887,success,14
+okavango,okavango,okavango,RCV1,BWA,103.5238667,success,14
+okavango,okavango,okavango,Rota1,BWA,124.3320347,success,14
+okavango,okavango,okavango,RotaC,BWA,95.25229683,success,14
+okavango,okavango,okavango,TT2plus,BWA,60.16066194,success,14
+okavango,okavango,okavango,VAD1,BWA,95,success,14
+okavango,okavango,okavango,YFV,BWA,-4444,success,14
+serowepalapye,serowepalapye,serowepalapye,BCG,BWA,79,success,20
+serowepalapye,serowepalapye,serowepalapye,DTP1,BWA,84.52312964,success,20
+serowepalapye,serowepalapye,serowepalapye,DTP3,BWA,83,success,20
+serowepalapye,serowepalapye,serowepalapye,DTP4,BWA,-4444,success,20
+serowepalapye,serowepalapye,serowepalapye,HepB_BD,BWA,-2222,success,20
+serowepalapye,serowepalapye,serowepalapye,HepB_BDall,BWA,79,success,20
+serowepalapye,serowepalapye,serowepalapye,HepB3,BWA,83,success,20
+serowepalapye,serowepalapye,serowepalapye,Hib3,BWA,83,success,20
+serowepalapye,serowepalapye,serowepalapye,IPV1,BWA,88,success,20
+serowepalapye,serowepalapye,serowepalapye,MCV1,BWA,84,success,20
+serowepalapye,serowepalapye,serowepalapye,MCV2,BWA,81,success,20
+serowepalapye,serowepalapye,serowepalapye,MenA,BWA,-4444,success,20
+serowepalapye,serowepalapye,serowepalapye,PAB_DTP1,BWA,-4444,success,20
+serowepalapye,serowepalapye,serowepalapye,PCV1,BWA,88.04492671,success,20
+serowepalapye,serowepalapye,serowepalapye,PCV2,BWA,77.3843518,success,20
+serowepalapye,serowepalapye,serowepalapye,PCV3,BWA,83,success,20
+serowepalapye,serowepalapye,serowepalapye,Pol3,BWA,84,success,20
+serowepalapye,serowepalapye,serowepalapye,RCV1,BWA,84,success,20
+serowepalapye,serowepalapye,serowepalapye,Rota1,BWA,86.02703217,success,20
+serowepalapye,serowepalapye,serowepalapye,RotaC,BWA,82,success,20
+serowepalapye,serowepalapye,serowepalapye,TT2plus,BWA,61,success,20
+serowepalapye,serowepalapye,serowepalapye,VAD1,BWA,100,success,20
+serowepalapye,serowepalapye,serowepalapye,YFV,BWA,-4444,success,20
+southeast,southeast,southeast,BCG,BWA,116.5521525,success,12
+southeast,southeast,southeast,DTP1,BWA,58.60136663,success,12
+southeast,southeast,southeast,DTP3,BWA,56.50846068,success,12
+southeast,southeast,southeast,DTP4,BWA,-4444,success,12
+southeast,southeast,southeast,HepB_BD,BWA,-2222,success,12
+southeast,southeast,southeast,HepB_BDall,BWA,115.1405151,success,12
+southeast,southeast,southeast,HepB3,BWA,56.50846068,success,12
+southeast,southeast,southeast,Hib3,BWA,56.50846068,success,12
+southeast,southeast,southeast,IPV1,BWA,59.93321588,success,12
+southeast,southeast,southeast,MCV1,BWA,59.7429517,success,12
+southeast,southeast,southeast,MCV2,BWA,57.90373132,success,12
+southeast,southeast,southeast,MenA,BWA,-4444,success,12
+southeast,southeast,southeast,PAB_DTP1,BWA,-4444,success,12
+southeast,southeast,southeast,PCV1,BWA,59.42584474,success,12
+southeast,southeast,southeast,PCV2,BWA,57.26951739,success,12
+southeast,southeast,southeast,PCV3,BWA,55.11319005,success,12
+southeast,southeast,southeast,Pol3,BWA,56.57188207,success,12
+southeast,southeast,southeast,RCV1,BWA,59.7429517,success,12
+southeast,southeast,southeast,Rota1,BWA,56.76214625,success,12
+southeast,southeast,southeast,RotaC,BWA,82.44983996,success,12
+southeast,southeast,southeast,TT2plus,BWA,61.13003893,success,12
+southeast,southeast,southeast,VAD1,BWA,74,success,12
+southeast,southeast,southeast,YFV,BWA,-4444,success,12
+tutume,tutume,tutume,BCG,BWA,59.27842355,success,19
+tutume,tutume,tutume,DTP1,BWA,92.07564512,success,19
+tutume,tutume,tutume,DTP3,BWA,74.56885088,success,19
+tutume,tutume,tutume,DTP4,BWA,-4444,success,19
+tutume,tutume,tutume,HepB_BD,BWA,-2222,success,19
+tutume,tutume,tutume,HepB_BDall,BWA,56.76153231,success,19
+tutume,tutume,tutume,HepB3,BWA,74.56885088,success,19
+tutume,tutume,tutume,Hib3,BWA,74.56885088,success,19
+tutume,tutume,tutume,IPV1,BWA,73.90894954,success,19
+tutume,tutume,tutume,MCV1,BWA,78.21771708,success,19
+tutume,tutume,tutume,MCV2,BWA,74.37476225,success,19
+tutume,tutume,tutume,MenA,BWA,-4444,success,19
+tutume,tutume,tutume,PAB_DTP1,BWA,-4444,success,19
+tutume,tutume,tutume,PCV1,BWA,88.46559664,success,19
+tutume,tutume,tutume,PCV2,BWA,77.05318532,success,19
+tutume,tutume,tutume,PCV3,BWA,74.56885088,success,19
+tutume,tutume,tutume,Pol3,BWA,67.69811345,success,19
+tutume,tutume,tutume,RCV1,BWA,78.21771708,success,19
+tutume,tutume,tutume,Rota1,BWA,89.55249296,success,19
+tutume,tutume,tutume,RotaC,BWA,54.09844777,success,19
+tutume,tutume,tutume,TT2plus,BWA,42.93741325,success,19
+tutume,tutume,tutume,VAD1,BWA,125,success,19
+tutume,tutume,tutume,YFV,BWA,-4444,success,19
+selibephikwe,selebiphikwe,selibephikwe,BCG,BWA,121.6507592,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,DTP1,BWA,77.67064073,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,DTP3,BWA,78.95258334,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,DTP4,BWA,-4444,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,HepB_BD,BWA,-2222,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,HepB_BDall,BWA,120.3371938,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,HepB3,BWA,78.95258334,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,Hib3,BWA,78.95258334,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,IPV1,BWA,114.9223849,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,MCV1,BWA,82,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,MCV2,BWA,74.50348839,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,MenA,BWA,-4444,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,PAB_DTP1,BWA,-4444,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,PCV1,BWA,77.44441556,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,PCV2,BWA,73.14613738,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,PCV3,BWA,81.36565179,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,Pol3,BWA,87.77536486,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,RCV1,BWA,82,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,Rota1,BWA,77.21819039,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,RotaC,BWA,73.22154577,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,TT2plus,BWA,74,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,VAD1,BWA,92,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,YFV,BWA,-4444,fuzzy success,3
+gantsi,ghanzi,gantsi,BCG,BWA,90.1414884,fuzzy success,7
+gantsi,ghanzi,gantsi,DTP1,BWA,84.24779992,fuzzy success,7
+gantsi,ghanzi,gantsi,DTP3,BWA,82.59728936,fuzzy success,7
+gantsi,ghanzi,gantsi,DTP4,BWA,-4444,fuzzy success,7
+gantsi,ghanzi,gantsi,HepB_BD,BWA,-2222,fuzzy success,7
+gantsi,ghanzi,gantsi,HepB_BDall,BWA,88.40532722,fuzzy success,7
+gantsi,ghanzi,gantsi,IPV1,BWA,83.9607546,fuzzy success,7
+gantsi,ghanzi,gantsi,MCV1,BWA,80.22916551,fuzzy success,7
+gantsi,ghanzi,gantsi,MCV2,BWA,76.64109907,fuzzy success,7
+gantsi,ghanzi,gantsi,PCV1,BWA,85.39598118,fuzzy success,7
+gantsi,ghanzi,gantsi,PCV2,BWA,75.7082018,fuzzy success,7
+gantsi,ghanzi,gantsi,PCV3,BWA,81.59263075,fuzzy success,7
+gantsi,ghanzi,gantsi,Pol3,BWA,82.38200537,fuzzy success,7
+gantsi,ghanzi,gantsi,Rota1,BWA,86.25711712,fuzzy success,7
+gantsi,ghanzi,gantsi,RotaC,BWA,74.91882718,fuzzy success,7
+gantsi,ghanzi,gantsi,TT2plus,BWA,55.69605061,fuzzy success,7
+gantsi,ghanzi,gantsi,VAD1,BWA,78,fuzzy success,7
+hukuntsi,hukuntsidistrict,hukuntsi,BCG,BWA,59.02615548,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,DTP1,BWA,76.38201129,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,DTP3,BWA,74.84317956,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,DTP4,BWA,-4444,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,HepB_BD,BWA,-2222,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,HepB_BDall,BWA,51.85095768,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,IPV1,BWA,81.55808165,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,MCV1,BWA,69.52721541,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,PCV1,BWA,78.90009958,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,PCV2,BWA,68.12827747,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,PCV3,BWA,76.80169267,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,Pol3,BWA,77.22137405,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,Rota1,BWA,79.17988716,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,RotaC,BWA,71.62562231,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,TT2plus,BWA,62.68144493,fuzzy success,15
+hukuntsi,hukuntsidistrict,hukuntsi,VAD1,BWA,100,fuzzy success,15
+kanyemoshupa,southern,kanyemoshupa,BCG,BWA,61,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,DTP1,BWA,89.08242613,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,DTP3,BWA,77,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,DTP4,BWA,-4444,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,HepB_BD,BWA,-2222,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,HepB_BDall,BWA,52,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,IPV1,BWA,84,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,MCV1,BWA,75,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,PCV1,BWA,94.93001555,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,PCV2,BWA,74.99222395,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,Pol3,BWA,76,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,Rota1,BWA,88.08709176,fuzzy success,23
+kanyemoshupa,southern,kanyemoshupa,RotaC,BWA,71,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,BCG,BWA,64.36057006,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,DTP1,BWA,80.3472565,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,DTP3,BWA,72.47007449,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,DTP4,BWA,-4444,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,HepB_BD,BWA,-2222,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,HepB_BDall,BWA,52.70814875,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,IPV1,BWA,68.30642114,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,MCV1,BWA,79.5595383,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,MCV2,BWA,82.59787993,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,PCV1,BWA,86.42393976,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,PCV2,BWA,71.2322316,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,PCV3,BWA,91.37531131,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,Pol3,BWA,76,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,Rota1,BWA,81.9226929,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,RotaC,BWA,63.91770545,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,TT2plus,BWA,46.71858639,fuzzy success,23
+kgalagadisouth,kgalagadi,kgalagadisouth,VAD1,BWA,90,fuzzy success,23
+ngami,ngamiland,ngami,BCG,BWA,91.5205342,fuzzy success,23
+ngami,ngamiland,ngami,DTP1,BWA,74.21998843,fuzzy success,23
+ngami,ngamiland,ngami,DTP3,BWA,70.60928629,fuzzy success,23
+ngami,ngamiland,ngami,DTP4,BWA,-4444,fuzzy success,23
+ngami,ngamiland,ngami,HepB_BD,BWA,-2222,fuzzy success,23
+ngami,ngamiland,ngami,HepB_BDall,BWA,91.02640097,fuzzy success,23
+ngami,ngamiland,ngami,IPV1,BWA,66.30562112,fuzzy success,23
+ngami,ngamiland,ngami,MCV1,BWA,70.57281455,fuzzy success,23
+ngami,ngamiland,ngami,MCV2,BWA,76.88242536,fuzzy success,23
+ngami,ngamiland,ngami,PCV1,BWA,77.1012558,fuzzy success,23
+ngami,ngamiland,ngami,PCV2,BWA,68.78569935,fuzzy success,23
+ngami,ngamiland,ngami,PCV3,BWA,72.83406236,fuzzy success,23
+ngami,ngamiland,ngami,Pol3,BWA,71.33872107,fuzzy success,23
+ngami,ngamiland,ngami,Rota1,BWA,70.82811673,fuzzy success,23
+ngami,ngamiland,ngami,RotaC,BWA,66.41503633,fuzzy success,23
+ngami,ngamiland,ngami,TT2plus,BWA,55.73116988,fuzzy success,23
+ngami,ngamiland,ngami,VAD1,BWA,74,fuzzy success,23
+selibephikwe,selebiphikwe,selibephikwe,BCG,BWA,121.6507592,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,DTP1,BWA,77.67064073,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,DTP3,BWA,78.95258334,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,DTP4,BWA,-4444,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,HepB_BD,BWA,-2222,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,HepB_BDall,BWA,120.3371938,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,IPV1,BWA,114.9223849,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,MCV1,BWA,82,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,MCV2,BWA,74.50348839,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,PCV1,BWA,77.44441556,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,PCV2,BWA,73.14613738,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,PCV3,BWA,81.36565179,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,Pol3,BWA,87.77536486,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,Rota1,BWA,77.21819039,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,RotaC,BWA,73.22154577,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,TT2plus,BWA,74,fuzzy success,3
+selibephikwe,selebiphikwe,selibephikwe,VAD1,BWA,92,fuzzy success,3

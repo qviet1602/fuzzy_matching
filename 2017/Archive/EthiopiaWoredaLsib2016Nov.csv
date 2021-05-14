@@ -1,0 +1,814 @@
+ADMIN1_NAME,iso3,NAME,ADM0_NAME,GAUL_CODE
+Tigray,ETH,Adwa Town,Ethiopia,1
+Tigray,ETH,Ahferom,Ethiopia,2
+Tigray,ETH,Alaje,Ethiopia,3
+Tigray,ETH,Alamata Town,Ethiopia,4
+Tigray,ETH,Asgede Tsimbila,Ethiopia,5
+Tigray,ETH,Atsbi Wenberta,Ethiopia,6
+Tigray,ETH,Degua Temben,Ethiopia,7
+Tigray,ETH,Enderta,Ethiopia,8
+Tigray,ETH,Erob,Ethiopia,9
+Tigray,ETH,Adi Girat Town,Ethiopia,10
+Tigray,ETH,Gulomekeda,Ethiopia,11
+Tigray,ETH,Hawzen,Ethiopia,12
+Tigray,ETH,Hintalo Wejirat,Ethiopia,13
+Tigray,ETH,Tahtay Maychew,Ethiopia,14
+Tigray,ETH,Tanqua Abergele,Ethiopia,15
+Tigray,ETH,Tsegede,Ethiopia,16
+Tigray,ETH,Tselemti,Ethiopia,17
+Tigray,ETH,Humera Town,Ethiopia,18
+Tigray,ETH,Wekero Town,Ethiopia,19
+Tigray,ETH,Abiyi adi Town,Ethiopia,20
+Tigray,ETH,Laelay Adiyabo,Ethiopia,21
+Tigray,ETH,Akisum Town,Ethiopia,22
+Tigray,ETH,Medebay Zana,Ethiopia,23
+Tigray,ETH,Mereb Leke,Ethiopia,24
+Tigray,ETH,Naeder Adet,Ethiopia,25
+Tigray,ETH,Korem Town,Ethiopia,26
+Tigray,ETH,Saesie Tsaedaemba,Ethiopia,27
+Tigray,ETH,Saharti Samre,Ethiopia,28
+Tigray,ETH,Shiraro Town,Ethiopia,29
+Tigray,ETH,Shire Enida Silase Town,Ethiopia,30
+Tigray,ETH,Welkait,Ethiopia,31
+Tigray,ETH,Werei Leke,Ethiopia,32
+Tigray,ETH,Maychew Town,Ethiopia,33
+Tigray,ETH,Raya Azebo,Ethiopia,34
+Somali,ETH,Ayisha,Ethiopia,35
+Somali,ETH,Erer,Ethiopia,36
+Somali,ETH,Afdem,Ethiopia,37
+Somali,ETH,Hadigala,Ethiopia,38
+Somali,ETH,Geladin,Ethiopia,39
+Somali,ETH,Babile,Ethiopia,40
+Somali,ETH,Teferi Ber,Ethiopia,41
+Somali,ETH,Dembel,Ethiopia,42
+Somali,ETH,Miesso,Ethiopia,43
+Somali,ETH,Jijiga Town,Ethiopia,44
+Dire Dawa,ETH,Dire Dawa,Ethiopia,45
+Somali,ETH,Degehabur Town,Ethiopia,46
+Somali,ETH,Kebribeyah,Ethiopia,47
+Somali,ETH,Hareshen,Ethiopia,48
+Hareri,ETH,Harar,Ethiopia,49
+Somali,ETH,Gursum,Ethiopia,50
+Somali,ETH,Dihun,Ethiopia,51
+Somali,ETH,Misrak Gashamo,Ethiopia,52
+Somali,ETH,Degehamedo,Ethiopia,53
+Somali,ETH,Marsin,Ethiopia,54
+Somali,ETH,Fik,Ethiopia,55
+Somali,ETH,Boh,Ethiopia,56
+Somali,ETH,Hamero,Ethiopia,57
+Somali,ETH,Segeg,Ethiopia,58
+Somali,ETH,Gerbo,Ethiopia,59
+Somali,ETH,Shekosh,Ethiopia,60
+Somali,ETH,Daratole,Ethiopia,61
+Somali,ETH,Kebridehar Town,Ethiopia,62
+Somali,ETH,Shilabo,Ethiopia,63
+Oromia,ETH,Dawe Serer,Ethiopia,64
+Somali,ETH,Raaso,Ethiopia,65
+Somali,ETH,Debeweyin,Ethiopia,66
+Somali,ETH,Gode Town,Ethiopia,67
+Somali,ETH,Kelafo,Ethiopia,68
+Somali,ETH,Mustahil,Ethiopia,69
+Somali,ETH,Bare,Ethiopia,70
+Somali,ETH,Chereti/Weyib,Ethiopia,71
+Somali,ETH,Ferfer,Ethiopia,72
+Somali,ETH,Hudet,Ethiopia,73
+SNNPR,ETH,Geta,Ethiopia,74
+Somali,ETH,Afder,Ethiopia,75
+Somali,ETH,Dolobay,Ethiopia,76
+Somali,ETH,Moyale,Ethiopia,77
+SNNPR,ETH,Sodo,Ethiopia,78
+Somali,ETH,Dolo Odo,Ethiopia,79
+Somali,ETH,Lagahida,Ethiopia,80
+Somali,ETH,Meyumuluka,Ethiopia,81
+Somali,ETH,Selahad,Ethiopia,82
+Somali,ETH,West Imi,Ethiopia,83
+Somali,ETH,Adadle,Ethiopia,84
+Somali,ETH,Filtu,Ethiopia,85
+Somali,ETH,East Imi,Ethiopia,86
+Somali,ETH,Denan,Ethiopia,87
+Somali,ETH,Gunagado,Ethiopia,88
+SNNPR,ETH,Analemmo,Ethiopia,89
+Somali,ETH,Aware,Ethiopia,90
+SNNPR,ETH,Tepi Town,Ethiopia,91
+SNNPR,ETH,Menjiwo,Ethiopia,92
+SNNPR,ETH,Kacha Bira,Ethiopia,93
+SNNPR,ETH,Tembaro,Ethiopia,94
+SNNPR,ETH,Abeshege,Ethiopia,95
+SNNPR,ETH,Decha,Ethiopia,96
+SNNPR,ETH,Menit Shasha,Ethiopia,97
+SNNPR,ETH,Ela (Konta) SP Woreda,Ethiopia,98
+SNNPR,ETH,Cheta,Ethiopia,99
+SNNPR,ETH,Loma Bosa,Ethiopia,100
+SNNPR,ETH,Boreda,Ethiopia,101
+SNNPR,ETH,Kokir Gedbano,Ethiopia,102
+SNNPR,ETH,Butajira Town,Ethiopia,103
+SNNPR,ETH,Cheha,Ethiopia,104
+SNNPR,ETH,Jinka Town,Ethiopia,105
+SNNPR,ETH,Dita,Ethiopia,106
+SNNPR,ETH,Enemorina Eaner,Ethiopia,107
+SNNPR,ETH,Alicho Woriro,Ethiopia,108
+SNNPR,ETH,Selti,Ethiopia,109
+SNNPR,ETH,Yem SP Woreda,Ethiopia,110
+SNNPR,ETH,Gibe,Ethiopia,111
+SNNPR,ETH,Tulo,Ethiopia,112
+SNNPR,ETH,Lanfero,Ethiopia,113
+SNNPR,ETH,Gesha (Deka),Ethiopia,114
+SNNPR,ETH,Werabe Town,Ethiopia,115
+SNNPR,ETH,Soro,Ethiopia,116
+SNNPR,ETH,Masha Town,Ethiopia,117
+SNNPR,ETH,Bonga Town,Ethiopia,118
+SNNPR,ETH,Mierab Azenet Berbere,Ethiopia,119
+SNNPR,ETH,Alaba SP Woreda,Ethiopia,120
+SNNPR,ETH,Anigacha,Ethiopia,121
+SNNPR,ETH,Chena,Ethiopia,122
+SNNPR,ETH,Boditi Town,Ethiopia,123
+SNNPR,ETH,Sankura,Ethiopia,124
+SNNPR,ETH,Areka Town,Ethiopia,125
+SNNPR,ETH,Terche Town,Ethiopia,126
+SNNPR,ETH,Wondo-Genet,Ethiopia,127
+SNNPR,ETH,Doya Gena,Ethiopia,128
+SNNPR,ETH,Esira,Ethiopia,129
+SNNPR,ETH,Sodo Town,Ethiopia,130
+SNNPR,ETH,Loka-Abaya,Ethiopia,131
+SNNPR,ETH,Melekoza,Ethiopia,132
+SNNPR,ETH,Arbe Gonna,Ethiopia,133
+SNNPR,ETH,Ofa,Ethiopia,134
+SNNPR,ETH,Kucha,Ethiopia,135
+SNNPR,ETH,Hulla,Ethiopia,136
+SNNPR,ETH,Basketo SP Woreda,Ethiopia,137
+SNNPR,ETH,Chuko,Ethiopia,138
+SNNPR,ETH,Daramalo,Ethiopia,139
+SNNPR,ETH,Chire,Ethiopia,140
+SNNPR,ETH,Sawula Town,Ethiopia,141
+SNNPR,ETH,Maji,Ethiopia,142
+SNNPR,ETH,Daniboya,Ethiopia,143
+SNNPR,ETH,Aroresa,Ethiopia,144
+SNNPR,ETH,Selamgo,Ethiopia,145
+SNNPR,ETH,Surma,Ethiopia,146
+SNNPR,ETH,Chencha,Ethiopia,147
+SNNPR,ETH,Bule,Ethiopia,148
+SNNPR,ETH,Yirgachefe Town,Ethiopia,149
+SNNPR,ETH,Arba Minch Town,Ethiopia,150
+SNNPR,ETH,Shay Bench,Ethiopia,151
+SNNPR,ETH,Amaro SP Woreda,Ethiopia,152
+SNNPR,ETH,Durame Town,Ethiopia,153
+SNNPR,ETH,Ale (SNNPR),Ethiopia,154
+SNNPR,ETH,Burji SP Woreda,Ethiopia,155
+SNNPR,ETH,Ubadebretsehay,Ethiopia,156
+SNNPR,ETH,Gnangatom,Ethiopia,157
+SNNPR,ETH,Zala,Ethiopia,158
+SNNPR,ETH,Ezha,Ethiopia,159
+SNNPR,ETH,Sayilem,Ethiopia,160
+SNNPR,ETH,Damot Sore,Ethiopia,161
+SNNPR,ETH,Hosaena town,Ethiopia,162
+SNNPR,ETH,Boloso Bombe,Ethiopia,163
+SNNPR,ETH,Kindo Koysha,Ethiopia,164
+SNNPR,ETH,Gurafereda,Ethiopia,165
+SNNPR,ETH,Kindo Dida,Ethiopia,166
+SNNPR,ETH,Damot Pulasa,Ethiopia,167
+SNNPR,ETH,Awassa Zuria,Ethiopia,168
+SNNPR,ETH,Sheka,Ethiopia,169
+SNNPR,ETH,Awasa Town,Ethiopia,170
+SNNPR,ETH,Malga,Ethiopia,171
+SNNPR,ETH,Geze Gofa,Ethiopia,172
+SNNPR,ETH,Shebe Dino,Ethiopia,173
+SNNPR,ETH,Tocha,Ethiopia,174
+SNNPR,ETH,Gorche,Ethiopia,175
+SNNPR,ETH,Yirgalem Town,Ethiopia,176
+SNNPR,ETH,Humbo,Ethiopia,177
+SNNPR,ETH,Aleta Wendo Town,Ethiopia,178
+SNNPR,ETH,Gena Bosa,Ethiopia,179
+SNNPR,ETH,Bona Zuria,Ethiopia,180
+SNNPR,ETH,Bena Tsemay,Ethiopia,181
+SNNPR,ETH,Bursa,Ethiopia,182
+SNNPR,ETH,Kochere,Ethiopia,183
+SNNPR,ETH,Kochere Gedeb,Ethiopia,184
+SNNPR,ETH,Wenago,Ethiopia,185
+SNNPR,ETH,Bensa,Ethiopia,186
+SNNPR,ETH,Dila Zuria,Ethiopia,187
+SNNPR,ETH,Mareko,Ethiopia,188
+SNNPR,ETH,Misha,Ethiopia,189
+SNNPR,ETH,Shashogo,Ethiopia,190
+SNNPR,ETH,Mirab Abaya,Ethiopia,191
+SNNPR,ETH,Boricha,Ethiopia,192
+SNNPR,ETH,Diguna Fango,Ethiopia,193
+SNNPR,ETH,Damot Weydie,Ethiopia,194
+SNNPR,ETH,Misrak Badawacho,Ethiopia,195
+SNNPR,ETH,Mierab Badawacho,Ethiopia,196
+SNNPR,ETH,Welikite Town,Ethiopia,197
+SNNPR,ETH,Muhur Na Aklil,Ethiopia,198
+SNNPR,ETH,Hamer,Ethiopia,199
+SNNPR,ETH,Dasenech (Kuraz),Ethiopia,200
+SNNPR,ETH,Bero,Ethiopia,201
+SNNPR,ETH,Mizan Aman Kifele Ketema,Ethiopia,202
+SNNPR,ETH,Menit Goldiye,Ethiopia,203
+SNNPR,ETH,Gelila (Semen Ari),Ethiopia,204
+SNNPR,ETH,Male,Ethiopia,205
+SNNPR,ETH,Ayida,Ethiopia,206
+SNNPR,ETH,Bita (Big),Ethiopia,207
+SNNPR,ETH,Getawa,Ethiopia,208
+SNNPR,ETH,Anderacha,Ethiopia,209
+SNNPR,ETH,Hadero Tubito,Ethiopia,210
+SNNPR,ETH,Dune,Ethiopia,211
+SNNPR,ETH,Gembora,Ethiopia,212
+SNNPR,ETH,Misrak Azenet Berbere,Ethiopia,213
+SNNPR,ETH,Endiguagn,Ethiopia,214
+SNNPR,ETH,Dalocha,Ethiopia,215
+SNNPR,ETH,Gumer,Ethiopia,216
+Gambela,ETH,Wantawo,Ethiopia,217
+Gambela,ETH,Akobo,Ethiopia,218
+Gambela,ETH,Jikawo,Ethiopia,219
+Gambela,ETH,Lare,Ethiopia,220
+Gambela,ETH,Etang,Ethiopia,221
+Gambela,ETH,Gambela Town,Ethiopia,222
+Gambela,ETH,Jore,Ethiopia,223
+Beneshangul Gumu,ETH,Kurmuk,Ethiopia,224
+Gambela,ETH,Abobo,Ethiopia,225
+Gambela,ETH,Goge,Ethiopia,226
+Gambela,ETH,Mengesh,Ethiopia,227
+Gambela,ETH,Godere,Ethiopia,228
+Amhara,ETH,Dangila Town,Ethiopia,229
+Gambela,ETH,Dima,Ethiopia,230
+Beneshangul Gumu,ETH,Pawe Special,Ethiopia,231
+Beneshangul Gumu,ETH,Wenbera,Ethiopia,232
+Amhara,ETH,Dawunt,Ethiopia,233
+Beneshangul Gumu,ETH,Guba,Ethiopia,234
+Beneshangul Gumu,ETH,Bulen,Ethiopia,235
+Amhara,ETH,Mekane Selam Town,Ethiopia,236
+Amhara,ETH,Dega Damot,Ethiopia,237
+Amhara,ETH,Dehana,Ethiopia,238
+Beneshangul Gumu,ETH,Dangura,Ethiopia,239
+Beneshangul Gumu,ETH,Bilidigilu,Ethiopia,240
+Beneshangul Gumu,ETH,Mandura,Ethiopia,241
+Beneshangul Gumu,ETH,Dibat,Ethiopia,242
+Beneshangul Gumu,ETH,Sherkole,Ethiopia,243
+Beneshangul Gumu,ETH,Yaso,Ethiopia,244
+Beneshangul Gumu,ETH,Menge,Ethiopia,245
+Beneshangul Gumu,ETH,Bio Jiganifado,Ethiopia,246
+Beneshangul Gumu,ETH,Kamashi,Ethiopia,247
+Beneshangul Gumu,ETH,Agalometi,Ethiopia,248
+Beneshangul Gumu,ETH,Sirba Abay,Ethiopia,249
+Beneshangul Gumu,ETH,Homosha,Ethiopia,250
+Beneshangul Gumu,ETH,Assosa Town,Ethiopia,251
+Beneshangul Gumu,ETH,Maokomo Special,Ethiopia,252
+Beneshangul Gumu,ETH,Bambasi,Ethiopia,253
+Amhara,ETH,Debub Achefer,Ethiopia,254
+Amhara,ETH,Albuko,Ethiopia,255
+Amhara,ETH,Alfa,Ethiopia,256
+Amhara,ETH,Ambasel,Ethiopia,257
+Amhara,ETH,Ankasha,Ethiopia,258
+Amhara,ETH,Bati Town,Ethiopia,259
+Amhara,ETH,Debarq Town,Ethiopia,260
+Amhara,ETH,Debay Telatgen,Ethiopia,261
+Amhara,ETH,Ankober,Ethiopia,262
+Amhara,ETH,Antsokiya,Ethiopia,263
+Amhara,ETH,Bure Town,Ethiopia,264
+Amhara,ETH,Kemise Town,Ethiopia,265
+Amhara,ETH,Debre Elias,Ethiopia,266
+Amhara,ETH,Argoba,Ethiopia,267
+Amhara,ETH,Assagirt,Ethiopia,268
+Amhara,ETH,Awabel,Ethiopia,269
+Amhara,ETH,Injebara Town,Ethiopia,270
+Amhara,ETH,Baso Liben,Ethiopia,271
+Amhara,ETH,Berehet,Ethiopia,272
+Amhara,ETH,Beyeda,Ethiopia,273
+Amhara,ETH,Bibugn,Ethiopia,274
+Amhara,ETH,Bugna,Ethiopia,275
+Amhara,ETH,Aykel Town,Ethiopia,276
+Amhara,ETH,Dabat,Ethiopia,277
+Amhara,ETH,Dejen Town,Ethiopia,278
+Amhara,ETH,Delanta,Ethiopia,279
+Amhara,ETH,Dembecha Town,Ethiopia,280
+Amhara,ETH,Dembia,Ethiopia,281
+Amhara,ETH,Dera,Ethiopia,282
+Amhara,ETH,Dese Town,Ethiopia,283
+Amhara,ETH,Mekane Eyesus Town,Ethiopia,284
+Amhara,ETH,East Belesa,Ethiopia,285
+Amhara,ETH,Ebenat,Ethiopia,286
+Amhara,ETH,Enarj Enawga,Ethiopia,287
+Amhara,ETH,Enbise Sar Midir,Ethiopia,288
+Amhara,ETH,Bichena Town,Ethiopia,289
+Amhara,ETH,Fagta Lakoma,Ethiopia,290
+Amhara,ETH,Mehal Meda Town,Ethiopia,291
+Amhara,ETH,Gidan,Ethiopia,292
+Amhara,ETH,Debretabor Town,Ethiopia,293
+Amhara,ETH,Fogera,Ethiopia,294
+Amhara,ETH,Gaz Gibla,Ethiopia,295
+Amhara,ETH,Gishe Rabel,Ethiopia,296
+Amhara,ETH,Goncha Siso Enese,Ethiopia,297
+Amhara,ETH,Gondar Town,Ethiopia,298
+Amhara,ETH,Gonje,Ethiopia,299
+Amhara,ETH,Guagusa Shikudad,Ethiopia,300
+Amhara,ETH,Zigem,Ethiopia,301
+Amhara,ETH,Mersa Town,Ethiopia,302
+Amhara,ETH,Lalibela Town,Ethiopia,303
+Amhara,ETH,Lay Armacho,Ethiopia,304
+Amhara,ETH,Lay Gayint,Ethiopia,305
+Amhara,ETH,Legambo,Ethiopia,306
+Oromia,ETH,Adda Berga,Ethiopia,307
+Amhara,ETH,Hagere Mariam,Ethiopia,308
+Amhara,ETH,Mota Town,Ethiopia,309
+Amhara,ETH,Finote Selam Town,Ethiopia,310
+Amhara,ETH,Jama,Ethiopia,311
+Amhara,ETH,Janamora,Ethiopia,312
+Amhara,ETH,Jawi,Ethiopia,313
+Amhara,ETH,Kelela,Ethiopia,314
+Amhara,ETH,Genda Wuha Town,Ethiopia,315
+Amhara,ETH,Michakel,Ethiopia,316
+Amhara,ETH,Mimo Weremo,Ethiopia,317
+Amhara,ETH,Kewet,Ethiopia,318
+Amhara,ETH,Menz Keya Gabriel,Ethiopia,319
+Amhara,ETH,Wegera,Ethiopia,320
+Amhara,ETH,Wemberma,Ethiopia,321
+Amhara,ETH,Were Ilu,Ethiopia,322
+Amhara,ETH,West Belesa,Ethiopia,323
+Amhara,ETH,Legehida,Ethiopia,324
+Amhara,ETH,Libo Kemkem,Ethiopia,325
+Amhara,ETH,Merawi Town,Ethiopia,326
+Amhara,ETH,Kobo Town,Ethiopia,327
+Oromia,ETH,Babo,Ethiopia,328
+Amhara,ETH,Mehal Sayint,Ethiopia,329
+Amhara,ETH,Mekdela,Ethiopia,330
+Amhara,ETH,Filakit (Meket) Town,Ethiopia,331
+Amhara,ETH,Menz Lalo Midir,Ethiopia,332
+Amhara,ETH,Menz Mama Midir,Ethiopia,333
+Amhara,ETH,Alem Ketema Town,Ethiopia,334
+Amhara,ETH,Minjar Shenkora,Ethiopia,335
+Amhara,ETH,Mirab Armacho,Ethiopia,336
+Amhara,ETH,Mojan Wedera,Ethiopia,337
+Amhara,ETH,Moretna Jiru,Ethiopia,338
+Amhara,ETH,Quara,Ethiopia,339
+Amhara,ETH,Quarit,Ethiopia,340
+Amhara,ETH,Sahla,Ethiopia,341
+Amhara,ETH,Sayint,Ethiopia,342
+Amhara,ETH,Sekela,Ethiopia,343
+Amhara,ETH,Semen Achefer,Ethiopia,344
+Amhara,ETH,Shebel Bereta,Ethiopia,345
+Amhara,ETH,Simada,Ethiopia,346
+Amhara,ETH,Siya Debirna Wayu,Ethiopia,347
+Amhara,ETH,Tach Armacho,Ethiopia,348
+Amhara,ETH,Tach Gayint,Ethiopia,349
+Amhara,ETH,Takusa,Ethiopia,350
+Amhara,ETH,Tarema Ber,Ethiopia,351
+Amhara,ETH,Tenta,Ethiopia,352
+Amhara,ETH,Hayk Town,Ethiopia,353
+Amhara,ETH,West Esite,Ethiopia,354
+Amhara,ETH,Wadla,Ethiopia,355
+Amhara,ETH,Wegde,Ethiopia,356
+Amhara,ETH,Worebabu,Ethiopia,357
+Amhara,ETH,Adet Town,Ethiopia,358
+Amhara,ETH,Ziquala,Ethiopia,359
+Amhara,ETH,Tsegede,Ethiopia,360
+Amhara,ETH,Addi Arekay,Ethiopia,361
+Amhara,ETH,Tselemt,Ethiopia,362
+Amhara,ETH,Abergele,Ethiopia,363
+Amhara,ETH,Sekota Town Administration,Ethiopia,364
+Amhara,ETH,Artuma Fursi,Ethiopia,365
+Afar,ETH,Dulecha,Ethiopia,366
+Amhara,ETH,Dewa Harewa,Ethiopia,367
+Afar,ETH,Afdera,Ethiopia,368
+Afar,ETH,Erebti,Ethiopia,369
+Afar,ETH,Elidar,Ethiopia,370
+Afar,ETH,Teru,Ethiopia,371
+Afar,ETH,Samera Town,Ethiopia,372
+Afar,ETH,Awra,Ethiopia,373
+Afar,ETH,Aysaita,Ethiopia,374
+Afar,ETH,Afambo,Ethiopia,375
+Afar,ETH,Gewane,Ethiopia,376
+Afar,ETH,Bure Mudaytu,Ethiopia,377
+Afar,ETH,Argoba Special,Ethiopia,378
+Oromia,ETH,Bedeno,Ethiopia,379
+Afar,ETH,Dalul,Ethiopia,380
+Afar,ETH,Koneba,Ethiopia,381
+Afar,ETH,Berahle,Ethiopia,382
+Afar,ETH,Chifra,Ethiopia,383
+Afar,ETH,Ab Ala,Ethiopia,384
+Afar,ETH,Mile,Ethiopia,385
+Afar,ETH,Megale,Ethiopia,386
+Afar,ETH,Telalak,Ethiopia,387
+Afar,ETH,Yalo,Ethiopia,388
+Afar,ETH,Gulina,Ethiopia,389
+Afar,ETH,Ewa,Ethiopia,390
+Afar,ETH,Artuma,Ethiopia,391
+Afar,ETH,Dewe,Ethiopia,392
+Afar,ETH,Fursi,Ethiopia,393
+Oromia,ETH,Dera,Ethiopia,394
+Oromia,ETH,Ibantu,Ethiopia,395
+Oromia,ETH,Hidabu Abote,Ethiopia,396
+Oromia,ETH,Ambo Town,Ethiopia,397
+Oromia,ETH,Gida Ayana,Ethiopia,398
+Oromia,ETH,Fiche Town,Ethiopia,399
+Oromia,ETH,Wara Jarso,Ethiopia,400
+Oromia,ETH,Jimma Rare,Ethiopia,401
+Oromia,ETH,Limu,Ethiopia,402
+Oromia,ETH,Guduru,Ethiopia,403
+Oromia,ETH,Degem,Ethiopia,404
+Oromia,ETH,Abay Chomen,Ethiopia,405
+Oromia,ETH,Ginde Beret,Ethiopia,406
+Oromia,ETH,Kuyu,Ethiopia,407
+Oromia,ETH,Shambu Town,Ethiopia,408
+Oromia,ETH,Abe Dongoro,Ethiopia,409
+Oromia,ETH,Kombolcha,Ethiopia,410
+Oromia,ETH,Wuchale,Ethiopia,411
+Oromia,ETH,Yaya Gulele,Ethiopia,412
+Oromia,ETH,Jarso,Ethiopia,413
+Oromia,ETH,Meta Robi,Ethiopia,414
+Oromia,ETH,Begi,Ethiopia,415
+Oromia,ETH,Bila Seyo,Ethiopia,416
+Oromia,ETH,Meta,Ethiopia,417
+Oromia,ETH,Aweday Town,Ethiopia,418
+Oromia,ETH,Sasiga,Ethiopia,419
+Oromia,ETH,Goro Gutu,Ethiopia,420
+Oromia,ETH,Kurfa Chele,Ethiopia,421
+Oromia,ETH,Nekemte Town,Ethiopia,422
+Oromia,ETH,Gursum,Ethiopia,423
+Oromia,ETH,Kersa,Ethiopia,424
+Oromia,ETH,Jeldu,Ethiopia,425
+Oromia,ETH,Doba,Ethiopia,426
+Oromia,ETH,Tulo,Ethiopia,427
+Oromia,ETH,Mieso,Ethiopia,428
+Oromia,ETH,Deder Town,Ethiopia,429
+Oromia,ETH,Illu Gelan,Ethiopia,430
+Oromia,ETH,Gawo Kebe,Ethiopia,431
+Oromia,ETH,Babile,Ethiopia,432
+Oromia,ETH,Ayira,Ethiopia,433
+Oromia,ETH,Dendi,Ethiopia,434
+Oromia,ETH,Ejere (Addis Alem),Ethiopia,435
+Oromia,ETH,Girawa,Ethiopia,436
+Oromia,ETH,Bako Tibe,Ethiopia,437
+Oromia,ETH,Malka Balo,Ethiopia,438
+Oromia,ETH,Ginir,Ethiopia,439
+Oromia,ETH,Adaba,Ethiopia,440
+Oromia,ETH,Wado,Ethiopia,441
+Oromia,ETH,Yubdo,Ethiopia,442
+Oromia,ETH,Kofele,Ethiopia,443
+Oromia,ETH,Gedeb Asasa,Ethiopia,444
+Oromia,ETH,Robe Town,Ethiopia,445
+Oromia,ETH,Kumbi,Ethiopia,446
+Oromia,ETH,Wama Hagalo,Ethiopia,447
+Oromia,ETH,Ameya,Ethiopia,448
+Oromia,ETH,Rayitu,Ethiopia,449
+Oromia,ETH,Fedis,Ethiopia,450
+Oromia,ETH,Gemechis,Ethiopia,451
+Oromia,ETH,Mesela,Ethiopia,452
+Oromia,ETH,Metehara Town,Ethiopia,453
+Oromia,ETH,Anchar,Ethiopia,454
+Oromia,ETH,Jarte Jardega,Ethiopia,455
+Oromia,ETH,Bedesa Town,Ethiopia,456
+Oromia,ETH,Nole Kaba,Ethiopia,457
+Oromia,ETH,Ilu,Ethiopia,458
+Oromia,ETH,Tikur Enchini,Ethiopia,459
+Oromia,ETH,Bishoftu Town,Ethiopia,460
+Oromia,ETH,Dawo,Ethiopia,461
+Oromia,ETH,Dano,Ethiopia,462
+Oromia,ETH,Jimma Arjo,Ethiopia,463
+Oromia,ETH,Nunu Kumba,Ethiopia,464
+Oromia,ETH,Meko,Ethiopia,465
+Oromia,ETH,Habro,Ethiopia,466
+Oromia,ETH,Nono,Ethiopia,467
+Oromia,ETH,Limu Seka,Ethiopia,468
+Oromia,ETH,Merti,Ethiopia,469
+Oromia,ETH,Hawa Galan,Ethiopia,470
+Oromia,ETH,Boset,Ethiopia,471
+Oromia,ETH,Burka Dimtu,Ethiopia,472
+Oromia,ETH,Wenchi,Ethiopia,473
+Oromia,ETH,Tole,Ethiopia,474
+Oromia,ETH,Darimu,Ethiopia,475
+Oromia,ETH,Becho,Ethiopia,476
+Oromia,ETH,Adama Town,Ethiopia,477
+Oromia,ETH,Weliso Town,Ethiopia,478
+Oromia,ETH,Alge Sachi,Ethiopia,479
+Oromia,ETH,Aseko,Ethiopia,480
+Oromia,ETH,Gololcha Arsi,Ethiopia,481
+Oromia,ETH,Chora,Ethiopia,482
+Oromia,ETH,Jeju,Ethiopia,483
+Oromia,ETH,Seden Sodo,Ethiopia,484
+Oromia,ETH,Boji Chekorsa,Ethiopia,485
+Oromia,ETH,Sire,Ethiopia,486
+Oromia,ETH,Metu Town,Ethiopia,487
+Oromia,ETH,Yayu,Ethiopia,488
+Oromia,ETH,Dugda,Ethiopia,489
+Oromia,ETH,Chole,Ethiopia,490
+Oromia,ETH,Ziway Dugda,Ethiopia,491
+Oromia,ETH,Didu,Ethiopia,492
+Oromia,ETH,Sude,Ethiopia,493
+Oromia,ETH,Setema,Ethiopia,494
+Oromia,ETH,Hitosa,Ethiopia,495
+Oromia,ETH,Dedesa,Ethiopia,496
+Oromia,ETH,Sigmo,Ethiopia,497
+Oromia,ETH,Tiro Afeta,Ethiopia,498
+Oromia,ETH,Jimma Spe Town,Ethiopia,499
+Oromia,ETH,Lege Hida,Ethiopia,500
+Oromia,ETH,Amigna,Ethiopia,501
+Oromia,ETH,Agaro  Town,Ethiopia,502
+Oromia,ETH,Gechi,Ethiopia,503
+Oromia,ETH,Zeway  Town,Ethiopia,504
+Oromia,ETH,Asela Town,Ethiopia,505
+Oromia,ETH,Sekoru,Ethiopia,506
+Oromia,ETH,Robe,Ethiopia,507
+Oromia,ETH,Gera,Ethiopia,508
+Oromia,ETH,Seru,Ethiopia,509
+Oromia,ETH,Degeluna Tijo,Ethiopia,510
+Oromia,ETH,Dodola Town,Ethiopia,511
+Oromia,ETH,Gololcha Bale,Ethiopia,512
+Oromia,ETH,Omo Nada,Ethiopia,513
+Oromia,ETH,Munessa,Ethiopia,514
+Oromia,ETH,Shebe Sambo,Ethiopia,515
+Oromia,ETH,Lalo Kile,Ethiopia,516
+Oromia,ETH,Seweyna,Ethiopia,517
+Oromia,ETH,Shirka,Ethiopia,518
+Oromia,ETH,Arsi Negele,Ethiopia,519
+Oromia,ETH,Dedo,Ethiopia,520
+Oromia,ETH,Bokoji Town,Ethiopia,521
+Oromia,ETH,Shalla,Ethiopia,522
+Oromia,ETH,Agarfa,Ethiopia,523
+Oromia,ETH,Dawe Kachen,Ethiopia,524
+Oromia,ETH,Goba Town,Ethiopia,525
+Oromia,ETH,Kokosa,Ethiopia,526
+Oromia,ETH,Berbere,Ethiopia,527
+Oromia,ETH,Gura Damole,Ethiopia,528
+Oromia,ETH,Nenesebo (Wereka),Ethiopia,529
+Oromia,ETH,Mena,Ethiopia,530
+Oromia,ETH,Gelana,Ethiopia,531
+Oromia,ETH,Sora,Ethiopia,532
+Oromia,ETH,Uraga,Ethiopia,533
+Oromia,ETH,Meda Welabu,Ethiopia,534
+Oromia,ETH,Adola Town,Ethiopia,535
+Oromia,ETH,Jimma Horo,Ethiopia,536
+Oromia,ETH,Saba Boru,Ethiopia,537
+Oromia,ETH,Negele Town,Ethiopia,538
+Oromia,ETH,Yama Logi Welel,Ethiopia,539
+Oromia,ETH,Dale Wabera,Ethiopia,540
+Oromia,ETH,Dale Sadi,Ethiopia,541
+Oromia,ETH,Teltele,Ethiopia,542
+Oromia,ETH,Moyale,Ethiopia,543
+Oromia,ETH,Borecha,Ethiopia,544
+Oromia,ETH,Gaji,Ethiopia,545
+Oromia,ETH,Sayo Nole,Ethiopia,546
+Oromia,ETH,Dega,Ethiopia,547
+Oromia,ETH,Bilo Nopha,Ethiopia,548
+Oromia,ETH,Halu (Huka),Ethiopia,549
+Oromia,ETH,Ale,Ethiopia,550
+Oromia,ETH,Hurumu,Ethiopia,551
+Oromia,ETH,Bedele Town,Ethiopia,552
+Oromia,ETH,Dorani,Ethiopia,553
+Oromia,ETH,Boneya Boshe,Ethiopia,554
+Oromia,ETH,Gobu Seyo,Ethiopia,555
+Oromia,ETH,Leka Dulecha,Ethiopia,556
+Oromia,ETH,Sibu Sire,Ethiopia,557
+Oromia,ETH,Wayu Tuka,Ethiopia,558
+Oromia,ETH,Limu Kosa,Ethiopia,559
+Oromia,ETH,Kersana Malima,Ethiopia,560
+Oromia,ETH,Goba Koricha,Ethiopia,561
+Oromia,ETH,Amuru,Ethiopia,562
+Oromia,ETH,Jimma Genete,Ethiopia,563
+Oromia,ETH,Gudetu Kondole,Ethiopia,564
+Oromia,ETH,Ababo,Ethiopia,565
+Oromia,ETH,Gumay,Ethiopia,566
+Oromia,ETH,Seka Chekorsa,Ethiopia,567
+Oromia,ETH,Abuna G/Beret,Ethiopia,568
+Oromia,ETH,Ifata,Ethiopia,569
+Oromia,ETH,Toke Kutaye,Ethiopia,570
+Oromia,ETH,Mida Kegn,Ethiopia,571
+Oromia,ETH,Jibat,Ethiopia,572
+Oromia,ETH,Debre Libanos,Ethiopia,573
+Oromia,ETH,Mulo,Ethiopia,574
+Oromia,ETH,Aleltu,Ethiopia,575
+Oromia,ETH,Jida,Ethiopia,576
+Oromia,ETH,Bora,Ethiopia,577
+Oromia,ETH,Liben Chukala,Ethiopia,578
+Oromia,ETH,Mana Sibu,Ethiopia,579
+Oromia,ETH,Dodota,Ethiopia,580
+Oromia,ETH,Lude Hitosa,Ethiopia,581
+Oromia,ETH,Tena,Ethiopia,582
+Oromia,ETH,Diksis,Ethiopia,583
+Oromia,ETH,Kore,Ethiopia,584
+Oromia,ETH,Inkolo Wabe,Ethiopia,585
+Oromia,ETH,Guna,Ethiopia,586
+Oromia,ETH,Bele Gesgar,Ethiopia,587
+Oromia,ETH,Siraro,Ethiopia,588
+Oromia,ETH,Chiro Town,Ethiopia,589
+Oromia,ETH,Midega Tola,Ethiopia,590
+Oromia,ETH,Meyu,Ethiopia,591
+Oromia,ETH,Tulu Guled,Ethiopia,592
+Oromia,ETH,Gasera,Ethiopia,593
+Oromia,ETH,Dinsho,Ethiopia,594
+Oromia,ETH,Harena Buluk,Ethiopia,595
+Oromia,ETH,Goro,Ethiopia,596
+Oromia,ETH,Afele Kola (Dima),Ethiopia,597
+Oromia,ETH,Kercha,Ethiopia,598
+Oromia,ETH,Kiltu Kara,Ethiopia,599
+Oromia,ETH,Hambela Wamena,Ethiopia,600
+Oromia,ETH,Girja (Harenfema),Ethiopia,601
+Oromia,ETH,Wadera,Ethiopia,602
+Oromia,ETH,Bule Hora,Ethiopia,603
+Oromia,ETH,Boji Dirmeji,Ethiopia,604
+Oromia,ETH,Yabelo Town,Ethiopia,605
+Oromia,ETH,Sodo Daci,Ethiopia,606
+Oromia,ETH,Dugda Dawa,Ethiopia,607
+Oromia,ETH,Nejo Town,Ethiopia,608
+Oromia,ETH,Melka Soda,Ethiopia,609
+Oromia,ETH,Dillo,Ethiopia,610
+Oromia,ETH,Dire,Ethiopia,611
+Oromia,ETH,Miyo,Ethiopia,612
+Oromia,ETH,Dehas,Ethiopia,613
+Oromia,ETH,Arero,Ethiopia,614
+Oromia,ETH,Gidami,Ethiopia,615
+Oromia,ETH,Anfilo,Ethiopia,616
+Oromia,ETH,Bure,Ethiopia,617
+Oromia,ETH,Dembi Dolo Town,Ethiopia,618
+Oromia,ETH,Sale Nono,Ethiopia,619
+Oromia,ETH,Dukem Town,Ethiopia,620
+Oromia,ETH,Homa,Ethiopia,621
+Oromia,ETH,Chwaka,Ethiopia,622
+Oromia,ETH,Dabo Hana,Ethiopia,623
+Oromia,ETH,Diga,Ethiopia,624
+Oromia,ETH,Haro Limu,Ethiopia,625
+Oromia,ETH,Abichuna Gne'a,Ethiopia,626
+Oromia,ETH,Lega Tafo Town,Ethiopia,627
+Oromia,ETH,Sululta Town,Ethiopia,628
+Oromia,ETH,Sebeta Town,Ethiopia,629
+Amhara,ETH,Ensaro,Ethiopia,630
+Oromia,ETH,Kembibit,Ethiopia,631
+Oromia,ETH,Gimbichu,Ethiopia,632
+Oromia,ETH,Holeta Town,Ethiopia,633
+Oromia,ETH,Hawi Gudina,Ethiopia,634
+Oromia,ETH,Daro Lebu,Ethiopia,635
+Somali,ETH,Hargele,Ethiopia,636
+Afar,ETH,Bidu,Ethiopia,637
+Afar,ETH,Kurri,Ethiopia,638
+Afar,ETH,Adaa'r,Ethiopia,639
+Oromia,ETH,Bore,Ethiopia,640
+Oromia,ETH,Odo Shakiso,Ethiopia,641
+Addis Ababa,ETH,Nefas Silk,Ethiopia,642
+Oromia,ETH,Goro Dola,Ethiopia,643
+SNNPR,ETH,Dereashe,Ethiopia,644
+SNNPR,ETH,Konso,Ethiopia,645
+SNNPR,ETH,Bonke,Ethiopia,646
+SNNPR,ETH,Kemba,Ethiopia,647
+Oromia,ETH,Guliso,Ethiopia,648
+Oromia,ETH,Lalo Asabi,Ethiopia,649
+Oromia,ETH,Haru,Ethiopia,650
+Oromia,ETH,Gimbi Town,Ethiopia,651
+Addis Ababa,ETH,Addis Ketema,Ethiopia,652
+Oromia,ETH,Kiremu,Ethiopia,653
+Addis Ababa,ETH,Arada,Ethiopia,654
+Addis Ababa,ETH,Bole,Ethiopia,655
+Addis Ababa,ETH,Yeka,Ethiopia,656
+Addis Ababa,ETH,Gulele,Ethiopia,657
+Addis Ababa,ETH,Kirkos,Ethiopia,658
+Addis Ababa,ETH,Kolfe - Keran,Ethiopia,659
+Addis Ababa,ETH,Lideta,Ethiopia,660
+Addis Ababa,ETH,Akaki - Kalit,Ethiopia,661
+Amhara,ETH,Eferatana Gidem,Ethiopia,662
+Tigray,ETH,Enderta (Kedamay Weyane),Ethiopia,663
+Amhara,ETH,Ataye Town,Ethiopia,664
+Oromia,ETH,Boke,Ethiopia,665
+Afar,ETH,Awash Town,Ethiopia,666
+Oromia,ETH,Cheliya,Ethiopia,667
+Oromia,ETH,Golo Oda,Ethiopia,668
+Amhara,ETH,Chagini Town,Ethiopia,669
+Oromia,ETH,Nono Benja,Ethiopia,670
+Oromia,ETH,Shashemene Town,Ethiopia,671
+Tigray,ETH,Kola Temben,Ethiopia,672
+Oromia,ETH,Mojo Town,Ethiopia,673
+Oromia,ETH,Adama,Ethiopia,674
+Amhara,ETH,Adis Zemen Town,Ethiopia,675
+Amhara,ETH,Yilmana Densa,Ethiopia,676
+Tigray,ETH,Ganta Afeshum,Ethiopia,677
+Oromia,ETH,Adola,Ethiopia,678
+Tigray,ETH,Adwa,Ethiopia,679
+Oromia,ETH,Goma,Ethiopia,680
+Tigray,ETH,Alamata,Ethiopia,681
+Amhara,ETH,Merahbete,Ethiopia,682
+Oromia,ETH,Burayu,Ethiopia,683
+SNNPR,ETH,Aleta Wendo,Ethiopia,684
+Oromia,ETH,Dodola,Ethiopia,685
+Oromia,ETH,Ambo Zuria,Ethiopia,686
+SNNPR,ETH,Arba Minch Zuria,Ethiopia,687
+Amhara,ETH,Wereta Town,Ethiopia,688
+SNNPR,ETH,Boloso sore,Ethiopia,689
+Tigray,ETH,Kelete Awelallo,Ethiopia,690
+Oromia,ETH,Tiyo,Ethiopia,691
+Beneshangul Gumu,ETH,Assosa,Ethiopia,692
+Amhara,ETH,Jille Timuga,Ethiopia,693
+Afar,ETH,Awash Fentale,Ethiopia,694
+Afar,ETH,Amibara,Ethiopia,695
+Oromia,ETH,Haromaya Town,Ethiopia,696
+Tigray,ETH,Laelay Maychew,Ethiopia,697
+Amhara,ETH,Chilga,Ethiopia,698
+Amhara,ETH,Bahirdar Zuria,Ethiopia,699
+Amhara,ETH,Bahir Dar Liyu,Ethiopia,700
+Oromia,ETH,Kuni,Ethiopia,701
+Amhara,ETH,Enemay,Ethiopia,702
+Amhara,ETH,Bati,Ethiopia,703
+Oromia,ETH,Adami Tulu Jido Kombolcha,Ethiopia,704
+Oromia,ETH,Badele Zuria,Ethiopia,705
+Oromia,ETH,Ada'a,Ethiopia,706
+SNNPR,ETH,Gimbo,Ethiopia,707
+Oromia,ETH,Akaki,Ethiopia,708
+Oromia,ETH,Gelan Town,Ethiopia,709
+Amhara,ETH,Bure,Ethiopia,710
+SNNPR,ETH,Kediada Gambela,Ethiopia,711
+Amhara,ETH,Banja,Ethiopia,712
+SNNPR,ETH,Damot Gale,Ethiopia,713
+Oromia,ETH,Limu Bilbilo,Ethiopia,714
+Amhara,ETH,Farta,Ethiopia,715
+SNNPR,ETH,Meskan,Ethiopia,716
+Amhara,ETH,Guangua,Ethiopia,717
+Oromia,ETH,Chiro Zuria,Ethiopia,718
+Amhara,ETH,Debark,Ethiopia,719
+Amhara,ETH,Aneded,Ethiopia,720
+Amhara,ETH,Guzamin,Ethiopia,721
+Amhara,ETH,Senan,Ethiopia,722
+Amhara,ETH,Basona Worena,Ethiopia,723
+Amhara,ETH,Angolelana Tera,Ethiopia,724
+Oromia,ETH,Deder,Ethiopia,725
+Somali,ETH,Ararso,Ethiopia,726
+Amhara,ETH,Dejen,Ethiopia,727
+Amhara,ETH,Dembecha,Ethiopia,728
+SNNPR,ETH,Limu,Ethiopia,729
+Amhara,ETH,Debrebrehan Town,Ethiopia,730
+Oromia,ETH,Sayo,Ethiopia,731
+Amhara,ETH,Dangila,Ethiopia,732
+Amhara,ETH,Kutaber,Ethiopia,733
+Oromia,ETH,Abaya,Ethiopia,734
+SNNPR,ETH,Dila Town,Ethiopia,735
+Tigray,ETH,Kafta Humera,Ethiopia,736
+Somali,ETH,Elahmar,Ethiopia,737
+SNNPR,ETH,Dara,Ethiopia,738
+Oromia,ETH,Gerar Jarso,Ethiopia,739
+Amhara,ETH,Jabi Tehnan,Ethiopia,740
+Gambela,ETH,Gambela Zuria,Ethiopia,741
+Amhara,ETH,Metema,Ethiopia,742
+Oromia,ETH,Gimbi,Ethiopia,743
+Oromia,ETH,Goba,Ethiopia,744
+Somali,ETH,Gode,Ethiopia,745
+Amhara,ETH,Gonder Zuria,Ethiopia,746
+Amhara,ETH,Mecha,Ethiopia,747
+Oromia,ETH,Haro Maya,Ethiopia,748
+Oromia,ETH,Wolmera,Ethiopia,749
+Amhara,ETH,Thehulederie,Ethiopia,750
+SNNPR,ETH,South Ari (Bako Gazer),Ethiopia,751
+Somali,ETH,Kebridehar,Ethiopia,752
+Amhara,ETH,Chefa Gula,Ethiopia,753
+Amhara,ETH,Kalu,Ethiopia,754
+Amhara,ETH,Dessie Zuria,Ethiopia,755
+Amhara,ETH,Kombolcha Town,Ethiopia,756
+Tigray,ETH,Ofla,Ethiopia,757
+Amhara,ETH,Lasta (Ayna),Ethiopia,758
+Oromia,ETH,Sendafa Town,Ethiopia,759
+SNNPR,ETH,Masha,Ethiopia,760
+Tigray,ETH,Endamehoni,Ethiopia,761
+Amhara,ETH,Menz Gera Midir,Ethiopia,762
+Amhara,ETH,Debresina,Ethiopia,763
+Amhara,ETH,East Esite,Ethiopia,764
+Amhara,ETH,Meket,Ethiopia,765
+Oromia,ETH,Fentale,Ethiopia,766
+Oromia,ETH,Metu Zuria,Ethiopia,767
+Amhara,ETH,Habru,Ethiopia,768
+SNNPR,ETH,Debub Bench,Ethiopia,769
+SNNPR,ETH,Semen Bench,Ethiopia,770
+Amhara,ETH,Hulet Ej Enese,Ethiopia,771
+Oromia,ETH,Guto Gida,Ethiopia,772
+Oromia,ETH,Liben,Ethiopia,773
+Oromia,ETH,Nejo,Ethiopia,774
+Amhara,ETH,Shewa Robit Town,Ethiopia,775
+Amhara,ETH,Nefas Mewicha Town,Ethiopia,776
+Oromia,ETH,Sinana,Ethiopia,777
+SNNPR,ETH,Denibu Gofa,Ethiopia,778
+Oromia,ETH,Alem Gena,Ethiopia,779
+Amhara,ETH,Sekota,Ethiopia,780
+Afar,ETH,Dubti,Ethiopia,781
+Oromia,ETH,Bereh,Ethiopia,782
+Oromia,ETH,Horo,Ethiopia,783
+Oromia,ETH,Shashemene Zuria,Ethiopia,784
+Afar,ETH,Simurobi Gele'alo,Ethiopia,785
+Tigray,ETH,Tahtay Adiyabo,Ethiopia,786
+Tigray,ETH,Tahtay Koraro,Ethiopia,787
+Oromia,ETH,Sululta,Ethiopia,788
+SNNPR,ETH,Yeki,Ethiopia,789
+SNNPR,ETH,Sodo Zuria,Ethiopia,790
+SNNPR,ETH,Mareka,Ethiopia,791
+SNNPR,ETH,Kebena,Ethiopia,792
+SNNPR,ETH,Wilbareg,Ethiopia,793
+Amhara,ETH,Kobo,Ethiopia,794
+Amhara,ETH,Woldiya Town,Ethiopia,795
+Amhara,ETH,Guba Lafto,Ethiopia,796
+Oromia,ETH,Waliso,Ethiopia,797
+Oromia,ETH,Yabelo,Ethiopia,798
+SNNPR,ETH,Dale,Ethiopia,799
+SNNPR,ETH,Yirgachefe,Ethiopia,800
+SNNPR,ETH,Wonosho,Ethiopia,801
+Oromia,ETH,Lome,Ethiopia,802
+Amhara,ETH,Debere Markos Town,Ethiopia,803
+Gambela,ETH,Makuey,Ethiopia,804
+Somali,ETH,Serer/Elkere,Ethiopia,805
+Somali,ETH,Warder,Ethiopia,806
+Somali,ETH,Jijiga,Ethiopia,807
+Oromia,ETH,Chinaksen,Ethiopia,808
+Somali,ETH,Birkot,Ethiopia,809
+Somali,ETH,Danot,Ethiopia,810
+Somali,ETH,Shinile,Ethiopia,811
+Somali,ETH,Degehabur,Ethiopia,812
+Somali,ETH,Yocaale,Ethiopia,813

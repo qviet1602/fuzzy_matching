@@ -1,0 +1,134 @@
+countries,iso3,region,gaul_adm2,gadm_adm2,gaul_adm1,gadm_adm1,2017Unit match%,PAHO data,2016MatchingStatus,2017MatchingStatus,2018MatchingStatus,2018 note,unit count 2016,unit count 2017,unit count 2018,# of who adm2 unit,# of who adm1 unit,Name matching,shapefile,Note,2016 status
+Angola,AGO,Africa,104,102,922,922,102,,,ok match,,,166,166,170,162,18,done,gadm,,
+Armenia,ARM,world,28,100,100,100,100,,,total match,total match,,11,11,11,40,11,100%,gadm,,2018
+Azerbaijan,AZE,world,84,80,573,630,80,,,not successfully match,,,63,63,63,NA,71,,,,
+Burundi,BDI,Africa,34,35,271,271,100,,,total match,total match,,46,46,46,38,17,100%,district_sanitaire_burundi_mai2016v3,"in health data folder, same unit match 46/46",2018
+Benin,BEN,Africa,100,101,642,642,100,,,total match,total match,,77,77,77,77,12,100%,gaul,,2018
+Burkina Faso,BFA,Africa,156,156,538,538,156,,,new WHO healthdisrtict ,,,70,70,70,77,13,,same 70 unit,,
+Bangladesh,BGD,world,100,100,914,914,100,,,total match,total match,,64,64,64,80,8,100%,gaul,,2018
+Belize,BLZ,world,100,100,100,100,100,matched,,total match,total match,,6,6,6,6,6,100%,gadm,,2018
+Bolivia,BOL,world,300,357,3767,3767,300,matched,,not successfully match,,,339,339,339,112,9,,,,
+Brazil,BRA,world,101,101,17965,20626,101,matched,,ok match,total match,,5570,5569,5570,5563,27,on hold/delete from matching,gadm or WHO adm2 shpfile,,2018
+Bhutan,BTN,world,10,10,100,100,100,,,total match,total match,,20,20,20,20,20,100%,gadm,,2018
+Botswana,BWA,Africa,240,80,240,150,100,,,total match,ok match,23/24 match,24,24,24,24,21,100%,BotswanaHealthDistrictsLsib2016July,24/24 unit match,2017
+Central African Republic,CAF,Africa,42,59,176,176,59,,,not successfully match,,,30,30,35,59,14,,no good IHME shapefile,,
+Cote d'Ivoire,CIV,Africa,252,Inf,593,593,90.2173913,,,ok match,,,82,83,83,65,20,,CIV_MICS_2006,83/92 unitmatch,
+Cameroon,CMR,Africa,326,326,1890,1890,100,,,total match,total match,,189,189,189,172,10,100%,Cameroon_HealthDistricts12012016,"Cameroon healthdistrict, same unit match",2018
+Democratic Republic of the Congo,COD,Africa,1032,215,4691,1985,100,,,ok match,ok match,,518,516,519,1038,37,specific shapefile: 4 unmatched locations,health_repaired,,
+Congo,COG,Africa,46,Inf,342,342,46,,,not successfully match,,,41,41,43,NA,NA,,no good IHME shapefile,,
+Colombia,COL,world,103,105,3400,3506,103,matched,,ok match,total match,,1122,1086,1122,1108,32,done/<20 unmatched locations,gaul,,2018
+Comoros,COM,Africa,567,567,567,567,567,,,not successfully match,,,17,17,17,3,3,,no good IHME shapefile,,
+Cape Verde,CPV,Africa,100,100,157,100,100,,,total match,total match,,22,22,22,17,9,100%,gadm,,2018
+Costa Rica,CRI,world,100,100,1157,1157,100,matched,,total match,total match,,81,81,NA,81,7,100%,gadm,,2017
+Cuba,CUB,world,74,100,1120,1050,100,matched,,total match,total match,,167,168,168,169,15,100%,gadm,,2018
+Dominican Republic,DOM,world,57,60,291,291,60,matched,,not successfully match,,,157,93,157,153,32,,,,
+Algeria,DZA,Africa,3,3,100,100,100,,,total match,total match,,48,48,48,48,47,100%,gadm,,2018
+Ecuador,ECU,world,100,100,896,933,100,matched,,ok match,total match,,223,230,221,221,22,done,gadm,,
+Eritrea,ERI,Africa,100,116,829,967,100,,,recheck,total match,,58,58,58,58,6,90% match,gaul,,2018
+Ethiopia,ETH,Africa,1139,1081,7764,7764,1081,,,not successfully match,,,834,851,867,79,11,~250 unmatched locations,,,
+Micronesia,FSM,world,Inf,100,Inf,Inf,100,,,total match,total match,,4,4,4,NA,NA,100%,gadm,,2018
+Gabon,GAB,Africa,106,138,567,567,100,,,new shpfile,total match,,51,42,51,51,10,51/51,WHO_adm2 shapefile,,2018
+Georgia,GEO,world,15,17,100,100,100,,different,total match,recheck,try different shpfile,12,12,66,69,12,100%,gadm,,2017
+Ghana,GHA,Africa,100,158,2160,2160,100,,,total match,total match,,216,216,216,353,20,100%,gaul,,2018
+Guinea,GIN,Africa,100,112,475,475,100,,,total match,total match,,38,38,38,34,8,100%,gaul,,2018
+The Gambia,GMB,Africa,19,19,117,117,117,,,not successfully match,,,7,7,7,37,6,,,GMB_2006 has same unit match but names are different,
+Guinea-Bissau,GNB,Africa,28,30,122,122,122,,,not successfully match,,,11,11,11,10,9,,no good IHME shapefile,,
+Equatorial Guinea,GNQ,Africa,257,56,257,257,56,,,total match,total match,,18,18,18,18,7,18/18,WHO_adm2 shapefile,,2018
+Grenada,GRD,world,117,100,117,100,100,matched,,total match,total match,,7,7,7,7,7,100%,gadm,,2018
+Guatemala,GTM,world,100,95,1527,1527,100,matched,,need fix,total match,,336,343,338,331,22,90% match,gaul,,
+Guyana,GUY,world,38,9,100,100,100,matched,,total match,bad match,region4 split,10,10,13,26,10,100%,gadm,,2017
+Honduras,HND,world,102,100,1568,1656,100,matched,,need fix,total match,,298,333,298,298,18,2 unmatched locations,gadm,,2018
+Haiti,HTI,world,333,341,1400,1400,333,matched,,not successfully match,,,140,140,140,41,9,,,,
+Indonesia,IDN,world,116,102,1558,1512,102,,,new shpfile,,,514,515,514,511,35,done,WHO_adm2 shapefile,,
+India,IND,world,122,106,2059,2258,106,,,new shpfile,,,676,734,704,690,38,done/about 30 out of 700 not match,WHO_adm2 shapefile,,
+Jamaica,JAM,world,100,93,100,93,100,matched,,total match,total match,,13,13,13,13,13,100%,gaul,,2018
+Jordan,JOR,world,36,40,175,175,40,,,recheck,ok match,use gadm36_ad1,NA,21,13,21,12,done,WHO_adm2 shapefile,,
+Kenya,KEN,Africa,64,16,588,100,100,,,total match,total match,,47,47,47,359,55,100%,gadm,,2018
+Kyrgyzstan,KGZ,world,23,20,113,100,100,,,total match,total match,,9,9,9,40,7,100%,gadm,,2018
+Cambodia,KHM,world,55,57,392,408,57,,,not successfully match,,,NA,102,100,178,24,,,,
+Kiribati,KIR,world,600,600,600,600,600,,,not successfully match,,,NA,6,6,24,24,,,,
+Liberia,LBR,Africa,11,23,100,100,100,,,total match,total match,,15,15,15,15,15,100%,gadm,,2018
+Sri Lanka,LKA,world,104,8,289,104,104,,,recheck,total match,,26,20,26,26,8,done,WHO_adm2 shapefile,,2018
+Lesotho,LSO,Africa,4,100,100,100,100,,,total match,total match,,10,10,10,10,10,100%,gadm,,2018
+Moldova,MDA,world,Inf,119,Inf,119,119,,,not successfully match,,,44,44,44,NA,37,,,,
+Madagascar,MDG,Africa,96,518,518,1900,96,,,ok match,,,113,135,114,205,28,done/ 1 unmatched location,gaul,,
+Maldives,MDV,world,105,2100,105,2100,105,,,ok match,,,21,36,21,NA,NA,gaul adm1/ name does not match,gaul,,
+Mexico,MEX,world,130,133,7681,7681,130,matched,,new shpfile,total match,,2457,2458,2463,2454,32,,WHO_adm2 shapefile,,2017
+Marshall Islands,MHL,world,300,300,300,300,300,,,not successfully match,,,NA,3,3,33,33,,,,
+Mali,MLI,Africa,150,150,833,833,150,,,not successfully match,,,65,75,75,59,9,,no good IHME shapefile,,
+Myanmar,MMR,world,516,524,1941,2200,516,,,new shpfile,,,330,330,330,325,17,,WHO_adm2 shapefile,,
+Mongolia,MNG,world,7,7,100,100,100,,,total match,total match,,NA,22,NA,18,18,100%,gadm,,
+Mozambique,MOZ,Africa,111,125,1464,1464,108.0536913,,,ok match,,,159,161,161,265,21,,specific shapefile,,
+Mauritania,MRT,Africa,125,125,423,423,125,,,not successfully match,,,55,55,55,53,13,,no good IHME shapefile,,
+Malawi,MWI,Africa,97,11,700,100,100,,,total match,total match,,28,28,28,25,4,100%,gadm,,2018
+Namibia,NAM,Africa,32,32,262,262,89.47368421,,,ok match,ok match,,34,34,34,35,13,,NamibiaHealthDistrictsLsib2016Dec,34/38 unit match,
+Niger,NER,Africa,189,200,900,900,189,,,not successfully match,,,44,72,72,115,16,,no good IHME shapefile,,
+Nigeria,NGA,Africa,100,100,2092,2092,100,,,total match,total match,,NA,774,774,774,37,done,gadm adm2,,
+Nicaragua,NIC,world,97,110,900,850,97,matched,,new shpfile,total match,,153,104,153,152,17,done/ <10 unmatched locations,WHO_adm2 shapefile,,2018
+Nepal,NPL,world,550,550,1540,1540,550,,,new shpfile,,,75,77,77,75,5,,WHO_adm2 shapefile,  Samoa,
+Panama,PAN,world,101,99,650,600,99,matched,,ok match,total match,,78,30,78,75,12,done,gadm,,2018
+Peru,PER,world,961,961,7492,7204,961,matched,,not successfully match,,,1852,1873,1874,194,25,,,  Kiribati,
+Philippines,PHL,world,246,12,1188,249,12,,,not successfully match,,,NA,202,NA,80,16,,,  St Vincent & Grenadines,
+Papua New Guinea,PNG,world, ,100,435,395,100,,,total match,ok match,"name a bit different, different number of admin unit",NA,87,89,190,42,,gadm,,
+North Korea,PRK,world,Inf,113,Inf,1500,113,,,not successfully match,,,210,210,210,180,12,,,  Micronesia,
+Paraguay,PRY,world,114,114,1465,1383,114,matched,,not successfully match,,,249,249,252,217,18,,,  Tonga,
+Rwanda,RWA,Africa,100,100,600,600,100,,,total match,total match,,30,30,30,30,5,100%,gadm,,2018
+Senegal,SEN,Africa,177,169,543,543,169,,,not successfully match,,,76,76,76,56,10,,no good IHME shapefile,,
+Sierra Leone,SLE,Africa,100,100,350,350,100,,,total match,total match,,14,14,14,14,4,100%,gadm,,2018
+Somalia,SOM,Africa,155,155,639,639,155,,,new shpfile,,,107,115,115,115,19,,WHO_adm2 shapefile,  American Samoa ,
+South Sudan,SSD,Africa,174,178,800,800,174,,,ok match,,,80,80,80,78,10,78/80,WHO_adm2 shapefile,,
+Sao Tome and Principe,STP,Africa,350,100,350,350,100,,,total match,total match,,7,7,7,7,2,1 unmatched location,gadm,,2018
+Suriname,SUR,world,16,16,100,100,100,matched,,total match,total match,,100,10,10,62,10,100%,gadm,,
+Swaziland,SWZ,Africa,8,7,100,100,100,,,total match,total match,,4,4,NA,4,4,100%,gadm,,2017
+Seychelles,SYC,Africa,27,62,27,62,62,,,not successfully match,,,15,16,16,NA,NA,,no good IHME shapefile,,
+Chad,TCD,Africa,33,211,414,504,33,,,not successfully match,,,99,116,117,255,64,,no good IHME shapefile,,
+Togo,TGO,Africa,133,190,800,800,133,,,not successfully match,,,40,40,41,35,6,,no good IHME shapefile,,
+Thailand,THA,world,9,8,100,99,100,,,total match,total match,,76,76,76,656,74,100%,gaul,,2018
+Tajikistan,TJK,world,11,10,150,120,120,,,not successfully match,,,6,6,66,58,4,,,,
+Turkmenistan,TKM,world,100,100,100,100,100,,,total match,total match,,6,5,6,60,6,100%,gadm,,2018
+Timor-Leste,TLS,world,20,21,100,100,100,,,total match,total match,,13,13,13,13,13,100%,gadm,,2018
+Tanzania,TZA,Africa,107,106,647,647,106,,,ok match,,,179,352,195,236,39,not yet/name not match because of tc dc cc,gadm,,
+Uganda,UGA,Africa,68,70,104,200,104,,,ok match,,,112,116,122,50,43,done,gaul adm1,,
+Ukraine,UKR,world,108,4,108,100,100,,,total match,total match,,27,27,27,628,27,done/100%,gadm adm1,,2018
+Uzbekistan,UZB,world,7,9,100,100,100,,different,total match,ok match,translation ,14,14,15,160,14,100%,gadm,,2017
+Venezuela,VEN,world,106,99,1340,1340,99,matched,,new shpfile,total match,,335,668,335,335,24,done,WHO_adm2 shapefile,,2018
+Yemen,YEM,world,100,100,1586,1586,100,,,total match,total match,,23,333,333,357,24,100%,gadm,,
+South Africa,ZAF,Africa,100,100,578,578,100,,,ok match,ok match,name change,52,45,52,53,9,4 unmatched locations,gadm,,
+Zambia,ZMB,Africa,151,151,1211,1090,105.8252427,,,ok match,,,103,109,110,74,9,,ZambiaDistrictLsib2017Jan,109/103 unit match,
+Zimbabwe,ZWE,Africa,102,105,630,630,102,,,ok match,,,63,55,63,74,11,done/ 2 unmatched locations,gaul,,
+Afghanistan,AFG,world,NA,NA,NA,NA,NA,,,no data,,,356,NA,410,,,,,,
+American Samoa,ASM,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Bahrain,BHR,world,NA,NA,NA,NA,NA,,,no data,,,4,NA,4,,,,,,
+China,CHN,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Djibouti,DJI,Africa,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Dominica,DMA,world,NA,NA,NA,NA,NA,matched,,no data,,,7,NA,7,,,,,,
+Egypt,EGY,Africa,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Fiji,FJI,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Iran,IRN,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Iraq,IRQ,world,NA,NA,NA,NA,NA,,,no data,,,NA,NA,144,,,,,,
+Laos,LAO,world,NA,NA,NA,NA,NA,,,no data,,,149,NA,18,,,,,,
+Saint Lucia,LCA,world,NA,NA,NA,NA,NA,matched,,no data,,,8,NA,8,,,,,,
+Morocco,MAR,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Malaysia,MYS,world,NA,NA,NA,NA,NA,,,no data,,,NA,NA,144,,,,,,
+French Guiana,GUF,world,NA,NA,NA,NA,NA,matched,,no data,,,#N/A,#N/A,#N/A,,,,,,
+West Bank and Gaza,,world,NA,NA,NA,NA,NA,,,no data,,,NA,NA,16,,,,,,
+Oman,OMN,world,NA,NA,NA,NA,NA,,,no data,,,61,NA,61,,,,,,
+Pakistan,PAK,world,NA,NA,NA,NA,NA,,,no data,,,151,NA,NA,,,,,,
+Palestine,PSE,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Sudan,SDN,Africa,NA,NA,NA,NA,NA,,,no data,,,189,NA,18,,,,,,
+Solomon Islands,SLB,world,NA,NA,NA,NA,NA,,,no data,,,NA,NA,10,,,,,,
+El Salvador,SLV,world,NA,NA,NA,NA,NA,matched,,no data,,,263,NA,NA,,,,,,
+Syria,SYR,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,104,,,,,,
+Tonga,TON,world,NA,NA,NA,NA,NA,,,no data,,,NA,NA,5,,,,,,
+Tunisia,TUN,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Uruguay,URY,world,NA,NA,NA,NA,NA,matched,,no data,,,19,NA,20,,,,,,
+Saint Vincent and the Grenadines,VCT,world,NA,NA,NA,NA,NA,matched,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Vietnam,VNM,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+Vanuatu,VUT,world,NA,NA,NA,NA,NA,,,no data,,,NA,NA,6,,,,,,
+Samoa,WSM,world,NA,NA,NA,NA,NA,,,no data,,,#N/A,#N/A,#N/A,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+total match,,,100%,,,,,,,,,,,,,,,,,,
+ok match,,,>90%,,,,,,,,,,,,,,,,,,
+not successfully match,,,<90%,,,,,,,,,,,,,,,,,,
+no data,,,no JRF data for grant countries,,,,,,,,,,,,,,,,,,

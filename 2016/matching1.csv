@@ -1,0 +1,790 @@
+,ADM1_NAME,ADM2_NAME,iso3.x,vaccine,ADM0_NAME.x,who_coverage,GAUL_CODE,merge_status,ADM1_NAME.x,ADM2_NAME.who,ADM1_NAME.y,ADM2_NAME.shpfile
+1,chobe,chobe,BWA,DTP3,Botswana,104.7449901,4720,success,NA,chobe,NA,NA
+2,francistown,francistown,BWA,DTP3,Botswana,115.6849791,4721,success,NA,francistown,NA,NA
+3,gaborone,gaborone,BWA,DTP3,Botswana,80.17833862,4722,success,NA,gaborone,NA,NA
+4,jwaneng,jwaneng,BWA,DTP3,Botswana,142.0061201,4724,success,NA,jwaneng,NA,NA
+5,kgatleng,kgatleng,BWA,DTP3,Botswana,97.84214457,4728,success,NA,kgatleng,NA,NA
+6,lobatse,lobatse,BWA,DTP3,Botswana,142.0214849,4731,success,NA,lobatse,NA,NA
+7,selibephikwe,selibephikwe,BWA,DTP3,Botswana,112.9552776,4735,success,NA,selibephikwe,NA,NA
+8,southeast,southeast,BWA,DTP3,Botswana,46.0289434,4736,success,NA,southeast,NA,NA
+9,NA,NA,BWA,DTP3,Botswana,107.5637247,NA,fuzzy success,hukuntsi,hukuntsi,kgalagadi,hukunsti
+10,NA,NA,BWA,DTP3,Botswana,112.8748713,NA,fuzzy success,mahalapye,mahalapye,central,mahalapye
+11,NA,NA,BWA,DTP3,Botswana,100.6508825,NA,fuzzy success,tutume,tutume,central,tutume
+12,bobirwa,bobirwa,BWA,DTP3,Botswana,104.0499923,NA,in WHO but not shpfile,NA,bobirwa,NA,NA
+13,boteti,boteti,BWA,DTP3,Botswana,123.2165296,NA,in WHO but not shpfile,NA,boteti,NA,NA
+14,gantsi,gantsi,BWA,DTP3,Botswana,80.08258365,NA,in WHO but not shpfile,NA,gantsi,NA,NA
+15,goodhope,goodhope,BWA,DTP3,Botswana,67.86490806,NA,in WHO but not shpfile,NA,goodhope,NA,NA
+16,kanyemoshupa,kanyemoshupa,BWA,DTP3,Botswana,74.23785987,NA,in WHO but not shpfile,NA,kanyemoshupa,NA,NA
+17,kgalagadisouth,kgalagadisouth,BWA,DTP3,Botswana,86.97220129,NA,in WHO but not shpfile,NA,kgalagadisouth,NA,NA
+18,kwenengeast,kwenengeast,BWA,DTP3,Botswana,44.4604858,NA,in WHO but not shpfile,NA,kwenengeast,NA,NA
+19,kwenengwest,kwenengwest,BWA,DTP3,Botswana,102.2254236,NA,in WHO but not shpfile,NA,kwenengwest,NA,NA
+20,mabutsane,mabutsane,BWA,DTP3,Botswana,82.09977522,NA,in WHO but not shpfile,NA,mabutsane,NA,NA
+21,ngami,ngami,BWA,DTP3,Botswana,115.1028739,NA,in WHO but not shpfile,NA,ngami,NA,NA
+22,northeast,northeast,BWA,DTP3,Botswana,71.50257582,NA,in WHO but not shpfile,NA,northeast,NA,NA
+23,okavango,okavango,BWA,DTP3,Botswana,116.4088368,NA,in WHO but not shpfile,NA,okavango,NA,NA
+24,serowepalapye,serowepalapye,BWA,DTP3,Botswana,101.3430445,NA,in WHO but not shpfile,NA,serowepalapye,NA,NA
+25,central,bobonong,NA,DTP3,Botswana,NA,4712,in shpfile but not WHO,NA,NA,NA,bobonong
+26,central,lethlakane,NA,DTP3,Botswana,NA,4713,in shpfile but not WHO,NA,NA,NA,lethlakane
+27,central,machaneng,NA,DTP3,Botswana,NA,4714,in shpfile but not WHO,NA,NA,NA,machaneng
+28,central,mahalapye,NA,DTP3,Botswana,NA,4715,in shpfile but not WHO,NA,NA,NA,mahalapye
+29,central,palapye,NA,DTP3,Botswana,NA,4716,in shpfile but not WHO,NA,NA,NA,palapye
+30,central,serowe,NA,DTP3,Botswana,NA,4717,in shpfile but not WHO,NA,NA,NA,serowe
+31,central,tuli,NA,DTP3,Botswana,NA,4718,in shpfile but not WHO,NA,NA,NA,tuli
+32,central,tutume,NA,DTP3,Botswana,NA,4719,in shpfile but not WHO,NA,NA,NA,tutume
+33,ghanzi,ghanzi,NA,DTP3,Botswana,NA,4723,in shpfile but not WHO,NA,NA,NA,ghanzi
+34,kgalagadi,gemsbok,NA,DTP3,Botswana,NA,4725,in shpfile but not WHO,NA,NA,NA,gemsbok
+35,kgalagadi,hukunsti,NA,DTP3,Botswana,NA,4726,in shpfile but not WHO,NA,NA,NA,hukunsti
+36,kgalagadi,tshabong,NA,DTP3,Botswana,NA,4727,in shpfile but not WHO,NA,NA,NA,tshabong
+37,kweneng,kwenengnorth,NA,DTP3,Botswana,NA,4729,in shpfile but not WHO,NA,NA,NA,kwenengnorth
+38,kweneng,kwenengsouth,NA,DTP3,Botswana,NA,4730,in shpfile but not WHO,NA,NA,NA,kwenengsouth
+39,northeast,masungu,NA,DTP3,Botswana,NA,4732,in shpfile but not WHO,NA,NA,NA,masungu
+40,northwest,ngamilandeast,NA,DTP3,Botswana,NA,4733,in shpfile but not WHO,NA,NA,NA,ngamilandeast
+41,northwest,ngamilandwest,NA,DTP3,Botswana,NA,4734,in shpfile but not WHO,NA,NA,NA,ngamilandwest
+42,southern,barolong,NA,DTP3,Botswana,NA,4737,in shpfile but not WHO,NA,NA,NA,barolong
+43,southern,ngwaketsecentral,NA,DTP3,Botswana,NA,4738,in shpfile but not WHO,NA,NA,NA,ngwaketsecentral
+44,southern,ngwaketsenorth,NA,DTP3,Botswana,NA,4739,in shpfile but not WHO,NA,NA,NA,ngwaketsenorth
+45,southern,ngwaketsesouth,NA,DTP3,Botswana,NA,4740,in shpfile but not WHO,NA,NA,NA,ngwaketsesouth
+46,sowa,sowa,NA,DTP3,Botswana,NA,4741,in shpfile but not WHO,NA,NA,NA,sowa
+47,bubanza,bubanza,BDI,DTP3,Burundi,108.6374817,10586,success,NA,bubanza,NA,NA
+48,bubanza,mpanda,BDI,DTP3,Burundi,132.1077736,10588,success,NA,mpanda,NA,NA
+49,bujumburarural,isale,BDI,DTP3,Burundi,107.3581467,10606,success,NA,isale,NA,NA
+50,bujumburarural,kabezi,BDI,DTP3,Burundi,87.0470046,10607,success,NA,kabezi,NA,NA
+51,bururi,bururi,BDI,DTP3,Burundi,86.12800457,10618,success,NA,bururi,NA,NA
+52,bururi,matana,BDI,DTP3,Burundi,68.15303921,10621,success,NA,matana,NA,NA
+53,cankuzo,cankuzo,BDI,DTP3,Burundi,103.035641,10627,success,NA,cankuzo,NA,NA
+54,cibitoke,mabayi,BDI,DTP3,Burundi,116.0240387,10634,success,NA,mabayi,NA,NA
+55,gitega,gitega,BDI,DTP3,Burundi,108.9171679,10643,success,NA,gitega,NA,NA
+56,gitega,mutaho,BDI,DTP3,Burundi,98.20523247,10646,success,NA,mutaho,NA,NA
+57,gitega,ryansoro,BDI,DTP3,Burundi,93.18909078,10648,success,NA,ryansoro,NA,NA
+58,kayanza,gahombo,BDI,DTP3,Burundi,86.51434118,10657,success,NA,gahombo,NA,NA
+59,kayanza,kayanza,BDI,DTP3,Burundi,100.1926331,10660,success,NA,kayanza,NA,NA
+60,kirundo,busoni,BDI,DTP3,Burundi,100.2635107,10666,success,NA,busoni,NA,NA
+61,kirundo,kirundo,BDI,DTP3,Burundi,105.3641056,10669,success,NA,kirundo,NA,NA
+62,kirundo,vumbi,BDI,DTP3,Burundi,105.8973488,10671,success,NA,vumbi,NA,NA
+63,makamba,makamba,BDI,DTP3,Burundi,99.77631794,10676,success,NA,makamba,NA,NA
+64,makamba,nyanzalac,BDI,DTP3,Burundi,104.8318522,10677,success,NA,nyanzalac,NA,NA
+65,muyinga,gashoho,BDI,DTP3,Burundi,126.6156018,10686,success,NA,gashoho,NA,NA
+66,muyinga,giteranyi,BDI,DTP3,Burundi,92.40001539,10688,success,NA,giteranyi,NA,NA
+67,muyinga,muyinga,BDI,DTP3,Burundi,119.5315703,10689,success,NA,muyinga,NA,NA
+68,ngozi,kiremba,BDI,DTP3,Burundi,97.37927791,10699,success,NA,kiremba,NA,NA
+69,ngozi,ngozi,BDI,DTP3,Burundi,95.45058535,10702,success,NA,ngozi,NA,NA
+70,rutana,rutana,BDI,DTP3,Burundi,97.24690282,10711,success,NA,rutana,NA,NA
+71,ruyigi,butezi,BDI,DTP3,Burundi,102.3641824,10713,success,NA,butezi,NA,NA
+72,ruyigi,kinyinya,BDI,DTP3,Burundi,111.8506338,10716,success,NA,kinyinya,NA,NA
+73,ruyigi,ruyigi,BDI,DTP3,Burundi,112.0505391,10718,success,NA,ruyigi,NA,NA
+74,NA,NA,BDI,DTP3,Burundi,108.5213757,NA,fuzzy need fix,karusi,buhiga,karuzi,buhiga
+75,NA,NA,BDI,DTP3,Burundi,108.5213757,NA,fuzzy need fix,karusi,buhiga,ngozi,busiga
+76,NA,NA,BDI,DTP3,Burundi,84.45801642,NA,fuzzy need fix,muramya,kiganda,cankuzo,kigamba
+77,NA,NA,BDI,DTP3,Burundi,84.45801642,NA,fuzzy need fix,muramya,kiganda,cibitoke,buganda
+78,NA,NA,BDI,DTP3,Burundi,84.45801642,NA,fuzzy need fix,muramya,kiganda,muramvya,kiganda
+79,NA,NA,BDI,DTP3,Burundi,84.35458825,NA,fuzzy need fix,ngozi,buye,muramvya,bukeye
+80,NA,NA,BDI,DTP3,Burundi,84.35458825,NA,fuzzy need fix,ngozi,buye,muramvya,mbuye
+81,NA,NA,BDI,DTP3,Burundi,111.2040026,NA,fuzzy success,cibitoke,cibitoke,bujumburamairie,cibitoke
+82,NA,NA,BDI,DTP3,Burundi,105.3751275,NA,fuzzy success,gitega,kibuye,muramvya,mbuye
+83,NA,NA,BDI,DTP3,Burundi,103.3307389,NA,fuzzy success,karusi,nyabikere,karuzi,nyabikere
+84,NA,NA,BDI,DTP3,Burundi,84.99529694,NA,fuzzy success,kayanza,musema,bujumburamairie,musaga
+85,NA,NA,BDI,DTP3,Burundi,102.8654289,NA,fuzzy success,kirundo,mukenke,bujumburarural,mukike
+86,NA,NA,BDI,DTP3,Burundi,93.06794051,NA,fuzzy success,muramya,muramvya,muramvya,muramvya
+87,NA,NA,BDI,DTP3,Burundi,95.28556571,NA,fuzzy success,rumonge,bugarama,bujumburarural,bugarama
+88,NA,NA,BDI,DTP3,Burundi,107.8618802,NA,fuzzy success,rumonge,rumonge,bururi,rumonge
+89,NA,NA,BDI,DTP3,Burundi,129.787148,NA,fuzzy success,rutana,gihofi,mwaro,gisozi
+90,bujumburamairie,zonecentre,BDI,DTP3,Burundi,80.93616405,NA,in WHO but not shpfile,NA,zonecentre,NA,NA
+91,bujumburamairie,zonenord,BDI,DTP3,Burundi,111.900083,NA,in WHO but not shpfile,NA,zonenord,NA,NA
+92,bujumburamairie,zonesud,BDI,DTP3,Burundi,95.25550916,NA,in WHO but not shpfile,NA,zonesud,NA,NA
+93,bujumburarural,rwibaga,BDI,DTP3,Burundi,63.2777438,NA,in WHO but not shpfile,NA,rwibaga,NA,NA
+94,cankuzo,murore,BDI,DTP3,Burundi,123.8137458,NA,in WHO but not shpfile,NA,murore,NA,NA
+95,mwaro,fota,BDI,DTP3,Burundi,69.1761548,NA,in WHO but not shpfile,NA,fota,NA,NA
+96,mwaro,kibumbu,BDI,DTP3,Burundi,79.936748,NA,in WHO but not shpfile,NA,kibumbu,NA,NA
+97,bubanza,gihanga,NA,DTP3,Burundi,NA,10587,in shpfile but not WHO,NA,NA,NA,gihanga
+98,bubanza,musigati,NA,DTP3,Burundi,NA,10589,in shpfile but not WHO,NA,NA,NA,musigati
+99,bubanza,rugazi,NA,DTP3,Burundi,NA,10590,in shpfile but not WHO,NA,NA,NA,rugazi
+100,bujumburamairie,buterere,NA,DTP3,Burundi,NA,10591,in shpfile but not WHO,NA,NA,NA,buterere
+101,bujumburamairie,buyenze,NA,DTP3,Burundi,NA,10592,in shpfile but not WHO,NA,NA,NA,buyenze
+102,bujumburamairie,bwiza,NA,DTP3,Burundi,NA,10593,in shpfile but not WHO,NA,NA,NA,bwiza
+103,bujumburamairie,cibitoke,NA,DTP3,Burundi,NA,10594,in shpfile but not WHO,NA,NA,NA,cibitoke
+104,bujumburamairie,gihosha,NA,DTP3,Burundi,NA,10595,in shpfile but not WHO,NA,NA,NA,gihosha
+105,bujumburamairie,kamenge,NA,DTP3,Burundi,NA,10596,in shpfile but not WHO,NA,NA,NA,kamenge
+106,bujumburamairie,kanyosha2,NA,DTP3,Burundi,NA,10597,in shpfile but not WHO,NA,NA,NA,kanyosha2
+107,bujumburamairie,kinama,NA,DTP3,Burundi,NA,10598,in shpfile but not WHO,NA,NA,NA,kinama
+108,bujumburamairie,kinindo,NA,DTP3,Burundi,NA,10599,in shpfile but not WHO,NA,NA,NA,kinindo
+109,bujumburamairie,laketanganyika,NA,DTP3,Burundi,NA,10600,in shpfile but not WHO,NA,NA,NA,laketanganyika
+110,bujumburamairie,musaga,NA,DTP3,Burundi,NA,10601,in shpfile but not WHO,NA,NA,NA,musaga
+111,bujumburamairie,ngagara,NA,DTP3,Burundi,NA,10602,in shpfile but not WHO,NA,NA,NA,ngagara
+112,bujumburamairie,nyakabiga,NA,DTP3,Burundi,NA,10603,in shpfile but not WHO,NA,NA,NA,nyakabiga
+113,bujumburamairie,roherero,NA,DTP3,Burundi,NA,10604,in shpfile but not WHO,NA,NA,NA,roherero
+114,bujumburarural,bugarama,NA,DTP3,Burundi,NA,10605,in shpfile but not WHO,NA,NA,NA,bugarama
+115,bujumburarural,kanyosha1,NA,DTP3,Burundi,NA,10608,in shpfile but not WHO,NA,NA,NA,kanyosha1
+116,bujumburarural,laketanganyika,NA,DTP3,Burundi,NA,10609,in shpfile but not WHO,NA,NA,NA,laketanganyika
+117,bujumburarural,mubimbi,NA,DTP3,Burundi,NA,10610,in shpfile but not WHO,NA,NA,NA,mubimbi
+118,bujumburarural,mugongomanga,NA,DTP3,Burundi,NA,10611,in shpfile but not WHO,NA,NA,NA,mugongomanga
+119,bujumburarural,muhuta,NA,DTP3,Burundi,NA,10612,in shpfile but not WHO,NA,NA,NA,muhuta
+120,bujumburarural,mukike,NA,DTP3,Burundi,NA,10613,in shpfile but not WHO,NA,NA,NA,mukike
+121,bujumburarural,mutambu,NA,DTP3,Burundi,NA,10614,in shpfile but not WHO,NA,NA,NA,mutambu
+122,bujumburarural,mutimbuzi,NA,DTP3,Burundi,NA,10615,in shpfile but not WHO,NA,NA,NA,mutimbuzi
+123,bujumburarural,nyabiraba,NA,DTP3,Burundi,NA,10616,in shpfile but not WHO,NA,NA,NA,nyabiraba
+124,bururi,burambi,NA,DTP3,Burundi,NA,10617,in shpfile but not WHO,NA,NA,NA,burambi
+125,bururi,buyengero,NA,DTP3,Burundi,NA,10619,in shpfile but not WHO,NA,NA,NA,buyengero
+126,bururi,laketanganyika,NA,DTP3,Burundi,NA,10620,in shpfile but not WHO,NA,NA,NA,laketanganyika
+127,bururi,mugamba,NA,DTP3,Burundi,NA,10622,in shpfile but not WHO,NA,NA,NA,mugamba
+128,bururi,rumonge,NA,DTP3,Burundi,NA,10623,in shpfile but not WHO,NA,NA,NA,rumonge
+129,bururi,rutovu,NA,DTP3,Burundi,NA,10624,in shpfile but not WHO,NA,NA,NA,rutovu
+130,bururi,songa,NA,DTP3,Burundi,NA,10625,in shpfile but not WHO,NA,NA,NA,songa
+131,bururi,vyanda,NA,DTP3,Burundi,NA,10626,in shpfile but not WHO,NA,NA,NA,vyanda
+132,cankuzo,cendajuru,NA,DTP3,Burundi,NA,10628,in shpfile but not WHO,NA,NA,NA,cendajuru
+133,cankuzo,gisagara,NA,DTP3,Burundi,NA,10629,in shpfile but not WHO,NA,NA,NA,gisagara
+134,cankuzo,kigamba,NA,DTP3,Burundi,NA,10630,in shpfile but not WHO,NA,NA,NA,kigamba
+135,cankuzo,mishiha,NA,DTP3,Burundi,NA,10631,in shpfile but not WHO,NA,NA,NA,mishiha
+136,cibitoke,buganda,NA,DTP3,Burundi,NA,10632,in shpfile but not WHO,NA,NA,NA,buganda
+137,cibitoke,bukinanyana,NA,DTP3,Burundi,NA,10633,in shpfile but not WHO,NA,NA,NA,bukinanyana
+138,cibitoke,mugina,NA,DTP3,Burundi,NA,10635,in shpfile but not WHO,NA,NA,NA,mugina
+139,cibitoke,murwi,NA,DTP3,Burundi,NA,10636,in shpfile but not WHO,NA,NA,NA,murwi
+140,cibitoke,rugombo,NA,DTP3,Burundi,NA,10637,in shpfile but not WHO,NA,NA,NA,rugombo
+141,gitega,bugendana,NA,DTP3,Burundi,NA,10638,in shpfile but not WHO,NA,NA,NA,bugendana
+142,gitega,bukirasazi,NA,DTP3,Burundi,NA,10639,in shpfile but not WHO,NA,NA,NA,bukirasazi
+143,gitega,buraza,NA,DTP3,Burundi,NA,10640,in shpfile but not WHO,NA,NA,NA,buraza
+144,gitega,giheta,NA,DTP3,Burundi,NA,10641,in shpfile but not WHO,NA,NA,NA,giheta
+145,gitega,gishubi,NA,DTP3,Burundi,NA,10642,in shpfile but not WHO,NA,NA,NA,gishubi
+146,gitega,itaba,NA,DTP3,Burundi,NA,10644,in shpfile but not WHO,NA,NA,NA,itaba
+147,gitega,makebuko,NA,DTP3,Burundi,NA,10645,in shpfile but not WHO,NA,NA,NA,makebuko
+148,gitega,nyanrusange,NA,DTP3,Burundi,NA,10647,in shpfile but not WHO,NA,NA,NA,nyanrusange
+149,karuzi,bugenyuzi,NA,DTP3,Burundi,NA,10649,in shpfile but not WHO,NA,NA,NA,bugenyuzi
+150,karuzi,buhiga,NA,DTP3,Burundi,NA,10650,in shpfile but not WHO,NA,NA,NA,buhiga
+151,karuzi,gihogazi,NA,DTP3,Burundi,NA,10651,in shpfile but not WHO,NA,NA,NA,gihogazi
+152,karuzi,gitaramuka,NA,DTP3,Burundi,NA,10652,in shpfile but not WHO,NA,NA,NA,gitaramuka
+153,karuzi,mutumba,NA,DTP3,Burundi,NA,10653,in shpfile but not WHO,NA,NA,NA,mutumba
+154,karuzi,nyabikere,NA,DTP3,Burundi,NA,10654,in shpfile but not WHO,NA,NA,NA,nyabikere
+155,karuzi,shombo,NA,DTP3,Burundi,NA,10655,in shpfile but not WHO,NA,NA,NA,shombo
+156,kayanza,butaganzwa1,NA,DTP3,Burundi,NA,10656,in shpfile but not WHO,NA,NA,NA,butaganzwa1
+157,kayanza,gatara,NA,DTP3,Burundi,NA,10658,in shpfile but not WHO,NA,NA,NA,gatara
+158,kayanza,kabarore,NA,DTP3,Burundi,NA,10659,in shpfile but not WHO,NA,NA,NA,kabarore
+159,kayanza,matongo,NA,DTP3,Burundi,NA,10661,in shpfile but not WHO,NA,NA,NA,matongo
+160,kayanza,muhanga,NA,DTP3,Burundi,NA,10662,in shpfile but not WHO,NA,NA,NA,muhanga
+161,kayanza,muruta,NA,DTP3,Burundi,NA,10663,in shpfile but not WHO,NA,NA,NA,muruta
+162,kayanza,rango,NA,DTP3,Burundi,NA,10664,in shpfile but not WHO,NA,NA,NA,rango
+163,kirundo,bugabira,NA,DTP3,Burundi,NA,10665,in shpfile but not WHO,NA,NA,NA,bugabira
+164,kirundo,bwambarangwe,NA,DTP3,Burundi,NA,10667,in shpfile but not WHO,NA,NA,NA,bwambarangwe
+165,kirundo,gitobe,NA,DTP3,Burundi,NA,10668,in shpfile but not WHO,NA,NA,NA,gitobe
+166,kirundo,ntega,NA,DTP3,Burundi,NA,10670,in shpfile but not WHO,NA,NA,NA,ntega
+167,makamba,kayogoro,NA,DTP3,Burundi,NA,10672,in shpfile but not WHO,NA,NA,NA,kayogoro
+168,makamba,kibago,NA,DTP3,Burundi,NA,10673,in shpfile but not WHO,NA,NA,NA,kibago
+169,makamba,laketanganyika,NA,DTP3,Burundi,NA,10674,in shpfile but not WHO,NA,NA,NA,laketanganyika
+170,makamba,mabanda,NA,DTP3,Burundi,NA,10675,in shpfile but not WHO,NA,NA,NA,mabanda
+171,makamba,vugizo,NA,DTP3,Burundi,NA,10678,in shpfile but not WHO,NA,NA,NA,vugizo
+172,muramvya,bukeye,NA,DTP3,Burundi,NA,10679,in shpfile but not WHO,NA,NA,NA,bukeye
+173,muramvya,kiganda,NA,DTP3,Burundi,NA,10680,in shpfile but not WHO,NA,NA,NA,kiganda
+174,muramvya,mbuye,NA,DTP3,Burundi,NA,10681,in shpfile but not WHO,NA,NA,NA,mbuye
+175,muramvya,muramvya,NA,DTP3,Burundi,NA,10682,in shpfile but not WHO,NA,NA,NA,muramvya
+176,muramvya,rutegama,NA,DTP3,Burundi,NA,10683,in shpfile but not WHO,NA,NA,NA,rutegama
+177,muyinga,buhinyuza,NA,DTP3,Burundi,NA,10684,in shpfile but not WHO,NA,NA,NA,buhinyuza
+178,muyinga,butihinda,NA,DTP3,Burundi,NA,10685,in shpfile but not WHO,NA,NA,NA,butihinda
+179,muyinga,gasorwe,NA,DTP3,Burundi,NA,10687,in shpfile but not WHO,NA,NA,NA,gasorwe
+180,muyinga,mwakiro,NA,DTP3,Burundi,NA,10690,in shpfile but not WHO,NA,NA,NA,mwakiro
+181,mwaro,bisoro,NA,DTP3,Burundi,NA,10691,in shpfile but not WHO,NA,NA,NA,bisoro
+182,mwaro,gisozi,NA,DTP3,Burundi,NA,10692,in shpfile but not WHO,NA,NA,NA,gisozi
+183,mwaro,kayokwe,NA,DTP3,Burundi,NA,10693,in shpfile but not WHO,NA,NA,NA,kayokwe
+184,mwaro,ndava,NA,DTP3,Burundi,NA,10694,in shpfile but not WHO,NA,NA,NA,ndava
+185,mwaro,nyabihanga,NA,DTP3,Burundi,NA,10695,in shpfile but not WHO,NA,NA,NA,nyabihanga
+186,mwaro,rusaka,NA,DTP3,Burundi,NA,10696,in shpfile but not WHO,NA,NA,NA,rusaka
+187,ngozi,busiga,NA,DTP3,Burundi,NA,10697,in shpfile but not WHO,NA,NA,NA,busiga
+188,ngozi,gashikanwa,NA,DTP3,Burundi,NA,10698,in shpfile but not WHO,NA,NA,NA,gashikanwa
+189,ngozi,marangara,NA,DTP3,Burundi,NA,10700,in shpfile but not WHO,NA,NA,NA,marangara
+190,ngozi,mwumba,NA,DTP3,Burundi,NA,10701,in shpfile but not WHO,NA,NA,NA,mwumba
+191,ngozi,nyamurenza,NA,DTP3,Burundi,NA,10703,in shpfile but not WHO,NA,NA,NA,nyamurenza
+192,ngozi,ruhororo,NA,DTP3,Burundi,NA,10704,in shpfile but not WHO,NA,NA,NA,ruhororo
+193,ngozi,tangara,NA,DTP3,Burundi,NA,10705,in shpfile but not WHO,NA,NA,NA,tangara
+194,rutana,bukemba,NA,DTP3,Burundi,NA,10706,in shpfile but not WHO,NA,NA,NA,bukemba
+195,rutana,giharo,NA,DTP3,Burundi,NA,10707,in shpfile but not WHO,NA,NA,NA,giharo
+196,rutana,gitanga,NA,DTP3,Burundi,NA,10708,in shpfile but not WHO,NA,NA,NA,gitanga
+197,rutana,mpingakayove,NA,DTP3,Burundi,NA,10709,in shpfile but not WHO,NA,NA,NA,mpingakayove
+198,rutana,musongati,NA,DTP3,Burundi,NA,10710,in shpfile but not WHO,NA,NA,NA,musongati
+199,ruyigi,butaganzwa2,NA,DTP3,Burundi,NA,10712,in shpfile but not WHO,NA,NA,NA,butaganzwa2
+200,ruyigi,bweru,NA,DTP3,Burundi,NA,10714,in shpfile but not WHO,NA,NA,NA,bweru
+201,ruyigi,gisuru,NA,DTP3,Burundi,NA,10715,in shpfile but not WHO,NA,NA,NA,gisuru
+202,ruyigi,nyabitsinda,NA,DTP3,Burundi,NA,10717,in shpfile but not WHO,NA,NA,NA,nyabitsinda
+203,NA,NA,CAF,DTP3,Burundi,65,NA,fuzzy need fix,rs1,bimbo,ombellampoko,bimbo
+204,NA,NA,CAF,DTP3,Burundi,65,NA,fuzzy need fix,rs1,bimbo,sanghambar,bambio
+205,NA,NA,CAF,DTP3,Burundi,65,NA,fuzzy need fix,rs1,bimbo,vakaga,birao
+206,NA,NA,CAF,DTP3,Burundi,49,NA,fuzzy need fix,rs1,boda,hautekotto,bria
+207,NA,NA,CAF,DTP3,Burundi,49,NA,fuzzy need fix,rs1,boda,lobaye,boda
+208,NA,NA,CAF,DTP3,Burundi,49,NA,fuzzy need fix,rs1,boda,nanamambr,bouar
+209,NA,NA,CAF,DTP3,Burundi,49,NA,fuzzy need fix,rs1,boda,ouham,bouca
+210,NA,NA,CAF,DTP3,Burundi,49,NA,fuzzy need fix,rs1,boda,sanghambar,nola
+211,NA,NA,CAF,DTP3,Burundi,70,NA,fuzzy need fix,rs4,kemo,bassekotto,kemb
+212,NA,NA,CAF,DTP3,Burundi,70,NA,fuzzy need fix,rs4,kemo,ouham,kabo
+213,NA,NA,CAF,DTP3,Burundi,69,NA,fuzzy success,rs1,begoua,nanamambr,baboua
+214,NA,NA,CAF,DTP3,Burundi,93,NA,fuzzy success,rs1,mbaiki,lobaye,mbaki
+215,NA,NA,CAF,DTP3,Burundi,66,NA,fuzzy success,rs4,ouaka,hautekotto,ouadda
+216,NA,NA,CAF,DTP3,Burundi,11,NA,fuzzy success,rs5,vakaga,ouaka,bakala
+217,NA,NA,CAF,DTP3,Burundi,54,NA,fuzzy success,rs6,bangassou,mbomou,bangassou
+218,rs1,bossembele,CAF,DTP3,Burundi,28,NA,in WHO but not shpfile,NA,bossembele,NA,NA
+219,rs2,mamberekadei,CAF,DTP3,Burundi,42,NA,in WHO but not shpfile,NA,mamberekadei,NA,NA
+220,rs2,nanamambere,CAF,DTP3,Burundi,37,NA,in WHO but not shpfile,NA,nanamambere,NA,NA
+221,rs2,sanghambaere,CAF,DTP3,Burundi,25,NA,in WHO but not shpfile,NA,sanghambaere,NA,NA
+222,rs3,ouham,CAF,DTP3,Burundi,27,NA,in WHO but not shpfile,NA,ouham,NA,NA
+223,rs3,ouhampende,CAF,DTP3,Burundi,87,NA,in WHO but not shpfile,NA,ouhampende,NA,NA
+224,rs4,nanagrebizi,CAF,DTP3,Burundi,69,NA,in WHO but not shpfile,NA,nanagrebizi,NA,NA
+225,rs5,bbangoran,CAF,DTP3,Burundi,80,NA,in WHO but not shpfile,NA,bbangoran,NA,NA
+226,rs5,hautekotto,CAF,DTP3,Burundi,43,NA,in WHO but not shpfile,NA,hautekotto,NA,NA
+227,rs6,alindaomingala,CAF,DTP3,Burundi,38,NA,in WHO but not shpfile,NA,alindaomingala,NA,NA
+228,rs6,hautmbomou,CAF,DTP3,Burundi,58,NA,in WHO but not shpfile,NA,hautmbomou,NA,NA
+229,rs6,kembesatema,CAF,DTP3,Burundi,12,NA,in WHO but not shpfile,NA,kembesatema,NA,NA
+230,rs6,mobayezangba,CAF,DTP3,Burundi,45,NA,in WHO but not shpfile,NA,mobayezangba,NA,NA
+231,rs6,ouangogambo,CAF,DTP3,Burundi,26,NA,in WHO but not shpfile,NA,ouangogambo,NA,NA
+232,rs7,1erarrondissement,CAF,DTP3,Burundi,288,NA,in WHO but not shpfile,NA,1erarrondissement,NA,NA
+233,rs7,2earrondissement,CAF,DTP3,Burundi,52,NA,in WHO but not shpfile,NA,2earrondissement,NA,NA
+234,rs7,3earrondissement,CAF,DTP3,Burundi,50,NA,in WHO but not shpfile,NA,3earrondissement,NA,NA
+235,rs7,4earrondissement,CAF,DTP3,Burundi,57,NA,in WHO but not shpfile,NA,4earrondissement,NA,NA
+236,rs7,5earrondissement,CAF,DTP3,Burundi,36,NA,in WHO but not shpfile,NA,5earrondissement,NA,NA
+237,rs7,6earrondissement,CAF,DTP3,Burundi,51,NA,in WHO but not shpfile,NA,6earrondissement,NA,NA
+238,rs7,7earrondissement,CAF,DTP3,Burundi,63,NA,in WHO but not shpfile,NA,7earrondissement,NA,NA
+239,rs7,8earrondissement,CAF,DTP3,Burundi,88,NA,in WHO but not shpfile,NA,8earrondissement,NA,NA
+240,baminguibangoran,bamingui,NA,DTP3,Burundi,NA,11249,in shpfile but not WHO,NA,NA,NA,bamingui
+241,baminguibangoran,ndl,NA,DTP3,Burundi,NA,11250,in shpfile but not WHO,NA,NA,NA,ndl
+242,bangui,bangui,NA,DTP3,Burundi,NA,11251,in shpfile but not WHO,NA,NA,NA,bangui
+243,bassekotto,alindao,NA,DTP3,Burundi,NA,11252,in shpfile but not WHO,NA,NA,NA,alindao
+244,bassekotto,kemb,NA,DTP3,Burundi,NA,11253,in shpfile but not WHO,NA,NA,NA,kemb
+245,bassekotto,mingala,NA,DTP3,Burundi,NA,11254,in shpfile but not WHO,NA,NA,NA,mingala
+246,bassekotto,mobaye,NA,DTP3,Burundi,NA,11255,in shpfile but not WHO,NA,NA,NA,mobaye
+247,hautekotto,bria,NA,DTP3,Burundi,NA,11259,in shpfile but not WHO,NA,NA,NA,bria
+248,hautekotto,ouadda,NA,DTP3,Burundi,NA,11260,in shpfile but not WHO,NA,NA,NA,ouadda
+249,hautekotto,yalinga,NA,DTP3,Burundi,NA,11261,in shpfile but not WHO,NA,NA,NA,yalinga
+250,hautmbomou,djemah,NA,DTP3,Burundi,NA,11256,in shpfile but not WHO,NA,NA,NA,djemah
+251,hautmbomou,obo,NA,DTP3,Burundi,NA,11257,in shpfile but not WHO,NA,NA,NA,obo
+252,hautmbomou,zmio,NA,DTP3,Burundi,NA,11258,in shpfile but not WHO,NA,NA,NA,zmio
+253,kmo,dkoa,NA,DTP3,Burundi,NA,11262,in shpfile but not WHO,NA,NA,NA,dkoa
+254,kmo,sibut,NA,DTP3,Burundi,NA,11263,in shpfile but not WHO,NA,NA,NA,sibut
+255,lobaye,boda,NA,DTP3,Burundi,NA,11264,in shpfile but not WHO,NA,NA,NA,boda
+256,lobaye,mbaki,NA,DTP3,Burundi,NA,11265,in shpfile but not WHO,NA,NA,NA,mbaki
+257,lobaye,mongoumba,NA,DTP3,Burundi,NA,11266,in shpfile but not WHO,NA,NA,NA,mongoumba
+258,mambrkad,berbrati,NA,DTP3,Burundi,NA,11267,in shpfile but not WHO,NA,NA,NA,berbrati
+259,mambrkad,carnot,NA,DTP3,Burundi,NA,11268,in shpfile but not WHO,NA,NA,NA,carnot
+260,mambrkad,gamboula,NA,DTP3,Burundi,NA,11269,in shpfile but not WHO,NA,NA,NA,gamboula
+261,mbomou,bakouma,NA,DTP3,Burundi,NA,11270,in shpfile but not WHO,NA,NA,NA,bakouma
+262,mbomou,bangassou,NA,DTP3,Burundi,NA,11271,in shpfile but not WHO,NA,NA,NA,bangassou
+263,mbomou,gamboouango,NA,DTP3,Burundi,NA,11272,in shpfile but not WHO,NA,NA,NA,gamboouango
+264,mbomou,rafa,NA,DTP3,Burundi,NA,11273,in shpfile but not WHO,NA,NA,NA,rafa
+265,nanagrbizi,kagabandoro,NA,DTP3,Burundi,NA,11274,in shpfile but not WHO,NA,NA,NA,kagabandoro
+266,nanagrbizi,mbrs,NA,DTP3,Burundi,NA,11275,in shpfile but not WHO,NA,NA,NA,mbrs
+267,nanamambr,baboua,NA,DTP3,Burundi,NA,11276,in shpfile but not WHO,NA,NA,NA,baboua
+268,nanamambr,baoro,NA,DTP3,Burundi,NA,11277,in shpfile but not WHO,NA,NA,NA,baoro
+269,nanamambr,bouar,NA,DTP3,Burundi,NA,11278,in shpfile but not WHO,NA,NA,NA,bouar
+270,ombellampoko,bimbo,NA,DTP3,Burundi,NA,11279,in shpfile but not WHO,NA,NA,NA,bimbo
+271,ombellampoko,boali,NA,DTP3,Burundi,NA,11280,in shpfile but not WHO,NA,NA,NA,boali
+272,ombellampoko,damara,NA,DTP3,Burundi,NA,11281,in shpfile but not WHO,NA,NA,NA,damara
+273,ombellampoko,yalok,NA,DTP3,Burundi,NA,11282,in shpfile but not WHO,NA,NA,NA,yalok
+274,ouaka,bakala,NA,DTP3,Burundi,NA,11283,in shpfile but not WHO,NA,NA,NA,bakala
+275,ouaka,bambari,NA,DTP3,Burundi,NA,11284,in shpfile but not WHO,NA,NA,NA,bambari
+276,ouaka,grimari,NA,DTP3,Burundi,NA,11285,in shpfile but not WHO,NA,NA,NA,grimari
+277,ouaka,ippy,NA,DTP3,Burundi,NA,11286,in shpfile but not WHO,NA,NA,NA,ippy
+278,ouaka,kouango,NA,DTP3,Burundi,NA,11287,in shpfile but not WHO,NA,NA,NA,kouango
+279,ouham,batangafo,NA,DTP3,Burundi,NA,11291,in shpfile but not WHO,NA,NA,NA,batangafo
+280,ouham,bossangoa,NA,DTP3,Burundi,NA,11292,in shpfile but not WHO,NA,NA,NA,bossangoa
+281,ouham,bouca,NA,DTP3,Burundi,NA,11293,in shpfile but not WHO,NA,NA,NA,bouca
+282,ouham,kabo,NA,DTP3,Burundi,NA,11294,in shpfile but not WHO,NA,NA,NA,kabo
+283,ouham,markounda,NA,DTP3,Burundi,NA,11295,in shpfile but not WHO,NA,NA,NA,markounda
+284,ouhampend,bocaranga,NA,DTP3,Burundi,NA,11288,in shpfile but not WHO,NA,NA,NA,bocaranga
+285,ouhampend,bozoum,NA,DTP3,Burundi,NA,11289,in shpfile but not WHO,NA,NA,NA,bozoum
+286,ouhampend,paoua,NA,DTP3,Burundi,NA,11290,in shpfile but not WHO,NA,NA,NA,paoua
+287,sanghambar,bambio,NA,DTP3,Burundi,NA,11296,in shpfile but not WHO,NA,NA,NA,bambio
+288,sanghambar,nola,NA,DTP3,Burundi,NA,11297,in shpfile but not WHO,NA,NA,NA,nola
+289,vakaga,birao,NA,DTP3,Burundi,NA,11298,in shpfile but not WHO,NA,NA,NA,birao
+290,vakaga,ouandadjall,NA,DTP3,Burundi,NA,11299,in shpfile but not WHO,NA,NA,NA,ouandadjall
+291,kanem,nokou,TCD,DTP3,Chad,50,11318,success,NA,nokou,NA,NA
+292,salamat,harazemangueigne,TCD,DTP3,Chad,77,11344,success,NA,harazemangueigne,NA,NA
+293,wadifira,biltine,TCD,DTP3,Chad,63,11352,success,NA,biltine,NA,NA
+294,NA,NA,TCD,DTP3,Chad,39,NA,fuzzy need fix,borkou,faya,lac,wayi
+295,NA,NA,TCD,DTP3,Chad,39,NA,fuzzy need fix,borkou,faya,logoneoriental,lanya
+296,NA,NA,TCD,DTP3,Chad,71,NA,fuzzy need fix,hadjerlamis,mani,lac,mamdi
+297,NA,NA,TCD,DTP3,Chad,71,NA,fuzzy need fix,hadjerlamis,mani,lac,wayi
+298,NA,NA,TCD,DTP3,Chad,77,NA,fuzzy need fix,lac,bol,tandjil,br
+299,NA,NA,TCD,DTP3,Chad,77,NA,fuzzy need fix,lac,bol,wadifira,kob
+300,NA,NA,TCD,DTP3,Chad,96,NA,fuzzy need fix,logoneoriental,doba,logoneoccidental,dodj
+301,NA,NA,TCD,DTP3,Chad,96,NA,fuzzy need fix,logoneoriental,doba,wadifira,kob
+302,NA,NA,TCD,DTP3,Chad,46,NA,fuzzy success,bahrelghazal,salal,sila,sila
+303,NA,NA,TCD,DTP3,Chad,114,NA,fuzzy success,batha,ati,lac,wayi
+304,NA,NA,TCD,DTP3,Chad,88,NA,fuzzy success,guera,bitkine,gura,bitkine
+305,NA,NA,TCD,DTP3,Chad,101,NA,fuzzy success,guera,mangalme,gura,mangalm
+306,NA,NA,TCD,DTP3,Chad,102,NA,fuzzy success,lac,liwa,sila,sila
+307,NA,NA,TCD,DTP3,Chad,104,NA,fuzzy success,logoneoriental,bodo,logoneoccidental,dodj
+308,NA,NA,TCD,DTP3,Chad,117,NA,fuzzy success,logoneoriental,gore,gura,gura
+309,NA,NA,TCD,DTP3,Chad,103,NA,fuzzy success,mandoul,koumra,ouadda,ouara
+310,NA,NA,TCD,DTP3,Chad,90,NA,fuzzy success,mayokebbiouest,pala,sila,sila
+311,NA,NA,TCD,DTP3,Chad,88,NA,fuzzy success,ouaddai,abdi,lac,mamdi
+312,NA,NA,TCD,DTP3,Chad,100,NA,fuzzy success,salamat,aboudeia,salamat,aboudea
+313,NA,NA,TCD,DTP3,Chad,107,NA,fuzzy success,tandjile,bere,tandjil,br
+314,NA,NA,TCD,DTP3,Chad,98,NA,fuzzy success,tandjile,lai,lac,wayi
+315,NA,NA,TCD,DTP3,Chad,4,NA,fuzzy success,tibesti,zouar,ouadda,ouara
+316,bahrelghazal,chadra,TCD,DTP3,Chad,61,NA,in WHO but not shpfile,NA,chadra,NA,NA
+317,bahrelghazal,michemire,TCD,DTP3,Chad,54,NA,in WHO but not shpfile,NA,michemire,NA,NA
+318,bahrelghazal,moussoro,TCD,DTP3,Chad,64,NA,in WHO but not shpfile,NA,moussoro,NA,NA
+319,batha,alifa,TCD,DTP3,Chad,78,NA,in WHO but not shpfile,NA,alifa,NA,NA
+320,batha,assinet,TCD,DTP3,Chad,103,NA,in WHO but not shpfile,NA,assinet,NA,NA
+321,batha,oumhadjer,TCD,DTP3,Chad,92,NA,in WHO but not shpfile,NA,oumhadjer,NA,NA
+322,batha,yao,TCD,DTP3,Chad,52,NA,in WHO but not shpfile,NA,yao,NA,NA
+323,borkou,kirdimi,TCD,DTP3,Chad,44,NA,in WHO but not shpfile,NA,kirdimi,NA,NA
+324,charibaguirmi,bailli,TCD,DTP3,Chad,104,NA,in WHO but not shpfile,NA,bailli,NA,NA
+325,charibaguirmi,bousso,TCD,DTP3,Chad,86,NA,in WHO but not shpfile,NA,bousso,NA,NA
+326,charibaguirmi,dourbali,TCD,DTP3,Chad,88,NA,in WHO but not shpfile,NA,dourbali,NA,NA
+327,charibaguirmi,kouno,TCD,DTP3,Chad,80,NA,in WHO but not shpfile,NA,kouno,NA,NA
+328,charibaguirmi,mandelia,TCD,DTP3,Chad,68,NA,in WHO but not shpfile,NA,mandelia,NA,NA
+329,charibaguirmi,massenya,TCD,DTP3,Chad,115,NA,in WHO but not shpfile,NA,massenya,NA,NA
+330,darsila,amdam,TCD,DTP3,Chad,98,NA,in WHO but not shpfile,NA,amdam,NA,NA
+331,darsila,gozbeida,TCD,DTP3,Chad,116,NA,in WHO but not shpfile,NA,gozbeida,NA,NA
+332,darsila,koukouangarana,TCD,DTP3,Chad,70,NA,in WHO but not shpfile,NA,koukouangarana,NA,NA
+333,darsila,tissi,TCD,DTP3,Chad,156,NA,in WHO but not shpfile,NA,tissi,NA,NA
+334,ennediest,amdjarass,TCD,DTP3,Chad,20,NA,in WHO but not shpfile,NA,amdjarass,NA,NA
+335,ennediest,bahai,TCD,DTP3,Chad,92,NA,in WHO but not shpfile,NA,bahai,NA,NA
+336,ennediest,kaoura,TCD,DTP3,Chad,49,NA,in WHO but not shpfile,NA,kaoura,NA,NA
+337,ennediouest,fada,TCD,DTP3,Chad,44,NA,in WHO but not shpfile,NA,fada,NA,NA
+338,ennediouest,kalait,TCD,DTP3,Chad,53,NA,in WHO but not shpfile,NA,kalait,NA,NA
+339,guera,melfi,TCD,DTP3,Chad,85,NA,in WHO but not shpfile,NA,melfi,NA,NA
+340,guera,mongo,TCD,DTP3,Chad,78,NA,in WHO but not shpfile,NA,mongo,NA,NA
+341,hadjerlamis,bokoro,TCD,DTP3,Chad,82,NA,in WHO but not shpfile,NA,bokoro,NA,NA
+342,hadjerlamis,massaguet,TCD,DTP3,Chad,127,NA,in WHO but not shpfile,NA,massaguet,NA,NA
+343,hadjerlamis,massakory,TCD,DTP3,Chad,86,NA,in WHO but not shpfile,NA,massakory,NA,NA
+344,kanem,mao,TCD,DTP3,Chad,82,NA,in WHO but not shpfile,NA,mao,NA,NA
+345,kanem,mondo,TCD,DTP3,Chad,87,NA,in WHO but not shpfile,NA,mondo,NA,NA
+346,kanem,rigrig,TCD,DTP3,Chad,21,NA,in WHO but not shpfile,NA,rigrig,NA,NA
+347,lac,bagassola,TCD,DTP3,Chad,148,NA,in WHO but not shpfile,NA,bagassola,NA,NA
+348,lac,isseirom,TCD,DTP3,Chad,95,NA,in WHO but not shpfile,NA,isseirom,NA,NA
+349,lac,kouloudia,TCD,DTP3,Chad,59,NA,in WHO but not shpfile,NA,kouloudia,NA,NA
+350,lac,ngouri,TCD,DTP3,Chad,91,NA,in WHO but not shpfile,NA,ngouri,NA,NA
+351,logoneoccidental,benoye,TCD,DTP3,Chad,87,NA,in WHO but not shpfile,NA,benoye,NA,NA
+352,logoneoccidental,laokassy,TCD,DTP3,Chad,89,NA,in WHO but not shpfile,NA,laokassy,NA,NA
+353,logoneoccidental,moundou,TCD,DTP3,Chad,85,NA,in WHO but not shpfile,NA,moundou,NA,NA
+354,logoneoriental,bebedjia,TCD,DTP3,Chad,137,NA,in WHO but not shpfile,NA,bebedjia,NA,NA
+355,logoneoriental,beboto,TCD,DTP3,Chad,117,NA,in WHO but not shpfile,NA,beboto,NA,NA
+356,logoneoriental,bessao,TCD,DTP3,Chad,95,NA,in WHO but not shpfile,NA,bessao,NA,NA
+357,logoneoriental,larmanaye,TCD,DTP3,Chad,92,NA,in WHO but not shpfile,NA,larmanaye,NA,NA
+358,mandoul,bedjondo,TCD,DTP3,Chad,127,NA,in WHO but not shpfile,NA,bedjondo,NA,NA
+359,mandoul,bouna,TCD,DTP3,Chad,84,NA,in WHO but not shpfile,NA,bouna,NA,NA
+360,mandoul,goundi,TCD,DTP3,Chad,135,NA,in WHO but not shpfile,NA,goundi,NA,NA
+361,mandoul,moissala,TCD,DTP3,Chad,157,NA,in WHO but not shpfile,NA,moissala,NA,NA
+362,mayokebbiest,bongor,TCD,DTP3,Chad,125,NA,in WHO but not shpfile,NA,bongor,NA,NA
+363,mayokebbiest,fianga,TCD,DTP3,Chad,89,NA,in WHO but not shpfile,NA,fianga,NA,NA
+364,mayokebbiest,gounougaya,TCD,DTP3,Chad,89,NA,in WHO but not shpfile,NA,gounougaya,NA,NA
+365,mayokebbiest,guelendeng,TCD,DTP3,Chad,80,NA,in WHO but not shpfile,NA,guelendeng,NA,NA
+366,mayokebbiest,moulkou,TCD,DTP3,Chad,149,NA,in WHO but not shpfile,NA,moulkou,NA,NA
+367,mayokebbiest,pontcarol,TCD,DTP3,Chad,78,NA,in WHO but not shpfile,NA,pontcarol,NA,NA
+368,mayokebbiest,youe,TCD,DTP3,Chad,76,NA,in WHO but not shpfile,NA,youe,NA,NA
+369,mayokebbiouest,binder,TCD,DTP3,Chad,69,NA,in WHO but not shpfile,NA,binder,NA,NA
+370,mayokebbiouest,gagal,TCD,DTP3,Chad,103,NA,in WHO but not shpfile,NA,gagal,NA,NA
+371,mayokebbiouest,lagon,TCD,DTP3,Chad,108,NA,in WHO but not shpfile,NA,lagon,NA,NA
+372,mayokebbiouest,lame,TCD,DTP3,Chad,103,NA,in WHO but not shpfile,NA,lame,NA,NA
+373,mayokebbiouest,lere,TCD,DTP3,Chad,115,NA,in WHO but not shpfile,NA,lere,NA,NA
+374,mayokebbiouest,torrock,TCD,DTP3,Chad,117,NA,in WHO but not shpfile,NA,torrock,NA,NA
+375,moyenchari,biobesingako,TCD,DTP3,Chad,45,NA,in WHO but not shpfile,NA,biobesingako,NA,NA
+376,moyenchari,danamadji,TCD,DTP3,Chad,105,NA,in WHO but not shpfile,NA,danamadji,NA,NA
+377,moyenchari,kyabe,TCD,DTP3,Chad,87,NA,in WHO but not shpfile,NA,kyabe,NA,NA
+378,moyenchari,sarh,TCD,DTP3,Chad,104,NA,in WHO but not shpfile,NA,sarh,NA,NA
+379,ndjamena,ndjamenacentre,TCD,DTP3,Chad,77,NA,in WHO but not shpfile,NA,ndjamenacentre,NA,NA
+380,ndjamena,ndjamenaest,TCD,DTP3,Chad,214,NA,in WHO but not shpfile,NA,ndjamenaest,NA,NA
+381,ndjamena,ndjamenanord,TCD,DTP3,Chad,126,NA,in WHO but not shpfile,NA,ndjamenanord,NA,NA
+382,ndjamena,ndjamenasud,TCD,DTP3,Chad,77,NA,in WHO but not shpfile,NA,ndjamenasud,NA,NA
+383,ouaddai,abeche,TCD,DTP3,Chad,79,NA,in WHO but not shpfile,NA,abeche,NA,NA
+384,ouaddai,abougoudam,TCD,DTP3,Chad,112,NA,in WHO but not shpfile,NA,abougoudam,NA,NA
+385,ouaddai,adre,TCD,DTP3,Chad,78,NA,in WHO but not shpfile,NA,adre,NA,NA
+386,salamat,amtiman,TCD,DTP3,Chad,74,NA,in WHO but not shpfile,NA,amtiman,NA,NA
+387,tandjile,dafra,TCD,DTP3,Chad,99,NA,in WHO but not shpfile,NA,dafra,NA,NA
+388,tandjile,donomanga,TCD,DTP3,Chad,80,NA,in WHO but not shpfile,NA,donomanga,NA,NA
+389,tandjile,kelo,TCD,DTP3,Chad,105,NA,in WHO but not shpfile,NA,kelo,NA,NA
+390,tibesti,bardai,TCD,DTP3,Chad,6,NA,in WHO but not shpfile,NA,bardai,NA,NA
+391,wadifira,guereda,TCD,DTP3,Chad,84,NA,in WHO but not shpfile,NA,guereda,NA,NA
+392,wadifira,iriba,TCD,DTP3,Chad,85,NA,in WHO but not shpfile,NA,iriba,NA,NA
+393,wadifira,matadjana,TCD,DTP3,Chad,43,NA,in WHO but not shpfile,NA,matadjana,NA,NA
+394,barhelghazel,barhelgazel,NA,DTP3,Chad,NA,11300,in shpfile but not WHO,NA,NA,NA,barhelgazel
+395,batha,bathaest,NA,DTP3,Chad,NA,11301,in shpfile but not WHO,NA,NA,NA,bathaest
+396,batha,bathaoues,NA,DTP3,Chad,NA,11302,in shpfile but not WHO,NA,NA,NA,bathaoues
+397,batha,fitri,NA,DTP3,Chad,NA,11303,in shpfile but not WHO,NA,NA,NA,fitri
+398,borkou,borkou,NA,DTP3,Chad,NA,11304,in shpfile but not WHO,NA,NA,NA,borkou
+399,charibaguirmi,baguirmi,NA,DTP3,Chad,NA,11305,in shpfile but not WHO,NA,NA,NA,baguirmi
+400,charibaguirmi,lougchari,NA,DTP3,Chad,NA,11306,in shpfile but not WHO,NA,NA,NA,lougchari
+401,charibaguirmi,ndjamena,NA,DTP3,Chad,NA,11307,in shpfile but not WHO,NA,NA,NA,ndjamena
+402,ennediest,ennediest,NA,DTP3,Chad,NA,11308,in shpfile but not WHO,NA,NA,NA,ennediest
+403,ennediouest,ennediouest,NA,DTP3,Chad,NA,11309,in shpfile but not WHO,NA,NA,NA,ennediouest
+404,gura,barhsignaka,NA,DTP3,Chad,NA,11310,in shpfile but not WHO,NA,NA,NA,barhsignaka
+405,gura,bitkine,NA,DTP3,Chad,NA,11311,in shpfile but not WHO,NA,NA,NA,bitkine
+406,gura,gura,NA,DTP3,Chad,NA,11312,in shpfile but not WHO,NA,NA,NA,gura
+407,gura,mangalm,NA,DTP3,Chad,NA,11313,in shpfile but not WHO,NA,NA,NA,mangalm
+408,hadjerlamis,dababa,NA,DTP3,Chad,NA,11314,in shpfile but not WHO,NA,NA,NA,dababa
+409,hadjerlamis,dagana,NA,DTP3,Chad,NA,11315,in shpfile but not WHO,NA,NA,NA,dagana
+410,hadjerlamis,harazealbiar,NA,DTP3,Chad,NA,11316,in shpfile but not WHO,NA,NA,NA,harazealbiar
+411,kanem,kanem,NA,DTP3,Chad,NA,11317,in shpfile but not WHO,NA,NA,NA,kanem
+412,lac,mamdi,NA,DTP3,Chad,NA,11319,in shpfile but not WHO,NA,NA,NA,mamdi
+413,lac,wayi,NA,DTP3,Chad,NA,11320,in shpfile but not WHO,NA,NA,NA,wayi
+414,logoneoccidental,dodj,NA,DTP3,Chad,NA,11321,in shpfile but not WHO,NA,NA,NA,dodj
+415,logoneoccidental,lacwey,NA,DTP3,Chad,NA,11322,in shpfile but not WHO,NA,NA,NA,lacwey
+416,logoneoccidental,ngourkosso,NA,DTP3,Chad,NA,11323,in shpfile but not WHO,NA,NA,NA,ngourkosso
+417,logoneoriental,lanya,NA,DTP3,Chad,NA,11324,in shpfile but not WHO,NA,NA,NA,lanya
+418,logoneoriental,montsdelam,NA,DTP3,Chad,NA,11325,in shpfile but not WHO,NA,NA,NA,montsdelam
+419,logoneoriental,nyapend,NA,DTP3,Chad,NA,11326,in shpfile but not WHO,NA,NA,NA,nyapend
+420,logoneoriental,pend,NA,DTP3,Chad,NA,11327,in shpfile but not WHO,NA,NA,NA,pend
+421,mandoul,barhsara,NA,DTP3,Chad,NA,11328,in shpfile but not WHO,NA,NA,NA,barhsara
+422,mandoul,mandouloccidental,NA,DTP3,Chad,NA,11329,in shpfile but not WHO,NA,NA,NA,mandouloccidental
+423,mandoul,mandouloriental,NA,DTP3,Chad,NA,11330,in shpfile but not WHO,NA,NA,NA,mandouloriental
+424,mayokebbiest,kabbia,NA,DTP3,Chad,NA,11331,in shpfile but not WHO,NA,NA,NA,kabbia
+425,mayokebbiest,mayoboneye,NA,DTP3,Chad,NA,11332,in shpfile but not WHO,NA,NA,NA,mayoboneye
+426,mayokebbiest,montilli,NA,DTP3,Chad,NA,11333,in shpfile but not WHO,NA,NA,NA,montilli
+427,mayokebbiouest,laclr,NA,DTP3,Chad,NA,11334,in shpfile but not WHO,NA,NA,NA,laclr
+428,mayokebbiouest,mayodallah,NA,DTP3,Chad,NA,11335,in shpfile but not WHO,NA,NA,NA,mayodallah
+429,moyenchari,barhkh,NA,DTP3,Chad,NA,11336,in shpfile but not WHO,NA,NA,NA,barhkh
+430,moyenchari,grandesido,NA,DTP3,Chad,NA,11337,in shpfile but not WHO,NA,NA,NA,grandesido
+431,moyenchari,laciro,NA,DTP3,Chad,NA,11338,in shpfile but not WHO,NA,NA,NA,laciro
+432,ouadda,assoungha,NA,DTP3,Chad,NA,11339,in shpfile but not WHO,NA,NA,NA,assoungha
+433,ouadda,djourfalahmar,NA,DTP3,Chad,NA,11340,in shpfile but not WHO,NA,NA,NA,djourfalahmar
+434,ouadda,ouara,NA,DTP3,Chad,NA,11341,in shpfile but not WHO,NA,NA,NA,ouara
+435,salamat,aboudea,NA,DTP3,Chad,NA,11342,in shpfile but not WHO,NA,NA,NA,aboudea
+436,salamat,barhazoum,NA,DTP3,Chad,NA,11343,in shpfile but not WHO,NA,NA,NA,barhazoum
+437,sila,djourfalahmar,NA,DTP3,Chad,NA,11345,in shpfile but not WHO,NA,NA,NA,djourfalahmar
+438,sila,sila,NA,DTP3,Chad,NA,11346,in shpfile but not WHO,NA,NA,NA,sila
+439,tandjil,br,NA,DTP3,Chad,NA,11347,in shpfile but not WHO,NA,NA,NA,br
+440,tandjil,tandjilest,NA,DTP3,Chad,NA,11348,in shpfile but not WHO,NA,NA,NA,tandjilest
+441,tandjil,tandjilouest,NA,DTP3,Chad,NA,11349,in shpfile but not WHO,NA,NA,NA,tandjilouest
+442,tibesti,tibesti,NA,DTP3,Chad,NA,11350,in shpfile but not WHO,NA,NA,NA,tibesti
+443,villedendjamena,ndjamena,NA,DTP3,Chad,NA,11351,in shpfile but not WHO,NA,NA,NA,ndjamena
+444,wadifira,dartama,NA,DTP3,Chad,NA,11353,in shpfile but not WHO,NA,NA,NA,dartama
+445,wadifira,kob,NA,DTP3,Chad,NA,11354,in shpfile but not WHO,NA,NA,NA,kob
+446,bouenza,madingou,COG,DTP3,Congo,65.72848075,30051,success,NA,madingou,NA,NA
+447,bouenza,mouyondzi,COG,DTP3,Congo,61.24495616,30053,success,NA,mouyondzi,NA,NA
+448,cuvette,owando,COG,DTP3,Congo,72.26341616,30064,success,NA,owando,NA,NA
+449,cuvetteouest,ewo,COG,DTP3,Congo,82.87421117,30056,success,NA,ewo,NA,NA
+450,kouilou,madingokayes,COG,DTP3,Congo,83.5992095,30067,success,NA,madingokayes,NA,NA
+451,likouala,impfondo,COG,DTP3,Congo,56.62138818,30075,success,NA,impfondo,NA,NA
+452,niari,kibangou,COG,DTP3,Congo,82.75230601,30077,success,NA,kibangou,NA,NA
+453,niari,mossendjo,COG,DTP3,Congo,78.53582973,30081,success,NA,mossendjo,NA,NA
+454,plateaux,abala,COG,DTP3,Congo,62.25968027,30082,success,NA,abala,NA,NA
+455,plateaux,gamboma,COG,DTP3,Congo,78.35139298,30084,success,NA,gamboma,NA,NA
+456,pool,kindamba,COG,DTP3,Congo,75.24276246,30088,success,NA,kindamba,NA,NA
+457,pool,mindouli,COG,DTP3,Congo,43.4079168,30091,success,NA,mindouli,NA,NA
+458,sangha,ouesso,COG,DTP3,Congo,84.39709342,30094,success,NA,ouesso,NA,NA
+459,NA,NA,COG,DTP3,Congo,65.88057367,NA,fuzzy success,lekoumou,sibiti,lkoumou,sibiti
+460,NA,NA,COG,DTP3,Congo,91.21310774,NA,fuzzy success,pointenoire,loandjili,kouilou,loandjili
+461,NA,NA,COG,DTP3,Congo,55.30212993,NA,fuzzy success,pointenoire,ngoyo,cuvette,okoyo
+462,bouenza,loutete,COG,DTP3,Congo,46.03924283,NA,in WHO but not shpfile,NA,loutete,NA,NA
+463,bouenza,nkayi,COG,DTP3,Congo,51.03520975,NA,in WHO but not shpfile,NA,nkayi,NA,NA
+464,brazzaville,bacongo,COG,DTP3,Congo,61.65650567,NA,in WHO but not shpfile,NA,bacongo,NA,NA
+465,brazzaville,djiri,COG,DTP3,Congo,66.53903985,NA,in WHO but not shpfile,NA,djiri,NA,NA
+466,brazzaville,madibou,COG,DTP3,Congo,58.12831514,NA,in WHO but not shpfile,NA,madibou,NA,NA
+467,brazzaville,makelekele,COG,DTP3,Congo,50.05388011,NA,in WHO but not shpfile,NA,makelekele,NA,NA
+468,brazzaville,mfilou,COG,DTP3,Congo,79.08559879,NA,in WHO but not shpfile,NA,mfilou,NA,NA
+469,brazzaville,moungali,COG,DTP3,Congo,81.674791,NA,in WHO but not shpfile,NA,moungali,NA,NA
+470,brazzaville,ouenze,COG,DTP3,Congo,81.73861651,NA,in WHO but not shpfile,NA,ouenze,NA,NA
+471,brazzaville,potopoto,COG,DTP3,Congo,89.29950382,NA,in WHO but not shpfile,NA,potopoto,NA,NA
+472,brazzaville,talangai,COG,DTP3,Congo,75.65984111,NA,in WHO but not shpfile,NA,talangai,NA,NA
+473,cuvette,alima,COG,DTP3,Congo,78.28963406,NA,in WHO but not shpfile,NA,alima,NA,NA
+474,cuvette,mossakaloukolela,COG,DTP3,Congo,54.41730937,NA,in WHO but not shpfile,NA,mossakaloukolela,NA,NA
+475,cuvetteouest,etoumbi,COG,DTP3,Congo,76.00771561,NA,in WHO but not shpfile,NA,etoumbi,NA,NA
+476,kouilou,hindamvouti,COG,DTP3,Congo,89.39376107,NA,in WHO but not shpfile,NA,hindamvouti,NA,NA
+477,niari,dolisie,COG,DTP3,Congo,72.05015911,NA,in WHO but not shpfile,NA,dolisie,NA,NA
+478,plateaux,djambalalekana,COG,DTP3,Congo,79.73509079,NA,in WHO but not shpfile,NA,djambalalekana,NA,NA
+479,pointenoire,lumumba,COG,DTP3,Congo,107.8093165,NA,in WHO but not shpfile,NA,lumumba,NA,NA
+480,pointenoire,mongopoukou,COG,DTP3,Congo,68.71164349,NA,in WHO but not shpfile,NA,mongopoukou,NA,NA
+481,pointenoire,mvoumvou,COG,DTP3,Congo,71.44800038,NA,in WHO but not shpfile,NA,mvoumvou,NA,NA
+482,pointenoire,tchiambanzassi,COG,DTP3,Congo,91.49498256,NA,in WHO but not shpfile,NA,tchiambanzassi,NA,NA
+483,pointenoire,tietie,COG,DTP3,Congo,84.90299072,NA,in WHO but not shpfile,NA,tietie,NA,NA
+484,pool,gomatsetse,COG,DTP3,Congo,47.6927821,NA,in WHO but not shpfile,NA,gomatsetse,NA,NA
+485,pool,igniengabemayama,COG,DTP3,Congo,37.4908385,NA,in WHO but not shpfile,NA,igniengabemayama,NA,NA
+486,pool,kinkalaboko,COG,DTP3,Congo,56.26420617,NA,in WHO but not shpfile,NA,kinkalaboko,NA,NA
+487,bouenza,bokosongho,NA,DTP3,Congo,NA,30049,in shpfile but not WHO,NA,NA,NA,bokosongho
+488,bouenza,loudima,NA,DTP3,Congo,NA,30050,in shpfile but not WHO,NA,NA,NA,loudima
+489,bouenza,mfouati,NA,DTP3,Congo,NA,30052,in shpfile but not WHO,NA,NA,NA,mfouati
+490,bouenza,nkayidistrict,NA,DTP3,Congo,NA,30054,in shpfile but not WHO,NA,NA,NA,nkayidistrict
+491,brazzaville,brazzaville,NA,DTP3,Congo,NA,30055,in shpfile but not WHO,NA,NA,NA,brazzaville
+492,cuvette,boundji,NA,DTP3,Congo,NA,30059,in shpfile but not WHO,NA,NA,NA,boundji
+493,cuvette,loukolla,NA,DTP3,Congo,NA,30060,in shpfile but not WHO,NA,NA,NA,loukolla
+494,cuvette,makoua,NA,DTP3,Congo,NA,30061,in shpfile but not WHO,NA,NA,NA,makoua
+495,cuvette,mossaka,NA,DTP3,Congo,NA,30062,in shpfile but not WHO,NA,NA,NA,mossaka
+496,cuvette,okoyo,NA,DTP3,Congo,NA,30063,in shpfile but not WHO,NA,NA,NA,okoyo
+497,cuvetteouest,kll,NA,DTP3,Congo,NA,30057,in shpfile but not WHO,NA,NA,NA,kll
+498,cuvetteouest,mbomo,NA,DTP3,Congo,NA,30058,in shpfile but not WHO,NA,NA,NA,mbomo
+499,kouilou,kakamoeka,NA,DTP3,Congo,NA,30065,in shpfile but not WHO,NA,NA,NA,kakamoeka
+500,kouilou,loandjili,NA,DTP3,Congo,NA,30066,in shpfile but not WHO,NA,NA,NA,loandjili
+501,kouilou,mvouti,NA,DTP3,Congo,NA,30068,in shpfile but not WHO,NA,NA,NA,mvouti
+502,likouala,dongou,NA,DTP3,Congo,NA,30073,in shpfile but not WHO,NA,NA,NA,dongou
+503,likouala,epna,NA,DTP3,Congo,NA,30074,in shpfile but not WHO,NA,NA,NA,epna
+504,lkoumou,bambama,NA,DTP3,Congo,NA,30069,in shpfile but not WHO,NA,NA,NA,bambama
+505,lkoumou,komono,NA,DTP3,Congo,NA,30070,in shpfile but not WHO,NA,NA,NA,komono
+506,lkoumou,sibiti,NA,DTP3,Congo,NA,30071,in shpfile but not WHO,NA,NA,NA,sibiti
+507,lkoumou,zanaga,NA,DTP3,Congo,NA,30072,in shpfile but not WHO,NA,NA,NA,zanaga
+508,niari,divni,NA,DTP3,Congo,NA,30076,in shpfile but not WHO,NA,NA,NA,divni
+509,niari,kimongo,NA,DTP3,Congo,NA,30078,in shpfile but not WHO,NA,NA,NA,kimongo
+510,niari,louvakouloubomo,NA,DTP3,Congo,NA,30079,in shpfile but not WHO,NA,NA,NA,louvakouloubomo
+511,niari,mayoko,NA,DTP3,Congo,NA,30080,in shpfile but not WHO,NA,NA,NA,mayoko
+512,plateaux,djambala,NA,DTP3,Congo,NA,30083,in shpfile but not WHO,NA,NA,NA,djambala
+513,plateaux,lkana,NA,DTP3,Congo,NA,30085,in shpfile but not WHO,NA,NA,NA,lkana
+514,pointenoire,pointenoire,NA,DTP3,Congo,NA,30086,in shpfile but not WHO,NA,NA,NA,pointenoire
+515,pool,boko,NA,DTP3,Congo,NA,30087,in shpfile but not WHO,NA,NA,NA,boko
+516,pool,kinkala,NA,DTP3,Congo,NA,30089,in shpfile but not WHO,NA,NA,NA,kinkala
+517,pool,mayama,NA,DTP3,Congo,NA,30090,in shpfile but not WHO,NA,NA,NA,mayama
+518,pool,ngab,NA,DTP3,Congo,NA,30092,in shpfile but not WHO,NA,NA,NA,ngab
+519,pool,ngamaba,NA,DTP3,Congo,NA,30093,in shpfile but not WHO,NA,NA,NA,ngamaba
+520,sangha,semb,NA,DTP3,Congo,NA,30095,in shpfile but not WHO,NA,NA,NA,semb
+521,sangha,souank,NA,DTP3,Congo,NA,30096,in shpfile but not WHO,NA,NA,NA,souank
+522,biokonorte,baney,GNQ,DTP3,Guinea-Bissau,97.71895313,14870,success,NA,baney,NA,NA
+523,biokonorte,malabo,GNQ,DTP3,Guinea-Bissau,37.89040901,14871,success,NA,malabo,NA,NA
+524,biokosur,luba,GNQ,DTP3,Guinea-Bissau,66.55861477,14873,success,NA,luba,NA,NA
+525,biokosur,riaba,GNQ,DTP3,Guinea-Bissau,63.43356844,14874,success,NA,riaba,NA,NA
+526,centrosur,acurenam,GNQ,DTP3,Guinea-Bissau,50.16195635,14875,success,NA,acurenam,NA,NA
+527,centrosur,evinayong,GNQ,DTP3,Guinea-Bissau,56.89183409,14877,success,NA,evinayong,NA,NA
+528,centrosur,niefang,GNQ,DTP3,Guinea-Bissau,47.79401174,14878,success,NA,niefang,NA,NA
+529,litoral,bata,GNQ,DTP3,Guinea-Bissau,43.98339055,14886,success,NA,bata,NA,NA
+530,litoral,cogo,GNQ,DTP3,Guinea-Bissau,9.943756716,14888,success,NA,cogo,NA,NA
+531,litoral,mbini,GNQ,DTP3,Guinea-Bissau,42.02735599,14891,success,NA,mbini,NA,NA
+532,welenzas,aconibe,GNQ,DTP3,Guinea-Bissau,45.47551356,14894,success,NA,aconibe,NA,NA
+533,welenzas,mongomo,GNQ,DTP3,Guinea-Bissau,48.84453617,14898,success,NA,mongomo,NA,NA
+534,welenzas,nsork,GNQ,DTP3,Guinea-Bissau,51.46849195,14899,success,NA,nsork,NA,NA
+535,NA,NA,GNQ,DTP3,Guinea-Bissau,56.02295405,NA,fuzzy success,kientem,ebebiyin,kintem,ebebiyin
+536,NA,NA,GNQ,DTP3,Guinea-Bissau,67.60832935,NA,fuzzy success,kientem,micomiseng,kintem,micomeseng
+537,NA,NA,GNQ,DTP3,Guinea-Bissau,29.66061071,NA,fuzzy success,kientem,nsoknsomo,kintem,nsoknsomo
+538,NA,NA,GNQ,DTP3,Guinea-Bissau,10.35603686,NA,fuzzy success,welenzas,anisok,welenzas,aisok
+539,annobon,annobon,GNQ,DTP3,Guinea-Bissau,107.8304276,NA,in WHO but not shpfile,NA,annobon,NA,NA
+540,annobn,mabana,NA,DTP3,Guinea-Bissau,NA,14868,in shpfile but not WHO,NA,NA,NA,mabana
+541,annobn,sanantoniodepal,NA,DTP3,Guinea-Bissau,NA,14869,in shpfile but not WHO,NA,NA,NA,sanantoniodepal
+542,biokonorte,rebola,NA,DTP3,Guinea-Bissau,NA,14872,in shpfile but not WHO,NA,NA,NA,rebola
+543,centrosur,bicurga,NA,DTP3,Guinea-Bissau,NA,14876,in shpfile but not WHO,NA,NA,NA,bicurga
+544,centrosur,nkimi,NA,DTP3,Guinea-Bissau,NA,14879,in shpfile but not WHO,NA,NA,NA,nkimi
+545,kintem,bidjabidjan,NA,DTP3,Guinea-Bissau,NA,14880,in shpfile but not WHO,NA,NA,NA,bidjabidjan
+546,kintem,ebebiyin,NA,DTP3,Guinea-Bissau,NA,14881,in shpfile but not WHO,NA,NA,NA,ebebiyin
+547,kintem,micomeseng,NA,DTP3,Guinea-Bissau,NA,14882,in shpfile but not WHO,NA,NA,NA,micomeseng
+548,kintem,nasng,NA,DTP3,Guinea-Bissau,NA,14883,in shpfile but not WHO,NA,NA,NA,nasng
+549,kintem,nkue,NA,DTP3,Guinea-Bissau,NA,14884,in shpfile but not WHO,NA,NA,NA,nkue
+550,kintem,nsoknsomo,NA,DTP3,Guinea-Bissau,NA,14885,in shpfile but not WHO,NA,NA,NA,nsoknsomo
+551,litoral,bitica,NA,DTP3,Guinea-Bissau,NA,14887,in shpfile but not WHO,NA,NA,NA,bitica
+552,litoral,corisco,NA,DTP3,Guinea-Bissau,NA,14889,in shpfile but not WHO,NA,NA,NA,corisco
+553,litoral,machinda,NA,DTP3,Guinea-Bissau,NA,14890,in shpfile but not WHO,NA,NA,NA,machinda
+554,litoral,riocampo,NA,DTP3,Guinea-Bissau,NA,14892,in shpfile but not WHO,NA,NA,NA,riocampo
+555,welenzas,aisok,NA,DTP3,Guinea-Bissau,NA,14893,in shpfile but not WHO,NA,NA,NA,aisok
+556,welenzas,ayene,NA,DTP3,Guinea-Bissau,NA,14895,in shpfile but not WHO,NA,NA,NA,ayene
+557,welenzas,ciudadnuevaoyala,NA,DTP3,Guinea-Bissau,NA,14896,in shpfile but not WHO,NA,NA,NA,ciudadnuevaoyala
+558,welenzas,mongomeyenmongomeyen,NA,DTP3,Guinea-Bissau,NA,14897,in shpfile but not WHO,NA,NA,NA,mongomeyenmongomeyen
+559,crr,centralriver,GMB,DTP3,Gambia,92.67851267,NA,in WHO but not shpfile,NA,centralriver,NA,NA
+560,lrr,lowerriver,GMB,DTP3,Gambia,92.19219219,NA,in WHO but not shpfile,NA,lowerriver,NA,NA
+561,nber,northbankeast,GMB,DTP3,Gambia,99.64546865,NA,in WHO but not shpfile,NA,northbankeast,NA,NA
+562,nbwr,northbankwest,GMB,DTP3,Gambia,99.42857143,NA,in WHO but not shpfile,NA,northbankwest,NA,NA
+563,urr,upperriver,GMB,DTP3,Gambia,89.72117558,NA,in WHO but not shpfile,NA,upperriver,NA,NA
+564,western1,westernhealthregion1,GMB,DTP3,Gambia,94.61053488,NA,in WHO but not shpfile,NA,westernhealthregion1,NA,NA
+565,western2,westernhealthregion2,GMB,DTP3,Gambia,98.30411273,NA,in WHO but not shpfile,NA,westernhealthregion2,NA,NA
+566,banjul,banjul,NA,DTP3,Gambia,NA,15473,in shpfile but not WHO,NA,NA,NA,banjul
+567,banjul,kanifing,NA,DTP3,Gambia,NA,15474,in shpfile but not WHO,NA,NA,NA,kanifing
+568,lowerriver,jarracentral,NA,DTP3,Gambia,NA,15475,in shpfile but not WHO,NA,NA,NA,jarracentral
+569,lowerriver,jarraeast,NA,DTP3,Gambia,NA,15476,in shpfile but not WHO,NA,NA,NA,jarraeast
+570,lowerriver,jarrawest,NA,DTP3,Gambia,NA,15477,in shpfile but not WHO,NA,NA,NA,jarrawest
+571,lowerriver,kiangcentral,NA,DTP3,Gambia,NA,15478,in shpfile but not WHO,NA,NA,NA,kiangcentral
+572,lowerriver,kiangeast,NA,DTP3,Gambia,NA,15479,in shpfile but not WHO,NA,NA,NA,kiangeast
+573,lowerriver,kiangwest,NA,DTP3,Gambia,NA,15480,in shpfile but not WHO,NA,NA,NA,kiangwest
+574,maccarthyisland,fulladuwest,NA,DTP3,Gambia,NA,15481,in shpfile but not WHO,NA,NA,NA,fulladuwest
+575,maccarthyisland,janjanbureh,NA,DTP3,Gambia,NA,15482,in shpfile but not WHO,NA,NA,NA,janjanbureh
+576,maccarthyisland,lowersaloum,NA,DTP3,Gambia,NA,15483,in shpfile but not WHO,NA,NA,NA,lowersaloum
+577,maccarthyisland,niaminadankunku,NA,DTP3,Gambia,NA,15484,in shpfile but not WHO,NA,NA,NA,niaminadankunku
+578,maccarthyisland,niaminaeast,NA,DTP3,Gambia,NA,15485,in shpfile but not WHO,NA,NA,NA,niaminaeast
+579,maccarthyisland,niaminawest,NA,DTP3,Gambia,NA,15486,in shpfile but not WHO,NA,NA,NA,niaminawest
+580,maccarthyisland,niani,NA,DTP3,Gambia,NA,15487,in shpfile but not WHO,NA,NA,NA,niani
+581,maccarthyisland,nianija,NA,DTP3,Gambia,NA,15488,in shpfile but not WHO,NA,NA,NA,nianija
+582,maccarthyisland,sami,NA,DTP3,Gambia,NA,15489,in shpfile but not WHO,NA,NA,NA,sami
+583,maccarthyisland,uppersaloum,NA,DTP3,Gambia,NA,15490,in shpfile but not WHO,NA,NA,NA,uppersaloum
+584,northbank,centralbaddibu,NA,DTP3,Gambia,NA,15491,in shpfile but not WHO,NA,NA,NA,centralbaddibu
+585,northbank,jokadu,NA,DTP3,Gambia,NA,15492,in shpfile but not WHO,NA,NA,NA,jokadu
+586,northbank,lowerbaddibu,NA,DTP3,Gambia,NA,15493,in shpfile but not WHO,NA,NA,NA,lowerbaddibu
+587,northbank,lowernuimi,NA,DTP3,Gambia,NA,15494,in shpfile but not WHO,NA,NA,NA,lowernuimi
+588,northbank,upperbaddibu,NA,DTP3,Gambia,NA,15495,in shpfile but not WHO,NA,NA,NA,upperbaddibu
+589,northbank,uppernuimi,NA,DTP3,Gambia,NA,15496,in shpfile but not WHO,NA,NA,NA,uppernuimi
+590,upperriver,fulladueast,NA,DTP3,Gambia,NA,15497,in shpfile but not WHO,NA,NA,NA,fulladueast
+591,upperriver,kantora,NA,DTP3,Gambia,NA,15498,in shpfile but not WHO,NA,NA,NA,kantora
+592,upperriver,sandu,NA,DTP3,Gambia,NA,15499,in shpfile but not WHO,NA,NA,NA,sandu
+593,upperriver,wuli,NA,DTP3,Gambia,NA,15500,in shpfile but not WHO,NA,NA,NA,wuli
+594,western,fonibintangkaranai,NA,DTP3,Gambia,NA,15501,in shpfile but not WHO,NA,NA,NA,fonibintangkaranai
+595,western,fonibondali,NA,DTP3,Gambia,NA,15502,in shpfile but not WHO,NA,NA,NA,fonibondali
+596,western,fonibrefet,NA,DTP3,Gambia,NA,15503,in shpfile but not WHO,NA,NA,NA,fonibrefet
+597,western,fonijarrol,NA,DTP3,Gambia,NA,15504,in shpfile but not WHO,NA,NA,NA,fonijarrol
+598,western,fonikansala,NA,DTP3,Gambia,NA,15505,in shpfile but not WHO,NA,NA,NA,fonikansala
+599,western,kombocentral,NA,DTP3,Gambia,NA,15506,in shpfile but not WHO,NA,NA,NA,kombocentral
+600,western,komboeast,NA,DTP3,Gambia,NA,15507,in shpfile but not WHO,NA,NA,NA,komboeast
+601,western,kombosaintmary,NA,DTP3,Gambia,NA,15508,in shpfile but not WHO,NA,NA,NA,kombosaintmary
+602,western,kombosouth,NA,DTP3,Gambia,NA,15509,in shpfile but not WHO,NA,NA,NA,kombosouth
+603,bolama,bolama,GNB,DTP3,Guinea-Bissau,61,16529,success,NA,bolama,NA,NA
+604,cacheu,cacheu,GNB,DTP3,Guinea-Bissau,72,16534,success,NA,cacheu,NA,NA
+605,NA,NA,GNB,DTP3,Guinea-Bissau,65,NA,fuzzy need fix,farim,farim,biombo,safim
+606,NA,NA,GNB,DTP3,Guinea-Bissau,65,NA,fuzzy need fix,farim,farim,oio,farim
+607,NA,NA,GNB,DTP3,Guinea-Bissau,87,NA,fuzzy success,bafata,bafata,bafati,bafata
+608,NA,NA,GNB,DTP3,Guinea-Bissau,60,NA,fuzzy success,gabu,gabu,gab,gabu
+609,NA,NA,GNB,DTP3,Guinea-Bissau,74,NA,fuzzy success,oio,oio,cacheu,caio
+610,NA,NA,GNB,DTP3,Guinea-Bissau,58,NA,fuzzy success,sab,sab,gab,gabu
+611,bijagos,bijagos,GNB,DTP3,Guinea-Bissau,90,NA,in WHO but not shpfile,NA,bijagos,NA,NA
+612,biombo,biombo,GNB,DTP3,Guinea-Bissau,75,NA,in WHO but not shpfile,NA,biombo,NA,NA
+613,quinara,quinara,GNB,DTP3,Guinea-Bissau,85,NA,in WHO but not shpfile,NA,quinara,NA,NA
+614,tombali,tombali,GNB,DTP3,Guinea-Bissau,55,NA,in WHO but not shpfile,NA,tombali,NA,NA
+615,bafati,bafata,NA,DTP3,Guinea-Bissau,NA,16519,in shpfile but not WHO,NA,NA,NA,bafata
+616,bafati,bambadinca,NA,DTP3,Guinea-Bissau,NA,16520,in shpfile but not WHO,NA,NA,NA,bambadinca
+617,bafati,contuboel,NA,DTP3,Guinea-Bissau,NA,16521,in shpfile but not WHO,NA,NA,NA,contuboel
+618,bafati,galomaro,NA,DTP3,Guinea-Bissau,NA,16522,in shpfile but not WHO,NA,NA,NA,galomaro
+619,bafati,gamamundo,NA,DTP3,Guinea-Bissau,NA,16523,in shpfile but not WHO,NA,NA,NA,gamamundo
+620,bafati,xitole,NA,DTP3,Guinea-Bissau,NA,16524,in shpfile but not WHO,NA,NA,NA,xitole
+621,biombo,prabis,NA,DTP3,Guinea-Bissau,NA,16525,in shpfile but not WHO,NA,NA,NA,prabis
+622,biombo,quinhamel,NA,DTP3,Guinea-Bissau,NA,16526,in shpfile but not WHO,NA,NA,NA,quinhamel
+623,biombo,safim,NA,DTP3,Guinea-Bissau,NA,16527,in shpfile but not WHO,NA,NA,NA,safim
+624,bissau,bissau,NA,DTP3,Guinea-Bissau,NA,16528,in shpfile but not WHO,NA,NA,NA,bissau
+625,bolama,bubaque,NA,DTP3,Guinea-Bissau,NA,16530,in shpfile but not WHO,NA,NA,NA,bubaque
+626,bolama,caravela,NA,DTP3,Guinea-Bissau,NA,16531,in shpfile but not WHO,NA,NA,NA,caravela
+627,cacheu,bigene,NA,DTP3,Guinea-Bissau,NA,16532,in shpfile but not WHO,NA,NA,NA,bigene
+628,cacheu,bula,NA,DTP3,Guinea-Bissau,NA,16533,in shpfile but not WHO,NA,NA,NA,bula
+629,cacheu,caio,NA,DTP3,Guinea-Bissau,NA,16535,in shpfile but not WHO,NA,NA,NA,caio
+630,cacheu,canghungo,NA,DTP3,Guinea-Bissau,NA,16536,in shpfile but not WHO,NA,NA,NA,canghungo
+631,cacheu,saodomingos,NA,DTP3,Guinea-Bissau,NA,16537,in shpfile but not WHO,NA,NA,NA,saodomingos
+632,gab,boe,NA,DTP3,Guinea-Bissau,NA,16538,in shpfile but not WHO,NA,NA,NA,boe
+633,gab,gabu,NA,DTP3,Guinea-Bissau,NA,16539,in shpfile but not WHO,NA,NA,NA,gabu
+634,gab,piche,NA,DTP3,Guinea-Bissau,NA,16540,in shpfile but not WHO,NA,NA,NA,piche
+635,gab,pirada,NA,DTP3,Guinea-Bissau,NA,16541,in shpfile but not WHO,NA,NA,NA,pirada
+636,gab,sonaco,NA,DTP3,Guinea-Bissau,NA,16542,in shpfile but not WHO,NA,NA,NA,sonaco
+637,oio,bissora,NA,DTP3,Guinea-Bissau,NA,16543,in shpfile but not WHO,NA,NA,NA,bissora
+638,oio,farim,NA,DTP3,Guinea-Bissau,NA,16544,in shpfile but not WHO,NA,NA,NA,farim
+639,oio,mansaba,NA,DTP3,Guinea-Bissau,NA,16545,in shpfile but not WHO,NA,NA,NA,mansaba
+640,oio,mansoa,NA,DTP3,Guinea-Bissau,NA,16546,in shpfile but not WHO,NA,NA,NA,mansoa
+641,oio,nhacra,NA,DTP3,Guinea-Bissau,NA,16547,in shpfile but not WHO,NA,NA,NA,nhacra
+642,quinara,buba,NA,DTP3,Guinea-Bissau,NA,16548,in shpfile but not WHO,NA,NA,NA,buba
+643,quinara,empada,NA,DTP3,Guinea-Bissau,NA,16549,in shpfile but not WHO,NA,NA,NA,empada
+644,quinara,fulacunda,NA,DTP3,Guinea-Bissau,NA,16550,in shpfile but not WHO,NA,NA,NA,fulacunda
+645,quinara,tite,NA,DTP3,Guinea-Bissau,NA,16551,in shpfile but not WHO,NA,NA,NA,tite
+646,tombali,bedanda,NA,DTP3,Guinea-Bissau,NA,16552,in shpfile but not WHO,NA,NA,NA,bedanda
+647,tombali,cacine,NA,DTP3,Guinea-Bissau,NA,16553,in shpfile but not WHO,NA,NA,NA,cacine
+648,tombali,catio,NA,DTP3,Guinea-Bissau,NA,16554,in shpfile but not WHO,NA,NA,NA,catio
+649,tombali,quebo,NA,DTP3,Guinea-Bissau,NA,16555,in shpfile but not WHO,NA,NA,NA,quebo
+650,erongo,omaruru,NAM,DTP3,Namibia,93,24683,success,NA,omaruru,NA,NA
+651,erongo,swakopmund,NAM,DTP3,Namibia,94,24684,success,NA,swakopmund,NA,NA
+652,karas,luderitz,NAM,DTP3,Namibia,80,24678,success,NA,luderitz,NA,NA
+653,kunene,khorixas,NAM,DTP3,Namibia,102,24714,success,NA,khorixas,NA,NA
+654,kunene,opuwo,NAM,DTP3,Namibia,66,24715,success,NA,opuwo,NA,NA
+655,kunene,outjo,NAM,DTP3,Namibia,107,24716,success,NA,outjo,NA,NA
+656,ohangwena,eenhana,NAM,DTP3,Namibia,83,24718,success,NA,eenhana,NA,NA
+657,ohangwena,engela,NAM,DTP3,Namibia,87,24720,success,NA,engela,NA,NA
+658,omaheke,gobabis,NAM,DTP3,Namibia,95,24731,success,NA,gobabis,NA,NA
+659,omusati,okahao,NAM,DTP3,Namibia,99,24740,success,NA,okahao,NA,NA
+660,omusati,oshikuku,NAM,DTP3,Namibia,95,24743,success,NA,oshikuku,NA,NA
+661,omusati,outapi,NAM,DTP3,Namibia,95,24745,success,NA,outapi,NA,NA
+662,omusati,tsandi,NAM,DTP3,Namibia,89,24747,success,NA,tsandi,NA,NA
+663,oshikoto,tsumeb,NAM,DTP3,Namibia,93,24767,success,NA,tsumeb,NA,NA
+664,otjozondjupa,grootfontein,NAM,DTP3,Namibia,89,24768,success,NA,grootfontein,NA,NA
+665,otjozondjupa,okahandja,NAM,DTP3,Namibia,97,24769,success,NA,okahandja,NA,NA
+666,otjozondjupa,okakarara,NAM,DTP3,Namibia,77,24770,success,NA,okakarara,NA,NA
+667,otjozondjupa,otjiwarongo,NAM,DTP3,Namibia,101,24773,success,NA,otjiwarongo,NA,NA
+668,NA,NA,NAM,DTP3,Namibia,97,NA,fuzzy need fix,ohangwena,kongo,ohangwena,okongo
+669,NA,NA,NAM,DTP3,Namibia,97,NA,fuzzy need fix,ohangwena,kongo,omusati,ogongo
+670,NA,NA,NAM,DTP3,Namibia,97,NA,fuzzy need fix,ohangwena,kongo,zambezi,kongola
+671,NA,NA,NAM,DTP3,Namibia,86,NA,fuzzy success,hardap,aranos,erongo,arandis
+672,erongo,usakos,NAM,DTP3,Namibia,109,NA,in WHO but not shpfile,NA,usakos,NA,NA
+673,erongo,walvisbay,NAM,DTP3,Namibia,97,NA,in WHO but not shpfile,NA,walvisbay,NA,NA
+674,hardap,mariental,NAM,DTP3,Namibia,91,NA,in WHO but not shpfile,NA,mariental,NA,NA
+675,hardap,rehoboth,NAM,DTP3,Namibia,97,NA,in WHO but not shpfile,NA,rehoboth,NA,NA
+676,karas,karasburg,NAM,DTP3,Namibia,76,NA,in WHO but not shpfile,NA,karasburg,NA,NA
+677,karas,keetmanshoop,NAM,DTP3,Namibia,92,NA,in WHO but not shpfile,NA,keetmanshoop,NA,NA
+678,kavangoeast,andara,NAM,DTP3,Namibia,72,NA,in WHO but not shpfile,NA,andara,NA,NA
+679,kavangoeast,nyangana,NAM,DTP3,Namibia,88,NA,in WHO but not shpfile,NA,nyangana,NA,NA
+680,kavangowest,nankudu,NAM,DTP3,Namibia,88,NA,in WHO but not shpfile,NA,nankudu,NA,NA
+681,kavangowest,rundu,NAM,DTP3,Namibia,89,NA,in WHO but not shpfile,NA,rundu,NA,NA
+682,khomas,windhoek,NAM,DTP3,Namibia,92,NA,in WHO but not shpfile,NA,windhoek,NA,NA
+683,oshana,oshakati,NAM,DTP3,Namibia,84,NA,in WHO but not shpfile,NA,oshakati,NA,NA
+684,oshikoto,onandjokwe,NAM,DTP3,Namibia,80,NA,in WHO but not shpfile,NA,onandjokwe,NA,NA
+685,zambezi,katimamulilo,NAM,DTP3,Namibia,97,NA,in WHO but not shpfile,NA,katimamulilo,NA,NA
+686,erongo,arandis,NA,DTP3,Namibia,NA,24680,in shpfile but not WHO,NA,NA,NA,arandis
+687,erongo,daures,NA,DTP3,Namibia,NA,24681,in shpfile but not WHO,NA,NA,NA,daures
+688,erongo,karibib,NA,DTP3,Namibia,NA,24682,in shpfile but not WHO,NA,NA,NA,karibib
+689,erongo,walvisbayrural,NA,DTP3,Namibia,NA,24685,in shpfile but not WHO,NA,NA,NA,walvisbayrural
+690,erongo,walvisbayurban,NA,DTP3,Namibia,NA,24686,in shpfile but not WHO,NA,NA,NA,walvisbayurban
+691,hardap,gibeon,NA,DTP3,Namibia,NA,24687,in shpfile but not WHO,NA,NA,NA,gibeon
+692,hardap,marientalrural,NA,DTP3,Namibia,NA,24688,in shpfile but not WHO,NA,NA,NA,marientalrural
+693,hardap,marientalurban,NA,DTP3,Namibia,NA,24689,in shpfile but not WHO,NA,NA,NA,marientalurban
+694,hardap,rehobotheast,NA,DTP3,Namibia,NA,24690,in shpfile but not WHO,NA,NA,NA,rehobotheast
+695,hardap,rehobothrural,NA,DTP3,Namibia,NA,24691,in shpfile but not WHO,NA,NA,NA,rehobothrural
+696,hardap,rehobothwest,NA,DTP3,Namibia,NA,24692,in shpfile but not WHO,NA,NA,NA,rehobothwest
+697,karas,berseba,NA,DTP3,Namibia,NA,24674,in shpfile but not WHO,NA,NA,NA,berseba
+698,karas,karas,NA,DTP3,Namibia,NA,24675,in shpfile but not WHO,NA,NA,NA,karas
+699,karas,keetmanshooprural,NA,DTP3,Namibia,NA,24676,in shpfile but not WHO,NA,NA,NA,keetmanshooprural
+700,karas,keetmanshoopurban,NA,DTP3,Namibia,NA,24677,in shpfile but not WHO,NA,NA,NA,keetmanshoopurban
+701,karas,oranjemund,NA,DTP3,Namibia,NA,24679,in shpfile but not WHO,NA,NA,NA,oranjemund
+702,kavango,kahenge,NA,DTP3,Namibia,NA,24693,in shpfile but not WHO,NA,NA,NA,kahenge
+703,kavango,kapako,NA,DTP3,Namibia,NA,24694,in shpfile but not WHO,NA,NA,NA,kapako
+704,kavango,mashare,NA,DTP3,Namibia,NA,24695,in shpfile but not WHO,NA,NA,NA,mashare
+705,kavango,mpungu,NA,DTP3,Namibia,NA,24696,in shpfile but not WHO,NA,NA,NA,mpungu
+706,kavango,mukwe,NA,DTP3,Namibia,NA,24697,in shpfile but not WHO,NA,NA,NA,mukwe
+707,kavango,ndiyona,NA,DTP3,Namibia,NA,24698,in shpfile but not WHO,NA,NA,NA,ndiyona
+708,kavango,rundururaleast,NA,DTP3,Namibia,NA,24699,in shpfile but not WHO,NA,NA,NA,rundururaleast
+709,kavango,rundururalwest,NA,DTP3,Namibia,NA,24700,in shpfile but not WHO,NA,NA,NA,rundururalwest
+710,kavango,runduurban,NA,DTP3,Namibia,NA,24701,in shpfile but not WHO,NA,NA,NA,runduurban
+711,khomas,katuturacentral,NA,DTP3,Namibia,NA,24702,in shpfile but not WHO,NA,NA,NA,katuturacentral
+712,khomas,katuturaeast,NA,DTP3,Namibia,NA,24703,in shpfile but not WHO,NA,NA,NA,katuturaeast
+713,khomas,khomasdalnorth,NA,DTP3,Namibia,NA,24704,in shpfile but not WHO,NA,NA,NA,khomasdalnorth
+714,khomas,mosesgaroeb,NA,DTP3,Namibia,NA,24705,in shpfile but not WHO,NA,NA,NA,mosesgaroeb
+715,khomas,soweto,NA,DTP3,Namibia,NA,24706,in shpfile but not WHO,NA,NA,NA,soweto
+716,khomas,tobiashainyeko,NA,DTP3,Namibia,NA,24707,in shpfile but not WHO,NA,NA,NA,tobiashainyeko
+717,khomas,wanaheda,NA,DTP3,Namibia,NA,24708,in shpfile but not WHO,NA,NA,NA,wanaheda
+718,khomas,windhoekeast,NA,DTP3,Namibia,NA,24709,in shpfile but not WHO,NA,NA,NA,windhoekeast
+719,khomas,windhoekrural,NA,DTP3,Namibia,NA,24710,in shpfile but not WHO,NA,NA,NA,windhoekrural
+720,khomas,windhoekwest,NA,DTP3,Namibia,NA,24711,in shpfile but not WHO,NA,NA,NA,windhoekwest
+721,kunene,epupa,NA,DTP3,Namibia,NA,24712,in shpfile but not WHO,NA,NA,NA,epupa
+722,kunene,kamanjab,NA,DTP3,Namibia,NA,24713,in shpfile but not WHO,NA,NA,NA,kamanjab
+723,kunene,sesfontein,NA,DTP3,Namibia,NA,24717,in shpfile but not WHO,NA,NA,NA,sesfontein
+724,ohangwena,endola,NA,DTP3,Namibia,NA,24719,in shpfile but not WHO,NA,NA,NA,endola
+725,ohangwena,epembe,NA,DTP3,Namibia,NA,24721,in shpfile but not WHO,NA,NA,NA,epembe
+726,ohangwena,ohangwena,NA,DTP3,Namibia,NA,24722,in shpfile but not WHO,NA,NA,NA,ohangwena
+727,ohangwena,okongo,NA,DTP3,Namibia,NA,24723,in shpfile but not WHO,NA,NA,NA,okongo
+728,ohangwena,omulonga,NA,DTP3,Namibia,NA,24724,in shpfile but not WHO,NA,NA,NA,omulonga
+729,ohangwena,omundaungilo,NA,DTP3,Namibia,NA,24725,in shpfile but not WHO,NA,NA,NA,omundaungilo
+730,ohangwena,ondobe,NA,DTP3,Namibia,NA,24726,in shpfile but not WHO,NA,NA,NA,ondobe
+731,ohangwena,ongenga,NA,DTP3,Namibia,NA,24727,in shpfile but not WHO,NA,NA,NA,ongenga
+732,ohangwena,oshikango,NA,DTP3,Namibia,NA,24728,in shpfile but not WHO,NA,NA,NA,oshikango
+733,omaheke,aminius,NA,DTP3,Namibia,NA,24729,in shpfile but not WHO,NA,NA,NA,aminius
+734,omaheke,epukiro,NA,DTP3,Namibia,NA,24730,in shpfile but not WHO,NA,NA,NA,epukiro
+735,omaheke,kalahari,NA,DTP3,Namibia,NA,24732,in shpfile but not WHO,NA,NA,NA,kalahari
+736,omaheke,otjinene,NA,DTP3,Namibia,NA,24733,in shpfile but not WHO,NA,NA,NA,otjinene
+737,omaheke,otjombinde,NA,DTP3,Namibia,NA,24734,in shpfile but not WHO,NA,NA,NA,otjombinde
+738,omaheke,steinhausen,NA,DTP3,Namibia,NA,24735,in shpfile but not WHO,NA,NA,NA,steinhausen
+739,omusati,anamulenge,NA,DTP3,Namibia,NA,24736,in shpfile but not WHO,NA,NA,NA,anamulenge
+740,omusati,elim,NA,DTP3,Namibia,NA,24737,in shpfile but not WHO,NA,NA,NA,elim
+741,omusati,etayi,NA,DTP3,Namibia,NA,24738,in shpfile but not WHO,NA,NA,NA,etayi
+742,omusati,ogongo,NA,DTP3,Namibia,NA,24739,in shpfile but not WHO,NA,NA,NA,ogongo
+743,omusati,okalongo,NA,DTP3,Namibia,NA,24741,in shpfile but not WHO,NA,NA,NA,okalongo
+744,omusati,onesi,NA,DTP3,Namibia,NA,24742,in shpfile but not WHO,NA,NA,NA,onesi
+745,omusati,otamanzi,NA,DTP3,Namibia,NA,24744,in shpfile but not WHO,NA,NA,NA,otamanzi
+746,omusati,ruacana,NA,DTP3,Namibia,NA,24746,in shpfile but not WHO,NA,NA,NA,ruacana
+747,oshana,okaku,NA,DTP3,Namibia,NA,24748,in shpfile but not WHO,NA,NA,NA,okaku
+748,oshana,okatana,NA,DTP3,Namibia,NA,24749,in shpfile but not WHO,NA,NA,NA,okatana
+749,oshana,okatyali,NA,DTP3,Namibia,NA,24750,in shpfile but not WHO,NA,NA,NA,okatyali
+750,oshana,ompundja,NA,DTP3,Namibia,NA,24751,in shpfile but not WHO,NA,NA,NA,ompundja
+751,oshana,ondangwa,NA,DTP3,Namibia,NA,24752,in shpfile but not WHO,NA,NA,NA,ondangwa
+752,oshana,ongwediva,NA,DTP3,Namibia,NA,24753,in shpfile but not WHO,NA,NA,NA,ongwediva
+753,oshana,oshakatieast,NA,DTP3,Namibia,NA,24754,in shpfile but not WHO,NA,NA,NA,oshakatieast
+754,oshana,oshakatiwest,NA,DTP3,Namibia,NA,24755,in shpfile but not WHO,NA,NA,NA,oshakatiwest
+755,oshana,uukwiyu,NA,DTP3,Namibia,NA,24756,in shpfile but not WHO,NA,NA,NA,uukwiyu
+756,oshana,uuvudhiya,NA,DTP3,Namibia,NA,24757,in shpfile but not WHO,NA,NA,NA,uuvudhiya
+757,oshikoto,engodi,NA,DTP3,Namibia,NA,24758,in shpfile but not WHO,NA,NA,NA,engodi
+758,oshikoto,guinas,NA,DTP3,Namibia,NA,24759,in shpfile but not WHO,NA,NA,NA,guinas
+759,oshikoto,okankolo,NA,DTP3,Namibia,NA,24760,in shpfile but not WHO,NA,NA,NA,okankolo
+760,oshikoto,olukonda,NA,DTP3,Namibia,NA,24761,in shpfile but not WHO,NA,NA,NA,olukonda
+761,oshikoto,omuntele,NA,DTP3,Namibia,NA,24762,in shpfile but not WHO,NA,NA,NA,omuntele
+762,oshikoto,omuthiyagwipundi,NA,DTP3,Namibia,NA,24763,in shpfile but not WHO,NA,NA,NA,omuthiyagwipundi
+763,oshikoto,onayena,NA,DTP3,Namibia,NA,24764,in shpfile but not WHO,NA,NA,NA,onayena
+764,oshikoto,oniipa,NA,DTP3,Namibia,NA,24765,in shpfile but not WHO,NA,NA,NA,oniipa
+765,oshikoto,onyaanya,NA,DTP3,Namibia,NA,24766,in shpfile but not WHO,NA,NA,NA,onyaanya
+766,otjozondjupa,omatako,NA,DTP3,Namibia,NA,24771,in shpfile but not WHO,NA,NA,NA,omatako
+767,otjozondjupa,otavi,NA,DTP3,Namibia,NA,24772,in shpfile but not WHO,NA,NA,NA,otavi
+768,otjozondjupa,tsumkwe,NA,DTP3,Namibia,NA,24774,in shpfile but not WHO,NA,NA,NA,tsumkwe
+769,zambezi,kabe,NA,DTP3,Namibia,NA,24775,in shpfile but not WHO,NA,NA,NA,kabe
+770,zambezi,katimamulirorural,NA,DTP3,Namibia,NA,24776,in shpfile but not WHO,NA,NA,NA,katimamulirorural
+771,zambezi,katimamulirourban,NA,DTP3,Namibia,NA,24777,in shpfile but not WHO,NA,NA,NA,katimamulirourban
+772,zambezi,kongola,NA,DTP3,Namibia,NA,24778,in shpfile but not WHO,NA,NA,NA,kongola
+773,zambezi,linyandi,NA,DTP3,Namibia,NA,24779,in shpfile but not WHO,NA,NA,NA,linyandi
+774,zambezi,sibinda,NA,DTP3,Namibia,NA,24780,in shpfile but not WHO,NA,NA,NA,sibinda
+775,4444,anseauxpins,SYC,DTP3,Seychelles,92.1,NA,in WHO but not shpfile,NA,anseauxpins,NA,NA
+776,4444,anseboileau,SYC,DTP3,Seychelles,104,NA,in WHO but not shpfile,NA,anseboileau,NA,NA
+777,4444,anseroyale,SYC,DTP3,Seychelles,137.5,NA,in WHO but not shpfile,NA,anseroyale,NA,NA
+778,4444,baielazare,SYC,DTP3,Seychelles,90,NA,in WHO but not shpfile,NA,baielazare,NA,NA
+779,4444,baiestanne,SYC,DTP3,Seychelles,137.5,NA,in WHO but not shpfile,NA,baiestanne,NA,NA
+780,4444,beauvallon,SYC,DTP3,Seychelles,79,NA,in WHO but not shpfile,NA,beauvallon,NA,NA
+781,4444,beoliere,SYC,DTP3,Seychelles,87.8,NA,in WHO but not shpfile,NA,beoliere,NA,NA
+782,4444,englishriver,SYC,DTP3,Seychelles,101.6,NA,in WHO but not shpfile,NA,englishriver,NA,NA
+783,4444,glacis,SYC,DTP3,Seychelles,28,NA,in WHO but not shpfile,NA,glacis,NA,NA
+784,4444,grandanse,SYC,DTP3,Seychelles,89,NA,in WHO but not shpfile,NA,grandanse,NA,NA
+785,4444,lesmamelles,SYC,DTP3,Seychelles,76.6,NA,in WHO but not shpfile,NA,lesmamelles,NA,NA
+786,4444,logan,SYC,DTP3,Seychelles,117,NA,in WHO but not shpfile,NA,logan,NA,NA
+787,4444,montfluerie,SYC,DTP3,Seychelles,161.5,NA,in WHO but not shpfile,NA,montfluerie,NA,NA
+788,4444,portglaud,SYC,DTP3,Seychelles,76,NA,in WHO but not shpfile,NA,portglaud,NA,NA
+789,4444,takamaka,SYC,DTP3,Seychelles,69.3,NA,in WHO but not shpfile,NA,takamaka,NA,NA

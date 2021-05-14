@@ -1,0 +1,466 @@
+"","NAME.who","NAME.shpfile","NAME.who_adm1","vaccine","iso3","who_coverage","merge_status","GAUL_CODE"
+"1","brava","brava","brava","BCG","CPV",101,"success",2002052
+"2","brava","brava","brava","DTP1","CPV",101,"success",2002052
+"3","brava","brava","brava","DTP3","CPV",134.2857143,"success",2002052
+"4","brava","brava","brava","DTP4","CPV",100.952381,"success",2002052
+"5","brava","brava","brava","HepB_BD","CPV",83.5,"success",2002052
+"6","brava","brava","brava","HepB_Bdall","CPV",-4444,"success",2002052
+"7","brava","brava","brava","HepB3","CPV",134.2857143,"success",2002052
+"8","brava","brava","brava","Hib3","CPV",134.2857143,"success",2002052
+"9","brava","brava","brava","IPV1","CPV",91.4,"success",2002052
+"10","brava","brava","brava","MCV1","CPV",173.3,"success",2002052
+"11","brava","brava","brava","MCV2","CPV",115.2,"success",2002052
+"12","brava","brava","brava","MenA","CPV",-4444,"success",2002052
+"13","brava","brava","brava","PAB_DTP1","CPV",-4444,"success",2002052
+"14","brava","brava","brava","PCV1","CPV",-4444,"success",2002052
+"15","brava","brava","brava","PCV2","CPV",-4444,"success",2002052
+"16","brava","brava","brava","PCV3","CPV",-4444,"success",2002052
+"17","brava","brava","brava","Pol3","CPV",134.3,"success",2002052
+"18","brava","brava","brava","RCV1","CPV",173.3333333,"success",2002052
+"19","brava","brava","brava","Rota1","CPV",-4444,"success",2002052
+"20","brava","brava","brava","RotaC","CPV",-4444,"success",2002052
+"21","brava","brava","brava","TT2plus","CPV",78.2,"success",2002052
+"22","brava","brava","brava","VAD1","CPV",-4444,"success",2002052
+"23","brava","brava","brava","YFV","CPV",-4444,"success",2002052
+"24","maio","maio","maio","BCG","CPV",29.2,"success",3003052
+"25","maio","maio","maio","DTP1","CPV",29.2,"success",3003052
+"26","maio","maio","maio","DTP3","CPV",77.77777778,"success",3003052
+"27","maio","maio","maio","DTP4","CPV",74.07407407,"success",3003052
+"28","maio","maio","maio","HepB_BD","CPV",29.2,"success",3003052
+"29","maio","maio","maio","HepB_Bdall","CPV",-4444,"success",3003052
+"30","maio","maio","maio","HepB3","CPV",77.77777778,"success",3003052
+"31","maio","maio","maio","Hib3","CPV",77.77777778,"success",3003052
+"32","maio","maio","maio","IPV1","CPV",50.9,"success",3003052
+"33","maio","maio","maio","MCV1","CPV",88.9,"success",3003052
+"34","maio","maio","maio","MCV2","CPV",81.5,"success",3003052
+"35","maio","maio","maio","MenA","CPV",-4444,"success",3003052
+"36","maio","maio","maio","PAB_DTP1","CPV",-4444,"success",3003052
+"37","maio","maio","maio","PCV1","CPV",-4444,"success",3003052
+"38","maio","maio","maio","PCV2","CPV",-4444,"success",3003052
+"39","maio","maio","maio","PCV3","CPV",-4444,"success",3003052
+"40","maio","maio","maio","Pol3","CPV",77.8,"success",3003052
+"41","maio","maio","maio","RCV1","CPV",88.88888889,"success",3003052
+"42","maio","maio","maio","Rota1","CPV",-4444,"success",3003052
+"43","maio","maio","maio","RotaC","CPV",-4444,"success",3003052
+"44","maio","maio","maio","TT2plus","CPV",65.09433962,"success",3003052
+"45","maio","maio","maio","VAD1","CPV",-4444,"success",3003052
+"46","maio","maio","maio","YFV","CPV",-4444,"success",3003052
+"47","mosteiros","mosteiros","mosteiros","BCG","CPV",72.5,"success",4004052
+"48","mosteiros","mosteiros","mosteiros","DTP1","CPV",72.5,"success",4004052
+"49","mosteiros","mosteiros","mosteiros","DTP3","CPV",106.9518717,"success",4004052
+"50","mosteiros","mosteiros","mosteiros","DTP4","CPV",65.77540107,"success",4004052
+"51","mosteiros","mosteiros","mosteiros","HepB_BD","CPV",43.5,"success",4004052
+"52","mosteiros","mosteiros","mosteiros","HepB_Bdall","CPV",-4444,"success",4004052
+"53","mosteiros","mosteiros","mosteiros","HepB3","CPV",106.9518717,"success",4004052
+"54","mosteiros","mosteiros","mosteiros","Hib3","CPV",106.9518717,"success",4004052
+"55","mosteiros","mosteiros","mosteiros","IPV1","CPV",62.6,"success",4004052
+"56","mosteiros","mosteiros","mosteiros","MCV1","CPV",90.4,"success",4004052
+"57","mosteiros","mosteiros","mosteiros","MCV2","CPV",66.8,"success",4004052
+"58","mosteiros","mosteiros","mosteiros","MenA","CPV",-4444,"success",4004052
+"59","mosteiros","mosteiros","mosteiros","PAB_DTP1","CPV",-4444,"success",4004052
+"60","mosteiros","mosteiros","mosteiros","PCV1","CPV",-4444,"success",4004052
+"61","mosteiros","mosteiros","mosteiros","PCV2","CPV",-4444,"success",4004052
+"62","mosteiros","mosteiros","mosteiros","PCV3","CPV",-4444,"success",4004052
+"63","mosteiros","mosteiros","mosteiros","Pol3","CPV",107,"success",4004052
+"64","mosteiros","mosteiros","mosteiros","RCV1","CPV",90.37433155,"success",4004052
+"65","mosteiros","mosteiros","mosteiros","Rota1","CPV",-4444,"success",4004052
+"66","mosteiros","mosteiros","mosteiros","RotaC","CPV",-4444,"success",4004052
+"67","mosteiros","mosteiros","mosteiros","TT2plus","CPV",47.15025907,"success",4004052
+"68","mosteiros","mosteiros","mosteiros","VAD1","CPV",-4444,"success",4004052
+"69","mosteiros","mosteiros","mosteiros","YFV","CPV",-4444,"success",4004052
+"70","praia","praia","praia","BCG","CPV",124.7,"success",7007052
+"71","praia","praia","praia","DTP1","CPV",124.7,"success",7007052
+"72","praia","praia","praia","DTP3","CPV",99.53850591,"success",7007052
+"73","praia","praia","praia","DTP4","CPV",101.6440727,"success",7007052
+"74","praia","praia","praia","HepB_BD","CPV",121.9,"success",7007052
+"75","praia","praia","praia","HepB_Bdall","CPV",-4444,"success",7007052
+"76","praia","praia","praia","HepB3","CPV",99.53850591,"success",7007052
+"77","praia","praia","praia","Hib3","CPV",99.53850591,"success",7007052
+"78","praia","praia","praia","IPV1","CPV",61.1,"success",7007052
+"79","praia","praia","praia","MCV1","CPV",97.7,"success",7007052
+"80","praia","praia","praia","MCV2","CPV",83.4,"success",7007052
+"81","praia","praia","praia","MenA","CPV",-4444,"success",7007052
+"82","praia","praia","praia","PAB_DTP1","CPV",-4444,"success",7007052
+"83","praia","praia","praia","PCV1","CPV",-4444,"success",7007052
+"84","praia","praia","praia","PCV2","CPV",-4444,"success",7007052
+"85","praia","praia","praia","PCV3","CPV",-4444,"success",7007052
+"86","praia","praia","praia","Pol3","CPV",99.8,"success",7007052
+"87","praia","praia","praia","RCV1","CPV",97.69252956,"success",7007052
+"88","praia","praia","praia","Rota1","CPV",-4444,"success",7007052
+"89","praia","praia","praia","RotaC","CPV",-4444,"success",7007052
+"90","praia","praia","praia","TT2plus","CPV",66.14128905,"success",7007052
+"91","praia","praia","praia","VAD1","CPV",-4444,"success",7007052
+"92","praia","praia","praia","YFV","CPV",-4444,"success",7007052
+"93","sal","sal","sal","BCG","CPV",85.4,"success",11011052
+"94","sal","sal","sal","DTP1","CPV",85.4,"success",11011052
+"95","sal","sal","sal","DTP3","CPV",84.3,"success",11011052
+"96","sal","sal","sal","DTP4","CPV",75.2,"success",11011052
+"97","sal","sal","sal","HepB_BD","CPV",84.1,"success",11011052
+"98","sal","sal","sal","HepB_Bdall","CPV",-4444,"success",11011052
+"99","sal","sal","sal","HepB3","CPV",84.3,"success",11011052
+"100","sal","sal","sal","Hib3","CPV",84.3,"success",11011052
+"101","sal","sal","sal","IPV1","CPV",49.9,"success",11011052
+"102","sal","sal","sal","MCV1","CPV",84.3,"success",11011052
+"103","sal","sal","sal","MCV2","CPV",75.7,"success",11011052
+"104","sal","sal","sal","MenA","CPV",-4444,"success",11011052
+"105","sal","sal","sal","PAB_DTP1","CPV",-4444,"success",11011052
+"106","sal","sal","sal","PCV1","CPV",-4444,"success",11011052
+"107","sal","sal","sal","PCV2","CPV",-4444,"success",11011052
+"108","sal","sal","sal","PCV3","CPV",-4444,"success",11011052
+"109","sal","sal","sal","Pol3","CPV",84.3,"success",11011052
+"110","sal","sal","sal","RCV1","CPV",84.3,"success",11011052
+"111","sal","sal","sal","Rota1","CPV",-4444,"success",11011052
+"112","sal","sal","sal","RotaC","CPV",-4444,"success",11011052
+"113","sal","sal","sal","TT2plus","CPV",61.6,"success",11011052
+"114","sal","sal","sal","VAD1","CPV",-4444,"success",11011052
+"115","sal","sal","sal","YFV","CPV",-4444,"success",11011052
+"116","tarrafal","tarrafal","tarrafal","BCG","CPV",34.8,"success",21021052
+"117","tarrafal","tarrafal","tarrafal","DTP1","CPV",34.8,"success",21021052
+"118","tarrafal","tarrafal","tarrafal","DTP3","CPV",91.83098592,"success",21021052
+"119","tarrafal","tarrafal","tarrafal","DTP4","CPV",73.23943662,"success",21021052
+"120","tarrafal","tarrafal","tarrafal","HepB_BD","CPV",23,"success",21021052
+"121","tarrafal","tarrafal","tarrafal","HepB_Bdall","CPV",-4444,"success",21021052
+"122","tarrafal","tarrafal","tarrafal","HepB3","CPV",91.83098592,"success",21021052
+"123","tarrafal","tarrafal","tarrafal","Hib3","CPV",91.83098592,"success",21021052
+"124","tarrafal","tarrafal","tarrafal","IPV1","CPV",53.5,"success",21021052
+"125","tarrafal","tarrafal","tarrafal","MCV1","CPV",90.4,"success",21021052
+"126","tarrafal","tarrafal","tarrafal","MCV2","CPV",76.3,"success",21021052
+"127","tarrafal","tarrafal","tarrafal","MenA","CPV",-4444,"success",21021052
+"128","tarrafal","tarrafal","tarrafal","PAB_DTP1","CPV",-4444,"success",21021052
+"129","tarrafal","tarrafal","tarrafal","PCV1","CPV",-4444,"success",21021052
+"130","tarrafal","tarrafal","tarrafal","PCV2","CPV",-4444,"success",21021052
+"131","tarrafal","tarrafal","tarrafal","PCV3","CPV",-4444,"success",21021052
+"132","tarrafal","tarrafal","tarrafal","Pol3","CPV",94.6,"success",21021052
+"133","tarrafal","tarrafal","tarrafal","RCV1","CPV",90.42253521,"success",21021052
+"134","tarrafal","tarrafal","tarrafal","Rota1","CPV",-4444,"success",21021052
+"135","tarrafal","tarrafal","tarrafal","RotaC","CPV",-4444,"success",21021052
+"136","tarrafal","tarrafal","tarrafal","TT2plus","CPV",69.66292135,"success",21021052
+"137","tarrafal","tarrafal","tarrafal","VAD1","CPV",-4444,"success",21021052
+"138","tarrafal","tarrafal","tarrafal","YFV","CPV",-4444,"success",21021052
+"139","bvista","boavista","bvista","BCG","CPV",26.1,"fuzzy need fix",1001052
+"140","bvista","boavista","bvista","DTP1","CPV",26.1,"fuzzy need fix",1001052
+"141","bvista","boavista","bvista","DTP3","CPV",90.5,"fuzzy need fix",1001052
+"142","bvista","boavista","bvista","DTP4","CPV",87.4,"fuzzy need fix",1001052
+"143","bvista","boavista","bvista","HepB_BD","CPV",19.5,"fuzzy need fix",1001052
+"144","bvista","boavista","bvista","HepB_Bdall","CPV",-4444,"fuzzy need fix",1001052
+"145","bvista","boavista","bvista","HepB3","CPV",90.5,"fuzzy need fix",1001052
+"146","bvista","boavista","bvista","Hib3","CPV",90.5,"fuzzy need fix",1001052
+"147","bvista","boavista","bvista","IPV1","CPV",65.3,"fuzzy need fix",1001052
+"148","bvista","boavista","bvista","MCV1","CPV",93.6,"fuzzy need fix",1001052
+"149","bvista","boavista","bvista","MCV2","CPV",86.8,"fuzzy need fix",1001052
+"150","bvista","boavista","bvista","MenA","CPV",-4444,"fuzzy need fix",1001052
+"151","bvista","boavista","bvista","PAB_DTP1","CPV",-4444,"fuzzy need fix",1001052
+"152","bvista","boavista","bvista","PCV1","CPV",-4444,"fuzzy need fix",1001052
+"153","bvista","boavista","bvista","PCV2","CPV",-4444,"fuzzy need fix",1001052
+"154","bvista","boavista","bvista","PCV3","CPV",-4444,"fuzzy need fix",1001052
+"155","bvista","boavista","bvista","Pol3","CPV",90.5,"fuzzy need fix",1001052
+"156","bvista","boavista","bvista","RCV1","CPV",93.6,"fuzzy need fix",1001052
+"157","bvista","boavista","bvista","Rota1","CPV",-4444,"fuzzy need fix",1001052
+"158","bvista","boavista","bvista","RotaC","CPV",-4444,"fuzzy need fix",1001052
+"159","bvista","boavista","bvista","TT2plus","CPV",79.9,"fuzzy need fix",1001052
+"160","bvista","boavista","bvista","VAD1","CPV",-4444,"fuzzy need fix",1001052
+"161","bvista","boavista","bvista","YFV","CPV",-4444,"fuzzy need fix",1001052
+"162","paul","pal","paul","BCG","CPV",0,"fuzzy need fix",5005052
+"163","paul","pal","paul","DTP1","CPV",0,"fuzzy need fix",5005052
+"164","paul","pal","paul","DTP3","CPV",83.5443038,"fuzzy need fix",5005052
+"165","paul","pal","paul","DTP4","CPV",105.0632911,"fuzzy need fix",5005052
+"166","paul","pal","paul","HepB_BD","CPV",1.4,"fuzzy need fix",5005052
+"167","paul","pal","paul","HepB_Bdall","CPV",-4444,"fuzzy need fix",5005052
+"168","paul","pal","paul","HepB3","CPV",83.5443038,"fuzzy need fix",5005052
+"169","paul","pal","paul","Hib3","CPV",83.5443038,"fuzzy need fix",5005052
+"170","paul","pal","paul","IPV1","CPV",65.8,"fuzzy need fix",5005052
+"171","paul","pal","paul","MCV1","CPV",92.4,"fuzzy need fix",5005052
+"172","paul","pal","paul","MCV2","CPV",79.7,"fuzzy need fix",5005052
+"173","paul","pal","paul","MenA","CPV",-4444,"fuzzy need fix",5005052
+"174","paul","pal","paul","PAB_DTP1","CPV",-4444,"fuzzy need fix",5005052
+"175","paul","pal","paul","PCV1","CPV",-4444,"fuzzy need fix",5005052
+"176","paul","pal","paul","PCV2","CPV",-4444,"fuzzy need fix",5005052
+"177","paul","pal","paul","PCV3","CPV",-4444,"fuzzy need fix",5005052
+"178","paul","pal","paul","Pol3","CPV",83.5,"fuzzy need fix",5005052
+"179","paul","pal","paul","RCV1","CPV",92.4,"fuzzy need fix",5005052
+"180","paul","pal","paul","Rota1","CPV",-4444,"fuzzy need fix",5005052
+"181","paul","pal","paul","RotaC","CPV",-4444,"fuzzy need fix",5005052
+"182","paul","pal","paul","TT2plus","CPV",89,"fuzzy need fix",5005052
+"183","paul","pal","paul","VAD1","CPV",-4444,"fuzzy need fix",5005052
+"184","paul","pal","paul","YFV","CPV",-4444,"fuzzy need fix",5005052
+"185","sdomingos","suodomingos","sdomingos","BCG","CPV",0,"fuzzy need fix",15015052
+"186","sdomingos","suodomingos","sdomingos","DTP1","CPV",0,"fuzzy need fix",15015052
+"187","sdomingos","suodomingos","sdomingos","DTP3","CPV",87.09677419,"fuzzy need fix",15015052
+"188","sdomingos","suodomingos","sdomingos","DTP4","CPV",88.53046595,"fuzzy need fix",15015052
+"189","sdomingos","suodomingos","sdomingos","HepB_BD","CPV",6.5,"fuzzy need fix",15015052
+"190","sdomingos","suodomingos","sdomingos","HepB_Bdall","CPV",-4444,"fuzzy need fix",15015052
+"191","sdomingos","suodomingos","sdomingos","HepB3","CPV",87.09677419,"fuzzy need fix",15015052
+"192","sdomingos","suodomingos","sdomingos","Hib3","CPV",87.09677419,"fuzzy need fix",15015052
+"193","sdomingos","suodomingos","sdomingos","IPV1","CPV",57.7,"fuzzy need fix",15015052
+"194","sdomingos","suodomingos","sdomingos","MCV1","CPV",96.4,"fuzzy need fix",15015052
+"195","sdomingos","suodomingos","sdomingos","MCV2","CPV",82.8,"fuzzy need fix",15015052
+"196","sdomingos","suodomingos","sdomingos","MenA","CPV",-4444,"fuzzy need fix",15015052
+"197","sdomingos","suodomingos","sdomingos","PAB_DTP1","CPV",-4444,"fuzzy need fix",15015052
+"198","sdomingos","suodomingos","sdomingos","PCV1","CPV",-4444,"fuzzy need fix",15015052
+"199","sdomingos","suodomingos","sdomingos","PCV2","CPV",-4444,"fuzzy need fix",15015052
+"200","sdomingos","suodomingos","sdomingos","PCV3","CPV",-4444,"fuzzy need fix",15015052
+"201","sdomingos","suodomingos","sdomingos","Pol3","CPV",87.1,"fuzzy need fix",15015052
+"202","sdomingos","suodomingos","sdomingos","RCV1","CPV",96.41577061,"fuzzy need fix",15015052
+"203","sdomingos","suodomingos","sdomingos","Rota1","CPV",-4444,"fuzzy need fix",15015052
+"204","sdomingos","suodomingos","sdomingos","RotaC","CPV",-4444,"fuzzy need fix",15015052
+"205","sdomingos","suodomingos","sdomingos","TT2plus","CPV",40.64748201,"fuzzy need fix",15015052
+"206","sdomingos","suodomingos","sdomingos","VAD1","CPV",-4444,"fuzzy need fix",15015052
+"207","sdomingos","suodomingos","sdomingos","YFV","CPV",-4444,"fuzzy need fix",15015052
+"208","sfilipe","suofilipe","sfilipe","BCG","CPV",156.8,"fuzzy need fix",16016052
+"209","sfilipe","suofilipe","sfilipe","DTP1","CPV",156.8,"fuzzy need fix",16016052
+"210","sfilipe","suofilipe","sfilipe","DTP3","CPV",118.3673469,"fuzzy need fix",16016052
+"211","sfilipe","suofilipe","sfilipe","DTP4","CPV",106.8877551,"fuzzy need fix",16016052
+"212","sfilipe","suofilipe","sfilipe","HepB_BD","CPV",159.7,"fuzzy need fix",16016052
+"213","sfilipe","suofilipe","sfilipe","HepB_Bdall","CPV",-4444,"fuzzy need fix",16016052
+"214","sfilipe","suofilipe","sfilipe","HepB3","CPV",118.3673469,"fuzzy need fix",16016052
+"215","sfilipe","suofilipe","sfilipe","Hib3","CPV",118.3673469,"fuzzy need fix",16016052
+"216","sfilipe","suofilipe","sfilipe","IPV1","CPV",75.3,"fuzzy need fix",16016052
+"217","sfilipe","suofilipe","sfilipe","MCV1","CPV",115.1,"fuzzy need fix",16016052
+"218","sfilipe","suofilipe","sfilipe","MCV2","CPV",107.4,"fuzzy need fix",16016052
+"219","sfilipe","suofilipe","sfilipe","MenA","CPV",-4444,"fuzzy need fix",16016052
+"220","sfilipe","suofilipe","sfilipe","PAB_DTP1","CPV",-4444,"fuzzy need fix",16016052
+"221","sfilipe","suofilipe","sfilipe","PCV1","CPV",-4444,"fuzzy need fix",16016052
+"222","sfilipe","suofilipe","sfilipe","PCV2","CPV",-4444,"fuzzy need fix",16016052
+"223","sfilipe","suofilipe","sfilipe","PCV3","CPV",-4444,"fuzzy need fix",16016052
+"224","sfilipe","suofilipe","sfilipe","Pol3","CPV",118.4,"fuzzy need fix",16016052
+"225","sfilipe","suofilipe","sfilipe","RCV1","CPV",115.0510204,"fuzzy need fix",16016052
+"226","sfilipe","suofilipe","sfilipe","Rota1","CPV",-4444,"fuzzy need fix",16016052
+"227","sfilipe","suofilipe","sfilipe","RotaC","CPV",-4444,"fuzzy need fix",16016052
+"228","sfilipe","suofilipe","sfilipe","TT2plus","CPV",85.0129199,"fuzzy need fix",16016052
+"229","sfilipe","suofilipe","sfilipe","VAD1","CPV",-4444,"fuzzy need fix",16016052
+"230","sfilipe","suofilipe","sfilipe","YFV","CPV",-4444,"fuzzy need fix",16016052
+"231","smiguel","suomiguel","smiguel","BCG","CPV",54.5,"fuzzy need fix",18018052
+"232","smiguel","suomiguel","smiguel","DTP1","CPV",54.5,"fuzzy need fix",18018052
+"233","smiguel","suomiguel","smiguel","DTP3","CPV",108.0291971,"fuzzy need fix",18018052
+"234","smiguel","suomiguel","smiguel","DTP4","CPV",87.95620438,"fuzzy need fix",18018052
+"235","smiguel","suomiguel","smiguel","HepB_BD","CPV",52.4,"fuzzy need fix",18018052
+"236","smiguel","suomiguel","smiguel","HepB_Bdall","CPV",-4444,"fuzzy need fix",18018052
+"237","smiguel","suomiguel","smiguel","HepB3","CPV",108.0291971,"fuzzy need fix",18018052
+"238","smiguel","suomiguel","smiguel","Hib3","CPV",108.0291971,"fuzzy need fix",18018052
+"239","smiguel","suomiguel","smiguel","IPV1","CPV",66.1,"fuzzy need fix",18018052
+"240","smiguel","suomiguel","smiguel","MCV1","CPV",104,"fuzzy need fix",18018052
+"241","smiguel","suomiguel","smiguel","MCV2","CPV",77.7,"fuzzy need fix",18018052
+"242","smiguel","suomiguel","smiguel","MenA","CPV",-4444,"fuzzy need fix",18018052
+"243","smiguel","suomiguel","smiguel","PAB_DTP1","CPV",-4444,"fuzzy need fix",18018052
+"244","smiguel","suomiguel","smiguel","PCV1","CPV",-4444,"fuzzy need fix",18018052
+"245","smiguel","suomiguel","smiguel","PCV2","CPV",-4444,"fuzzy need fix",18018052
+"246","smiguel","suomiguel","smiguel","PCV3","CPV",-4444,"fuzzy need fix",18018052
+"247","smiguel","suomiguel","smiguel","Pol3","CPV",108,"fuzzy need fix",18018052
+"248","smiguel","suomiguel","smiguel","RCV1","CPV",104.0145985,"fuzzy need fix",18018052
+"249","smiguel","suomiguel","smiguel","Rota1","CPV",-4444,"fuzzy need fix",18018052
+"250","smiguel","suomiguel","smiguel","RotaC","CPV",-4444,"fuzzy need fix",18018052
+"251","smiguel","suomiguel","smiguel","TT2plus","CPV",112.3636364,"fuzzy need fix",18018052
+"252","smiguel","suomiguel","smiguel","VAD1","CPV",-4444,"fuzzy need fix",18018052
+"253","smiguel","suomiguel","smiguel","YFV","CPV",-4444,"fuzzy need fix",18018052
+"254","svicente","suovicente","svicente","BCG","CPV",114.7,"fuzzy need fix",20020052
+"255","svicente","suovicente","svicente","DTP1","CPV",114.7,"fuzzy need fix",20020052
+"256","svicente","suovicente","svicente","DTP3","CPV",86.02305476,"fuzzy need fix",20020052
+"257","svicente","suovicente","svicente","DTP4","CPV",75.43227666,"fuzzy need fix",20020052
+"258","svicente","suovicente","svicente","HepB_BD","CPV",106.9,"fuzzy need fix",20020052
+"259","svicente","suovicente","svicente","HepB_Bdall","CPV",-4444,"fuzzy need fix",20020052
+"260","svicente","suovicente","svicente","HepB3","CPV",86.02305476,"fuzzy need fix",20020052
+"261","svicente","suovicente","svicente","Hib3","CPV",86.02305476,"fuzzy need fix",20020052
+"262","svicente","suovicente","svicente","IPV1","CPV",54.5,"fuzzy need fix",20020052
+"263","svicente","suovicente","svicente","MCV1","CPV",83.4,"fuzzy need fix",20020052
+"264","svicente","suovicente","svicente","MCV2","CPV",79.3,"fuzzy need fix",20020052
+"265","svicente","suovicente","svicente","MenA","CPV",-4444,"fuzzy need fix",20020052
+"266","svicente","suovicente","svicente","PAB_DTP1","CPV",-4444,"fuzzy need fix",20020052
+"267","svicente","suovicente","svicente","PCV1","CPV",-4444,"fuzzy need fix",20020052
+"268","svicente","suovicente","svicente","PCV2","CPV",-4444,"fuzzy need fix",20020052
+"269","svicente","suovicente","svicente","PCV3","CPV",-4444,"fuzzy need fix",20020052
+"270","svicente","suovicente","svicente","Pol3","CPV",86,"fuzzy need fix",20020052
+"271","svicente","suovicente","svicente","RCV1","CPV",83.3573487,"fuzzy need fix",20020052
+"272","svicente","suovicente","svicente","Rota1","CPV",-4444,"fuzzy need fix",20020052
+"273","svicente","suovicente","svicente","RotaC","CPV",-4444,"fuzzy need fix",20020052
+"274","svicente","suovicente","svicente","TT2plus","CPV",44.12400865,"fuzzy need fix",20020052
+"275","svicente","suovicente","svicente","VAD1","CPV",-4444,"fuzzy need fix",20020052
+"276","svicente","suovicente","svicente","YFV","CPV",-4444,"fuzzy need fix",20020052
+"277","bvista",NA,"bvista","BCG","CPV",26.1,"in WHO but not shpfile",NA
+"278","bvista",NA,"bvista","DTP3","CPV",90.5,"in WHO but not shpfile",NA
+"279","bvista",NA,"bvista","DTP4","CPV",87.4,"in WHO but not shpfile",NA
+"280","bvista",NA,"bvista","HepB_BD","CPV",19.5,"in WHO but not shpfile",NA
+"281","bvista",NA,"bvista","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"282","bvista",NA,"bvista","IPV1","CPV",65.3,"in WHO but not shpfile",NA
+"283","bvista",NA,"bvista","MCV1","CPV",93.6,"in WHO but not shpfile",NA
+"284","bvista",NA,"bvista","MCV2","CPV",86.8,"in WHO but not shpfile",NA
+"285","bvista",NA,"bvista","TT2plus","CPV",79.9,"in WHO but not shpfile",NA
+"286","paul",NA,"paul","BCG","CPV",0,"in WHO but not shpfile",NA
+"287","paul",NA,"paul","DTP3","CPV",83.5443038,"in WHO but not shpfile",NA
+"288","paul",NA,"paul","DTP4","CPV",105.0632911,"in WHO but not shpfile",NA
+"289","paul",NA,"paul","HepB_BD","CPV",1.4,"in WHO but not shpfile",NA
+"290","paul",NA,"paul","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"291","paul",NA,"paul","IPV1","CPV",65.8,"in WHO but not shpfile",NA
+"292","paul",NA,"paul","MCV1","CPV",92.4,"in WHO but not shpfile",NA
+"293","paul",NA,"paul","MCV2","CPV",79.7,"in WHO but not shpfile",NA
+"294","paul",NA,"paul","Pol3","CPV",83.5,"in WHO but not shpfile",NA
+"295","paul",NA,"paul","TT2plus","CPV",89,"in WHO but not shpfile",NA
+"296","pnovo",NA,"pnovo","BCG","CPV",56.2,"in WHO but not shpfile",NA
+"297","pnovo",NA,"pnovo","DTP3","CPV",88.03986711,"in WHO but not shpfile",NA
+"298","pnovo",NA,"pnovo","DTP4","CPV",95.34883721,"in WHO but not shpfile",NA
+"299","pnovo",NA,"pnovo","HepB_BD","CPV",33.1,"in WHO but not shpfile",NA
+"300","pnovo",NA,"pnovo","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"301","pnovo",NA,"pnovo","IPV1","CPV",54.5,"in WHO but not shpfile",NA
+"302","pnovo",NA,"pnovo","MCV1","CPV",85,"in WHO but not shpfile",NA
+"303","pnovo",NA,"pnovo","MCV2","CPV",95.3,"in WHO but not shpfile",NA
+"304","pnovo",NA,"pnovo","Pol3","CPV",88,"in WHO but not shpfile",NA
+"305","pnovo",NA,"pnovo","RCV1","CPV",85.04983389,"in WHO but not shpfile",NA
+"306","pnovo",NA,"pnovo","TT2plus","CPV",76.2541806,"in WHO but not shpfile",NA
+"307","rbravasn",NA,"rbravasn","BCG","CPV",36.3,"in WHO but not shpfile",NA
+"308","rbravasn",NA,"rbravasn","DTP3","CPV",100.9615385,"in WHO but not shpfile",NA
+"309","rbravasn",NA,"rbravasn","DTP4","CPV",108.6538462,"in WHO but not shpfile",NA
+"310","rbravasn",NA,"rbravasn","HepB_BD","CPV",35.3,"in WHO but not shpfile",NA
+"311","rbravasn",NA,"rbravasn","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"312","rbravasn",NA,"rbravasn","IPV1","CPV",61.5,"in WHO but not shpfile",NA
+"313","rbravasn",NA,"rbravasn","MCV1","CPV",94.2,"in WHO but not shpfile",NA
+"314","rbravasn",NA,"rbravasn","MCV2","CPV",99,"in WHO but not shpfile",NA
+"315","rbravasn",NA,"rbravasn","Pol3","CPV",101,"in WHO but not shpfile",NA
+"316","rbravasn",NA,"rbravasn","RCV1","CPV",94.23076923,"in WHO but not shpfile",NA
+"317","rbravasn",NA,"rbravasn","TT2plus","CPV",57.84313725,"in WHO but not shpfile",NA
+"318","rgrande",NA,"rgrande","BCG","CPV",144.9,"in WHO but not shpfile",NA
+"319","rgrande",NA,"rgrande","DTP3","CPV",93.80530973,"in WHO but not shpfile",NA
+"320","rgrande",NA,"rgrande","DTP4","CPV",88.49557522,"in WHO but not shpfile",NA
+"321","rgrande",NA,"rgrande","HepB_BD","CPV",187.9,"in WHO but not shpfile",NA
+"322","rgrande",NA,"rgrande","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"323","rgrande",NA,"rgrande","IPV1","CPV",61.9,"in WHO but not shpfile",NA
+"324","rgrande",NA,"rgrande","MCV1","CPV",91.2,"in WHO but not shpfile",NA
+"325","rgrande",NA,"rgrande","MCV2","CPV",96.9,"in WHO but not shpfile",NA
+"326","rgrande",NA,"rgrande","Pol3","CPV",93.8,"in WHO but not shpfile",NA
+"327","rgrande",NA,"rgrande","RCV1","CPV",91.15044248,"in WHO but not shpfile",NA
+"328","rgrande",NA,"rgrande","TT2plus","CPV",49.06542056,"in WHO but not shpfile",NA
+"329","rgsantiago",NA,"rgsantiago","BCG","CPV",6.4,"in WHO but not shpfile",NA
+"330","rgsantiago",NA,"rgsantiago","DTP3","CPV",84.17721519,"in WHO but not shpfile",NA
+"331","rgsantiago",NA,"rgsantiago","DTP4","CPV",75.94936709,"in WHO but not shpfile",NA
+"332","rgsantiago",NA,"rgsantiago","HepB_BD","CPV",4.5,"in WHO but not shpfile",NA
+"333","rgsantiago",NA,"rgsantiago","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"334","rgsantiago",NA,"rgsantiago","IPV1","CPV",56.3,"in WHO but not shpfile",NA
+"335","rgsantiago",NA,"rgsantiago","MCV1","CPV",70.9,"in WHO but not shpfile",NA
+"336","rgsantiago",NA,"rgsantiago","MCV2","CPV",75.3,"in WHO but not shpfile",NA
+"337","rgsantiago",NA,"rgsantiago","Pol3","CPV",84.2,"in WHO but not shpfile",NA
+"338","rgsantiago",NA,"rgsantiago","RCV1","CPV",70.88607595,"in WHO but not shpfile",NA
+"339","rgsantiago",NA,"rgsantiago","TT2plus","CPV",67.30769231,"in WHO but not shpfile",NA
+"340","scatarina",NA,"scatarina","BCG","CPV",166,"in WHO but not shpfile",NA
+"341","scatarina",NA,"scatarina","DTP3","CPV",94.85213582,"in WHO but not shpfile",NA
+"342","scatarina",NA,"scatarina","DTP4","CPV",90.36144578,"in WHO but not shpfile",NA
+"343","scatarina",NA,"scatarina","HepB_BD","CPV",177,"in WHO but not shpfile",NA
+"344","scatarina",NA,"scatarina","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"345","scatarina",NA,"scatarina","IPV1","CPV",64.6,"in WHO but not shpfile",NA
+"346","scatarina",NA,"scatarina","MCV1","CPV",103.7,"in WHO but not shpfile",NA
+"347","scatarina",NA,"scatarina","MCV2","CPV",87,"in WHO but not shpfile",NA
+"348","scatarina",NA,"scatarina","Pol3","CPV",94.9,"in WHO but not shpfile",NA
+"349","scatarina",NA,"scatarina","RCV1","CPV",103.7239869,"in WHO but not shpfile",NA
+"350","scatarina",NA,"scatarina","TT2plus","CPV",61.30760986,"in WHO but not shpfile",NA
+"351","scdefogo",NA,"scdefogo","BCG","CPV",22.9,"in WHO but not shpfile",NA
+"352","scdefogo",NA,"scdefogo","DTP3","CPV",75.89285714,"in WHO but not shpfile",NA
+"353","scdefogo",NA,"scdefogo","DTP4","CPV",54.46428571,"in WHO but not shpfile",NA
+"354","scdefogo",NA,"scdefogo","HepB_BD","CPV",18.3,"in WHO but not shpfile",NA
+"355","scdefogo",NA,"scdefogo","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"356","scdefogo",NA,"scdefogo","IPV1","CPV",50,"in WHO but not shpfile",NA
+"357","scdefogo",NA,"scdefogo","MCV1","CPV",89.3,"in WHO but not shpfile",NA
+"358","scdefogo",NA,"scdefogo","MCV2","CPV",64.3,"in WHO but not shpfile",NA
+"359","scdefogo",NA,"scdefogo","Pol3","CPV",75.9,"in WHO but not shpfile",NA
+"360","scdefogo",NA,"scdefogo","RCV1","CPV",89.28571429,"in WHO but not shpfile",NA
+"361","scdefogo",NA,"scdefogo","TT2plus","CPV",50.4587156,"in WHO but not shpfile",NA
+"362","scruz",NA,"scruz","BCG","CPV",57.7,"in WHO but not shpfile",NA
+"363","scruz",NA,"scruz","DTP3","CPV",101.7045455,"in WHO but not shpfile",NA
+"364","scruz",NA,"scruz","DTP4","CPV",93.56060606,"in WHO but not shpfile",NA
+"365","scruz",NA,"scruz","HepB_BD","CPV",50.9,"in WHO but not shpfile",NA
+"366","scruz",NA,"scruz","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"367","scruz",NA,"scruz","IPV1","CPV",63.3,"in WHO but not shpfile",NA
+"368","scruz",NA,"scruz","MCV1","CPV",98.5,"in WHO but not shpfile",NA
+"369","scruz",NA,"scruz","MCV2","CPV",107.8,"in WHO but not shpfile",NA
+"370","scruz",NA,"scruz","Pol3","CPV",101.7,"in WHO but not shpfile",NA
+"371","scruz",NA,"scruz","RCV1","CPV",98.48484848,"in WHO but not shpfile",NA
+"372","scruz",NA,"scruz","TT2plus","CPV",66.0952381,"in WHO but not shpfile",NA
+"373","sdomingos",NA,"sdomingos","BCG","CPV",0,"in WHO but not shpfile",NA
+"374","sdomingos",NA,"sdomingos","DTP3","CPV",87.09677419,"in WHO but not shpfile",NA
+"375","sdomingos",NA,"sdomingos","DTP4","CPV",88.53046595,"in WHO but not shpfile",NA
+"376","sdomingos",NA,"sdomingos","HepB_BD","CPV",6.5,"in WHO but not shpfile",NA
+"377","sdomingos",NA,"sdomingos","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"378","sdomingos",NA,"sdomingos","IPV1","CPV",57.7,"in WHO but not shpfile",NA
+"379","sdomingos",NA,"sdomingos","MCV1","CPV",96.4,"in WHO but not shpfile",NA
+"380","sdomingos",NA,"sdomingos","MCV2","CPV",82.8,"in WHO but not shpfile",NA
+"381","sdomingos",NA,"sdomingos","Pol3","CPV",87.1,"in WHO but not shpfile",NA
+"382","sdomingos",NA,"sdomingos","RCV1","CPV",96.41577061,"in WHO but not shpfile",NA
+"383","sdomingos",NA,"sdomingos","TT2plus","CPV",40.64748201,"in WHO but not shpfile",NA
+"384","sfilipe",NA,"sfilipe","BCG","CPV",156.8,"in WHO but not shpfile",NA
+"385","sfilipe",NA,"sfilipe","DTP3","CPV",118.3673469,"in WHO but not shpfile",NA
+"386","sfilipe",NA,"sfilipe","DTP4","CPV",106.8877551,"in WHO but not shpfile",NA
+"387","sfilipe",NA,"sfilipe","HepB_BD","CPV",159.7,"in WHO but not shpfile",NA
+"388","sfilipe",NA,"sfilipe","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"389","sfilipe",NA,"sfilipe","IPV1","CPV",75.3,"in WHO but not shpfile",NA
+"390","sfilipe",NA,"sfilipe","MCV1","CPV",115.1,"in WHO but not shpfile",NA
+"391","sfilipe",NA,"sfilipe","MCV2","CPV",107.4,"in WHO but not shpfile",NA
+"392","sfilipe",NA,"sfilipe","Pol3","CPV",118.4,"in WHO but not shpfile",NA
+"393","sfilipe",NA,"sfilipe","RCV1","CPV",115.0510204,"in WHO but not shpfile",NA
+"394","sfilipe",NA,"sfilipe","TT2plus","CPV",85.0129199,"in WHO but not shpfile",NA
+"395","slorgaos",NA,"slorgaos","BCG","CPV",0,"in WHO but not shpfile",NA
+"396","slorgaos",NA,"slorgaos","DTP3","CPV",127.0491803,"in WHO but not shpfile",NA
+"397","slorgaos",NA,"slorgaos","DTP4","CPV",120.4918033,"in WHO but not shpfile",NA
+"398","slorgaos",NA,"slorgaos","HepB_BD","CPV",4.1,"in WHO but not shpfile",NA
+"399","slorgaos",NA,"slorgaos","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"400","slorgaos",NA,"slorgaos","IPV1","CPV",63.9,"in WHO but not shpfile",NA
+"401","slorgaos",NA,"slorgaos","MCV1","CPV",146.7,"in WHO but not shpfile",NA
+"402","slorgaos",NA,"slorgaos","MCV2","CPV",112.3,"in WHO but not shpfile",NA
+"403","slorgaos",NA,"slorgaos","Pol3","CPV",127,"in WHO but not shpfile",NA
+"404","slorgaos",NA,"slorgaos","RCV1","CPV",146.7213115,"in WHO but not shpfile",NA
+"405","slorgaos",NA,"slorgaos","TT2plus","CPV",97.52066116,"in WHO but not shpfile",NA
+"406","smiguel",NA,"smiguel","BCG","CPV",54.5,"in WHO but not shpfile",NA
+"407","smiguel",NA,"smiguel","DTP3","CPV",108.0291971,"in WHO but not shpfile",NA
+"408","smiguel",NA,"smiguel","DTP4","CPV",87.95620438,"in WHO but not shpfile",NA
+"409","smiguel",NA,"smiguel","HepB_BD","CPV",52.4,"in WHO but not shpfile",NA
+"410","smiguel",NA,"smiguel","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"411","smiguel",NA,"smiguel","IPV1","CPV",66.1,"in WHO but not shpfile",NA
+"412","smiguel",NA,"smiguel","MCV1","CPV",104,"in WHO but not shpfile",NA
+"413","smiguel",NA,"smiguel","MCV2","CPV",77.7,"in WHO but not shpfile",NA
+"414","smiguel",NA,"smiguel","Pol3","CPV",108,"in WHO but not shpfile",NA
+"415","smiguel",NA,"smiguel","RCV1","CPV",104.0145985,"in WHO but not shpfile",NA
+"416","smiguel",NA,"smiguel","TT2plus","CPV",112.3636364,"in WHO but not shpfile",NA
+"417","ssmundo",NA,"ssmundo","BCG","CPV",6.4,"in WHO but not shpfile",NA
+"418","ssmundo",NA,"ssmundo","DTP3","CPV",87.35632184,"in WHO but not shpfile",NA
+"419","ssmundo",NA,"ssmundo","DTP4","CPV",78.16091954,"in WHO but not shpfile",NA
+"420","ssmundo",NA,"ssmundo","HepB_BD","CPV",0,"in WHO but not shpfile",NA
+"421","ssmundo",NA,"ssmundo","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"422","ssmundo",NA,"ssmundo","IPV1","CPV",56.3,"in WHO but not shpfile",NA
+"423","ssmundo",NA,"ssmundo","MCV1","CPV",77.6,"in WHO but not shpfile",NA
+"424","ssmundo",NA,"ssmundo","MCV2","CPV",71.3,"in WHO but not shpfile",NA
+"425","ssmundo",NA,"ssmundo","Pol3","CPV",87.4,"in WHO but not shpfile",NA
+"426","ssmundo",NA,"ssmundo","RCV1","CPV",77.5862069,"in WHO but not shpfile",NA
+"427","ssmundo",NA,"ssmundo","TT2plus","CPV",50.58139535,"in WHO but not shpfile",NA
+"428","svicente",NA,"svicente","BCG","CPV",114.7,"in WHO but not shpfile",NA
+"429","svicente",NA,"svicente","DTP3","CPV",86.02305476,"in WHO but not shpfile",NA
+"430","svicente",NA,"svicente","DTP4","CPV",75.43227666,"in WHO but not shpfile",NA
+"431","svicente",NA,"svicente","HepB_BD","CPV",106.9,"in WHO but not shpfile",NA
+"432","svicente",NA,"svicente","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"433","svicente",NA,"svicente","IPV1","CPV",54.5,"in WHO but not shpfile",NA
+"434","svicente",NA,"svicente","MCV1","CPV",83.4,"in WHO but not shpfile",NA
+"435","svicente",NA,"svicente","MCV2","CPV",79.3,"in WHO but not shpfile",NA
+"436","svicente",NA,"svicente","Pol3","CPV",86,"in WHO but not shpfile",NA
+"437","svicente",NA,"svicente","RCV1","CPV",83.3573487,"in WHO but not shpfile",NA
+"438","svicente",NA,"svicente","TT2plus","CPV",44.12400865,"in WHO but not shpfile",NA
+"439","tarrafalsn",NA,"tarrafalsn","BCG","CPV",34.7,"in WHO but not shpfile",NA
+"440","tarrafalsn",NA,"tarrafalsn","DTP3","CPV",102.0833333,"in WHO but not shpfile",NA
+"441","tarrafalsn",NA,"tarrafalsn","DTP4","CPV",79.16666667,"in WHO but not shpfile",NA
+"442","tarrafalsn",NA,"tarrafalsn","HepB_BD","CPV",33.7,"in WHO but not shpfile",NA
+"443","tarrafalsn",NA,"tarrafalsn","HepB_Bdall","CPV",-4444,"in WHO but not shpfile",NA
+"444","tarrafalsn",NA,"tarrafalsn","IPV1","CPV",59.4,"in WHO but not shpfile",NA
+"445","tarrafalsn",NA,"tarrafalsn","MCV1","CPV",108.3,"in WHO but not shpfile",NA
+"446","tarrafalsn",NA,"tarrafalsn","MCV2","CPV",78.1,"in WHO but not shpfile",NA
+"447","tarrafalsn",NA,"tarrafalsn","Pol3","CPV",102.1,"in WHO but not shpfile",NA
+"448","tarrafalsn",NA,"tarrafalsn","RCV1","CPV",108.3333333,"in WHO but not shpfile",NA
+"449","tarrafalsn",NA,"tarrafalsn","TT2plus","CPV",22.10526316,"in WHO but not shpfile",NA
+"450",NA,"boavista","boavista",NA,"CPV",NA,"in shpfile but not WHO",1001052
+"451",NA,"pal","pal",NA,"CPV",NA,"in shpfile but not WHO",5005052
+"452",NA,"portonovo","portonovo",NA,"CPV",NA,"in shpfile but not WHO",6006052
+"453",NA,"ribeirabrava","ribeirabrava",NA,"CPV",NA,"in shpfile but not WHO",8008052
+"454",NA,"ribeiragrande","ribeiragrande",NA,"CPV",NA,"in shpfile but not WHO",9009052
+"455",NA,"ribeiragrandedesantiago","ribeiragrandedesantiago",NA,"CPV",NA,"in shpfile but not WHO",10010052
+"456",NA,"santacatarina","santacatarina",NA,"CPV",NA,"in shpfile but not WHO",12012052
+"457",NA,"santacatarinadofogo","santacatarinadofogo",NA,"CPV",NA,"in shpfile but not WHO",13013052
+"458",NA,"santacruz","santacruz",NA,"CPV",NA,"in shpfile but not WHO",14014052
+"459",NA,"suodomingos","suodomingos",NA,"CPV",NA,"in shpfile but not WHO",15015052
+"460",NA,"suofilipe","suofilipe",NA,"CPV",NA,"in shpfile but not WHO",16016052
+"461",NA,"suolourenodosorguos","suolourenodosorguos",NA,"CPV",NA,"in shpfile but not WHO",17017052
+"462",NA,"suomiguel","suomiguel",NA,"CPV",NA,"in shpfile but not WHO",18018052
+"463",NA,"suosalvadordomundo","suosalvadordomundo",NA,"CPV",NA,"in shpfile but not WHO",19019052
+"464",NA,"suovicente","suovicente",NA,"CPV",NA,"in shpfile but not WHO",20020052
+"465",NA,"tarrafaldesuonicolau","tarrafaldesuonicolau",NA,"CPV",NA,"in shpfile but not WHO",22022052

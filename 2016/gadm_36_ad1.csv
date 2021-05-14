@@ -1,0 +1,3617 @@
+ADM1_CODE,ADM1_NAME,ADM0_CODE,ADM0_NAME,GAUL_CODE,ISO
+1002,Badakhshan,2,Afghanistan,1002,AFG
+2002,Badghis,2,Afghanistan,2002,AFG
+3002,Baghlan,2,Afghanistan,3002,AFG
+4002,Balkh,2,Afghanistan,4002,AFG
+5002,Bamyan,2,Afghanistan,5002,AFG
+6002,Daykundi,2,Afghanistan,6002,AFG
+7002,Farah,2,Afghanistan,7002,AFG
+8002,Faryab,2,Afghanistan,8002,AFG
+9002,Ghazni,2,Afghanistan,9002,AFG
+10002,Ghor,2,Afghanistan,10002,AFG
+11002,Hilmand,2,Afghanistan,11002,AFG
+12002,Hirat,2,Afghanistan,12002,AFG
+13002,Jawzjan,2,Afghanistan,13002,AFG
+14002,Kabul,2,Afghanistan,14002,AFG
+15002,Kandahar,2,Afghanistan,15002,AFG
+16002,Kapisa,2,Afghanistan,16002,AFG
+17002,Khost,2,Afghanistan,17002,AFG
+18002,Kunar,2,Afghanistan,18002,AFG
+19002,Kunduz,2,Afghanistan,19002,AFG
+20002,Laghman,2,Afghanistan,20002,AFG
+21002,Logar,2,Afghanistan,21002,AFG
+22002,Nangarhar,2,Afghanistan,22002,AFG
+23002,Nimroz,2,Afghanistan,23002,AFG
+24002,Nuristan,2,Afghanistan,24002,AFG
+25002,Paktika,2,Afghanistan,25002,AFG
+26002,Paktya,2,Afghanistan,26002,AFG
+27002,Panjshir,2,Afghanistan,27002,AFG
+28002,Parwan,2,Afghanistan,28002,AFG
+29002,Samangan,2,Afghanistan,29002,AFG
+30002,Sari Pul,2,Afghanistan,30002,AFG
+31002,Takhar,2,Afghanistan,31002,AFG
+32002,Uruzgan,2,Afghanistan,32002,AFG
+33002,Wardak,2,Afghanistan,33002,AFG
+34002,Zabul,2,Afghanistan,34002,AFG
+1003,Bengo,3,Angola,1003,AGO
+2003,Benguela,3,Angola,2003,AGO
+3003,Bi??,3,Angola,3003,AGO
+4003,Cabinda,3,Angola,4003,AGO
+5003,Cuando Cubango,3,Angola,5003,AGO
+6003,Cuanza Norte,3,Angola,6003,AGO
+7003,Cuanza Sul,3,Angola,7003,AGO
+8003,Cunene,3,Angola,8003,AGO
+9003,Huambo,3,Angola,9003,AGO
+10003,Hu?¡la,3,Angola,10003,AGO
+11003,Luanda,3,Angola,11003,AGO
+12003,Lunda Norte,3,Angola,12003,AGO
+13003,Lunda Sul,3,Angola,13003,AGO
+14003,Malanje,3,Angola,14003,AGO
+15003,Moxico,3,Angola,15003,AGO
+16003,Namibe,3,Angola,16003,AGO
+17003,U?¡ge,3,Angola,17003,AGO
+18003,Zaire,3,Angola,18003,AGO
+1005,Br?ñnd??,5,?àland,1005,ALA
+2005,Ecker??,5,?àland,2005,ALA
+3005,Finstr??m,5,?àland,3005,ALA
+4005,F??gl??,5,?àland,4005,ALA
+5005,Geta,5,?àland,5005,ALA
+6005,Hammarland,5,?àland,6005,ALA
+7005,Jomala,5,?àland,7005,ALA
+8005,K??kar,5,?àland,8005,ALA
+9005,Kumlinge,5,?àland,9005,ALA
+10005,Lemland,5,?àland,10005,ALA
+11005,Lumparland,5,?àland,11005,ALA
+12005,Mariehamn,5,?àland,12005,ALA
+13005,Saltvik,5,?àland,13005,ALA
+14005,Sottunga,5,?àland,14005,ALA
+15005,Sund,5,?àland,15005,ALA
+16005,V?Ñrd??,5,?àland,16005,ALA
+1006,Berat,6,Albania,1006,ALB
+2006,Dib?½r,6,Albania,2006,ALB
+3006,Durr?½s,6,Albania,3006,ALB
+4006,Elbasan,6,Albania,4006,ALB
+5006,Fier,6,Albania,5006,ALB
+6006,Gjirokast?½r,6,Albania,6006,ALB
+7006,Kor?º?½,6,Albania,7006,ALB
+8006,Kuk?½s,6,Albania,8006,ALB
+9006,Lezh?½,6,Albania,9006,ALB
+10006,Shkod?½r,6,Albania,10006,ALB
+11006,Tiran?½,6,Albania,11006,ALB
+12006,Vlor?½,6,Albania,12006,ALB
+1007,Andorra la Vella,7,Andorra,1007,AND
+2007,Canillo,7,Andorra,2007,AND
+3007,Encamp,7,Andorra,3007,AND
+4007,Escaldes-Engordany,7,Andorra,4007,AND
+5007,La Massana,7,Andorra,5007,AND
+6007,Ordino,7,Andorra,6007,AND
+7007,Sant Juli?á de L??ria,7,Andorra,7007,AND
+1008,Abu Dhabi,8,United Arab Emirates,1008,ARE
+2008,Ajman,8,United Arab Emirates,2008,ARE
+3008,Dubai,8,United Arab Emirates,3008,ARE
+4008,Fujairah,8,United Arab Emirates,4008,ARE
+5008,Ras Al-Khaimah,8,United Arab Emirates,5008,ARE
+6008,Sharjah,8,United Arab Emirates,6008,ARE
+7008,Umm al-Qaywayn,8,United Arab Emirates,7008,ARE
+1009,Buenos Aires,9,Argentina,1009,ARG
+2009,Catamarca,9,Argentina,2009,ARG
+3009,Chaco,9,Argentina,3009,ARG
+4009,Chubut,9,Argentina,4009,ARG
+5009,Ciudad de Buenos Aires,9,Argentina,5009,ARG
+6009,C??rdoba,9,Argentina,6009,ARG
+7009,Corrientes,9,Argentina,7009,ARG
+8009,Entre R?¡os,9,Argentina,8009,ARG
+9009,Formosa,9,Argentina,9009,ARG
+10009,Jujuy,9,Argentina,10009,ARG
+11009,La Pampa,9,Argentina,11009,ARG
+12009,La Rioja,9,Argentina,12009,ARG
+13009,Mendoza,9,Argentina,13009,ARG
+14009,Misiones,9,Argentina,14009,ARG
+15009,Neuqu??n,9,Argentina,15009,ARG
+16009,R?¡o Negro,9,Argentina,16009,ARG
+17009,Salta,9,Argentina,17009,ARG
+18009,San Juan,9,Argentina,18009,ARG
+19009,San Luis,9,Argentina,19009,ARG
+20009,Santa Cruz,9,Argentina,20009,ARG
+21009,Santa Fe,9,Argentina,21009,ARG
+22009,Santiago del Estero,9,Argentina,22009,ARG
+23009,Tierra del Fuego,9,Argentina,23009,ARG
+24009,Tucum?ín,9,Argentina,24009,ARG
+1010,Aragatsotn,10,Armenia,1010,ARM
+2010,Ararat,10,Armenia,2010,ARM
+3010,Armavir,10,Armenia,3010,ARM
+4010,Erevan,10,Armenia,4010,ARM
+5010,Gegharkunik,10,Armenia,5010,ARM
+6010,Kotayk,10,Armenia,6010,ARM
+7010,Lori,10,Armenia,7010,ARM
+8010,Shirak,10,Armenia,8010,ARM
+9010,Syunik,10,Armenia,9010,ARM
+10010,Tavush,10,Armenia,10010,ARM
+11010,Vayots Dzor,10,Armenia,11010,ARM
+1011,Eastern,11,American Samoa,1011,ASM
+2011,Manu'a,11,American Samoa,2011,ASM
+3011,Unorganized,11,American Samoa,3011,ASM
+4011,Western,11,American Samoa,4011,ASM
+1013,?Äles Crozet,13,French Southern Territories,1013,ATF
+2013,?Äles ?ëparses,13,French Southern Territories,2013,ATF
+3013,?Äles Saint Paul et Amsterdam,13,French Southern Territories,3013,ATF
+4013,Kerguelen,13,French Southern Territories,4013,ATF
+1014,Barbuda,14,Antigua and Barbuda,1014,ATG
+2014,Redonda,14,Antigua and Barbuda,2014,ATG
+3014,Saint George,14,Antigua and Barbuda,3014,ATG
+4014,Saint John,14,Antigua and Barbuda,4014,ATG
+5014,Saint Mary,14,Antigua and Barbuda,5014,ATG
+6014,Saint Paul,14,Antigua and Barbuda,6014,ATG
+7014,Saint Peter,14,Antigua and Barbuda,7014,ATG
+8014,Saint Philip,14,Antigua and Barbuda,8014,ATG
+1015,Ashmore and Cartier Islands,15,Australia,1015,AUS
+2015,Australian Capital Territory,15,Australia,2015,AUS
+3015,Coral Sea Islands Territory,15,Australia,3015,AUS
+4015,Jervis Bay Territory,15,Australia,4015,AUS
+5015,New South Wales,15,Australia,5015,AUS
+6015,Northern Territory,15,Australia,6015,AUS
+7015,Queensland,15,Australia,7015,AUS
+8015,South Australia,15,Australia,8015,AUS
+9015,Tasmania,15,Australia,9015,AUS
+10015,Victoria,15,Australia,10015,AUS
+11015,Western Australia,15,Australia,11015,AUS
+1016,Burgenland,16,Austria,1016,AUT
+2016,K?ñrnten,16,Austria,2016,AUT
+3016,Nieder??sterreich,16,Austria,3016,AUT
+4016,Ober??sterreich,16,Austria,4016,AUT
+5016,Salzburg,16,Austria,5016,AUT
+6016,Steiermark,16,Austria,6016,AUT
+7016,Tirol,16,Austria,7016,AUT
+8016,Vorarlberg,16,Austria,8016,AUT
+9016,Wien,16,Austria,9016,AUT
+1017,Absheron,17,Azerbaijan,1017,AZE
+2017,Aran,17,Azerbaijan,2017,AZE
+3017,Daglig-Shirvan,17,Azerbaijan,3017,AZE
+4017,Ganja-Qazakh,17,Azerbaijan,4017,AZE
+5017,Kalbajar-Lachin,17,Azerbaijan,5017,AZE
+6017,Lankaran,17,Azerbaijan,6017,AZE
+7017,Nakhchivan,17,Azerbaijan,7017,AZE
+8017,Quba-Khachmaz,17,Azerbaijan,8017,AZE
+9017,Shaki-Zaqatala,17,Azerbaijan,9017,AZE
+10017,Yukhari-Karabakh,17,Azerbaijan,10017,AZE
+1018,Bubanza,18,Burundi,1018,BDI
+2018,Bujumbura Mairie,18,Burundi,2018,BDI
+3018,Bujumbura Rural,18,Burundi,3018,BDI
+4018,Bururi,18,Burundi,4018,BDI
+5018,Cankuzo,18,Burundi,5018,BDI
+6018,Cibitoke,18,Burundi,6018,BDI
+7018,Gitega,18,Burundi,7018,BDI
+8018,Karuzi,18,Burundi,8018,BDI
+9018,Kayanza,18,Burundi,9018,BDI
+10018,Kirundo,18,Burundi,10018,BDI
+11018,Makamba,18,Burundi,11018,BDI
+12018,Muramvya,18,Burundi,12018,BDI
+13018,Muyinga,18,Burundi,13018,BDI
+14018,Mwaro,18,Burundi,14018,BDI
+15018,Ngozi,18,Burundi,15018,BDI
+16018,Rutana,18,Burundi,16018,BDI
+17018,Ruyigi,18,Burundi,17018,BDI
+1019,Bruxelles,19,Belgium,1019,BEL
+2019,Vlaanderen,19,Belgium,2019,BEL
+3019,Wallonie,19,Belgium,3019,BEL
+1020,Alibori,20,Benin,1020,BEN
+2020,Atakora,20,Benin,2020,BEN
+3020,Atlantique,20,Benin,3020,BEN
+4020,Borgou,20,Benin,4020,BEN
+5020,Collines,20,Benin,5020,BEN
+6020,Donga,20,Benin,6020,BEN
+7020,Kouffo,20,Benin,7020,BEN
+8020,Littoral,20,Benin,8020,BEN
+9020,Mono,20,Benin,9020,BEN
+10020,Ou??m??,20,Benin,10020,BEN
+11020,Plateau,20,Benin,11020,BEN
+12020,Zou,20,Benin,12020,BEN
+1021,Bonaire,21,"Bonaire, Sint Eustatius and Saba",1021,#N/A
+2021,Saba,21,"Bonaire, Sint Eustatius and Saba",2021,#N/A
+3021,Sint Eustatius,21,"Bonaire, Sint Eustatius and Saba",3021,#N/A
+1022,Boucle du Mouhoun,22,Burkina Faso,1022,BFA
+2022,Cascades,22,Burkina Faso,2022,BFA
+7022,Centre,22,Burkina Faso,7022,BFA
+3022,Centre-Est,22,Burkina Faso,3022,BFA
+4022,Centre-Nord,22,Burkina Faso,4022,BFA
+5022,Centre-Ouest,22,Burkina Faso,5022,BFA
+6022,Centre-Sud,22,Burkina Faso,6022,BFA
+8022,Est,22,Burkina Faso,8022,BFA
+9022,Haut-Bassins,22,Burkina Faso,9022,BFA
+10022,Nord,22,Burkina Faso,10022,BFA
+11022,Plateau-Central,22,Burkina Faso,11022,BFA
+12022,Sahel,22,Burkina Faso,12022,BFA
+13022,Sud-Ouest,22,Burkina Faso,13022,BFA
+1023,Barisal,23,Bangladesh,1023,BGD
+2023,Chittagong,23,Bangladesh,2023,BGD
+3023,Dhaka,23,Bangladesh,3023,BGD
+4023,Khulna,23,Bangladesh,4023,BGD
+5023,Rajshahi,23,Bangladesh,5023,BGD
+6023,Rangpur,23,Bangladesh,6023,BGD
+7023,Sylhet,23,Bangladesh,7023,BGD
+1024,Blagoevgrad,24,Bulgaria,1024,BGR
+2024,Burgas,24,Bulgaria,2024,BGR
+3024,Dobrich,24,Bulgaria,3024,BGR
+4024,Gabrovo,24,Bulgaria,4024,BGR
+5024,Grad Sofiya,24,Bulgaria,5024,BGR
+6024,Haskovo,24,Bulgaria,6024,BGR
+7024,Kardzhali,24,Bulgaria,7024,BGR
+8024,Kyustendil,24,Bulgaria,8024,BGR
+9024,Lovech,24,Bulgaria,9024,BGR
+10024,Montana,24,Bulgaria,10024,BGR
+11024,Pazardzhik,24,Bulgaria,11024,BGR
+12024,Pernik,24,Bulgaria,12024,BGR
+13024,Pleven,24,Bulgaria,13024,BGR
+14024,Plovdiv,24,Bulgaria,14024,BGR
+15024,Razgrad,24,Bulgaria,15024,BGR
+16024,Ruse,24,Bulgaria,16024,BGR
+17024,Shumen,24,Bulgaria,17024,BGR
+18024,Silistra,24,Bulgaria,18024,BGR
+19024,Sliven,24,Bulgaria,19024,BGR
+20024,Smolyan,24,Bulgaria,20024,BGR
+21024,Sofia,24,Bulgaria,21024,BGR
+22024,Stara Zagora,24,Bulgaria,22024,BGR
+23024,Targovishte,24,Bulgaria,23024,BGR
+24024,Varna,24,Bulgaria,24024,BGR
+25024,Veliko Tarnovo,24,Bulgaria,25024,BGR
+26024,Vidin,24,Bulgaria,26024,BGR
+27024,Vratsa,24,Bulgaria,27024,BGR
+28024,Yambol,24,Bulgaria,28024,BGR
+1025,Capital,25,Bahrain,1025,BHR
+2025,Central,25,Bahrain,2025,BHR
+3025,Muharraq,25,Bahrain,3025,BHR
+4025,Northern,25,Bahrain,4025,BHR
+5025,Southern,25,Bahrain,5025,BHR
+1026,Acklins,26,Bahamas,1026,BHS
+2026,Berry Islands,26,Bahamas,2026,BHS
+3026,Biminis,26,Bahamas,3026,BHS
+4026,Black Point,26,Bahamas,4026,BHS
+5026,Cat Island,26,Bahamas,5026,BHS
+6026,Central Abaco,26,Bahamas,6026,BHS
+7026,Central Andros,26,Bahamas,7026,BHS
+8026,Central Eleuthera,26,Bahamas,8026,BHS
+9026,City of Freeport,26,Bahamas,9026,BHS
+10026,Crooked Island,26,Bahamas,10026,BHS
+11026,East Grand Bahama,26,Bahamas,11026,BHS
+12026,Exuma,26,Bahamas,12026,BHS
+13026,Grand Cay,26,Bahamas,13026,BHS
+14026,Harbour Island,26,Bahamas,14026,BHS
+15026,Hope Town,26,Bahamas,15026,BHS
+16026,Inagua,26,Bahamas,16026,BHS
+17026,Long Island,26,Bahamas,17026,BHS
+18026,Mangrove Cay,26,Bahamas,18026,BHS
+19026,Mayaguana,26,Bahamas,19026,BHS
+20026,Moore's Island,26,Bahamas,20026,BHS
+21026,New Providence,26,Bahamas,21026,BHS
+22026,North Abaco,26,Bahamas,22026,BHS
+23026,North Andros,26,Bahamas,23026,BHS
+24026,North Eleuthera,26,Bahamas,24026,BHS
+25026,Ragged Island,26,Bahamas,25026,BHS
+26026,Rum Cay,26,Bahamas,26026,BHS
+27026,San Salvador,26,Bahamas,27026,BHS
+28026,South Abaco,26,Bahamas,28026,BHS
+29026,South Andros,26,Bahamas,29026,BHS
+30026,South Eleuthera,26,Bahamas,30026,BHS
+31026,Spanish Wells,26,Bahamas,31026,BHS
+32026,West Grand Bahama,26,Bahamas,32026,BHS
+1027,Br?ìko,27,Bosnia and Herzegovina,1027,BIH
+2027,Federacija Bosna i Hercegovina,27,Bosnia and Herzegovina,2027,BIH
+3027,Repuplika Srpska,27,Bosnia and Herzegovina,3027,BIH
+1029,Brest,29,Belarus,1029,BLR
+2029,Homyel',29,Belarus,2029,BLR
+3029,Hrodna,29,Belarus,3029,BLR
+4029,Mahilyow,29,Belarus,4029,BLR
+5029,Minsk,29,Belarus,5029,BLR
+6029,Vitsyebsk,29,Belarus,6029,BLR
+1030,Belize,30,Belize,1030,BLZ
+2030,Cayo,30,Belize,2030,BLZ
+3030,Corozal,30,Belize,3030,BLZ
+4030,Orange Walk,30,Belize,4030,BLZ
+5030,Stann Creek,30,Belize,5030,BLZ
+6030,Toledo,30,Belize,6030,BLZ
+1031,Devonshire,31,Bermuda,1031,BMU
+2031,Hamilton,31,Bermuda,2031,BMU
+3031,Hamilton Municipality,31,Bermuda,3031,BMU
+4031,Paget,31,Bermuda,4031,BMU
+5031,Pembroke,31,Bermuda,5031,BMU
+6031,Saint George's,31,Bermuda,6031,BMU
+7031,Saint George municipality,31,Bermuda,7031,BMU
+8031,Sandys,31,Bermuda,8031,BMU
+9031,Smiths,31,Bermuda,9031,BMU
+10031,Southampton,31,Bermuda,10031,BMU
+11031,Warwick,31,Bermuda,11031,BMU
+1032,Chuquisaca,32,Bolivia,1032,BOL
+2032,Cochabamba,32,Bolivia,2032,BOL
+3032,El Beni,32,Bolivia,3032,BOL
+4032,La Paz,32,Bolivia,4032,BOL
+5032,Oruro,32,Bolivia,5032,BOL
+6032,Pando,32,Bolivia,6032,BOL
+7032,Potos?¡,32,Bolivia,7032,BOL
+8032,Santa Cruz,32,Bolivia,8032,BOL
+9032,Tarija,32,Bolivia,9032,BOL
+1033,Acre,33,Brazil,1033,BRA
+2033,Alagoas,33,Brazil,2033,BRA
+3033,Amap?í,33,Brazil,3033,BRA
+4033,Amazonas,33,Brazil,4033,BRA
+5033,Bahia,33,Brazil,5033,BRA
+6033,Cear?í,33,Brazil,6033,BRA
+7033,Distrito Federal,33,Brazil,7033,BRA
+8033,Esp?¡rito Santo,33,Brazil,8033,BRA
+9033,Goi?ís,33,Brazil,9033,BRA
+10033,Maranh?úo,33,Brazil,10033,BRA
+12033,Mato Grosso,33,Brazil,12033,BRA
+11033,Mato Grosso do Sul,33,Brazil,11033,BRA
+13033,Minas Gerais,33,Brazil,13033,BRA
+14033,Par?í,33,Brazil,14033,BRA
+15033,Para?¡ba,33,Brazil,15033,BRA
+16033,Paran?í,33,Brazil,16033,BRA
+17033,Pernambuco,33,Brazil,17033,BRA
+18033,Piau?¡,33,Brazil,18033,BRA
+19033,Rio de Janeiro,33,Brazil,19033,BRA
+20033,Rio Grande do Norte,33,Brazil,20033,BRA
+21033,Rio Grande do Sul,33,Brazil,21033,BRA
+22033,Rond??nia,33,Brazil,22033,BRA
+23033,Roraima,33,Brazil,23033,BRA
+24033,Santa Catarina,33,Brazil,24033,BRA
+25033,S?úo Paulo,33,Brazil,25033,BRA
+26033,Sergipe,33,Brazil,26033,BRA
+27033,Tocantins,33,Brazil,27033,BRA
+1034,Christ Church,34,Barbados,1034,BRB
+2034,Saint Andrew,34,Barbados,2034,BRB
+3034,Saint George,34,Barbados,3034,BRB
+4034,Saint James,34,Barbados,4034,BRB
+5034,Saint John,34,Barbados,5034,BRB
+6034,Saint Joseph,34,Barbados,6034,BRB
+7034,Saint Lucy,34,Barbados,7034,BRB
+8034,Saint Michael,34,Barbados,8034,BRB
+9034,Saint Peter,34,Barbados,9034,BRB
+10034,Saint Philip,34,Barbados,10034,BRB
+11034,Saint Thomas,34,Barbados,11034,BRB
+1035,Belait,35,Brunei,1035,BRN
+2035,Brunei and Muara,35,Brunei,2035,BRN
+3035,Temburong,35,Brunei,3035,BRN
+4035,Tutong,35,Brunei,4035,BRN
+1036,Bumthang,36,Bhutan,1036,BTN
+2036,Chhukha,36,Bhutan,2036,BTN
+3036,Dagana,36,Bhutan,3036,BTN
+4036,Gasa,36,Bhutan,4036,BTN
+5036,Haa,36,Bhutan,5036,BTN
+6036,Lhuentse,36,Bhutan,6036,BTN
+7036,Monggar,36,Bhutan,7036,BTN
+8036,Paro,36,Bhutan,8036,BTN
+9036,Pemagatshel,36,Bhutan,9036,BTN
+10036,Punakha,36,Bhutan,10036,BTN
+11036,Samdrupjongkhar,36,Bhutan,11036,BTN
+12036,Samtse,36,Bhutan,12036,BTN
+13036,Sarpang,36,Bhutan,13036,BTN
+14036,Thimphu,36,Bhutan,14036,BTN
+15036,Trashigang,36,Bhutan,15036,BTN
+16036,Trongsa,36,Bhutan,16036,BTN
+17036,Tsirang,36,Bhutan,17036,BTN
+18036,Wangduephodrang,36,Bhutan,18036,BTN
+19036,Yangtse,36,Bhutan,19036,BTN
+20036,Zhemgang,36,Bhutan,20036,BTN
+1038,Central,38,Botswana,1038,BWA
+2038,Chobe,38,Botswana,2038,BWA
+3038,Francistown,38,Botswana,3038,BWA
+4038,Gaborone,38,Botswana,4038,BWA
+5038,Ghanzi,38,Botswana,5038,BWA
+6038,Jwaneng,38,Botswana,6038,BWA
+7038,Kgalagadi,38,Botswana,7038,BWA
+8038,Kgatleng,38,Botswana,8038,BWA
+9038,Kweneng,38,Botswana,9038,BWA
+10038,Lobatse,38,Botswana,10038,BWA
+11038,North-East,38,Botswana,11038,BWA
+12038,North-West,38,Botswana,12038,BWA
+13038,Selibe Phikwe,38,Botswana,13038,BWA
+14038,South-East,38,Botswana,14038,BWA
+15038,Southern,38,Botswana,15038,BWA
+16038,Sowa,38,Botswana,16038,BWA
+1039,Bamingui-Bangoran,39,Central African Republic,1039,CAF
+2039,Bangui,39,Central African Republic,2039,CAF
+3039,Basse-Kotto,39,Central African Republic,3039,CAF
+4039,Haut-Mbomou,39,Central African Republic,4039,CAF
+5039,Haute-Kotto,39,Central African Republic,5039,CAF
+6039,K??mo,39,Central African Republic,6039,CAF
+7039,Lobaye,39,Central African Republic,7039,CAF
+8039,Mamb??r??-Kad???»,39,Central African Republic,8039,CAF
+9039,Mbomou,39,Central African Republic,9039,CAF
+10039,Nana-Gr??bizi,39,Central African Republic,10039,CAF
+11039,Nana-Mamb??r??,39,Central African Republic,11039,CAF
+12039,Ombella-M'Poko,39,Central African Republic,12039,CAF
+13039,Ouaka,39,Central African Republic,13039,CAF
+15039,Ouham,39,Central African Republic,15039,CAF
+14039,Ouham-Pend??,39,Central African Republic,14039,CAF
+16039,Sangha-Mba??r??,39,Central African Republic,16039,CAF
+17039,Vakaga,39,Central African Republic,17039,CAF
+1040,Alberta,40,Canada,1040,CAN
+2040,British Columbia,40,Canada,2040,CAN
+3040,Manitoba,40,Canada,3040,CAN
+4040,New Brunswick,40,Canada,4040,CAN
+5040,Newfoundland and Labrador,40,Canada,5040,CAN
+6040,Northwest Territories,40,Canada,6040,CAN
+7040,Nova Scotia,40,Canada,7040,CAN
+8040,Nunavut,40,Canada,8040,CAN
+9040,Ontario,40,Canada,9040,CAN
+10040,Prince Edward Island,40,Canada,10040,CAN
+11040,Qu??bec,40,Canada,11040,CAN
+12040,Saskatchewan,40,Canada,12040,CAN
+13040,Yukon,40,Canada,13040,CAN
+1042,Aargau,42,Switzerland,1042,CHE
+2042,Appenzell Ausserrhoden,42,Switzerland,2042,CHE
+3042,Appenzell Innerrhoden,42,Switzerland,3042,CHE
+4042,Basel-Landschaft,42,Switzerland,4042,CHE
+5042,Basel-Stadt,42,Switzerland,5042,CHE
+6042,Bern,42,Switzerland,6042,CHE
+7042,Fribourg,42,Switzerland,7042,CHE
+8042,Gen?¿ve,42,Switzerland,8042,CHE
+9042,Glarus,42,Switzerland,9042,CHE
+10042,Graub??nden,42,Switzerland,10042,CHE
+11042,Jura,42,Switzerland,11042,CHE
+12042,Lucerne,42,Switzerland,12042,CHE
+13042,Neuch?ótel,42,Switzerland,13042,CHE
+14042,Nidwalden,42,Switzerland,14042,CHE
+15042,Obwalden,42,Switzerland,15042,CHE
+16042,Sankt Gallen,42,Switzerland,16042,CHE
+17042,Schaffhausen,42,Switzerland,17042,CHE
+18042,Schwyz,42,Switzerland,18042,CHE
+19042,Solothurn,42,Switzerland,19042,CHE
+20042,Thurgau,42,Switzerland,20042,CHE
+21042,Ticino,42,Switzerland,21042,CHE
+22042,Uri,42,Switzerland,22042,CHE
+23042,Valais,42,Switzerland,23042,CHE
+24042,Vaud,42,Switzerland,24042,CHE
+25042,Zug,42,Switzerland,25042,CHE
+26042,Z??rich,42,Switzerland,26042,CHE
+1043,Ais??n del General Carlos Ib?í??ez del Campo,43,Chile,1043,CHL
+2043,Antofagasta,43,Chile,2043,CHL
+3043,Araucan?¡a,43,Chile,3043,CHL
+4043,Arica y Parinacota,43,Chile,4043,CHL
+5043,Atacama,43,Chile,5043,CHL
+6043,B?¡o-B?¡o,43,Chile,6043,CHL
+7043,Coquimbo,43,Chile,7043,CHL
+8043,Libertador General Bernardo O'Higgins,43,Chile,8043,CHL
+9043,Los Lagos,43,Chile,9043,CHL
+10043,Los R?¡os,43,Chile,10043,CHL
+11043,Magallanes y Ant?írtica Chilena,43,Chile,11043,CHL
+12043,Maule,43,Chile,12043,CHL
+13043,?æuble,43,Chile,13043,CHL
+14043,Regi??n Metropolitana de Santiago,43,Chile,14043,CHL
+15043,Tarapac?í,43,Chile,15043,CHL
+16043,Valpara?¡so,43,Chile,16043,CHL
+1044,Anhui,44,China,1044,CHN
+2044,Beijing,44,China,2044,CHN
+3044,Chongqing,44,China,3044,CHN
+4044,Fujian,44,China,4044,CHN
+5044,Gansu,44,China,5044,CHN
+6044,Guangdong,44,China,6044,CHN
+7044,Guangxi,44,China,7044,CHN
+8044,Guizhou,44,China,8044,CHN
+9044,Hainan,44,China,9044,CHN
+10044,Hebei,44,China,10044,CHN
+11044,Heilongjiang,44,China,11044,CHN
+12044,Henan,44,China,12044,CHN
+13044,Hubei,44,China,13044,CHN
+14044,Hunan,44,China,14044,CHN
+15044,Jiangsu,44,China,15044,CHN
+16044,Jiangxi,44,China,16044,CHN
+17044,Jilin,44,China,17044,CHN
+18044,Liaoning,44,China,18044,CHN
+19044,Nei Mongol,44,China,19044,CHN
+20044,Ningxia Hui,44,China,20044,CHN
+21044,Qinghai,44,China,21044,CHN
+22044,Shaanxi,44,China,22044,CHN
+23044,Shandong,44,China,23044,CHN
+24044,Shanghai,44,China,24044,CHN
+25044,Shanxi,44,China,25044,CHN
+26044,Sichuan,44,China,26044,CHN
+27044,Tianjin,44,China,27044,CHN
+28044,Xinjiang Uygur,44,China,28044,CHN
+29044,Xizang,44,China,29044,CHN
+30044,Yunnan,44,China,30044,CHN
+31044,Zhejiang,44,China,31044,CHN
+1045,Abidjan,45,Cote d'Ivoire,1045,CIV
+2045,Bas-Sassandra,45,Cote d'Ivoire,2045,CIV
+3045,Como??,45,Cote d'Ivoire,3045,CIV
+4045,Dengu??l??,45,Cote d'Ivoire,4045,CIV
+5045,G??h-Djiboua,45,Cote d'Ivoire,5045,CIV
+6045,Lacs,45,Cote d'Ivoire,6045,CIV
+7045,Lagunes,45,Cote d'Ivoire,7045,CIV
+8045,Montagnes,45,Cote d'Ivoire,8045,CIV
+9045,Sassandra-Marahou??,45,Cote d'Ivoire,9045,CIV
+10045,Savanes,45,Cote d'Ivoire,10045,CIV
+11045,Vall??e du Bandama,45,Cote d'Ivoire,11045,CIV
+12045,Woroba,45,Cote d'Ivoire,12045,CIV
+13045,Yamoussoukro,45,Cote d'Ivoire,13045,CIV
+14045,Zanzan,45,Cote d'Ivoire,14045,CIV
+1046,Adamaoua,46,Cameroon,1046,CMR
+2046,Centre,46,Cameroon,2046,CMR
+3046,Est,46,Cameroon,3046,CMR
+4046,Extr?¬me-Nord,46,Cameroon,4046,CMR
+5046,Littoral,46,Cameroon,5046,CMR
+7046,Nord,46,Cameroon,7046,CMR
+6046,Nord-Ouest,46,Cameroon,6046,CMR
+8046,Ouest,46,Cameroon,8046,CMR
+10046,Sud,46,Cameroon,10046,CMR
+9046,Sud-Ouest,46,Cameroon,9046,CMR
+1047,Bas-U??l??,47,Democratic Republic of the Congo,1047,COD
+2047,?ëquateur,47,Democratic Republic of the Congo,2047,COD
+3047,Haut-Katanga,47,Democratic Republic of the Congo,3047,COD
+4047,Haut-Lomami,47,Democratic Republic of the Congo,4047,COD
+5047,Haut-U??l??,47,Democratic Republic of the Congo,5047,COD
+6047,Ituri,47,Democratic Republic of the Congo,6047,COD
+9047,Kasa?»,47,Democratic Republic of the Congo,9047,COD
+7047,Kasa?»-Central,47,Democratic Republic of the Congo,7047,COD
+8047,Kasa?»-Oriental,47,Democratic Republic of the Congo,8047,COD
+10047,Kinshasa,47,Democratic Republic of the Congo,10047,COD
+11047,Kongo-Central,47,Democratic Republic of the Congo,11047,COD
+12047,Kwango,47,Democratic Republic of the Congo,12047,COD
+13047,Kwilu,47,Democratic Republic of the Congo,13047,COD
+14047,Lomami,47,Democratic Republic of the Congo,14047,COD
+15047,Lualaba,47,Democratic Republic of the Congo,15047,COD
+16047,Ma?»-Ndombe,47,Democratic Republic of the Congo,16047,COD
+17047,Maniema,47,Democratic Republic of the Congo,17047,COD
+18047,Mongala,47,Democratic Republic of the Congo,18047,COD
+19047,Nord-Kivu,47,Democratic Republic of the Congo,19047,COD
+20047,Nord-Ubangi,47,Democratic Republic of the Congo,20047,COD
+21047,Sankuru,47,Democratic Republic of the Congo,21047,COD
+22047,Sud-Kivu,47,Democratic Republic of the Congo,22047,COD
+23047,Sud-Ubangi,47,Democratic Republic of the Congo,23047,COD
+24047,Tanganyika,47,Democratic Republic of the Congo,24047,COD
+25047,Tshopo,47,Democratic Republic of the Congo,25047,COD
+26047,Tshuapa,47,Democratic Republic of the Congo,26047,COD
+1048,Bouenza,48,Congo,1048,COG
+2048,Brazzaville,48,Congo,2048,COG
+4048,Cuvette,48,Congo,4048,COG
+3048,Cuvette-Ouest,48,Congo,3048,COG
+5048,Kouilou,48,Congo,5048,COG
+6048,L??koumou,48,Congo,6048,COG
+7048,Likouala,48,Congo,7048,COG
+8048,Niari,48,Congo,8048,COG
+9048,Plateaux,48,Congo,9048,COG
+10048,Pointe Noire,48,Congo,10048,COG
+11048,Pool,48,Congo,11048,COG
+12048,Sangha,48,Congo,12048,COG
+1050,Amazonas,50,Colombia,1050,COL
+2050,Antioquia,50,Colombia,2050,COL
+3050,Arauca,50,Colombia,3050,COL
+4050,Atl?íntico,50,Colombia,4050,COL
+5050,Bol?¡var,50,Colombia,5050,COL
+6050,Boyac?í,50,Colombia,6050,COL
+7050,Caldas,50,Colombia,7050,COL
+8050,Caquet?í,50,Colombia,8050,COL
+9050,Casanare,50,Colombia,9050,COL
+10050,Cauca,50,Colombia,10050,COL
+11050,Cesar,50,Colombia,11050,COL
+12050,Choc??,50,Colombia,12050,COL
+13050,C??rdoba,50,Colombia,13050,COL
+14050,Cundinamarca,50,Colombia,14050,COL
+15050,Guain?¡a,50,Colombia,15050,COL
+16050,Guaviare,50,Colombia,16050,COL
+17050,Huila,50,Colombia,17050,COL
+18050,La Guajira,50,Colombia,18050,COL
+19050,Magdalena,50,Colombia,19050,COL
+20050,Meta,50,Colombia,20050,COL
+21050,Nari??o,50,Colombia,21050,COL
+22050,Norte de Santander,50,Colombia,22050,COL
+23050,Putumayo,50,Colombia,23050,COL
+24050,Quind?¡o,50,Colombia,24050,COL
+25050,Risaralda,50,Colombia,25050,COL
+26050,San Andr??s y Providencia,50,Colombia,26050,COL
+27050,Santander,50,Colombia,27050,COL
+28050,Sucre,50,Colombia,28050,COL
+29050,Tolima,50,Colombia,29050,COL
+30050,Valle del Cauca,50,Colombia,30050,COL
+31050,Vaup??s,50,Colombia,31050,COL
+32050,Vichada,50,Colombia,32050,COL
+1051,Mwali,51,Comoros,1051,COM
+2051,Njaz?¡dja,51,Comoros,2051,COM
+3051,Nzwani,51,Comoros,3051,COM
+1052,Boa Vista,52,Cape Verde,1052,CPV
+2052,Brava,52,Cape Verde,2052,CPV
+3052,Maio,52,Cape Verde,3052,CPV
+4052,Mosteiros,52,Cape Verde,4052,CPV
+5052,Pa??l,52,Cape Verde,5052,CPV
+6052,Porto Novo,52,Cape Verde,6052,CPV
+7052,Praia,52,Cape Verde,7052,CPV
+8052,Ribeira Brava,52,Cape Verde,8052,CPV
+9052,Ribeira Grande,52,Cape Verde,9052,CPV
+10052,Ribeira Grande de Santiago,52,Cape Verde,10052,CPV
+11052,Sal,52,Cape Verde,11052,CPV
+12052,Santa Catarina,52,Cape Verde,12052,CPV
+13052,Santa Catarina do Fogo,52,Cape Verde,13052,CPV
+14052,Santa Cruz,52,Cape Verde,14052,CPV
+15052,S?úo Domingos,52,Cape Verde,15052,CPV
+16052,S?úo Filipe,52,Cape Verde,16052,CPV
+17052,S?úo Louren?ºo dos ?ôrg?úos,52,Cape Verde,17052,CPV
+18052,S?úo Miguel,52,Cape Verde,18052,CPV
+19052,S?úo Salvador do Mundo,52,Cape Verde,19052,CPV
+20052,S?úo Vicente,52,Cape Verde,20052,CPV
+21052,Tarrafal,52,Cape Verde,21052,CPV
+22052,Tarrafal de S?úo Nicolau,52,Cape Verde,22052,CPV
+1053,Alajuela,53,Costa Rica,1053,CRI
+2053,Cartago,53,Costa Rica,2053,CRI
+3053,Guanacaste,53,Costa Rica,3053,CRI
+4053,Heredia,53,Costa Rica,4053,CRI
+5053,Lim??n,53,Costa Rica,5053,CRI
+6053,Puntarenas,53,Costa Rica,6053,CRI
+7053,San Jos??,53,Costa Rica,7053,CRI
+1054,Camag??ey,54,Cuba,1054,CUB
+2054,Ciego de ?üvila,54,Cuba,2054,CUB
+3054,Cienfuegos,54,Cuba,3054,CUB
+4054,Ciudad de la Habana,54,Cuba,4054,CUB
+5054,Granma,54,Cuba,5054,CUB
+6054,Guant?ínamo,54,Cuba,6054,CUB
+7054,Holgu?¡n,54,Cuba,7054,CUB
+8054,Isla de la Juventud,54,Cuba,8054,CUB
+9054,La Habana,54,Cuba,9054,CUB
+10054,Las Tunas,54,Cuba,10054,CUB
+11054,Matanzas,54,Cuba,11054,CUB
+12054,Mayabeque,54,Cuba,12054,CUB
+13054,Pinar del R?¡o,54,Cuba,13054,CUB
+14054,Sancti Sp?¡ritus,54,Cuba,14054,CUB
+15054,Santiago de Cuba,54,Cuba,15054,CUB
+16054,Villa Clara,54,Cuba,16054,CUB
+1057,Bodden Town,57,Cayman Islands,1057,CYM
+2057,Cayman Brac,57,Cayman Islands,2057,CYM
+3057,East End,57,Cayman Islands,3057,CYM
+4057,George Town,57,Cayman Islands,4057,CYM
+5057,Little Cayman,57,Cayman Islands,5057,CYM
+6057,North Side,57,Cayman Islands,6057,CYM
+7057,West Bay,57,Cayman Islands,7057,CYM
+1058,Famagusta,58,Cyprus,1058,CYP
+2058,Larnaca,58,Cyprus,2058,CYP
+3058,Limassol,58,Cyprus,3058,CYP
+4058,Nicosia,58,Cyprus,4058,CYP
+5058,Paphos,58,Cyprus,5058,CYP
+1059,Jiho?ìesk??,59,Czech Republic,1059,CZE
+2059,Jihomoravsk??,59,Czech Republic,2059,CZE
+3059,Karlovarsk??,59,Czech Republic,3059,CZE
+4059,Kraj Vyso?ìina,59,Czech Republic,4059,CZE
+5059,Kr?ílov??hradeck??,59,Czech Republic,5059,CZE
+6059,Libereck??,59,Czech Republic,6059,CZE
+7059,Moravskoslezsk??,59,Czech Republic,7059,CZE
+8059,Olomouck??,59,Czech Republic,8059,CZE
+9059,Pardubick??,59,Czech Republic,9059,CZE
+10059,Plze?êsk??,59,Czech Republic,10059,CZE
+11059,Prague,59,Czech Republic,11059,CZE
+12059,St?Öedo?ìesk??,59,Czech Republic,12059,CZE
+13059,?Üsteck??,59,Czech Republic,13059,CZE
+14059,Zl?¡nsk??,59,Czech Republic,14059,CZE
+1060,Baden-W??rttemberg,60,Germany,1060,DEU
+2060,Bayern,60,Germany,2060,DEU
+3060,Berlin,60,Germany,3060,DEU
+4060,Brandenburg,60,Germany,4060,DEU
+5060,Bremen,60,Germany,5060,DEU
+6060,Hamburg,60,Germany,6060,DEU
+7060,Hessen,60,Germany,7060,DEU
+8060,Mecklenburg-Vorpommern,60,Germany,8060,DEU
+9060,Niedersachsen,60,Germany,9060,DEU
+10060,Nordrhein-Westfalen,60,Germany,10060,DEU
+11060,Rheinland-Pfalz,60,Germany,11060,DEU
+12060,Saarland,60,Germany,12060,DEU
+14060,Sachsen,60,Germany,14060,DEU
+13060,Sachsen-Anhalt,60,Germany,13060,DEU
+15060,Schleswig-Holstein,60,Germany,15060,DEU
+16060,Th??ringen,60,Germany,16060,DEU
+1061,Ali Sabieh,61,Djibouti,1061,DJI
+2061,Dikhil,61,Djibouti,2061,DJI
+3061,Djibouti,61,Djibouti,3061,DJI
+4061,Obock,61,Djibouti,4061,DJI
+5061,Tadjourah,61,Djibouti,5061,DJI
+1062,Saint Andrew,62,Dominica,1062,DMA
+2062,Saint David,62,Dominica,2062,DMA
+3062,Saint George,62,Dominica,3062,DMA
+4062,Saint John,62,Dominica,4062,DMA
+5062,Saint Joseph,62,Dominica,5062,DMA
+6062,Saint Luke,62,Dominica,6062,DMA
+7062,Saint Mark,62,Dominica,7062,DMA
+8062,Saint Patrick,62,Dominica,8062,DMA
+9062,Saint Paul,62,Dominica,9062,DMA
+10062,Saint Peter,62,Dominica,10062,DMA
+1063,Hovedstaden,63,Denmark,1063,DNK
+2063,Midtjylland,63,Denmark,2063,DNK
+3063,Nordjylland,63,Denmark,3063,DNK
+4063,Sj?ªlland,63,Denmark,4063,DNK
+5063,Syddanmark,63,Denmark,5063,DNK
+1064,Azua,64,Dominican Republic,1064,DOM
+2064,Bahoruco,64,Dominican Republic,2064,DOM
+3064,Barahona,64,Dominican Republic,3064,DOM
+4064,Dajab??n,64,Dominican Republic,4064,DOM
+5064,Distrito Nacional,64,Dominican Republic,5064,DOM
+6064,Duarte,64,Dominican Republic,6064,DOM
+7064,El Seybo,64,Dominican Republic,7064,DOM
+8064,Espaillat,64,Dominican Republic,8064,DOM
+9064,Hato Mayor,64,Dominican Republic,9064,DOM
+10064,Independencia,64,Dominican Republic,10064,DOM
+11064,La Altagracia,64,Dominican Republic,11064,DOM
+12064,La Estrelleta,64,Dominican Republic,12064,DOM
+13064,La Romana,64,Dominican Republic,13064,DOM
+14064,La Vega,64,Dominican Republic,14064,DOM
+15064,Mar?¡a Trinidad S?ínchez,64,Dominican Republic,15064,DOM
+16064,Monse??or Nouel,64,Dominican Republic,16064,DOM
+17064,Monte Cristi,64,Dominican Republic,17064,DOM
+18064,Monte Plata,64,Dominican Republic,18064,DOM
+19064,Pedernales,64,Dominican Republic,19064,DOM
+20064,Peravia,64,Dominican Republic,20064,DOM
+21064,Puerto Plata,64,Dominican Republic,21064,DOM
+22064,Salcedo,64,Dominican Republic,22064,DOM
+23064,Saman?í,64,Dominican Republic,23064,DOM
+24064,San Crist??bal,64,Dominican Republic,24064,DOM
+25064,San Jos?? de Ocoa,64,Dominican Republic,25064,DOM
+26064,San Juan,64,Dominican Republic,26064,DOM
+27064,San Pedro de Macor?¡s,64,Dominican Republic,27064,DOM
+28064,S?ínchez Ram?¡rez,64,Dominican Republic,28064,DOM
+30064,Santiago,64,Dominican Republic,30064,DOM
+29064,Santiago Rodr?¡guez,64,Dominican Republic,29064,DOM
+31064,Santo Domingo,64,Dominican Republic,31064,DOM
+32064,Valverde,64,Dominican Republic,32064,DOM
+1065,Adrar,65,Algeria,1065,DZA
+2065,A?»n Defla,65,Algeria,2065,DZA
+3065,A?»n T??mouchent,65,Algeria,3065,DZA
+4065,Alger,65,Algeria,4065,DZA
+5065,Annaba,65,Algeria,5065,DZA
+6065,Batna,65,Algeria,6065,DZA
+7065,B??char,65,Algeria,7065,DZA
+8065,B??ja?»a,65,Algeria,8065,DZA
+9065,Biskra,65,Algeria,9065,DZA
+10065,Blida,65,Algeria,10065,DZA
+11065,Bordj Bou Arr??ridj,65,Algeria,11065,DZA
+12065,Bouira,65,Algeria,12065,DZA
+13065,Boumerd?¿s,65,Algeria,13065,DZA
+14065,Chlef,65,Algeria,14065,DZA
+15065,Constantine,65,Algeria,15065,DZA
+16065,Djelfa,65,Algeria,16065,DZA
+17065,El Bayadh,65,Algeria,17065,DZA
+18065,El Oued,65,Algeria,18065,DZA
+19065,El Tarf,65,Algeria,19065,DZA
+20065,Gharda?»a,65,Algeria,20065,DZA
+21065,Guelma,65,Algeria,21065,DZA
+22065,Illizi,65,Algeria,22065,DZA
+23065,Jijel,65,Algeria,23065,DZA
+24065,Khenchela,65,Algeria,24065,DZA
+25065,Laghouat,65,Algeria,25065,DZA
+26065,M'Sila,65,Algeria,26065,DZA
+27065,Mascara,65,Algeria,27065,DZA
+28065,M??d??a,65,Algeria,28065,DZA
+29065,Mila,65,Algeria,29065,DZA
+30065,Mostaganem,65,Algeria,30065,DZA
+31065,Na?óma,65,Algeria,31065,DZA
+32065,Oran,65,Algeria,32065,DZA
+33065,Ouargla,65,Algeria,33065,DZA
+34065,Oum el Bouaghi,65,Algeria,34065,DZA
+35065,Relizane,65,Algeria,35065,DZA
+36065,Sa?»da,65,Algeria,36065,DZA
+37065,S??tif,65,Algeria,37065,DZA
+38065,Sidi Bel Abb?¿s,65,Algeria,38065,DZA
+39065,Skikda,65,Algeria,39065,DZA
+40065,Souk Ahras,65,Algeria,40065,DZA
+41065,Tamanghasset,65,Algeria,41065,DZA
+42065,T??bessa,65,Algeria,42065,DZA
+43065,Tiaret,65,Algeria,43065,DZA
+44065,Tindouf,65,Algeria,44065,DZA
+45065,Tipaza,65,Algeria,45065,DZA
+46065,Tissemsilt,65,Algeria,46065,DZA
+47065,Tizi Ouzou,65,Algeria,47065,DZA
+48065,Tlemcen,65,Algeria,48065,DZA
+1066,Azuay,66,Ecuador,1066,ECU
+2066,Bolivar,66,Ecuador,2066,ECU
+3066,Ca??ar,66,Ecuador,3066,ECU
+4066,Carchi,66,Ecuador,4066,ECU
+5066,Chimborazo,66,Ecuador,5066,ECU
+6066,Cotopaxi,66,Ecuador,6066,ECU
+7066,El Oro,66,Ecuador,7066,ECU
+8066,Esmeraldas,66,Ecuador,8066,ECU
+9066,Gal?ípagos,66,Ecuador,9066,ECU
+10066,Guayas,66,Ecuador,10066,ECU
+11066,Imbabura,66,Ecuador,11066,ECU
+12066,Loja,66,Ecuador,12066,ECU
+13066,Los Rios,66,Ecuador,13066,ECU
+14066,Manabi,66,Ecuador,14066,ECU
+15066,Morona Santiago,66,Ecuador,15066,ECU
+16066,Napo,66,Ecuador,16066,ECU
+17066,Orellana,66,Ecuador,17066,ECU
+18066,Pastaza,66,Ecuador,18066,ECU
+19066,Pichincha,66,Ecuador,19066,ECU
+20066,Santa Elena,66,Ecuador,20066,ECU
+21066,Santo Domingo de los Tsachilas,66,Ecuador,21066,ECU
+22066,Sucumbios,66,Ecuador,22066,ECU
+23066,Tungurahua,66,Ecuador,23066,ECU
+24066,Zamora Chinchipe,66,Ecuador,24066,ECU
+1067,Ad Daqahliyah,67,Egypt,1067,EGY
+2067,Al Bahr al Ahmar,67,Egypt,2067,EGY
+3067,Al Buhayrah,67,Egypt,3067,EGY
+4067,Al Fayyum,67,Egypt,4067,EGY
+5067,Al Gharbiyah,67,Egypt,5067,EGY
+6067,Al Iskandariyah,67,Egypt,6067,EGY
+7067,Al Isma`iliyah,67,Egypt,7067,EGY
+8067,Al Jizah,67,Egypt,8067,EGY
+9067,Al Minufiyah,67,Egypt,9067,EGY
+10067,Al Minya,67,Egypt,10067,EGY
+11067,Al Qahirah,67,Egypt,11067,EGY
+12067,Al Qalyubiyah,67,Egypt,12067,EGY
+13067,Al Uqsur,67,Egypt,13067,EGY
+14067,Al Wadi al Jadid,67,Egypt,14067,EGY
+15067,As Suways,67,Egypt,15067,EGY
+16067,Ash Sharqiyah,67,Egypt,16067,EGY
+17067,Aswan,67,Egypt,17067,EGY
+18067,Asyut,67,Egypt,18067,EGY
+19067,Bani Suwayf,67,Egypt,19067,EGY
+20067,Bur Sa`id,67,Egypt,20067,EGY
+21067,Dumyat,67,Egypt,21067,EGY
+22067,Janub Sina',67,Egypt,22067,EGY
+23067,Kafr ash Shaykh,67,Egypt,23067,EGY
+24067,Matrouh,67,Egypt,24067,EGY
+25067,Qina,67,Egypt,25067,EGY
+26067,Shamal Sina',67,Egypt,26067,EGY
+27067,Suhaj,67,Egypt,27067,EGY
+1068,Anseba,68,Eritrea,1068,ERI
+2068,Debub,68,Eritrea,2068,ERI
+3068,Debubawi Keyih Bahri,68,Eritrea,3068,ERI
+4068,Gash Barka,68,Eritrea,4068,ERI
+5068,Maekel,68,Eritrea,5068,ERI
+6068,Semenawi Keyih Bahri,68,Eritrea,6068,ERI
+1069,Boujdour,69,Western Sahara,1069,ESH
+2069,Es Semara,69,Western Sahara,2069,ESH
+3069,Laayoune,69,Western Sahara,3069,ESH
+4069,Oued el Dahab,69,Western Sahara,4069,ESH
+1070,Andaluc?¡a,70,Spain,1070,ESP
+2070,Arag??n,70,Spain,2070,ESP
+3070,Cantabria,70,Spain,3070,ESP
+4070,Castilla-La Mancha,70,Spain,4070,ESP
+5070,Castilla y Le??n,70,Spain,5070,ESP
+6070,Catalu??a,70,Spain,6070,ESP
+7070,Ceuta y Melilla,70,Spain,7070,ESP
+8070,Comunidad de Madrid,70,Spain,8070,ESP
+9070,Comunidad Foral de Navarra,70,Spain,9070,ESP
+10070,Comunidad Valenciana,70,Spain,10070,ESP
+11070,Extremadura,70,Spain,11070,ESP
+12070,Galicia,70,Spain,12070,ESP
+13070,Islas Baleares,70,Spain,13070,ESP
+14070,Islas Canarias,70,Spain,14070,ESP
+15070,La Rioja,70,Spain,15070,ESP
+16070,Pa?¡s Vasco,70,Spain,16070,ESP
+17070,Principado de Asturias,70,Spain,17070,ESP
+18070,Regi??n de Murcia,70,Spain,18070,ESP
+1071,Harju,71,Estonia,1071,EST
+2071,Hiiu,71,Estonia,2071,EST
+3071,Ida-Viru,71,Estonia,3071,EST
+4071,J?ñrva,71,Estonia,4071,EST
+5071,J??geva,71,Estonia,5071,EST
+7071,L?ñ?ñne,71,Estonia,7071,EST
+6071,L?ñ?ñne-Viru,71,Estonia,6071,EST
+8071,P?ñrnu,71,Estonia,8071,EST
+9071,Peipsi,71,Estonia,9071,EST
+10071,P??lva,71,Estonia,10071,EST
+11071,Rapla,71,Estonia,11071,EST
+12071,Saare,71,Estonia,12071,EST
+13071,Tartu,71,Estonia,13071,EST
+14071,Valga,71,Estonia,14071,EST
+15071,Viljandi,71,Estonia,15071,EST
+16071,V??ru,71,Estonia,16071,EST
+1072,Addis Abeba,72,Ethiopia,1072,ETH
+2072,Afar,72,Ethiopia,2072,ETH
+3072,Amhara,72,Ethiopia,3072,ETH
+4072,Benshangul-Gumaz,72,Ethiopia,4072,ETH
+5072,Dire Dawa,72,Ethiopia,5072,ETH
+6072,Gambela Peoples,72,Ethiopia,6072,ETH
+7072,Harari People,72,Ethiopia,7072,ETH
+8072,Oromia,72,Ethiopia,8072,ETH
+9072,Somali,72,Ethiopia,9072,ETH
+10072,"Southern Nations, Nationalities and Peoples",72,Ethiopia,10072,ETH
+11072,Tigray,72,Ethiopia,11072,ETH
+1073,Eastern Finland,73,Finland,1073,FIN
+2073,Lapland,73,Finland,2073,FIN
+3073,Oulu,73,Finland,3073,FIN
+4073,Southern Finland,73,Finland,4073,FIN
+5073,Western Finland,73,Finland,5073,FIN
+1074,Central,74,Fiji,1074,FJI
+2074,Eastern,74,Fiji,2074,FJI
+3074,Northern,74,Fiji,3074,FJI
+4074,Rotuma,74,Fiji,4074,FJI
+5074,Western,74,Fiji,5074,FJI
+1076,Auvergne-Rh??ne-Alpes,76,France,1076,FRA
+2076,Bourgogne-Franche-Comt??,76,France,2076,FRA
+3076,Bretagne,76,France,3076,FRA
+4076,Centre-Val de Loire,76,France,4076,FRA
+5076,Corse,76,France,5076,FRA
+6076,Grand Est,76,France,6076,FRA
+7076,Hauts-de-France,76,France,7076,FRA
+8076,?Äle-de-France,76,France,8076,FRA
+9076,Normandie,76,France,9076,FRA
+10076,Nouvelle-Aquitaine,76,France,10076,FRA
+11076,Occitanie,76,France,11076,FRA
+12076,Pays de la Loire,76,France,12076,FRA
+13076,Provence-Alpes-C??te d'Azur,76,France,13076,FRA
+1077,Eysturoyar,77,Faroe Islands,1077,FRO
+2077,Norder??erne,77,Faroe Islands,2077,FRO
+3077,Sandoyar,77,Faroe Islands,3077,FRO
+4077,Streymoyar,77,Faroe Islands,4077,FRO
+5077,Su??uroyar,77,Faroe Islands,5077,FRO
+6077,V?Ñg??,77,Faroe Islands,6077,FRO
+1078,Chuuk,78,Micronesia,1078,FSM
+2078,Kosrae,78,Micronesia,2078,FSM
+3078,Pohnpei,78,Micronesia,3078,FSM
+4078,Yap,78,Micronesia,4078,FSM
+1079,Estuaire,79,Gabon,1079,GAB
+2079,Haut-Ogoou??,79,Gabon,2079,GAB
+3079,Moyen-Ogoou??,79,Gabon,3079,GAB
+4079,Ngouni??,79,Gabon,4079,GAB
+5079,Nyanga,79,Gabon,5079,GAB
+6079,Ogoou??-Ivindo,79,Gabon,6079,GAB
+7079,Ogoou??-Lolo,79,Gabon,7079,GAB
+8079,Ogoou??-Maritime,79,Gabon,8079,GAB
+9079,Wouleu-Ntem,79,Gabon,9079,GAB
+1080,England,80,United Kingdom,1080,GBR
+2080,Northern Ireland,80,United Kingdom,2080,GBR
+3080,Scotland,80,United Kingdom,3080,GBR
+4080,Wales,80,United Kingdom,4080,GBR
+1081,Abkhazia,81,Georgia,1081,GEO
+2081,Ajaria,81,Georgia,2081,GEO
+3081,Guria,81,Georgia,3081,GEO
+4081,Imereti,81,Georgia,4081,GEO
+5081,Kakheti,81,Georgia,5081,GEO
+6081,Kvemo Kartli,81,Georgia,6081,GEO
+7081,Mtskheta-Mtianeti,81,Georgia,7081,GEO
+8081,Racha-Lechkhumi-Kvemo Svaneti,81,Georgia,8081,GEO
+9081,Samegrelo-Zemo Svaneti,81,Georgia,9081,GEO
+10081,Samtskhe-Javakheti,81,Georgia,10081,GEO
+11081,Shida Kartli,81,Georgia,11081,GEO
+12081,Tbilisi,81,Georgia,12081,GEO
+1082,Alderney,82,Guernsey,1082,GGY
+2082,Brecqhou,82,Guernsey,2082,GGY
+3082,Castel,82,Guernsey,3082,GGY
+4082,Forest,82,Guernsey,4082,GGY
+5082,Herm,82,Guernsey,5082,GGY
+6082,Jethou,82,Guernsey,6082,GGY
+7082,Saint Andrew,82,Guernsey,7082,GGY
+8082,Saint Martin,82,Guernsey,8082,GGY
+9082,Saint Peter Port,82,Guernsey,9082,GGY
+10082,Saint Pierre du Bois,82,Guernsey,10082,GGY
+11082,Saint Sampson,82,Guernsey,11082,GGY
+12082,Saint Saviour,82,Guernsey,12082,GGY
+13082,Sark,82,Guernsey,13082,GGY
+14082,Torteval,82,Guernsey,14082,GGY
+15082,Vale,82,Guernsey,15082,GGY
+1083,Ashanti,83,Ghana,1083,GHA
+2083,Brong Ahafo,83,Ghana,2083,GHA
+3083,Central,83,Ghana,3083,GHA
+4083,Eastern,83,Ghana,4083,GHA
+5083,Greater Accra,83,Ghana,5083,GHA
+6083,Northern,83,Ghana,6083,GHA
+7083,Upper East,83,Ghana,7083,GHA
+8083,Upper West,83,Ghana,8083,GHA
+9083,Volta,83,Ghana,9083,GHA
+10083,Western,83,Ghana,10083,GHA
+1085,Bok??,85,Guinea,1085,GIN
+2085,Conakry,85,Guinea,2085,GIN
+3085,Faranah,85,Guinea,3085,GIN
+4085,Kankan,85,Guinea,4085,GIN
+5085,Kindia,85,Guinea,5085,GIN
+6085,Lab??,85,Guinea,6085,GIN
+7085,Mamou,85,Guinea,7085,GIN
+8085,Nz??r??kor??,85,Guinea,8085,GIN
+1086,Basse-Terre,86,Guadeloupe,1086,GLP
+2086,Pointe-?á-Pitre,86,Guadeloupe,2086,GLP
+1087,Banjul,87,Gambia,1087,GMB
+2087,Lower River,87,Gambia,2087,GMB
+3087,Maccarthy Island,87,Gambia,3087,GMB
+4087,North Bank,87,Gambia,4087,GMB
+5087,Upper River,87,Gambia,5087,GMB
+6087,Western,87,Gambia,6087,GMB
+1088,Bafat?í,88,Guinea-Bissau,1088,GNB
+2088,Biombo,88,Guinea-Bissau,2088,GNB
+3088,Bissau,88,Guinea-Bissau,3088,GNB
+4088,Bolama,88,Guinea-Bissau,4088,GNB
+5088,Cacheu,88,Guinea-Bissau,5088,GNB
+6088,Gab??,88,Guinea-Bissau,6088,GNB
+7088,Oio,88,Guinea-Bissau,7088,GNB
+8088,Quinara,88,Guinea-Bissau,8088,GNB
+9088,Tombali,88,Guinea-Bissau,9088,GNB
+1089,Annob??n,89,Equatorial Guinea,1089,GNQ
+2089,Bioko Norte,89,Equatorial Guinea,2089,GNQ
+3089,Bioko Sur,89,Equatorial Guinea,3089,GNQ
+4089,Centro Sur,89,Equatorial Guinea,4089,GNQ
+5089,Ki??-Ntem,89,Equatorial Guinea,5089,GNQ
+6089,Litoral,89,Equatorial Guinea,6089,GNQ
+7089,Wele-Nzas,89,Equatorial Guinea,7089,GNQ
+1090,Aegean,90,Greece,1090,GRC
+2090,Athos,90,Greece,2090,GRC
+3090,Attica,90,Greece,3090,GRC
+4090,Crete,90,Greece,4090,GRC
+5090,Epirus and Western Macedonia,90,Greece,5090,GRC
+6090,Macedonia and Thrace,90,Greece,6090,GRC
+7090,"Peloponnese, Western Greece and the Ionian Islands",90,Greece,7090,GRC
+8090,Thessaly and Central Greece,90,Greece,8090,GRC
+1091,Carriacou,91,Grenada,1091,GRD
+2091,Saint Andrew,91,Grenada,2091,GRD
+3091,Saint David,91,Grenada,3091,GRD
+4091,Saint George,91,Grenada,4091,GRD
+5091,Saint John,91,Grenada,5091,GRD
+6091,Saint Mark,91,Grenada,6091,GRD
+7091,Saint Patrick,91,Grenada,7091,GRD
+1092,Kujalleq,92,Greenland,1092,GRL
+2092,Northeast Greenland National Park,92,Greenland,2092,GRL
+3092,Qaasuitsup,92,Greenland,3092,GRL
+4092,Qeqqata,92,Greenland,4092,GRL
+5092,Sermersooq,92,Greenland,5092,GRL
+1093,Alta Verapaz,93,Guatemala,1093,GTM
+2093,Baja Verapaz,93,Guatemala,2093,GTM
+3093,Chimaltenango,93,Guatemala,3093,GTM
+4093,Chiquimula,93,Guatemala,4093,GTM
+5093,El Progreso,93,Guatemala,5093,GTM
+6093,Escuintla,93,Guatemala,6093,GTM
+7093,Guatemala,93,Guatemala,7093,GTM
+8093,Huehuetenango,93,Guatemala,8093,GTM
+9093,Izabal,93,Guatemala,9093,GTM
+10093,Jalapa,93,Guatemala,10093,GTM
+11093,Jutiapa,93,Guatemala,11093,GTM
+12093,Pet??n,93,Guatemala,12093,GTM
+13093,Quezaltenango,93,Guatemala,13093,GTM
+14093,Quich??,93,Guatemala,14093,GTM
+15093,Retalhuleu,93,Guatemala,15093,GTM
+16093,Sacatep??quez,93,Guatemala,16093,GTM
+17093,San Marcos,93,Guatemala,17093,GTM
+18093,Santa Rosa,93,Guatemala,18093,GTM
+19093,Solol?í,93,Guatemala,19093,GTM
+20093,Suchitep??quez,93,Guatemala,20093,GTM
+21093,Totonicap?ín,93,Guatemala,21093,GTM
+22093,Zacapa,93,Guatemala,22093,GTM
+1094,Cayenne,94,French Guiana,1094,GUF
+2094,Saint-Laurent-du-Maroni,94,French Guiana,2094,GUF
+1095,Agana Heights,95,Guam,1095,GUM
+2095,Agat,95,Guam,2095,GUM
+3095,Asan,95,Guam,3095,GUM
+4095,Barrigada,95,Guam,4095,GUM
+5095,Chalan-Pago-Ordot,95,Guam,5095,GUM
+6095,Dededo,95,Guam,6095,GUM
+7095,Hag?Ñt??a,95,Guam,7095,GUM
+8095,Inarajan,95,Guam,8095,GUM
+9095,Mangilao,95,Guam,9095,GUM
+10095,Merizo,95,Guam,10095,GUM
+11095,Mongmong-Toto-Maite,95,Guam,11095,GUM
+12095,Piti,95,Guam,12095,GUM
+13095,Santa Rita,95,Guam,13095,GUM
+14095,Sinajana,95,Guam,14095,GUM
+15095,Talofofo,95,Guam,15095,GUM
+16095,Tamuning,95,Guam,16095,GUM
+17095,Umatac,95,Guam,17095,GUM
+18095,Yigo,95,Guam,18095,GUM
+19095,Yona,95,Guam,19095,GUM
+1096,Barima-Waini,96,Guyana,1096,GUY
+2096,Cuyuni-Mazaruni,96,Guyana,2096,GUY
+3096,Demerara-Mahaica,96,Guyana,3096,GUY
+4096,East Berbice-Corentyne,96,Guyana,4096,GUY
+5096,Essequibo Islands-West Demerara,96,Guyana,5096,GUY
+6096,Mahaica-Berbice,96,Guyana,6096,GUY
+7096,Pomeroon-Supenaam,96,Guyana,7096,GUY
+8096,Potaro-Siparuni,96,Guyana,8096,GUY
+9096,Upper Demerara-Berbice,96,Guyana,9096,GUY
+10096,Upper Takutu-Upper Essequibo,96,Guyana,10096,GUY
+32044,Hong Kong,44,China,32044,CHN
+1099,Atl?íntida,99,Honduras,1099,HND
+2099,Choluteca,99,Honduras,2099,HND
+3099,Col??n,99,Honduras,3099,HND
+4099,Comayagua,99,Honduras,4099,HND
+5099,Cop?ín,99,Honduras,5099,HND
+6099,Cort??s,99,Honduras,6099,HND
+7099,El Para?¡so,99,Honduras,7099,HND
+8099,Francisco Moraz?ín,99,Honduras,8099,HND
+9099,Gracias a Dios,99,Honduras,9099,HND
+10099,Intibuc?í,99,Honduras,10099,HND
+11099,Islas de la Bah?¡a,99,Honduras,11099,HND
+12099,La Paz,99,Honduras,12099,HND
+13099,Lempira,99,Honduras,13099,HND
+14099,Ocotepeque,99,Honduras,14099,HND
+15099,Olancho,99,Honduras,15099,HND
+16099,Santa B?írbara,99,Honduras,16099,HND
+17099,Valle,99,Honduras,17099,HND
+18099,Yoro,99,Honduras,18099,HND
+1100,Bjelovarska-Bilogorska,100,Croatia,1100,HRV
+2100,Brodsko-Posavska,100,Croatia,2100,HRV
+3100,Dubrovacko-Neretvanska,100,Croatia,3100,HRV
+4100,Grad Zagreb,100,Croatia,4100,HRV
+5100,Istarska,100,Croatia,5100,HRV
+6100,Karlovacka,100,Croatia,6100,HRV
+7100,Koprivni?ìko-Kri??eva?ìka,100,Croatia,7100,HRV
+8100,Krapinsko-Zagorska,100,Croatia,8100,HRV
+9100,Licko-Senjska,100,Croatia,9100,HRV
+10100,Medimurska,100,Croatia,10100,HRV
+11100,Osjecko-Baranjska,100,Croatia,11100,HRV
+12100,Po??e?íko-Slavonska,100,Croatia,12100,HRV
+13100,Primorsko-Goranska,100,Croatia,13100,HRV
+14100,?áibensko-Kninska,100,Croatia,14100,HRV
+15100,Sisacko-Moslavacka,100,Croatia,15100,HRV
+16100,Splitsko-Dalmatinska,100,Croatia,16100,HRV
+17100,Vara??dinska,100,Croatia,17100,HRV
+18100,Viroviticko-Podravska,100,Croatia,18100,HRV
+19100,Vukovarsko-Srijemska,100,Croatia,19100,HRV
+20100,Zadarska,100,Croatia,20100,HRV
+21100,Zagreba?ìka,100,Croatia,21100,HRV
+1101,Centre,101,Haiti,1101,HTI
+2101,Grand'Anse,101,Haiti,2101,HTI
+3101,L'Artibonite,101,Haiti,3101,HTI
+4101,Nippes,101,Haiti,4101,HTI
+7101,Nord,101,Haiti,7101,HTI
+5101,Nord-Est,101,Haiti,5101,HTI
+6101,Nord-Ouest,101,Haiti,6101,HTI
+8101,Ouest,101,Haiti,8101,HTI
+10101,Sud,101,Haiti,10101,HTI
+9101,Sud-Est,101,Haiti,9101,HTI
+1102,B?ícs-Kiskun,102,Hungary,1102,HUN
+2102,Baranya,102,Hungary,2102,HUN
+3102,B??k??s,102,Hungary,3102,HUN
+4102,Borsod-Aba??j-Zempl??n,102,Hungary,4102,HUN
+5102,Budapest,102,Hungary,5102,HUN
+6102,Csongr?íd,102,Hungary,6102,HUN
+7102,Fej??r,102,Hungary,7102,HUN
+8102,Gyor-Moson-Sopron,102,Hungary,8102,HUN
+9102,Hajd??-Bihar,102,Hungary,9102,HUN
+10102,Heves,102,Hungary,10102,HUN
+11102,J?ísz-Nagykun-Szolnok,102,Hungary,11102,HUN
+12102,Kom?írom-Esztergom,102,Hungary,12102,HUN
+13102,N??gr?íd,102,Hungary,13102,HUN
+14102,Pest,102,Hungary,14102,HUN
+15102,Somogy,102,Hungary,15102,HUN
+16102,Szabolcs-Szatm?ír-Bereg,102,Hungary,16102,HUN
+17102,Tolna,102,Hungary,17102,HUN
+18102,Vas,102,Hungary,18102,HUN
+19102,Veszpr??m,102,Hungary,19102,HUN
+20102,Zala,102,Hungary,20102,HUN
+1103,Aceh,103,Indonesia,1103,IDN
+2103,Bali,103,Indonesia,2103,IDN
+3103,Bangka Belitung,103,Indonesia,3103,IDN
+4103,Banten,103,Indonesia,4103,IDN
+5103,Bengkulu,103,Indonesia,5103,IDN
+6103,Gorontalo,103,Indonesia,6103,IDN
+7103,Jakarta Raya,103,Indonesia,7103,IDN
+8103,Jambi,103,Indonesia,8103,IDN
+9103,Jawa Barat,103,Indonesia,9103,IDN
+10103,Jawa Tengah,103,Indonesia,10103,IDN
+11103,Jawa Timur,103,Indonesia,11103,IDN
+12103,Kalimantan Barat,103,Indonesia,12103,IDN
+13103,Kalimantan Selatan,103,Indonesia,13103,IDN
+14103,Kalimantan Tengah,103,Indonesia,14103,IDN
+16103,Kepulauan Riau,103,Indonesia,16103,IDN
+17103,Lampung,103,Indonesia,17103,IDN
+19103,Maluku,103,Indonesia,19103,IDN
+18103,Maluku Utara,103,Indonesia,18103,IDN
+20103,Nusa Tenggara Barat,103,Indonesia,20103,IDN
+21103,Nusa Tenggara Timur,103,Indonesia,21103,IDN
+23103,Papua,103,Indonesia,23103,IDN
+22103,Papua Barat,103,Indonesia,22103,IDN
+24103,Riau,103,Indonesia,24103,IDN
+25103,Sulawesi Barat,103,Indonesia,25103,IDN
+26103,Sulawesi Selatan,103,Indonesia,26103,IDN
+27103,Sulawesi Tengah,103,Indonesia,27103,IDN
+28103,Sulawesi Tenggara,103,Indonesia,28103,IDN
+29103,Sulawesi Utara,103,Indonesia,29103,IDN
+30103,Sumatera Barat,103,Indonesia,30103,IDN
+31103,Sumatera Selatan,103,Indonesia,31103,IDN
+32103,Sumatera Utara,103,Indonesia,32103,IDN
+33103,Yogyakarta,103,Indonesia,33103,IDN
+1104,Ayre,104,Isle of Man,1104,IMN
+2104,Garff,104,Isle of Man,2104,IMN
+3104,Glenfaba,104,Isle of Man,3104,IMN
+4104,Michael,104,Isle of Man,4104,IMN
+5104,Middle,104,Isle of Man,5104,IMN
+6104,Rushen,104,Isle of Man,6104,IMN
+1105,The Six Minor Territories,105,India,1105,IND
+2105,Andhra Pradesh,105,India,2105,IND
+3105,Arunachal Pradesh,105,India,3105,IND
+4105,Assam,105,India,4105,IND
+5105,Bihar,105,India,5105,IND
+7105,Chhattisgarh,105,India,7105,IND
+10105,Goa,105,India,10105,IND
+11105,Gujarat,105,India,11105,IND
+12105,Haryana,105,India,12105,IND
+13105,Himachal Pradesh,105,India,13105,IND
+14105,Jammu and Kashmir,105,India,14105,IND
+15105,Jharkhand,105,India,15105,IND
+16105,Karnataka,105,India,16105,IND
+17105,Kerala,105,India,17105,IND
+19105,Madhya Pradesh,105,India,19105,IND
+20105,Maharashtra,105,India,20105,IND
+21105,Manipur,105,India,21105,IND
+22105,Meghalaya,105,India,22105,IND
+23105,Mizoram,105,India,23105,IND
+24105,Nagaland,105,India,24105,IND
+25105,NCT of Delhi,105,India,25105,IND
+26105,Odisha,105,India,26105,IND
+28105,Punjab,105,India,28105,IND
+29105,Rajasthan,105,India,29105,IND
+30105,Sikkim,105,India,30105,IND
+31105,Tamil Nadu,105,India,31105,IND
+32105,Telangana,105,India,32105,IND
+33105,Tripura,105,India,33105,IND
+34105,Uttar Pradesh,105,India,34105,IND
+35105,Uttarakhand,105,India,35105,IND
+36105,West Bengal,105,India,36105,IND
+1107,Carlow,107,Ireland,1107,IRL
+2107,Cavan,107,Ireland,2107,IRL
+3107,Clare,107,Ireland,3107,IRL
+4107,Cork,107,Ireland,4107,IRL
+5107,Donegal,107,Ireland,5107,IRL
+6107,Dublin,107,Ireland,6107,IRL
+7107,Galway,107,Ireland,7107,IRL
+8107,Kerry,107,Ireland,8107,IRL
+9107,Kildare,107,Ireland,9107,IRL
+10107,Kilkenny,107,Ireland,10107,IRL
+11107,Laoighis,107,Ireland,11107,IRL
+12107,Leitrim,107,Ireland,12107,IRL
+13107,Limerick,107,Ireland,13107,IRL
+14107,Longford,107,Ireland,14107,IRL
+15107,Louth,107,Ireland,15107,IRL
+16107,Mayo,107,Ireland,16107,IRL
+17107,Meath,107,Ireland,17107,IRL
+18107,Monaghan,107,Ireland,18107,IRL
+19107,Offaly,107,Ireland,19107,IRL
+20107,Roscommon,107,Ireland,20107,IRL
+21107,Sligo,107,Ireland,21107,IRL
+22107,Tipperary,107,Ireland,22107,IRL
+23107,Waterford,107,Ireland,23107,IRL
+24107,Westmeath,107,Ireland,24107,IRL
+25107,Wexford,107,Ireland,25107,IRL
+26107,Wicklow,107,Ireland,26107,IRL
+1108,Alborz,108,Iran,1108,IRN
+2108,Ardebil,108,Iran,2108,IRN
+3108,Bushehr,108,Iran,3108,IRN
+4108,Chahar Mahall and Bakhtiari,108,Iran,4108,IRN
+5108,East Azarbaijan,108,Iran,5108,IRN
+6108,Esfahan,108,Iran,6108,IRN
+7108,Fars,108,Iran,7108,IRN
+8108,Gilan,108,Iran,8108,IRN
+9108,Golestan,108,Iran,9108,IRN
+10108,Hamadan,108,Iran,10108,IRN
+11108,Hormozgan,108,Iran,11108,IRN
+12108,Ilam,108,Iran,12108,IRN
+13108,Kerman,108,Iran,13108,IRN
+14108,Kermanshah,108,Iran,14108,IRN
+15108,Khuzestan,108,Iran,15108,IRN
+16108,Kohgiluyeh and Buyer Ahmad,108,Iran,16108,IRN
+17108,Kordestan,108,Iran,17108,IRN
+18108,Lorestan,108,Iran,18108,IRN
+19108,Markazi,108,Iran,19108,IRN
+20108,Mazandaran,108,Iran,20108,IRN
+21108,North Khorasan,108,Iran,21108,IRN
+22108,Qazvin,108,Iran,22108,IRN
+23108,Qom,108,Iran,23108,IRN
+24108,Razavi Khorasan,108,Iran,24108,IRN
+25108,Semnan,108,Iran,25108,IRN
+26108,Sistan and Baluchestan,108,Iran,26108,IRN
+27108,South Khorasan,108,Iran,27108,IRN
+28108,Tehran,108,Iran,28108,IRN
+29108,West Azarbaijan,108,Iran,29108,IRN
+30108,Yazd,108,Iran,30108,IRN
+31108,Zanjan,108,Iran,31108,IRN
+1109,Al-Anbar,109,Iraq,1109,IRQ
+2109,Al-Basrah,109,Iraq,2109,IRQ
+3109,Al-Muthannia,109,Iraq,3109,IRQ
+4109,Al-Qadisiyah,109,Iraq,4109,IRQ
+5109,An-Najaf,109,Iraq,5109,IRQ
+6109,Arbil,109,Iraq,6109,IRQ
+7109,As-Sulaymaniyah,109,Iraq,7109,IRQ
+8109,At-Ta'mim,109,Iraq,8109,IRQ
+9109,Babil,109,Iraq,9109,IRQ
+10109,Baghdad,109,Iraq,10109,IRQ
+11109,Dhi-Qar,109,Iraq,11109,IRQ
+12109,Dihok,109,Iraq,12109,IRQ
+13109,Diyala,109,Iraq,13109,IRQ
+14109,Karbala',109,Iraq,14109,IRQ
+15109,Maysan,109,Iraq,15109,IRQ
+16109,Ninawa,109,Iraq,16109,IRQ
+17109,Sala ad-Din,109,Iraq,17109,IRQ
+18109,Wasit,109,Iraq,18109,IRQ
+1110,Austurland,110,Iceland,1110,ISL
+2110,H?ílshreppur,110,Iceland,2110,ISL
+3110,H??fu??borgarsv?ª??i,110,Iceland,3110,ISL
+4110,Nor??urland vestra,110,Iceland,4110,ISL
+5110,Su??urland,110,Iceland,5110,ISL
+6110,Su??urnes,110,Iceland,6110,ISL
+7110,Vestfir??ir,110,Iceland,7110,ISL
+8110,Vesturland,110,Iceland,8110,ISL
+1111,Golan,111,Israel,1111,ISR
+2111,HaDarom,111,Israel,2111,ISR
+3111,Haifa,111,Israel,3111,ISR
+4111,HaMerkaz,111,Israel,4111,ISR
+5111,HaZafon,111,Israel,5111,ISR
+6111,Jerusalem,111,Israel,6111,ISR
+7111,Tel Aviv,111,Israel,7111,ISR
+1112,Abruzzo,112,Italy,1112,ITA
+2112,Apulia,112,Italy,2112,ITA
+3112,Basilicata,112,Italy,3112,ITA
+4112,Calabria,112,Italy,4112,ITA
+5112,Campania,112,Italy,5112,ITA
+6112,Emilia-Romagna,112,Italy,6112,ITA
+7112,Friuli-Venezia Giulia,112,Italy,7112,ITA
+8112,Lazio,112,Italy,8112,ITA
+9112,Liguria,112,Italy,9112,ITA
+10112,Lombardia,112,Italy,10112,ITA
+11112,Marche,112,Italy,11112,ITA
+12112,Molise,112,Italy,12112,ITA
+13112,Piemonte,112,Italy,13112,ITA
+14112,Sardegna,112,Italy,14112,ITA
+15112,Sicily,112,Italy,15112,ITA
+16112,Toscana,112,Italy,16112,ITA
+17112,Trentino-Alto Adige,112,Italy,17112,ITA
+18112,Umbria,112,Italy,18112,ITA
+19112,Valle d'Aosta,112,Italy,19112,ITA
+20112,Veneto,112,Italy,20112,ITA
+1113,Clarendon,113,Jamaica,1113,JAM
+2113,Hanover,113,Jamaica,2113,JAM
+3113,Kingston,113,Jamaica,3113,JAM
+4113,Manchester,113,Jamaica,4113,JAM
+5113,Portland,113,Jamaica,5113,JAM
+6113,Saint Andrew,113,Jamaica,6113,JAM
+7113,Saint Ann,113,Jamaica,7113,JAM
+8113,Saint Catherine,113,Jamaica,8113,JAM
+9113,Saint Elizabeth,113,Jamaica,9113,JAM
+10113,Saint James,113,Jamaica,10113,JAM
+11113,Saint Mary,113,Jamaica,11113,JAM
+12113,Saint Thomas,113,Jamaica,12113,JAM
+13113,Trelawny,113,Jamaica,13113,JAM
+14113,Westmoreland,113,Jamaica,14113,JAM
+1114,Grouville,114,Jersey,1114,JEY
+2114,Saint Berlade,114,Jersey,2114,JEY
+3114,Saint Clement,114,Jersey,3114,JEY
+4114,Saint Helier,114,Jersey,4114,JEY
+5114,Saint John,114,Jersey,5114,JEY
+6114,Saint Lawrence,114,Jersey,6114,JEY
+7114,Saint Martin,114,Jersey,7114,JEY
+8114,Saint Mary,114,Jersey,8114,JEY
+9114,Saint Ouen,114,Jersey,9114,JEY
+10114,Saint Peter,114,Jersey,10114,JEY
+11114,Saint Saviour,114,Jersey,11114,JEY
+12114,Trinity,114,Jersey,12114,JEY
+1115,Ajlun,115,Jordan,1115,JOR
+2115,Amman,115,Jordan,2115,JOR
+3115,Aqaba,115,Jordan,3115,JOR
+4115,Balqa,115,Jordan,4115,JOR
+5115,Irbid,115,Jordan,5115,JOR
+6115,Jarash,115,Jordan,6115,JOR
+7115,Karak,115,Jordan,7115,JOR
+8115,Ma`an,115,Jordan,8115,JOR
+9115,Madaba,115,Jordan,9115,JOR
+10115,Mafraq,115,Jordan,10115,JOR
+11115,Tafilah,115,Jordan,11115,JOR
+12115,Zarqa,115,Jordan,12115,JOR
+1116,Aichi,116,Japan,1116,JPN
+2116,Akita,116,Japan,2116,JPN
+3116,Aomori,116,Japan,3116,JPN
+4116,Chiba,116,Japan,4116,JPN
+5116,Ehime,116,Japan,5116,JPN
+6116,Fukui,116,Japan,6116,JPN
+7116,Fukuoka,116,Japan,7116,JPN
+8116,Fukushima,116,Japan,8116,JPN
+9116,Gifu,116,Japan,9116,JPN
+10116,Gunma,116,Japan,10116,JPN
+11116,Hiroshima,116,Japan,11116,JPN
+12116,Hokkaido,116,Japan,12116,JPN
+13116,Hy?ìgo,116,Japan,13116,JPN
+14116,Ibaraki,116,Japan,14116,JPN
+15116,Ishikawa,116,Japan,15116,JPN
+16116,Iwate,116,Japan,16116,JPN
+17116,Kagawa,116,Japan,17116,JPN
+18116,Kagoshima,116,Japan,18116,JPN
+19116,Kanagawa,116,Japan,19116,JPN
+20116,Kochi,116,Japan,20116,JPN
+21116,Kumamoto,116,Japan,21116,JPN
+22116,Kyoto,116,Japan,22116,JPN
+23116,Mie,116,Japan,23116,JPN
+24116,Miyagi,116,Japan,24116,JPN
+25116,Miyazaki,116,Japan,25116,JPN
+26116,Nagano,116,Japan,26116,JPN
+27116,Naoasaki,116,Japan,27116,JPN
+28116,Nara,116,Japan,28116,JPN
+29116,Niigata,116,Japan,29116,JPN
+30116,Oita,116,Japan,30116,JPN
+31116,Okayama,116,Japan,31116,JPN
+32116,Okinawa,116,Japan,32116,JPN
+33116,Osaka,116,Japan,33116,JPN
+34116,Saga,116,Japan,34116,JPN
+35116,Saitama,116,Japan,35116,JPN
+36116,Shiga,116,Japan,36116,JPN
+37116,Shimane,116,Japan,37116,JPN
+38116,Shizuoka,116,Japan,38116,JPN
+39116,Tochigi,116,Japan,39116,JPN
+40116,Tokushima,116,Japan,40116,JPN
+41116,Tokyo,116,Japan,41116,JPN
+42116,Tottori,116,Japan,42116,JPN
+43116,Toyama,116,Japan,43116,JPN
+44116,Wakayama,116,Japan,44116,JPN
+45116,Yamagata,116,Japan,45116,JPN
+46116,Yamaguchi,116,Japan,46116,JPN
+47116,Yamanashi,116,Japan,47116,JPN
+1117,Almaty,117,Kazakhstan,1117,KAZ
+2117,Aqmola,117,Kazakhstan,2117,KAZ
+3117,Aqt??be,117,Kazakhstan,3117,KAZ
+4117,Atyrau,117,Kazakhstan,4117,KAZ
+5117,East Kazakhstan,117,Kazakhstan,5117,KAZ
+6117,Mangghystau,117,Kazakhstan,6117,KAZ
+7117,North Kazakhstan,117,Kazakhstan,7117,KAZ
+8117,Pavlodar,117,Kazakhstan,8117,KAZ
+9117,Qaraghandy,117,Kazakhstan,9117,KAZ
+10117,Qostanay,117,Kazakhstan,10117,KAZ
+11117,Qyzylorda,117,Kazakhstan,11117,KAZ
+12117,South Kazakhstan,117,Kazakhstan,12117,KAZ
+13117,West Kazakhstan,117,Kazakhstan,13117,KAZ
+14117,Zhambyl,117,Kazakhstan,14117,KAZ
+1118,Baringo,118,Kenya,1118,KEN
+2118,Bomet,118,Kenya,2118,KEN
+3118,Bungoma,118,Kenya,3118,KEN
+4118,Busia,118,Kenya,4118,KEN
+5118,Elgeyo-Marakwet,118,Kenya,5118,KEN
+6118,Embu,118,Kenya,6118,KEN
+7118,Garissa,118,Kenya,7118,KEN
+8118,Homa Bay,118,Kenya,8118,KEN
+9118,Isiolo,118,Kenya,9118,KEN
+10118,Kajiado,118,Kenya,10118,KEN
+11118,Kakamega,118,Kenya,11118,KEN
+12118,Kericho,118,Kenya,12118,KEN
+13118,Kiambu,118,Kenya,13118,KEN
+14118,Kilifi,118,Kenya,14118,KEN
+15118,Kirinyaga,118,Kenya,15118,KEN
+16118,Kisii,118,Kenya,16118,KEN
+17118,Kisumu,118,Kenya,17118,KEN
+18118,Kitui,118,Kenya,18118,KEN
+19118,Kwale,118,Kenya,19118,KEN
+20118,Laikipia,118,Kenya,20118,KEN
+21118,Lamu,118,Kenya,21118,KEN
+22118,Machakos,118,Kenya,22118,KEN
+23118,Makueni,118,Kenya,23118,KEN
+24118,Mandera,118,Kenya,24118,KEN
+25118,Marsabit,118,Kenya,25118,KEN
+26118,Meru,118,Kenya,26118,KEN
+27118,Migori,118,Kenya,27118,KEN
+28118,Mombasa,118,Kenya,28118,KEN
+29118,Murang'a,118,Kenya,29118,KEN
+30118,Nairobi,118,Kenya,30118,KEN
+31118,Nakuru,118,Kenya,31118,KEN
+32118,Nandi,118,Kenya,32118,KEN
+33118,Narok,118,Kenya,33118,KEN
+34118,Nyamira,118,Kenya,34118,KEN
+35118,Nyandarua,118,Kenya,35118,KEN
+36118,Nyeri,118,Kenya,36118,KEN
+37118,Samburu,118,Kenya,37118,KEN
+38118,Siaya,118,Kenya,38118,KEN
+39118,Taita Taveta,118,Kenya,39118,KEN
+40118,Tana River,118,Kenya,40118,KEN
+41118,Tharaka-Nithi,118,Kenya,41118,KEN
+42118,Trans Nzoia,118,Kenya,42118,KEN
+43118,Turkana,118,Kenya,43118,KEN
+44118,Uasin Gishu,118,Kenya,44118,KEN
+45118,Vihiga,118,Kenya,45118,KEN
+46118,Wajir,118,Kenya,46118,KEN
+47118,West Pokot,118,Kenya,47118,KEN
+1119,Batken,119,Kyrgyzstan,1119,KGZ
+2119,Bi?íkek,119,Kyrgyzstan,2119,KGZ
+3119,Ch??y,119,Kyrgyzstan,3119,KGZ
+4119,Jalal-Abad,119,Kyrgyzstan,4119,KGZ
+5119,Naryn,119,Kyrgyzstan,5119,KGZ
+7119,Osh,119,Kyrgyzstan,7119,KGZ
+6119,Osh (city),119,Kyrgyzstan,6119,KGZ
+8119,Talas,119,Kyrgyzstan,8119,KGZ
+9119,Ysyk-K??l,119,Kyrgyzstan,9119,KGZ
+1120,B?ónt??ay M??anchey,120,Cambodia,1120,KHM
+2120,Batd?ómb?óng,120,Cambodia,2120,KHM
+3120,K?ómp??ng Cham,120,Cambodia,3120,KHM
+4120,K?ómp??ng Chhnang,120,Cambodia,4120,KHM
+5120,K?ómp??ng Sp?ô,120,Cambodia,5120,KHM
+6120,K?ómp??ng Thum,120,Cambodia,6120,KHM
+7120,K?ómp??t,120,Cambodia,7120,KHM
+8120,K?óndal,120,Cambodia,8120,KHM
+9120,Ka??h Kong,120,Cambodia,9120,KHM
+10120,Kep,120,Cambodia,10120,KHM
+11120,Kr?óch??h,120,Cambodia,11120,KHM
+12120,Krong Pailin,120,Cambodia,12120,KHM
+13120,Krong Preah Sihanouk,120,Cambodia,13120,KHM
+14120,M??nd??l Kiri,120,Cambodia,14120,KHM
+15120,Otdar Mean Chey,120,Cambodia,15120,KHM
+16120,Phnom Penh,120,Cambodia,16120,KHM
+17120,Pouthisat,120,Cambodia,17120,KHM
+18120,Preah Vih??ar,120,Cambodia,18120,KHM
+19120,Prey V?¬ng,120,Cambodia,19120,KHM
+20120,R??t?ón??kiri,120,Cambodia,20120,KHM
+21120,Siemr??ab,120,Cambodia,21120,KHM
+22120,St?ông Tr?¬ng,120,Cambodia,22120,KHM
+23120,Svay Rieng,120,Cambodia,23120,KHM
+24120,Tak?¬v,120,Cambodia,24120,KHM
+25120,Tbong Khmum,120,Cambodia,25120,KHM
+1122,Christ Church Nichola Town,122,Saint Kitts and Nevis,1122,KNA
+2122,Saint Anne Sandy Point,122,Saint Kitts and Nevis,2122,KNA
+3122,Saint George Basseterre,122,Saint Kitts and Nevis,3122,KNA
+4122,Saint George Gingerland,122,Saint Kitts and Nevis,4122,KNA
+5122,Saint James Windward,122,Saint Kitts and Nevis,5122,KNA
+6122,Saint John Capisterre,122,Saint Kitts and Nevis,6122,KNA
+7122,Saint John Figtree,122,Saint Kitts and Nevis,7122,KNA
+8122,Saint Mary Cayon,122,Saint Kitts and Nevis,8122,KNA
+9122,Saint Paul Capisterre,122,Saint Kitts and Nevis,9122,KNA
+10122,Saint Paul Charlestown,122,Saint Kitts and Nevis,10122,KNA
+11122,Saint Peter Basseterre,122,Saint Kitts and Nevis,11122,KNA
+12122,Saint Thomas Lowland,122,Saint Kitts and Nevis,12122,KNA
+13122,Saint Thomas Middle Island,122,Saint Kitts and Nevis,13122,KNA
+14122,Trinity Palmetto Point,122,Saint Kitts and Nevis,14122,KNA
+1123,Busan,123,South Korea,1123,KOR
+2123,Chungcheongbuk-do,123,South Korea,2123,KOR
+3123,Chungcheongnam-do,123,South Korea,3123,KOR
+4123,Daegu,123,South Korea,4123,KOR
+5123,Daejeon,123,South Korea,5123,KOR
+6123,Gangwon-do,123,South Korea,6123,KOR
+7123,Gwangju,123,South Korea,7123,KOR
+8123,Gyeonggi-do,123,South Korea,8123,KOR
+9123,Gyeongsangbuk-do,123,South Korea,9123,KOR
+10123,Gyeongsangnam-do,123,South Korea,10123,KOR
+11123,Incheon,123,South Korea,11123,KOR
+12123,Jeju,123,South Korea,12123,KOR
+13123,Jeollabuk-do,123,South Korea,13123,KOR
+14123,Jeollanam-do,123,South Korea,14123,KOR
+15123,Sejong,123,South Korea,15123,KOR
+16123,Seoul,123,South Korea,16123,KOR
+17123,Ulsan,123,South Korea,17123,KOR
+1124,Al Ahmadi,124,Kuwait,1124,KWT
+2124,Al Farwaniyah,124,Kuwait,2124,KWT
+3124,Al Jahrah,124,Kuwait,3124,KWT
+4124,Al Kuwayt,124,Kuwait,4124,KWT
+5124,Hawalli,124,Kuwait,5124,KWT
+6124,Mubarak Al-Kabeer,124,Kuwait,6124,KWT
+1125,Attapu,125,Laos,1125,LAO
+2125,Bokeo,125,Laos,2125,LAO
+3125,Bolikhamxai,125,Laos,3125,LAO
+4125,Champasak,125,Laos,4125,LAO
+5125,Houaphan,125,Laos,5125,LAO
+6125,Khammouan,125,Laos,6125,LAO
+7125,Louang Namtha,125,Laos,7125,LAO
+8125,Louangphrabang,125,Laos,8125,LAO
+9125,Oud??mxai,125,Laos,9125,LAO
+10125,Ph??ngsali,125,Laos,10125,LAO
+11125,Saravan,125,Laos,11125,LAO
+12125,Savannakh??t,125,Laos,12125,LAO
+14125,Vientiane,125,Laos,14125,LAO
+13125,Vientiane [prefecture],125,Laos,13125,LAO
+15125,Xaignabouri,125,Laos,15125,LAO
+16125,Xais??mboun,125,Laos,16125,LAO
+17125,X??kong,125,Laos,17125,LAO
+18125,Xiangkhoang,125,Laos,18125,LAO
+1126,Akkar,126,Lebanon,1126,LBN
+2126,Baalbak - Hermel,126,Lebanon,2126,LBN
+3126,Beirut,126,Lebanon,3126,LBN
+4126,Bekaa,126,Lebanon,4126,LBN
+5126,Mount Lebanon,126,Lebanon,5126,LBN
+6126,Nabatiyeh,126,Lebanon,6126,LBN
+7126,North,126,Lebanon,7126,LBN
+8126,South,126,Lebanon,8126,LBN
+1127,Bomi,127,Liberia,1127,LBR
+2127,Bong,127,Liberia,2127,LBR
+3127,Gbapolu,127,Liberia,3127,LBR
+4127,Grand Cape Mount,127,Liberia,4127,LBR
+5127,GrandBassa,127,Liberia,5127,LBR
+6127,GrandGedeh,127,Liberia,6127,LBR
+7127,GrandKru,127,Liberia,7127,LBR
+8127,Lofa,127,Liberia,8127,LBR
+9127,Margibi,127,Liberia,9127,LBR
+10127,Maryland,127,Liberia,10127,LBR
+11127,Montserrado,127,Liberia,11127,LBR
+12127,Nimba,127,Liberia,12127,LBR
+13127,River Cess,127,Liberia,13127,LBR
+14127,River Gee,127,Liberia,14127,LBR
+15127,Sinoe,127,Liberia,15127,LBR
+1128,Al Butnan,128,Libya,1128,LBY
+2128,Al Jabal al Akhdar,128,Libya,2128,LBY
+3128,Al Jabal al Gharbi,128,Libya,3128,LBY
+4128,Al Jifarah,128,Libya,4128,LBY
+5128,Al Jufrah,128,Libya,5128,LBY
+6128,Al Kufrah,128,Libya,6128,LBY
+7128,Al Marj,128,Libya,7128,LBY
+8128,Al Marqab,128,Libya,8128,LBY
+9128,Al Wahat,128,Libya,9128,LBY
+10128,An Nuqat al Khams,128,Libya,10128,LBY
+11128,Az Zawiyah,128,Libya,11128,LBY
+12128,Benghazi,128,Libya,12128,LBY
+13128,Darnah,128,Libya,13128,LBY
+14128,Ghat,128,Libya,14128,LBY
+15128,Misratah,128,Libya,15128,LBY
+16128,Murzuq,128,Libya,16128,LBY
+17128,Nalut,128,Libya,17128,LBY
+18128,Sabha,128,Libya,18128,LBY
+19128,Surt,128,Libya,19128,LBY
+20128,Tripoli,128,Libya,20128,LBY
+21128,Wadi al Hayat,128,Libya,21128,LBY
+22128,Wadi ash Shati',128,Libya,22128,LBY
+1129,Anse-la-Raye,129,Saint Lucia,1129,LCA
+2129,Canaries,129,Saint Lucia,2129,LCA
+3129,Castries,129,Saint Lucia,3129,LCA
+4129,Choiseul,129,Saint Lucia,4129,LCA
+5129,Dennery,129,Saint Lucia,5129,LCA
+6129,Gros Islet,129,Saint Lucia,6129,LCA
+7129,Laborie,129,Saint Lucia,7129,LCA
+8129,Micoud,129,Saint Lucia,8129,LCA
+9129,Soufri?¿re,129,Saint Lucia,9129,LCA
+10129,Vieux Fort,129,Saint Lucia,10129,LCA
+1130,Balzers,130,Liechtenstein,1130,LIE
+2130,Eschen,130,Liechtenstein,2130,LIE
+3130,Gamprin,130,Liechtenstein,3130,LIE
+4130,Mauren,130,Liechtenstein,4130,LIE
+5130,Planken,130,Liechtenstein,5130,LIE
+6130,Ruggell,130,Liechtenstein,6130,LIE
+7130,Schaan,130,Liechtenstein,7130,LIE
+8130,Schellenberg,130,Liechtenstein,8130,LIE
+9130,Triesen,130,Liechtenstein,9130,LIE
+10130,Triesenberg,130,Liechtenstein,10130,LIE
+11130,Valduz,130,Liechtenstein,11130,LIE
+1131,Ampara,131,Sri Lanka,1131,LKA
+2131,Anuradhapura,131,Sri Lanka,2131,LKA
+3131,Badulla,131,Sri Lanka,3131,LKA
+4131,Batticaloa,131,Sri Lanka,4131,LKA
+5131,Colombo,131,Sri Lanka,5131,LKA
+6131,Galle,131,Sri Lanka,6131,LKA
+7131,Gampaha,131,Sri Lanka,7131,LKA
+8131,Hambantota,131,Sri Lanka,8131,LKA
+9131,Jaffna,131,Sri Lanka,9131,LKA
+10131,Kalutara,131,Sri Lanka,10131,LKA
+11131,Kandy,131,Sri Lanka,11131,LKA
+12131,Kegalle,131,Sri Lanka,12131,LKA
+13131,Kilinochchi,131,Sri Lanka,13131,LKA
+14131,Kurunegala,131,Sri Lanka,14131,LKA
+15131,Mannar,131,Sri Lanka,15131,LKA
+16131,Matale,131,Sri Lanka,16131,LKA
+17131,Matara,131,Sri Lanka,17131,LKA
+18131,Moneragala,131,Sri Lanka,18131,LKA
+19131,Mullaitivu,131,Sri Lanka,19131,LKA
+20131,Nuwara Eliya,131,Sri Lanka,20131,LKA
+21131,Polonnaruwa,131,Sri Lanka,21131,LKA
+22131,Puttalam,131,Sri Lanka,22131,LKA
+23131,Ratnapura,131,Sri Lanka,23131,LKA
+24131,Trincomalee,131,Sri Lanka,24131,LKA
+25131,Vavuniya,131,Sri Lanka,25131,LKA
+1132,Berea,132,Lesotho,1132,LSO
+2132,Butha-Buthe,132,Lesotho,2132,LSO
+3132,Leribe,132,Lesotho,3132,LSO
+4132,Mafeteng,132,Lesotho,4132,LSO
+5132,Maseru,132,Lesotho,5132,LSO
+6132,Mohale's Hoek,132,Lesotho,6132,LSO
+7132,Mokhotlong,132,Lesotho,7132,LSO
+8132,Qacha's Nek,132,Lesotho,8132,LSO
+9132,Quthing,132,Lesotho,9132,LSO
+10132,Thaba-Tseka,132,Lesotho,10132,LSO
+1133,Alytaus,133,Lithuania,1133,LTU
+2133,Kauno,133,Lithuania,2133,LTU
+3133,Klaipedos,133,Lithuania,3133,LTU
+4133,Marijampoles,133,Lithuania,4133,LTU
+5133,Panevezio,133,Lithuania,5133,LTU
+6133,?áiauliai,133,Lithuania,6133,LTU
+7133,Taurages,133,Lithuania,7133,LTU
+8133,Tel?íiai,133,Lithuania,8133,LTU
+9133,Utenos,133,Lithuania,9133,LTU
+10133,Vilniaus,133,Lithuania,10133,LTU
+1134,Diekirch,134,Luxembourg,1134,LUX
+2134,Grevenmacher,134,Luxembourg,2134,LUX
+3134,Luxembourg,134,Luxembourg,3134,LUX
+1135,Kurzeme,135,Latvia,1135,LVA
+2135,Latgale,135,Latvia,2135,LVA
+3135,Riga,135,Latvia,3135,LVA
+4135,Vidzeme,135,Latvia,4135,LVA
+5135,Zemgale,135,Latvia,5135,LVA
+33044,Macao,44,China,33044,CHN
+1138,Chaouia - Ouardigha,138,Morocco,1138,MAR
+2138,Doukkala - Abda,138,Morocco,2138,MAR
+3138,F?¿s - Boulemane,138,Morocco,3138,MAR
+4138,Gharb - Chrarda - B??ni Hssen,138,Morocco,4138,MAR
+5138,Grand Casablanca,138,Morocco,5138,MAR
+6138,Guelmim - Es-Semara,138,Morocco,6138,MAR
+7138,La?óyoune - Boujdour - Sakia El Hamra,138,Morocco,7138,MAR
+8138,Marrakech - Tensift - Al Haouz,138,Morocco,8138,MAR
+9138,Mekn?¿s - Tafilalet,138,Morocco,9138,MAR
+10138,Oriental,138,Morocco,10138,MAR
+11138,Rabat - Sal?? - Zemmour - Zaer,138,Morocco,11138,MAR
+12138,Souss - Massa - Dra?ó,138,Morocco,12138,MAR
+13138,Tadla - Azilal,138,Morocco,13138,MAR
+14138,Tanger - T??touan,138,Morocco,14138,MAR
+15138,Taza - Al Hoceima - Taounate,138,Morocco,15138,MAR
+1140,Anenii Noi,140,Moldova,1140,MDA
+2140,B?âl?úi,140,Moldova,2140,MDA
+3140,Basarabeasca,140,Moldova,3140,MDA
+4140,Bender,140,Moldova,4140,MDA
+5140,Briceni,140,Moldova,5140,MDA
+6140,Cahul,140,Moldova,6140,MDA
+7140,Calarasi,140,Moldova,7140,MDA
+8140,Cantemir,140,Moldova,8140,MDA
+9140,Causeni,140,Moldova,9140,MDA
+10140,Chi?ƒin?âu,140,Moldova,10140,MDA
+11140,Cimi?ƒlia,140,Moldova,11140,MDA
+12140,Criuleni,140,Moldova,12140,MDA
+13140,Donduseni,140,Moldova,13140,MDA
+14140,Drochia,140,Moldova,14140,MDA
+15140,Dub?âsari,140,Moldova,15140,MDA
+16140,Edine?ú,140,Moldova,16140,MDA
+17140,F?âle?ƒti,140,Moldova,17140,MDA
+18140,Flore?ƒti,140,Moldova,18140,MDA
+19140,G?âg?âuzia,140,Moldova,19140,MDA
+20140,Glodeni,140,Moldova,20140,MDA
+21140,H?«ncesti,140,Moldova,21140,MDA
+22140,Ialoveni,140,Moldova,22140,MDA
+23140,Leova,140,Moldova,23140,MDA
+24140,Nisporeni,140,Moldova,24140,MDA
+25140,Ocni?úa,140,Moldova,25140,MDA
+26140,Orhei,140,Moldova,26140,MDA
+27140,Rezina,140,Moldova,27140,MDA
+28140,R?«?ƒcani,140,Moldova,28140,MDA
+29140,S?«ngerei,140,Moldova,29140,MDA
+30140,??old?âne?ƒti,140,Moldova,30140,MDA
+31140,Soroca,140,Moldova,31140,MDA
+32140,??tefan Voda,140,Moldova,32140,MDA
+33140,Str?â?ƒeni,140,Moldova,33140,MDA
+34140,Taraclia,140,Moldova,34140,MDA
+35140,Telene?ƒti,140,Moldova,35140,MDA
+36140,Transnistria,140,Moldova,36140,MDA
+37140,Ungheni,140,Moldova,37140,MDA
+1141,Antananarivo,141,Madagascar,1141,MDG
+2141,Antsiranana,141,Madagascar,2141,MDG
+3141,Fianarantsoa,141,Madagascar,3141,MDG
+4141,Mahajanga,141,Madagascar,4141,MDG
+5141,Toamasina,141,Madagascar,5141,MDG
+6141,Toliary,141,Madagascar,6141,MDG
+1143,Aguascalientes,143,Mexico,1143,MEX
+3143,Baja California,143,Mexico,3143,MEX
+2143,Baja California Sur,143,Mexico,2143,MEX
+4143,Campeche,143,Mexico,4143,MEX
+5143,Chiapas,143,Mexico,5143,MEX
+6143,Chihuahua,143,Mexico,6143,MEX
+7143,Coahuila,143,Mexico,7143,MEX
+8143,Colima,143,Mexico,8143,MEX
+9143,Distrito Federal,143,Mexico,9143,MEX
+10143,Durango,143,Mexico,10143,MEX
+11143,Guanajuato,143,Mexico,11143,MEX
+12143,Guerrero,143,Mexico,12143,MEX
+13143,Hidalgo,143,Mexico,13143,MEX
+14143,Jalisco,143,Mexico,14143,MEX
+15143,M??xico,143,Mexico,15143,MEX
+16143,Michoac?ín,143,Mexico,16143,MEX
+17143,Morelos,143,Mexico,17143,MEX
+18143,Nayarit,143,Mexico,18143,MEX
+19143,Nuevo Le??n,143,Mexico,19143,MEX
+20143,Oaxaca,143,Mexico,20143,MEX
+21143,Puebla,143,Mexico,21143,MEX
+22143,Quer??taro,143,Mexico,22143,MEX
+23143,Quintana Roo,143,Mexico,23143,MEX
+24143,San Luis Potos?¡,143,Mexico,24143,MEX
+25143,Sinaloa,143,Mexico,25143,MEX
+26143,Sonora,143,Mexico,26143,MEX
+27143,Tabasco,143,Mexico,27143,MEX
+28143,Tamaulipas,143,Mexico,28143,MEX
+29143,Tlaxcala,143,Mexico,29143,MEX
+30143,Veracruz,143,Mexico,30143,MEX
+31143,Yucat?ín,143,Mexico,31143,MEX
+32143,Zacatecas,143,Mexico,32143,MEX
+1145,Aerodrom,145,Macedonia,1145,MKD
+2145,Aracinovo,145,Macedonia,2145,MKD
+3145,Berovo,145,Macedonia,3145,MKD
+4145,Bitola,145,Macedonia,4145,MKD
+5145,Bogdanci,145,Macedonia,5145,MKD
+6145,Bogovinje,145,Macedonia,6145,MKD
+7145,Bosilovo,145,Macedonia,7145,MKD
+8145,Brvenica,145,Macedonia,8145,MKD
+9145,Butel,145,Macedonia,9145,MKD
+10145,?îair,145,Macedonia,10145,MKD
+11145,?îa?íka,145,Macedonia,11145,MKD
+12145,Centar,145,Macedonia,12145,MKD
+13145,Centar ??upa,145,Macedonia,13145,MKD
+14145,?îe?íinovo-Oble?íevo,145,Macedonia,14145,MKD
+15145,?îu?ìer Sandevo,145,Macedonia,15145,MKD
+16145,Debar,145,Macedonia,16145,MKD
+17145,Debarca,145,Macedonia,17145,MKD
+18145,Del?ìevo,145,Macedonia,18145,MKD
+19145,Demir Hisar,145,Macedonia,19145,MKD
+20145,Demir Kapija,145,Macedonia,20145,MKD
+21145,Dolneni,145,Macedonia,21145,MKD
+22145,Drugovo,145,Macedonia,22145,MKD
+23145,Gazi Baba,145,Macedonia,23145,MKD
+24145,Gevgelija,145,Macedonia,24145,MKD
+25145,Gjor?ìe Petrov,145,Macedonia,25145,MKD
+26145,Gostivar,145,Macedonia,26145,MKD
+27145,Gradsko,145,Macedonia,27145,MKD
+28145,Ilinden,145,Macedonia,28145,MKD
+29145,Jegunovtse,145,Macedonia,29145,MKD
+30145,Karbinci,145,Macedonia,30145,MKD
+31145,Karpo?í,145,Macedonia,31145,MKD
+32145,Kavadartsi,145,Macedonia,32145,MKD
+33145,Ki?ìevo,145,Macedonia,33145,MKD
+34145,Kisela Voda,145,Macedonia,34145,MKD
+35145,Ko?ìani,145,Macedonia,35145,MKD
+36145,Kon?ìe,145,Macedonia,36145,MKD
+37145,Kratovo,145,Macedonia,37145,MKD
+38145,Kriva Palanka,145,Macedonia,38145,MKD
+39145,Krivoga?ítani,145,Macedonia,39145,MKD
+40145,Kru?íevo,145,Macedonia,40145,MKD
+41145,Kumanovo,145,Macedonia,41145,MKD
+42145,Lake Ohrid,145,Macedonia,42145,MKD
+43145,Lipkovo,145,Macedonia,43145,MKD
+44145,Lozovo,145,Macedonia,44145,MKD
+45145,Makedonska Kamenica,145,Macedonia,45145,MKD
+46145,Makedonski Brod,145,Macedonia,46145,MKD
+47145,Mavrovo and Rostu?ía,145,Macedonia,47145,MKD
+48145,Mogila,145,Macedonia,48145,MKD
+49145,Negotino,145,Macedonia,49145,MKD
+50145,Novatsi,145,Macedonia,50145,MKD
+51145,Novo Selo,145,Macedonia,51145,MKD
+52145,Ohrid,145,Macedonia,52145,MKD
+53145,Oslomej,145,Macedonia,53145,MKD
+54145,Peh?ìevo,145,Macedonia,54145,MKD
+55145,Petrovec,145,Macedonia,55145,MKD
+56145,Plasnica,145,Macedonia,56145,MKD
+57145,Prilep,145,Macedonia,57145,MKD
+58145,Probi?ítip,145,Macedonia,58145,MKD
+59145,Radovi?í,145,Macedonia,59145,MKD
+60145,Rankovce,145,Macedonia,60145,MKD
+61145,Resen,145,Macedonia,61145,MKD
+62145,Rosoman,145,Macedonia,62145,MKD
+63145,Saraj,145,Macedonia,63145,MKD
+64145,Sopi?íte,145,Macedonia,64145,MKD
+65145,Star Dojran,145,Macedonia,65145,MKD
+66145,Staro Nagori?ìane,145,Macedonia,66145,MKD
+67145,?átip,145,Macedonia,67145,MKD
+68145,Struga,145,Macedonia,68145,MKD
+69145,Strumitsa,145,Macedonia,69145,MKD
+70145,Studeni?ìani,145,Macedonia,70145,MKD
+71145,?áuto Orizari,145,Macedonia,71145,MKD
+72145,Sveti Nikole,145,Macedonia,72145,MKD
+73145,Tearce,145,Macedonia,73145,MKD
+74145,Tetovo,145,Macedonia,74145,MKD
+75145,Valandovo,145,Macedonia,75145,MKD
+76145,Vasilevo,145,Macedonia,76145,MKD
+77145,Veles,145,Macedonia,77145,MKD
+78145,Vev?ìani,145,Macedonia,78145,MKD
+79145,Vinitsa,145,Macedonia,79145,MKD
+80145,Vrane?ítica,145,Macedonia,80145,MKD
+81145,Vrap?ìi?íte,145,Macedonia,81145,MKD
+82145,Zajas,145,Macedonia,82145,MKD
+83145,Zelenikovo,145,Macedonia,83145,MKD
+84145,??elino,145,Macedonia,84145,MKD
+85145,Zrnovci,145,Macedonia,85145,MKD
+1146,Bamako,146,Mali,1146,MLI
+2146,Gao,146,Mali,2146,MLI
+3146,Kayes,146,Mali,3146,MLI
+4146,Kidal,146,Mali,4146,MLI
+5146,Koulikoro,146,Mali,5146,MLI
+6146,Mopti,146,Mali,6146,MLI
+7146,S??gou,146,Mali,7146,MLI
+8146,Sikasso,146,Mali,8146,MLI
+9146,Timbuktu,146,Mali,9146,MLI
+1147,?èentrali,147,Malta,1147,MLT
+2147,G?ºawdex,147,Malta,2147,MLT
+3147,Nofsinhar,147,Malta,3147,MLT
+4147,Tramuntana,147,Malta,4147,MLT
+5147,Xlokk,147,Malta,5147,MLT
+1148,Ayeyarwady,148,Myanmar,1148,MMR
+2148,Bago,148,Myanmar,2148,MMR
+3148,Chin,148,Myanmar,3148,MMR
+4148,Kachin,148,Myanmar,4148,MMR
+5148,Kayah,148,Myanmar,5148,MMR
+6148,Kayin,148,Myanmar,6148,MMR
+7148,Magway,148,Myanmar,7148,MMR
+8148,Mandalay,148,Myanmar,8148,MMR
+9148,Mon,148,Myanmar,9148,MMR
+10148,Naypyitaw,148,Myanmar,10148,MMR
+11148,Rakhine,148,Myanmar,11148,MMR
+12148,Sagaing,148,Myanmar,12148,MMR
+13148,Shan,148,Myanmar,13148,MMR
+14148,Tanintharyi,148,Myanmar,14148,MMR
+15148,Yangon,148,Myanmar,15148,MMR
+1149,Andrijevica,149,Montenegro,1149,MNE
+2149,Bar,149,Montenegro,2149,MNE
+3149,Berane,149,Montenegro,3149,MNE
+4149,Bijelo Polje,149,Montenegro,4149,MNE
+5149,Budva,149,Montenegro,5149,MNE
+6149,Cetinje,149,Montenegro,6149,MNE
+7149,Danilovgrad,149,Montenegro,7149,MNE
+8149,Herceg Novi,149,Montenegro,8149,MNE
+9149,Kola?íin,149,Montenegro,9149,MNE
+10149,Kotor,149,Montenegro,10149,MNE
+11149,Mojkovac,149,Montenegro,11149,MNE
+12149,Nik?íic,149,Montenegro,12149,MNE
+13149,Plav,149,Montenegro,13149,MNE
+14149,Pljevlja,149,Montenegro,14149,MNE
+15149,Plu??ine,149,Montenegro,15149,MNE
+16149,Podgorica,149,Montenegro,16149,MNE
+17149,Ro??aje,149,Montenegro,17149,MNE
+18149,?áavnik,149,Montenegro,18149,MNE
+19149,Tivat,149,Montenegro,19149,MNE
+20149,Ulcinj,149,Montenegro,20149,MNE
+21149,??abljak,149,Montenegro,21149,MNE
+1150,Arhangay,150,Mongolia,1150,MNG
+2150,Bayan-?ûlgiy,150,Mongolia,2150,MNG
+3150,Bayanhongor,150,Mongolia,3150,MNG
+4150,Bulgan,150,Mongolia,4150,MNG
+5150,Darhan-Uul,150,Mongolia,5150,MNG
+6150,Dornod,150,Mongolia,6150,MNG
+7150,Dornogovi,150,Mongolia,7150,MNG
+8150,Dundgovi,150,Mongolia,8150,MNG
+9150,Dzavhan,150,Mongolia,9150,MNG
+10150,Govi-Altay,150,Mongolia,10150,MNG
+11150,Govis??mber,150,Mongolia,11150,MNG
+12150,Hentiy,150,Mongolia,12150,MNG
+13150,Hovd,150,Mongolia,13150,MNG
+14150,H??vsg??l,150,Mongolia,14150,MNG
+15150,?ûmn??govi,150,Mongolia,15150,MNG
+16150,Orhon,150,Mongolia,16150,MNG
+17150,?ûv??rhangay,150,Mongolia,17150,MNG
+18150,Selenge,150,Mongolia,18150,MNG
+19150,S??hbaatar,150,Mongolia,19150,MNG
+20150,T??v,150,Mongolia,20150,MNG
+21150,Ulaanbaatar,150,Mongolia,21150,MNG
+22150,Uvs,150,Mongolia,22150,MNG
+1151,Northern Islands,151,Northern Mariana Islands,1151,MNP
+2151,Rota,151,Northern Mariana Islands,2151,MNP
+3151,Saipan,151,Northern Mariana Islands,3151,MNP
+4151,Tinian,151,Northern Mariana Islands,4151,MNP
+1152,Cabo Delgado,152,Mozambique,1152,MOZ
+2152,Gaza,152,Mozambique,2152,MOZ
+3152,Inhambane,152,Mozambique,3152,MOZ
+4152,Manica,152,Mozambique,4152,MOZ
+6152,Maputo,152,Mozambique,6152,MOZ
+5152,Maputo City,152,Mozambique,5152,MOZ
+7152,Nampula,152,Mozambique,7152,MOZ
+8152,Nassa,152,Mozambique,8152,MOZ
+9152,Sofala,152,Mozambique,9152,MOZ
+10152,Tete,152,Mozambique,10152,MOZ
+11152,Zambezia,152,Mozambique,11152,MOZ
+1153,Adrar,153,Mauritania,1153,MRT
+2153,Assaba,153,Mauritania,2153,MRT
+3153,Brakna,153,Mauritania,3153,MRT
+4153,Dakhlet Nouadhibou,153,Mauritania,4153,MRT
+5153,Gorgol,153,Mauritania,5153,MRT
+6153,Guidimaka,153,Mauritania,6153,MRT
+7153,Hodh ech Chargui,153,Mauritania,7153,MRT
+8153,Hodh el Gharbi,153,Mauritania,8153,MRT
+9153,Inchiri,153,Mauritania,9153,MRT
+10153,Nouakchott,153,Mauritania,10153,MRT
+11153,Tagant,153,Mauritania,11153,MRT
+12153,Tiris Zemmour,153,Mauritania,12153,MRT
+13153,Trarza,153,Mauritania,13153,MRT
+1154,Saint Anthon,154,Montserrat,1154,MSR
+2154,Saint Georges,154,Montserrat,2154,MSR
+3154,Saint Peter,154,Montserrat,3154,MSR
+1155,Fort-de-France,155,Martinique,1155,MTQ
+2155,Le Marin,155,Martinique,2155,MTQ
+3155,Le Trinit??,155,Martinique,3155,MTQ
+4155,Saint-Pierre,155,Martinique,4155,MTQ
+1156,Agalega Islands,156,Mauritius,1156,MUS
+2156,Black River,156,Mauritius,2156,MUS
+3156,Flacq,156,Mauritius,3156,MUS
+4156,Grand Port,156,Mauritius,4156,MUS
+5156,Moka,156,Mauritius,5156,MUS
+6156,Pamplemousses,156,Mauritius,6156,MUS
+7156,Plaines Wilhems,156,Mauritius,7156,MUS
+8156,Port Louis,156,Mauritius,8156,MUS
+9156,Rivi?¿re du Rempart,156,Mauritius,9156,MUS
+10156,Rodriguez,156,Mauritius,10156,MUS
+11156,Saint Brandon,156,Mauritius,11156,MUS
+12156,Savanne,156,Mauritius,12156,MUS
+1157,Balaka,157,Malawi,1157,MWI
+2157,Blantyre,157,Malawi,2157,MWI
+3157,Chikwawa,157,Malawi,3157,MWI
+4157,Chiradzulu,157,Malawi,4157,MWI
+5157,Chitipa,157,Malawi,5157,MWI
+6157,Dedza,157,Malawi,6157,MWI
+7157,Dowa,157,Malawi,7157,MWI
+8157,Karonga,157,Malawi,8157,MWI
+9157,Kasungu,157,Malawi,9157,MWI
+10157,Likoma,157,Malawi,10157,MWI
+11157,Lilongwe,157,Malawi,11157,MWI
+12157,Machinga,157,Malawi,12157,MWI
+13157,Mangochi,157,Malawi,13157,MWI
+14157,Mchinji,157,Malawi,14157,MWI
+15157,Mulanje,157,Malawi,15157,MWI
+16157,Mwanza,157,Malawi,16157,MWI
+17157,Mzimba,157,Malawi,17157,MWI
+18157,Neno,157,Malawi,18157,MWI
+19157,Nkhata Bay,157,Malawi,19157,MWI
+20157,Nkhotakota,157,Malawi,20157,MWI
+21157,Nsanje,157,Malawi,21157,MWI
+22157,Ntcheu,157,Malawi,22157,MWI
+23157,Ntchisi,157,Malawi,23157,MWI
+24157,Phalombe,157,Malawi,24157,MWI
+25157,Rumphi,157,Malawi,25157,MWI
+26157,Salima,157,Malawi,26157,MWI
+27157,Thyolo,157,Malawi,27157,MWI
+28157,Zomba,157,Malawi,28157,MWI
+1158,Johor,158,Malaysia,1158,MYS
+2158,Kedah,158,Malaysia,2158,MYS
+3158,Kelantan,158,Malaysia,3158,MYS
+4158,Kuala Lumpur,158,Malaysia,4158,MYS
+5158,Labuan,158,Malaysia,5158,MYS
+6158,Melaka,158,Malaysia,6158,MYS
+7158,Negeri Sembilan,158,Malaysia,7158,MYS
+8158,Pahang,158,Malaysia,8158,MYS
+9158,Perak,158,Malaysia,9158,MYS
+10158,Perlis,158,Malaysia,10158,MYS
+11158,Pulau Pinang,158,Malaysia,11158,MYS
+12158,Putrajaya,158,Malaysia,12158,MYS
+13158,Sabah,158,Malaysia,13158,MYS
+14158,Sarawak,158,Malaysia,14158,MYS
+15158,Selangor,158,Malaysia,15158,MYS
+16158,Trengganu,158,Malaysia,16158,MYS
+1159,Acoua,159,Mayotte,1159,MYT
+2159,Bandraboua,159,Mayotte,2159,MYT
+3159,Bandrele,159,Mayotte,3159,MYT
+4159,Boueni,159,Mayotte,4159,MYT
+5159,Chiconi,159,Mayotte,5159,MYT
+6159,Chirongui,159,Mayotte,6159,MYT
+7159,Dembeni,159,Mayotte,7159,MYT
+8159,Dzaoudzi,159,Mayotte,8159,MYT
+9159,Kani-Keli,159,Mayotte,9159,MYT
+10159,Koungou,159,Mayotte,10159,MYT
+11159,M'tsangamouji,159,Mayotte,11159,MYT
+12159,Mamoudzou,159,Mayotte,12159,MYT
+13159,Mtsamboro,159,Mayotte,13159,MYT
+14159,Ouangani,159,Mayotte,14159,MYT
+15159,Pamandzi,159,Mayotte,15159,MYT
+16159,Sada,159,Mayotte,16159,MYT
+17159,Tsingoni,159,Mayotte,17159,MYT
+1160,!Karas,160,Namibia,1160,NAM
+2160,Erongo,160,Namibia,2160,NAM
+3160,Hardap,160,Namibia,3160,NAM
+4160,Kavango,160,Namibia,4160,NAM
+5160,Khomas,160,Namibia,5160,NAM
+6160,Kunene,160,Namibia,6160,NAM
+7160,Ohangwena,160,Namibia,7160,NAM
+8160,Omaheke,160,Namibia,8160,NAM
+9160,Omusati,160,Namibia,9160,NAM
+10160,Oshana,160,Namibia,10160,NAM
+11160,Oshikoto,160,Namibia,11160,NAM
+12160,Otjozondjupa,160,Namibia,12160,NAM
+13160,Zambezi,160,Namibia,13160,NAM
+1161,?Äles Loyaut??,161,New Caledonia,1161,NCL
+2161,Nord,161,New Caledonia,2161,NCL
+3161,Sud,161,New Caledonia,3161,NCL
+1162,Agadez,162,Niger,1162,NER
+2162,Diffa,162,Niger,2162,NER
+3162,Dosso,162,Niger,3162,NER
+4162,Maradi,162,Niger,4162,NER
+5162,Niamey,162,Niger,5162,NER
+6162,Tahoua,162,Niger,6162,NER
+7162,Tillab??ry,162,Niger,7162,NER
+8162,Zinder,162,Niger,8162,NER
+1164,Abia,164,Nigeria,1164,NGA
+2164,Adamawa,164,Nigeria,2164,NGA
+3164,Akwa Ibom,164,Nigeria,3164,NGA
+4164,Anambra,164,Nigeria,4164,NGA
+5164,Bauchi,164,Nigeria,5164,NGA
+6164,Bayelsa,164,Nigeria,6164,NGA
+7164,Benue,164,Nigeria,7164,NGA
+8164,Borno,164,Nigeria,8164,NGA
+9164,Cross River,164,Nigeria,9164,NGA
+10164,Delta,164,Nigeria,10164,NGA
+11164,Ebonyi,164,Nigeria,11164,NGA
+12164,Edo,164,Nigeria,12164,NGA
+13164,Ekiti,164,Nigeria,13164,NGA
+14164,Enugu,164,Nigeria,14164,NGA
+15164,Federal Capital Territory,164,Nigeria,15164,NGA
+16164,Gombe,164,Nigeria,16164,NGA
+17164,Imo,164,Nigeria,17164,NGA
+18164,Jigawa,164,Nigeria,18164,NGA
+19164,Kaduna,164,Nigeria,19164,NGA
+20164,Kano,164,Nigeria,20164,NGA
+21164,Katsina,164,Nigeria,21164,NGA
+22164,Kebbi,164,Nigeria,22164,NGA
+23164,Kogi,164,Nigeria,23164,NGA
+24164,Kwara,164,Nigeria,24164,NGA
+25164,Lagos,164,Nigeria,25164,NGA
+26164,Nassarawa,164,Nigeria,26164,NGA
+27164,Niger,164,Nigeria,27164,NGA
+28164,Ogun,164,Nigeria,28164,NGA
+29164,Ondo,164,Nigeria,29164,NGA
+30164,Osun,164,Nigeria,30164,NGA
+31164,Oyo,164,Nigeria,31164,NGA
+32164,Plateau,164,Nigeria,32164,NGA
+33164,Rivers,164,Nigeria,33164,NGA
+34164,Sokoto,164,Nigeria,34164,NGA
+35164,Taraba,164,Nigeria,35164,NGA
+36164,Yobe,164,Nigeria,36164,NGA
+37164,Zamfara,164,Nigeria,37164,NGA
+1165,Atl?íntico Norte,165,Nicaragua,1165,NIC
+2165,Atl?íntico Sur,165,Nicaragua,2165,NIC
+3165,Boaco,165,Nicaragua,3165,NIC
+4165,Carazo,165,Nicaragua,4165,NIC
+5165,Chinandega,165,Nicaragua,5165,NIC
+6165,Chontales,165,Nicaragua,6165,NIC
+7165,Estel?¡,165,Nicaragua,7165,NIC
+8165,Granada,165,Nicaragua,8165,NIC
+9165,Jinotega,165,Nicaragua,9165,NIC
+10165,Lago Nicaragua,165,Nicaragua,10165,NIC
+11165,Le??n,165,Nicaragua,11165,NIC
+12165,Madriz,165,Nicaragua,12165,NIC
+13165,Managua,165,Nicaragua,13165,NIC
+14165,Masaya,165,Nicaragua,14165,NIC
+15165,Matagalpa,165,Nicaragua,15165,NIC
+16165,Nueva Segovia,165,Nicaragua,16165,NIC
+17165,R?¡o San Juan,165,Nicaragua,17165,NIC
+18165,Rivas,165,Nicaragua,18165,NIC
+1167,Drenthe,167,Netherlands,1167,NLD
+2167,Flevoland,167,Netherlands,2167,NLD
+3167,Friesland,167,Netherlands,3167,NLD
+4167,Gelderland,167,Netherlands,4167,NLD
+5167,Groningen,167,Netherlands,5167,NLD
+6167,IJsselmeer,167,Netherlands,6167,NLD
+7167,Limburg,167,Netherlands,7167,NLD
+8167,Noord-Brabant,167,Netherlands,8167,NLD
+9167,Noord-Holland,167,Netherlands,9167,NLD
+10167,Overijssel,167,Netherlands,10167,NLD
+11167,Utrecht,167,Netherlands,11167,NLD
+12167,Zeeland,167,Netherlands,12167,NLD
+13167,Zeeuwse meren,167,Netherlands,13167,NLD
+14167,Zuid-Holland,167,Netherlands,14167,NLD
+1168,Akershus,168,Norway,1168,NOR
+2168,?âstfold,168,Norway,2168,NOR
+3168,Aust-Agder,168,Norway,3168,NOR
+4168,Buskerud,168,Norway,4168,NOR
+5168,Finnmark,168,Norway,5168,NOR
+6168,Hedmark,168,Norway,6168,NOR
+7168,Hordaland,168,Norway,7168,NOR
+8168,M??re og Romsdal,168,Norway,8168,NOR
+9168,Nord-Tr??ndelag,168,Norway,9168,NOR
+10168,Nordland,168,Norway,10168,NOR
+11168,Oppland,168,Norway,11168,NOR
+12168,Oslo,168,Norway,12168,NOR
+13168,Rogaland,168,Norway,13168,NOR
+14168,Sogn og Fjordane,168,Norway,14168,NOR
+15168,S??r-Tr??ndelag,168,Norway,15168,NOR
+16168,Telemark,168,Norway,16168,NOR
+17168,Troms,168,Norway,17168,NOR
+18168,Vest-Agder,168,Norway,18168,NOR
+19168,Vestfold,168,Norway,19168,NOR
+1169,Central,169,Nepal,1169,NPL
+2169,East,169,Nepal,2169,NPL
+3169,Far-Western,169,Nepal,3169,NPL
+4169,Mid-Western,169,Nepal,4169,NPL
+5169,West,169,Nepal,5169,NPL
+1170,Aiwo,170,Nauru,1170,NRU
+2170,Anabar,170,Nauru,2170,NRU
+3170,Anetan,170,Nauru,3170,NRU
+4170,Anibare,170,Nauru,4170,NRU
+5170,Baiti,170,Nauru,5170,NRU
+6170,Boe,170,Nauru,6170,NRU
+7170,Buada,170,Nauru,7170,NRU
+8170,Denigomodu,170,Nauru,8170,NRU
+9170,Ewa,170,Nauru,9170,NRU
+10170,Ijuw,170,Nauru,10170,NRU
+11170,Meneng,170,Nauru,11170,NRU
+12170,Nibok,170,Nauru,12170,NRU
+13170,Uaboe,170,Nauru,13170,NRU
+14170,Yaren,170,Nauru,14170,NRU
+1171,Auckland,171,New Zealand,1171,NZL
+2171,Bay of Plenty,171,New Zealand,2171,NZL
+3171,Canterbury,171,New Zealand,3171,NZL
+4171,Chatham Islands,171,New Zealand,4171,NZL
+5171,Gisborne,171,New Zealand,5171,NZL
+6171,Hawke's Bay,171,New Zealand,6171,NZL
+7171,Manawatu-Wanganui,171,New Zealand,7171,NZL
+8171,Marlborough,171,New Zealand,8171,NZL
+9171,Nelson,171,New Zealand,9171,NZL
+10171,Northern Islands,171,New Zealand,10171,NZL
+11171,Northland,171,New Zealand,11171,NZL
+12171,Otago,171,New Zealand,12171,NZL
+13171,Southern Islands,171,New Zealand,13171,NZL
+14171,Southland,171,New Zealand,14171,NZL
+15171,Taranaki,171,New Zealand,15171,NZL
+16171,Tasman,171,New Zealand,16171,NZL
+17171,Waikato,171,New Zealand,17171,NZL
+18171,Wellington,171,New Zealand,18171,NZL
+19171,West Coast,171,New Zealand,19171,NZL
+1172,Ad Dakhliyah,172,Oman,1172,OMN
+2172,Al Batinah North,172,Oman,2172,OMN
+3172,Al Batinah South,172,Oman,3172,OMN
+4172,Al Buraymi,172,Oman,4172,OMN
+5172,Al Dhahira,172,Oman,5172,OMN
+6172,Al Wusta,172,Oman,6172,OMN
+7172,Ash Sharqiyah North,172,Oman,7172,OMN
+8172,Ash Sharqiyah South,172,Oman,8172,OMN
+9172,Dhofar,172,Oman,9172,OMN
+10172,Musandam,172,Oman,10172,OMN
+11172,Muscat,172,Oman,11172,OMN
+1173,Azad Kashmir,173,Pakistan,1173,PAK
+2173,Baluchistan,173,Pakistan,2173,PAK
+3173,F.A.T.A.,173,Pakistan,3173,PAK
+4173,F.C.T.,173,Pakistan,4173,PAK
+5173,N.W.F.P.,173,Pakistan,5173,PAK
+6173,Northern Areas,173,Pakistan,6173,PAK
+7173,Punjab,173,Pakistan,7173,PAK
+8173,Sind,173,Pakistan,8173,PAK
+1174,Bocas del Toro,174,Panama,1174,PAN
+2174,Chiriqu?¡,174,Panama,2174,PAN
+3174,Cocl??,174,Panama,3174,PAN
+4174,Col??n,174,Panama,4174,PAN
+5174,Dari??n,174,Panama,5174,PAN
+6174,Ember?í,174,Panama,6174,PAN
+7174,Herrera,174,Panama,7174,PAN
+8174,Kuna Yala,174,Panama,8174,PAN
+9174,Los Santos,174,Panama,9174,PAN
+10174,Ng??be Bugl??,174,Panama,10174,PAN
+12174,Panam?í,174,Panama,12174,PAN
+11174,Panam?í Oeste,174,Panama,11174,PAN
+13174,Veraguas,174,Panama,13174,PAN
+1176,Amazonas,176,Peru,1176,PER
+2176,Ancash,176,Peru,2176,PER
+3176,Apur?¡mac,176,Peru,3176,PER
+4176,Arequipa,176,Peru,4176,PER
+5176,Ayacucho,176,Peru,5176,PER
+6176,Cajamarca,176,Peru,6176,PER
+7176,Callao,176,Peru,7176,PER
+8176,Cusco,176,Peru,8176,PER
+9176,Huancavelica,176,Peru,9176,PER
+10176,Hu?ínuco,176,Peru,10176,PER
+11176,Ica,176,Peru,11176,PER
+12176,Jun?¡n,176,Peru,12176,PER
+13176,La Libertad,176,Peru,13176,PER
+14176,Lambayeque,176,Peru,14176,PER
+16176,Lima,176,Peru,16176,PER
+15176,Lima Province,176,Peru,15176,PER
+17176,Loreto,176,Peru,17176,PER
+18176,Madre de Dios,176,Peru,18176,PER
+19176,Moquegua,176,Peru,19176,PER
+20176,Pasco,176,Peru,20176,PER
+21176,Piura,176,Peru,21176,PER
+22176,Puno,176,Peru,22176,PER
+23176,San Mart?¡n,176,Peru,23176,PER
+24176,Tacna,176,Peru,24176,PER
+25176,Tumbes,176,Peru,25176,PER
+26176,Ucayali,176,Peru,26176,PER
+1177,Abra,177,Philippines,1177,PHL
+2177,Agusan del Norte,177,Philippines,2177,PHL
+3177,Agusan del Sur,177,Philippines,3177,PHL
+4177,Aklan,177,Philippines,4177,PHL
+5177,Albay,177,Philippines,5177,PHL
+6177,Antique,177,Philippines,6177,PHL
+7177,Apayao,177,Philippines,7177,PHL
+8177,Aurora,177,Philippines,8177,PHL
+9177,Basilan,177,Philippines,9177,PHL
+10177,Bataan,177,Philippines,10177,PHL
+11177,Batanes,177,Philippines,11177,PHL
+12177,Batangas,177,Philippines,12177,PHL
+13177,Benguet,177,Philippines,13177,PHL
+14177,Biliran,177,Philippines,14177,PHL
+15177,Bohol,177,Philippines,15177,PHL
+16177,Bukidnon,177,Philippines,16177,PHL
+17177,Bulacan,177,Philippines,17177,PHL
+18177,Cagayan,177,Philippines,18177,PHL
+19177,Camarines Norte,177,Philippines,19177,PHL
+20177,Camarines Sur,177,Philippines,20177,PHL
+21177,Camiguin,177,Philippines,21177,PHL
+22177,Capiz,177,Philippines,22177,PHL
+23177,Catanduanes,177,Philippines,23177,PHL
+24177,Cavite,177,Philippines,24177,PHL
+25177,Cebu,177,Philippines,25177,PHL
+26177,Compostela Valley,177,Philippines,26177,PHL
+27177,Davao del Norte,177,Philippines,27177,PHL
+28177,Davao del Sur,177,Philippines,28177,PHL
+29177,Davao Oriental,177,Philippines,29177,PHL
+30177,Dinagat Islands,177,Philippines,30177,PHL
+31177,Eastern Samar,177,Philippines,31177,PHL
+32177,Guimaras,177,Philippines,32177,PHL
+33177,Ifugao,177,Philippines,33177,PHL
+34177,Ilocos Norte,177,Philippines,34177,PHL
+35177,Ilocos Sur,177,Philippines,35177,PHL
+36177,Iloilo,177,Philippines,36177,PHL
+37177,Isabela,177,Philippines,37177,PHL
+38177,Kalinga,177,Philippines,38177,PHL
+39177,La Union,177,Philippines,39177,PHL
+40177,Laguna,177,Philippines,40177,PHL
+41177,Lanao del Norte,177,Philippines,41177,PHL
+42177,Lanao del Sur,177,Philippines,42177,PHL
+43177,Leyte,177,Philippines,43177,PHL
+44177,Maguindanao,177,Philippines,44177,PHL
+45177,Marinduque,177,Philippines,45177,PHL
+46177,Masbate,177,Philippines,46177,PHL
+47177,Metropolitan Manila,177,Philippines,47177,PHL
+48177,Misamis Occidental,177,Philippines,48177,PHL
+49177,Misamis Oriental,177,Philippines,49177,PHL
+50177,Mountain Province,177,Philippines,50177,PHL
+51177,Negros Occidental,177,Philippines,51177,PHL
+52177,Negros Oriental,177,Philippines,52177,PHL
+53177,North Cotabato,177,Philippines,53177,PHL
+54177,Northern Samar,177,Philippines,54177,PHL
+55177,Nueva Ecija,177,Philippines,55177,PHL
+56177,Nueva Vizcaya,177,Philippines,56177,PHL
+57177,Occidental Mindoro,177,Philippines,57177,PHL
+58177,Oriental Mindoro,177,Philippines,58177,PHL
+59177,Palawan,177,Philippines,59177,PHL
+60177,Pampanga,177,Philippines,60177,PHL
+61177,Pangasinan,177,Philippines,61177,PHL
+62177,Quezon,177,Philippines,62177,PHL
+63177,Quirino,177,Philippines,63177,PHL
+64177,Rizal,177,Philippines,64177,PHL
+65177,Romblon,177,Philippines,65177,PHL
+66177,Samar,177,Philippines,66177,PHL
+67177,Sarangani,177,Philippines,67177,PHL
+68177,Siquijor,177,Philippines,68177,PHL
+69177,Sorsogon,177,Philippines,69177,PHL
+70177,South Cotabato,177,Philippines,70177,PHL
+71177,Southern Leyte,177,Philippines,71177,PHL
+72177,Sultan Kudarat,177,Philippines,72177,PHL
+73177,Sulu,177,Philippines,73177,PHL
+74177,Surigao del Norte,177,Philippines,74177,PHL
+75177,Surigao del Sur,177,Philippines,75177,PHL
+76177,Tarlac,177,Philippines,76177,PHL
+77177,Tawi-Tawi,177,Philippines,77177,PHL
+78177,Zambales,177,Philippines,78177,PHL
+79177,Zamboanga del Norte,177,Philippines,79177,PHL
+80177,Zamboanga del Sur,177,Philippines,80177,PHL
+81177,Zamboanga Sibugay,177,Philippines,81177,PHL
+1178,Aimeliik,178,Palau,1178,PLW
+2178,Airai,178,Palau,2178,PLW
+3178,Angaur,178,Palau,3178,PLW
+4178,Hatohobei,178,Palau,4178,PLW
+5178,Kayangel,178,Palau,5178,PLW
+6178,Koror,178,Palau,6178,PLW
+7178,Melekeok,178,Palau,7178,PLW
+8178,Ngaraard,178,Palau,8178,PLW
+9178,Ngarchelong,178,Palau,9178,PLW
+10178,Ngardmau,178,Palau,10178,PLW
+11178,Ngatpang,178,Palau,11178,PLW
+12178,Ngchesar,178,Palau,12178,PLW
+13178,Ngeremlengui,178,Palau,13178,PLW
+14178,Ngiwal,178,Palau,14178,PLW
+15178,Peleliu,178,Palau,15178,PLW
+16178,Sonsorol,178,Palau,16178,PLW
+1179,Bougainville,179,Papua New Guinea,1179,PNG
+2179,Central,179,Papua New Guinea,2179,PNG
+3179,Chimbu,179,Papua New Guinea,3179,PNG
+4179,East New Britain,179,Papua New Guinea,4179,PNG
+5179,East Sepik,179,Papua New Guinea,5179,PNG
+6179,Eastern Highlands,179,Papua New Guinea,6179,PNG
+7179,Enga,179,Papua New Guinea,7179,PNG
+8179,Gulf,179,Papua New Guinea,8179,PNG
+9179,Hela,179,Papua New Guinea,9179,PNG
+10179,Jiwaka,179,Papua New Guinea,10179,PNG
+11179,Madang,179,Papua New Guinea,11179,PNG
+12179,Manus,179,Papua New Guinea,12179,PNG
+13179,Milne Bay,179,Papua New Guinea,13179,PNG
+14179,Morobe,179,Papua New Guinea,14179,PNG
+15179,National Capital District,179,Papua New Guinea,15179,PNG
+16179,New Ireland,179,Papua New Guinea,16179,PNG
+17179,Oro,179,Papua New Guinea,17179,PNG
+18179,Sandaun,179,Papua New Guinea,18179,PNG
+19179,Southern Highlands,179,Papua New Guinea,19179,PNG
+20179,West New Britain,179,Papua New Guinea,20179,PNG
+22179,Western,179,Papua New Guinea,22179,PNG
+21179,Western Highlands,179,Papua New Guinea,21179,PNG
+1180,Dolno?¢l?àskie,180,Poland,1180,POL
+2180,Kujawsko-Pomorskie,180,Poland,2180,POL
+3180,?ü??dzkie,180,Poland,3180,POL
+4180,Lubelskie,180,Poland,4180,POL
+5180,Lubuskie,180,Poland,5180,POL
+6180,Ma?éopolskie,180,Poland,6180,POL
+7180,Mazowieckie,180,Poland,7180,POL
+8180,Opolskie,180,Poland,8180,POL
+9180,Podkarpackie,180,Poland,9180,POL
+10180,Podlaskie,180,Poland,10180,POL
+11180,Pomorskie,180,Poland,11180,POL
+12180,?Ül?àskie,180,Poland,12180,POL
+13180,?Üwi?Ötokrzyskie,180,Poland,13180,POL
+14180,Warmi?äsko-Mazurskie,180,Poland,14180,POL
+15180,Wielkopolskie,180,Poland,15180,POL
+16180,Zachodniopomorskie,180,Poland,16180,POL
+1181,Adjuntas,181,Puerto Rico,1181,PRI
+2181,Aguada,181,Puerto Rico,2181,PRI
+3181,Aguadilla,181,Puerto Rico,3181,PRI
+4181,Aguas Buenas,181,Puerto Rico,4181,PRI
+5181,Aibonito,181,Puerto Rico,5181,PRI
+6181,A??asco,181,Puerto Rico,6181,PRI
+7181,Arecibo,181,Puerto Rico,7181,PRI
+8181,Arroyo,181,Puerto Rico,8181,PRI
+9181,Barceloneta,181,Puerto Rico,9181,PRI
+10181,Barranquitas,181,Puerto Rico,10181,PRI
+11181,Bayam??n,181,Puerto Rico,11181,PRI
+12181,Cabo Rojo,181,Puerto Rico,12181,PRI
+13181,Caguas,181,Puerto Rico,13181,PRI
+14181,Camuy,181,Puerto Rico,14181,PRI
+15181,Can??vanas,181,Puerto Rico,15181,PRI
+16181,Carolina,181,Puerto Rico,16181,PRI
+17181,Cata??o,181,Puerto Rico,17181,PRI
+18181,Cayey,181,Puerto Rico,18181,PRI
+19181,Ceiba,181,Puerto Rico,19181,PRI
+20181,Ciales,181,Puerto Rico,20181,PRI
+21181,Cidra,181,Puerto Rico,21181,PRI
+22181,Coamo,181,Puerto Rico,22181,PRI
+23181,Comer?¡o,181,Puerto Rico,23181,PRI
+24181,Corozal,181,Puerto Rico,24181,PRI
+25181,Culebra,181,Puerto Rico,25181,PRI
+26181,Dorado,181,Puerto Rico,26181,PRI
+27181,Fajardo,181,Puerto Rico,27181,PRI
+28181,Florida,181,Puerto Rico,28181,PRI
+29181,Gu?ínica,181,Puerto Rico,29181,PRI
+30181,Guayama,181,Puerto Rico,30181,PRI
+31181,Guayanilla,181,Puerto Rico,31181,PRI
+32181,Guaynabo,181,Puerto Rico,32181,PRI
+33181,Gurabo,181,Puerto Rico,33181,PRI
+34181,Hatillo,181,Puerto Rico,34181,PRI
+35181,Hormigueros,181,Puerto Rico,35181,PRI
+36181,Humacao,181,Puerto Rico,36181,PRI
+37181,Isabela,181,Puerto Rico,37181,PRI
+38181,Jayuya,181,Puerto Rico,38181,PRI
+39181,Juana D?¡az,181,Puerto Rico,39181,PRI
+40181,Juncos,181,Puerto Rico,40181,PRI
+41181,Lajas,181,Puerto Rico,41181,PRI
+42181,Lares,181,Puerto Rico,42181,PRI
+43181,Las Mar?¡as,181,Puerto Rico,43181,PRI
+44181,Las Piedras,181,Puerto Rico,44181,PRI
+45181,Lo?¡za,181,Puerto Rico,45181,PRI
+46181,Luquillo,181,Puerto Rico,46181,PRI
+47181,Manat?¡,181,Puerto Rico,47181,PRI
+48181,Maricao,181,Puerto Rico,48181,PRI
+49181,Maunabo,181,Puerto Rico,49181,PRI
+50181,Mayag??ez,181,Puerto Rico,50181,PRI
+51181,Moca,181,Puerto Rico,51181,PRI
+52181,Morovis,181,Puerto Rico,52181,PRI
+53181,Naguabo,181,Puerto Rico,53181,PRI
+54181,Naranjito,181,Puerto Rico,54181,PRI
+55181,Orocovis,181,Puerto Rico,55181,PRI
+56181,Patillas,181,Puerto Rico,56181,PRI
+57181,Pe??uelas,181,Puerto Rico,57181,PRI
+58181,Ponce,181,Puerto Rico,58181,PRI
+59181,Quebradillas,181,Puerto Rico,59181,PRI
+60181,Rinc??n,181,Puerto Rico,60181,PRI
+61181,R?¡o Grande,181,Puerto Rico,61181,PRI
+62181,Sabana Grande,181,Puerto Rico,62181,PRI
+63181,Salinas,181,Puerto Rico,63181,PRI
+64181,San Germ?ín,181,Puerto Rico,64181,PRI
+65181,San Juan,181,Puerto Rico,65181,PRI
+66181,San Lorenzo,181,Puerto Rico,66181,PRI
+67181,San Sebasti?ín,181,Puerto Rico,67181,PRI
+68181,Santa Isabel,181,Puerto Rico,68181,PRI
+69181,Toa Alta,181,Puerto Rico,69181,PRI
+70181,Toa Baja,181,Puerto Rico,70181,PRI
+71181,Trujillo Alto,181,Puerto Rico,71181,PRI
+72181,Utuado,181,Puerto Rico,72181,PRI
+73181,Vega Alta,181,Puerto Rico,73181,PRI
+74181,Vega Baja,181,Puerto Rico,74181,PRI
+75181,Vieques,181,Puerto Rico,75181,PRI
+76181,Villalba,181,Puerto Rico,76181,PRI
+77181,Yabucoa,181,Puerto Rico,77181,PRI
+78181,Yauco,181,Puerto Rico,78181,PRI
+1182,Chagang-do,182,North Korea,1182,PRK
+2182,Hamgy?Ång-bukto,182,North Korea,2182,PRK
+3182,Hamgy?Ång-namdo,182,North Korea,3182,PRK
+4182,Hwanghae-bukto,182,North Korea,4182,PRK
+5182,Hwanghae-namdo,182,North Korea,5182,PRK
+6182,Kaes?Ång,182,North Korea,6182,PRK
+7182,Kangw?Ån-do,182,North Korea,7182,PRK
+8182,Kumgangsan,182,North Korea,8182,PRK
+9182,P'y?Ångan-bukto,182,North Korea,9182,PRK
+10182,P'y?Ångan-namdo,182,North Korea,10182,PRK
+11182,P'y?Ångyang,182,North Korea,11182,PRK
+12182,Ras?Ån,182,North Korea,12182,PRK
+13182,Ryanggang,182,North Korea,13182,PRK
+14182,Sin?¡iju,182,North Korea,14182,PRK
+1183,Aveiro,183,Portugal,1183,PRT
+2183,Azores,183,Portugal,2183,PRT
+3183,Beja,183,Portugal,3183,PRT
+4183,Braga,183,Portugal,4183,PRT
+5183,Bragan?ºa,183,Portugal,5183,PRT
+6183,Castelo Branco,183,Portugal,6183,PRT
+7183,Coimbra,183,Portugal,7183,PRT
+8183,?ëvora,183,Portugal,8183,PRT
+9183,Faro,183,Portugal,9183,PRT
+10183,Guarda,183,Portugal,10183,PRT
+11183,Leiria,183,Portugal,11183,PRT
+12183,Lisboa,183,Portugal,12183,PRT
+13183,Madeira,183,Portugal,13183,PRT
+14183,Portalegre,183,Portugal,14183,PRT
+15183,Porto,183,Portugal,15183,PRT
+16183,Santar??m,183,Portugal,16183,PRT
+17183,Set??bal,183,Portugal,17183,PRT
+18183,Viana do Castelo,183,Portugal,18183,PRT
+19183,Vila Real,183,Portugal,19183,PRT
+20183,Viseu,183,Portugal,20183,PRT
+1184,Alto Paraguay,184,Paraguay,1184,PRY
+2184,Alto Paran?í,184,Paraguay,2184,PRY
+3184,Amambay,184,Paraguay,3184,PRY
+4184,Asunci??n,184,Paraguay,4184,PRY
+5184,Boquer??n,184,Paraguay,5184,PRY
+6184,Caaguaz??,184,Paraguay,6184,PRY
+7184,Caazap?í,184,Paraguay,7184,PRY
+8184,Canindey??,184,Paraguay,8184,PRY
+9184,Central,184,Paraguay,9184,PRY
+10184,Concepci??n,184,Paraguay,10184,PRY
+11184,Cordillera,184,Paraguay,11184,PRY
+12184,Guair?í,184,Paraguay,12184,PRY
+13184,Itap??a,184,Paraguay,13184,PRY
+14184,Misiones,184,Paraguay,14184,PRY
+15184,?æeembuc??,184,Paraguay,15184,PRY
+16184,Paraguar?¡,184,Paraguay,16184,PRY
+17184,Presidente Hayes,184,Paraguay,17184,PRY
+18184,San Pedro,184,Paraguay,18184,PRY
+1185,Gaza,185,Palestina,1185,PSE
+2185,West Bank,185,Palestina,2185,PSE
+1186,?Äles Australes,186,French Polynesia,1186,PYF
+2186,?Äles du Vent,186,French Polynesia,2186,PYF
+3186,?Äles Marquises,186,French Polynesia,3186,PYF
+4186,?Äles Sous-le-Vent,186,French Polynesia,4186,PYF
+5186,?Äles Tuamotu-Gambier,186,French Polynesia,5186,PYF
+1187,Ad Dawhah,187,Qatar,1187,QAT
+2187,Al Daayen,187,Qatar,2187,QAT
+3187,Al Khor,187,Qatar,3187,QAT
+4187,Al Wakrah,187,Qatar,4187,QAT
+5187,Ar Rayyan,187,Qatar,5187,QAT
+6187,Madinat ash Shamal,187,Qatar,6187,QAT
+7187,Umm Salal,187,Qatar,7187,QAT
+1188,Saint-Beno?«t,188,Reunion,1188,REU
+2188,Saint-Denis,188,Reunion,2188,REU
+3188,Saint-Paul,188,Reunion,3188,REU
+4188,Saint-Pierre,188,Reunion,4188,REU
+1189,Alba,189,Romania,1189,ROU
+2189,Arad,189,Romania,2189,ROU
+3189,Arge?Ö,189,Romania,3189,ROU
+4189,Bac?âu,189,Romania,4189,ROU
+5189,Bihor,189,Romania,5189,ROU
+6189,Bistri?¢a-N?âs?âud,189,Romania,6189,ROU
+7189,Boto?Öani,189,Romania,7189,ROU
+8189,Bra?Öov,189,Romania,8189,ROU
+9189,Br?âila,189,Romania,9189,ROU
+10189,Bucharest,189,Romania,10189,ROU
+11189,Buz?âu,189,Romania,11189,ROU
+12189,C?âl?âra?Öi,189,Romania,12189,ROU
+13189,Cara?Ö-Severin,189,Romania,13189,ROU
+14189,Cluj,189,Romania,14189,ROU
+15189,Constan?¢a,189,Romania,15189,ROU
+16189,Covasna,189,Romania,16189,ROU
+17189,D?ómbovi?¢a,189,Romania,17189,ROU
+18189,Dolj,189,Romania,18189,ROU
+19189,Gala?¢i,189,Romania,19189,ROU
+20189,Giurgiu,189,Romania,20189,ROU
+21189,Gorj,189,Romania,21189,ROU
+22189,Harghita,189,Romania,22189,ROU
+23189,Hunedoara,189,Romania,23189,ROU
+24189,Ia?Öi,189,Romania,24189,ROU
+25189,Ialomi?¢a,189,Romania,25189,ROU
+26189,Ilfov,189,Romania,26189,ROU
+27189,Maramure?Ö,189,Romania,27189,ROU
+28189,Mehedin?¢i,189,Romania,28189,ROU
+29189,Mure?Ö,189,Romania,29189,ROU
+30189,Neam?¢,189,Romania,30189,ROU
+31189,Olt,189,Romania,31189,ROU
+32189,Prahova,189,Romania,32189,ROU
+33189,S?âlaj,189,Romania,33189,ROU
+34189,Satu Mare,189,Romania,34189,ROU
+35189,Sibiu,189,Romania,35189,ROU
+36189,Suceava,189,Romania,36189,ROU
+37189,Teleorman,189,Romania,37189,ROU
+38189,Timi?Ö,189,Romania,38189,ROU
+39189,Tulcea,189,Romania,39189,ROU
+40189,V?ólcea,189,Romania,40189,ROU
+41189,Vaslui,189,Romania,41189,ROU
+42189,Vrancea,189,Romania,42189,ROU
+1190,Adygey,190,Russia,1190,RUS
+2190,Altay,190,Russia,2190,RUS
+3190,Amur,190,Russia,3190,RUS
+4190,Arkhangel'sk,190,Russia,4190,RUS
+5190,Astrakhan',190,Russia,5190,RUS
+6190,Bashkortostan,190,Russia,6190,RUS
+7190,Belgorod,190,Russia,7190,RUS
+8190,Bryansk,190,Russia,8190,RUS
+9190,Buryat,190,Russia,9190,RUS
+10190,Chechnya,190,Russia,10190,RUS
+11190,Chelyabinsk,190,Russia,11190,RUS
+12190,Chukot,190,Russia,12190,RUS
+13190,Chuvash,190,Russia,13190,RUS
+14190,City of St. Petersburg,190,Russia,14190,RUS
+15190,Dagestan,190,Russia,15190,RUS
+16190,Gorno-Altay,190,Russia,16190,RUS
+17190,Ingush,190,Russia,17190,RUS
+18190,Irkutsk,190,Russia,18190,RUS
+19190,Ivanovo,190,Russia,19190,RUS
+20190,Kabardin-Balkar,190,Russia,20190,RUS
+21190,Kaliningrad,190,Russia,21190,RUS
+22190,Kalmyk,190,Russia,22190,RUS
+23190,Kaluga,190,Russia,23190,RUS
+24190,Kamchatka,190,Russia,24190,RUS
+25190,Karachay-Cherkess,190,Russia,25190,RUS
+26190,Karelia,190,Russia,26190,RUS
+27190,Kemerovo,190,Russia,27190,RUS
+28190,Khabarovsk,190,Russia,28190,RUS
+29190,Khakass,190,Russia,29190,RUS
+30190,Khanty-Mansiy,190,Russia,30190,RUS
+31190,Kirov,190,Russia,31190,RUS
+32190,Komi,190,Russia,32190,RUS
+33190,Kostroma,190,Russia,33190,RUS
+34190,Krasnodar,190,Russia,34190,RUS
+35190,Krasnoyarsk,190,Russia,35190,RUS
+36190,Kurgan,190,Russia,36190,RUS
+37190,Kursk,190,Russia,37190,RUS
+38190,Leningrad,190,Russia,38190,RUS
+39190,Lipetsk,190,Russia,39190,RUS
+40190,Maga Buryatdan,190,Russia,40190,RUS
+41190,Mariy-El,190,Russia,41190,RUS
+42190,Mordovia,190,Russia,42190,RUS
+43190,Moscow City,190,Russia,43190,RUS
+44190,Moskva,190,Russia,44190,RUS
+45190,Murmansk,190,Russia,45190,RUS
+46190,Nenets,190,Russia,46190,RUS
+47190,Nizhegorod,190,Russia,47190,RUS
+48190,North Ossetia,190,Russia,48190,RUS
+49190,Novgorod,190,Russia,49190,RUS
+50190,Novosibirsk,190,Russia,50190,RUS
+51190,Omsk,190,Russia,51190,RUS
+52190,Orel,190,Russia,52190,RUS
+53190,Orenburg,190,Russia,53190,RUS
+54190,Penza,190,Russia,54190,RUS
+55190,Perm',190,Russia,55190,RUS
+56190,Primor'ye,190,Russia,56190,RUS
+57190,Pskov,190,Russia,57190,RUS
+58190,Rostov,190,Russia,58190,RUS
+59190,Ryazan',190,Russia,59190,RUS
+60190,Sakha,190,Russia,60190,RUS
+61190,Sakhalin,190,Russia,61190,RUS
+62190,Samara,190,Russia,62190,RUS
+63190,Saratov,190,Russia,63190,RUS
+64190,Smolensk,190,Russia,64190,RUS
+65190,Stavropol',190,Russia,65190,RUS
+66190,Sverdlovsk,190,Russia,66190,RUS
+67190,Tambov,190,Russia,67190,RUS
+68190,Tatarstan,190,Russia,68190,RUS
+69190,Tomsk,190,Russia,69190,RUS
+70190,Tula,190,Russia,70190,RUS
+71190,Tuva,190,Russia,71190,RUS
+72190,Tver',190,Russia,72190,RUS
+73190,Tyumen',190,Russia,73190,RUS
+74190,Udmurt,190,Russia,74190,RUS
+75190,Ul'yanovsk,190,Russia,75190,RUS
+76190,Vladimir,190,Russia,76190,RUS
+77190,Volgograd,190,Russia,77190,RUS
+78190,Vologda,190,Russia,78190,RUS
+79190,Voronezh,190,Russia,79190,RUS
+80190,Yamal-Nenets,190,Russia,80190,RUS
+81190,Yaroslavl',190,Russia,81190,RUS
+82190,Yevrey,190,Russia,82190,RUS
+83190,Zabaykal'ye,190,Russia,83190,RUS
+1191,Amajyaruguru,191,Rwanda,1191,RWA
+2191,Amajyepfo,191,Rwanda,2191,RWA
+3191,Iburasirazuba,191,Rwanda,3191,RWA
+4191,Iburengerazuba,191,Rwanda,4191,RWA
+5191,Umujyi wa Kigali,191,Rwanda,5191,RWA
+1192,`Asir,192,Saudi Arabia,1192,SAU
+2192,Al Bahah,192,Saudi Arabia,2192,SAU
+3192,Al Hudud ash Shamaliyah,192,Saudi Arabia,3192,SAU
+4192,Al Jawf,192,Saudi Arabia,4192,SAU
+5192,Al Madinah,192,Saudi Arabia,5192,SAU
+6192,Al Quassim,192,Saudi Arabia,6192,SAU
+7192,Ar Riyad,192,Saudi Arabia,7192,SAU
+8192,Ash Sharqiyah,192,Saudi Arabia,8192,SAU
+9192,Ha'il,192,Saudi Arabia,9192,SAU
+10192,Jizan,192,Saudi Arabia,10192,SAU
+11192,Makkah,192,Saudi Arabia,11192,SAU
+12192,Najran,192,Saudi Arabia,12192,SAU
+13192,Tabuk,192,Saudi Arabia,13192,SAU
+1193,Al Jazirah,193,Sudan,1193,SDN
+2193,Al Qadarif,193,Sudan,2193,SDN
+3193,Blue Nile,193,Sudan,3193,SDN
+4193,Central Darfur,193,Sudan,4193,SDN
+5193,East Darfur,193,Sudan,5193,SDN
+6193,Kassala,193,Sudan,6193,SDN
+7193,Khartoum,193,Sudan,7193,SDN
+8193,North Darfur,193,Sudan,8193,SDN
+9193,North Kurdufan,193,Sudan,9193,SDN
+10193,Northern,193,Sudan,10193,SDN
+11193,Red Sea,193,Sudan,11193,SDN
+12193,River Nile,193,Sudan,12193,SDN
+13193,Sennar,193,Sudan,13193,SDN
+14193,South Darfur,193,Sudan,14193,SDN
+15193,South Kurdufan,193,Sudan,15193,SDN
+16193,West Darfur,193,Sudan,16193,SDN
+17193,West Kurdufan,193,Sudan,17193,SDN
+18193,White Nile,193,Sudan,18193,SDN
+1194,Dakar,194,Senegal,1194,SEN
+2194,Diourbel,194,Senegal,2194,SEN
+3194,Fatick,194,Senegal,3194,SEN
+4194,Kaffrine,194,Senegal,4194,SEN
+5194,Kaolack,194,Senegal,5194,SEN
+6194,K??dougou,194,Senegal,6194,SEN
+7194,Kolda,194,Senegal,7194,SEN
+8194,Louga,194,Senegal,8194,SEN
+9194,Matam,194,Senegal,9194,SEN
+10194,Saint-Louis,194,Senegal,10194,SEN
+11194,S??dhiou,194,Senegal,11194,SEN
+12194,Tambacounda,194,Senegal,12194,SEN
+13194,Thi?¿s,194,Senegal,13194,SEN
+14194,Ziguinchor,194,Senegal,14194,SEN
+1195,Central,195,Singapore,1195,SGP
+2195,East,195,Singapore,2195,SGP
+3195,North,195,Singapore,3195,SGP
+4195,North-East,195,Singapore,4195,SGP
+5195,West,195,Singapore,5195,SGP
+1197,Ascension,197,Saint Helena,1197,SHN
+2197,Saint Helena,197,Saint Helena,2197,SHN
+3197,Tristan da Cunha,197,Saint Helena,3197,SHN
+1198,Jan Mayen,198,Svalbard and Jan Mayen,1198,SJM
+2198,Svalbard,198,Svalbard and Jan Mayen,2198,SJM
+1199,Central,199,Solomon Islands,1199,SLB
+2199,Choiseul,199,Solomon Islands,2199,SLB
+3199,Guadalcanal,199,Solomon Islands,3199,SLB
+4199,Honiara,199,Solomon Islands,4199,SLB
+5199,Isabel,199,Solomon Islands,5199,SLB
+6199,Makira Ulawa,199,Solomon Islands,6199,SLB
+7199,Malaita,199,Solomon Islands,7199,SLB
+8199,Rennell and Bellona,199,Solomon Islands,8199,SLB
+9199,Temotu,199,Solomon Islands,9199,SLB
+10199,Western,199,Solomon Islands,10199,SLB
+1200,Eastern,200,Sierra Leone,1200,SLE
+2200,Northern,200,Sierra Leone,2200,SLE
+3200,Southern,200,Sierra Leone,3200,SLE
+4200,Western,200,Sierra Leone,4200,SLE
+1201,Ahuachap?ín,201,El Salvador,1201,SLV
+2201,Caba??as,201,El Salvador,2201,SLV
+3201,Chalatenango,201,El Salvador,3201,SLV
+4201,Cuscatl?ín,201,El Salvador,4201,SLV
+5201,La Libertad,201,El Salvador,5201,SLV
+6201,La Paz,201,El Salvador,6201,SLV
+7201,La Uni??n,201,El Salvador,7201,SLV
+8201,Moraz?ín,201,El Salvador,8201,SLV
+9201,San Miguel,201,El Salvador,9201,SLV
+10201,San Salvador,201,El Salvador,10201,SLV
+11201,San Vicente,201,El Salvador,11201,SLV
+12201,Santa Ana,201,El Salvador,12201,SLV
+13201,Sonsonate,201,El Salvador,13201,SLV
+14201,Usulut?ín,201,El Salvador,14201,SLV
+1202,Acquaviva,202,San Marino,1202,SMR
+2202,Borgo Maggiore,202,San Marino,2202,SMR
+3202,Chiesanuova,202,San Marino,3202,SMR
+4202,Domagnano,202,San Marino,4202,SMR
+5202,Faetano,202,San Marino,5202,SMR
+6202,Fiorentino,202,San Marino,6202,SMR
+7202,Montegiardino,202,San Marino,7202,SMR
+8202,San Marino,202,San Marino,8202,SMR
+9202,Serravalle,202,San Marino,9202,SMR
+1203,Awdal,203,Somalia,1203,SOM
+2203,Bakool,203,Somalia,2203,SOM
+3203,Banaadir,203,Somalia,3203,SOM
+4203,Bari,203,Somalia,4203,SOM
+5203,Bay,203,Somalia,5203,SOM
+6203,Galguduud,203,Somalia,6203,SOM
+7203,Gedo,203,Somalia,7203,SOM
+8203,Hiiraan,203,Somalia,8203,SOM
+9203,Jubbada Dhexe,203,Somalia,9203,SOM
+10203,Jubbada Hoose,203,Somalia,10203,SOM
+11203,Mudug,203,Somalia,11203,SOM
+12203,Nugaal,203,Somalia,12203,SOM
+13203,Sanaag,203,Somalia,13203,SOM
+14203,Shabeellaha Dhexe,203,Somalia,14203,SOM
+15203,Shabeellaha Hoose,203,Somalia,15203,SOM
+16203,Sool,203,Somalia,16203,SOM
+17203,Togdheer,203,Somalia,17203,SOM
+18203,Woqooyi Galbeed,203,Somalia,18203,SOM
+1204,Miquelon-Langlade,204,Saint Pierre and Miquelon,1204,SPM
+2204,Saint-Pierre,204,Saint Pierre and Miquelon,2204,SPM
+1205,Borski,205,Serbia,1205,SRB
+2205,Brani?ìevski,205,Serbia,2205,SRB
+3205,Grad Beograd,205,Serbia,3205,SRB
+4205,Jablani?ìki,205,Serbia,4205,SRB
+5205,Ju??no-Ba?ìki,205,Serbia,5205,SRB
+6205,Ju??no-Banatski,205,Serbia,6205,SRB
+7205,Kolubarski,205,Serbia,7205,SRB
+8205,Ma?ìvanski,205,Serbia,8205,SRB
+9205,Moravi?ìki,205,Serbia,9205,SRB
+10205,Ni?íavski,205,Serbia,10205,SRB
+11205,P?ìinjski,205,Serbia,11205,SRB
+12205,Pirotski,205,Serbia,12205,SRB
+13205,Podunavski,205,Serbia,13205,SRB
+14205,Pomoravski,205,Serbia,14205,SRB
+15205,Rasinski,205,Serbia,15205,SRB
+16205,Ra?íki,205,Serbia,16205,SRB
+17205,Severno-Ba?ìki,205,Serbia,17205,SRB
+18205,Severno-Banatski,205,Serbia,18205,SRB
+19205,Srednje-Banatski,205,Serbia,19205,SRB
+20205,Sremski,205,Serbia,20205,SRB
+21205,?áumadijski,205,Serbia,21205,SRB
+22205,Topli?ìki,205,Serbia,22205,SRB
+23205,Zaje?ìarski,205,Serbia,23205,SRB
+24205,Zapadno-Ba?ìki,205,Serbia,24205,SRB
+25205,Zlatiborski,205,Serbia,25205,SRB
+1206,Central Equatoria,206,South Sudan,1206,SSD
+2206,Eastern Equatoria,206,South Sudan,2206,SSD
+3206,Jungoli,206,South Sudan,3206,SSD
+4206,Lakes,206,South Sudan,4206,SSD
+5206,North Bahr-al-Ghazal,206,South Sudan,5206,SSD
+6206,Unity,206,South Sudan,6206,SSD
+7206,Upper Nile,206,South Sudan,7206,SSD
+8206,Warap,206,South Sudan,8206,SSD
+9206,West Bahr-al-Ghazal,206,South Sudan,9206,SSD
+10206,West Equatoria,206,South Sudan,10206,SSD
+1207,Pr?¡ncipe,207,Sao Tome and Principe,1207,STP
+2207,S?úo Tom??,207,Sao Tome and Principe,2207,STP
+1208,Brokopondo,208,Suriname,1208,SUR
+2208,Commewijne,208,Suriname,2208,SUR
+3208,Coronie,208,Suriname,3208,SUR
+4208,Marowijne,208,Suriname,4208,SUR
+5208,Nickerie,208,Suriname,5208,SUR
+6208,Para,208,Suriname,6208,SUR
+7208,Paramaribo,208,Suriname,7208,SUR
+8208,Saramacca,208,Suriname,8208,SUR
+9208,Sipaliwini,208,Suriname,9208,SUR
+10208,Wanica,208,Suriname,10208,SUR
+1209,Banskobystrick??,209,Slovakia,1209,SVK
+2209,Bratislavsk??,209,Slovakia,2209,SVK
+3209,Ko?íick??,209,Slovakia,3209,SVK
+4209,Nitriansky,209,Slovakia,4209,SVK
+5209,Pre?íovsk??,209,Slovakia,5209,SVK
+6209,Tren?ìiansky,209,Slovakia,6209,SVK
+7209,Trnavsk??,209,Slovakia,7209,SVK
+8209,??ilinsk??,209,Slovakia,8209,SVK
+1210,Gorenjska,210,Slovenia,1210,SVN
+2210,Gori?íka,210,Slovenia,2210,SVN
+3210,Jugovzhodna Slovenija,210,Slovenia,3210,SVN
+4210,Koro?íka,210,Slovenia,4210,SVN
+5210,Notranjsko-kra?íka,210,Slovenia,5210,SVN
+6210,Obalno-kra?íka,210,Slovenia,6210,SVN
+7210,Osrednjeslovenska,210,Slovenia,7210,SVN
+8210,Podravska,210,Slovenia,8210,SVN
+9210,Pomurska,210,Slovenia,9210,SVN
+10210,Savinjska,210,Slovenia,10210,SVN
+11210,Spodnjeposavska,210,Slovenia,11210,SVN
+12210,Zasavska,210,Slovenia,12210,SVN
+1211,Blekinge,211,Sweden,1211,SWE
+2211,Dalarna,211,Sweden,2211,SWE
+3211,G?ñvleborg,211,Sweden,3211,SWE
+4211,Gotland,211,Sweden,4211,SWE
+5211,Halland,211,Sweden,5211,SWE
+6211,J?ñmtland,211,Sweden,6211,SWE
+7211,J??nk??ping,211,Sweden,7211,SWE
+8211,Kalmar,211,Sweden,8211,SWE
+9211,Kronoberg,211,Sweden,9211,SWE
+10211,Norrbotten,211,Sweden,10211,SWE
+11211,Orebro,211,Sweden,11211,SWE
+12211,?ûsterg??tland,211,Sweden,12211,SWE
+13211,Sk?Ñne,211,Sweden,13211,SWE
+14211,S??dermanland,211,Sweden,14211,SWE
+15211,Stockholm,211,Sweden,15211,SWE
+16211,Uppsala,211,Sweden,16211,SWE
+17211,V?ñrmland,211,Sweden,17211,SWE
+18211,V?ñsterbotten,211,Sweden,18211,SWE
+19211,V?ñsternorrland,211,Sweden,19211,SWE
+20211,V?ñstmanland,211,Sweden,20211,SWE
+21211,V?ñstra G??taland,211,Sweden,21211,SWE
+1212,Hhohho,212,Swaziland,1212,SWZ
+2212,Lubombo,212,Swaziland,2212,SWZ
+3212,Manzini,212,Swaziland,3212,SWZ
+4212,Shiselweni,212,Swaziland,4212,SWZ
+1214,Anse aux Pins,214,Seychelles,1214,SYC
+2214,Anse Boileau,214,Seychelles,2214,SYC
+3214,Anse ?ëtoile,214,Seychelles,3214,SYC
+4214,Anse Royale,214,Seychelles,4214,SYC
+5214,Au Cap,214,Seychelles,5214,SYC
+6214,Baie Lazare,214,Seychelles,6214,SYC
+7214,Baie Sainte Anne,214,Seychelles,7214,SYC
+8214,Beau Vallon,214,Seychelles,8214,SYC
+9214,Bel Air,214,Seychelles,9214,SYC
+10214,Belombre,214,Seychelles,10214,SYC
+11214,Cascade,214,Seychelles,11214,SYC
+12214,English River,214,Seychelles,12214,SYC
+13214,Glacis,214,Seychelles,13214,SYC
+14214,Grand' Anse,214,Seychelles,14214,SYC
+15214,Grand'Anse Praslin,214,Seychelles,15214,SYC
+16214,La Digue and Inner Islands,214,Seychelles,16214,SYC
+17214,Les Mamelles,214,Seychelles,17214,SYC
+18214,Mont Buxton,214,Seychelles,18214,SYC
+19214,Mont Fleuri,214,Seychelles,19214,SYC
+20214,Outer Islands,214,Seychelles,20214,SYC
+21214,Plaisance,214,Seychelles,21214,SYC
+22214,Pointe La Rue,214,Seychelles,22214,SYC
+23214,Port Glaud,214,Seychelles,23214,SYC
+24214,Roche Ca?»man,214,Seychelles,24214,SYC
+25214,Saint Louis,214,Seychelles,25214,SYC
+26214,Takamaka,214,Seychelles,26214,SYC
+1215,Al ß?ñasakah,215,Syria,1215,SYR
+2215,Aleppo,215,Syria,2215,SYR
+3215,Ar Raqqah,215,Syria,3215,SYR
+4215,As Suwayda',215,Syria,4215,SYR
+5215,Damascus,215,Syria,5215,SYR
+6215,Dar`a,215,Syria,6215,SYR
+7215,Dayr Az Zawr,215,Syria,7215,SYR
+8215,Hamah,215,Syria,8215,SYR
+9215,Hims,215,Syria,9215,SYR
+10215,Idlib,215,Syria,10215,SYR
+11215,Lattakia,215,Syria,11215,SYR
+12215,Quneitra,215,Syria,12215,SYR
+13215,Rif Dimashq,215,Syria,13215,SYR
+14215,Tartus,215,Syria,14215,SYR
+1216,Grand Turk,216,Turks and Caicos Islands,1216,TCA
+2216,Middle Caicos,216,Turks and Caicos Islands,2216,TCA
+3216,North Caicos,216,Turks and Caicos Islands,3216,TCA
+4216,Providenciales and West Caicos,216,Turks and Caicos Islands,4216,TCA
+5216,Salt Cay,216,Turks and Caicos Islands,5216,TCA
+6216,South Caicos and East Caicos,216,Turks and Caicos Islands,6216,TCA
+1217,Barh el Ghazel,217,Chad,1217,TCD
+2217,Batha,217,Chad,2217,TCD
+3217,Borkou,217,Chad,3217,TCD
+4217,Chari-Baguirmi,217,Chad,4217,TCD
+5217,Ennedi Est,217,Chad,5217,TCD
+6217,Ennedi Ouest,217,Chad,6217,TCD
+7217,Gu??ra,217,Chad,7217,TCD
+8217,Hadjer-Lamis,217,Chad,8217,TCD
+9217,Kanem,217,Chad,9217,TCD
+10217,Lac,217,Chad,10217,TCD
+11217,Logone Occidental,217,Chad,11217,TCD
+12217,Logone Oriental,217,Chad,12217,TCD
+13217,Mandoul,217,Chad,13217,TCD
+14217,Mayo-Kebbi Est,217,Chad,14217,TCD
+15217,Mayo-Kebbi Ouest,217,Chad,15217,TCD
+16217,Moyen-Chari,217,Chad,16217,TCD
+17217,Ouadda?»,217,Chad,17217,TCD
+18217,Salamat,217,Chad,18217,TCD
+19217,Sila,217,Chad,19217,TCD
+20217,Tandjil??,217,Chad,20217,TCD
+21217,Tibesti,217,Chad,21217,TCD
+22217,Ville de N'Djamena,217,Chad,22217,TCD
+23217,Wadi Fira,217,Chad,23217,TCD
+1218,Centre,218,Togo,1218,TGO
+2218,Kara,218,Togo,2218,TGO
+3218,Maritime,218,Togo,3218,TGO
+4218,Plateaux,218,Togo,4218,TGO
+5218,Savanes,218,Togo,5218,TGO
+1219,Amnat Charoen,219,Thailand,1219,THA
+2219,Ang Thong,219,Thailand,2219,THA
+3219,Bangkok Metropolis,219,Thailand,3219,THA
+4219,Bueng Kan,219,Thailand,4219,THA
+5219,Buri Ram,219,Thailand,5219,THA
+6219,Chachoengsao,219,Thailand,6219,THA
+7219,Chai Nat,219,Thailand,7219,THA
+8219,Chaiyaphum,219,Thailand,8219,THA
+9219,Chanthaburi,219,Thailand,9219,THA
+10219,Chiang Mai,219,Thailand,10219,THA
+11219,Chiang Rai,219,Thailand,11219,THA
+12219,Chon Buri,219,Thailand,12219,THA
+13219,Chumphon,219,Thailand,13219,THA
+14219,Kalasin,219,Thailand,14219,THA
+15219,Kamphaeng Phet,219,Thailand,15219,THA
+16219,Kanchanaburi,219,Thailand,16219,THA
+17219,Khon Kaen,219,Thailand,17219,THA
+18219,Krabi,219,Thailand,18219,THA
+19219,Lampang,219,Thailand,19219,THA
+20219,Lamphun,219,Thailand,20219,THA
+21219,Loei,219,Thailand,21219,THA
+22219,Lop Buri,219,Thailand,22219,THA
+23219,Mae Hong Son,219,Thailand,23219,THA
+24219,Maha Sarakham,219,Thailand,24219,THA
+25219,Mukdahan,219,Thailand,25219,THA
+26219,Nakhon Nayok,219,Thailand,26219,THA
+27219,Nakhon Pathom,219,Thailand,27219,THA
+28219,Nakhon Phanom,219,Thailand,28219,THA
+29219,Nakhon Ratchasima,219,Thailand,29219,THA
+30219,Nakhon Sawan,219,Thailand,30219,THA
+31219,Nakhon Si Thammarat,219,Thailand,31219,THA
+32219,Nan,219,Thailand,32219,THA
+33219,Narathiwat,219,Thailand,33219,THA
+34219,Nong Bua Lam Phu,219,Thailand,34219,THA
+35219,Nong Khai,219,Thailand,35219,THA
+36219,Nonthaburi,219,Thailand,36219,THA
+37219,Pathum Thani,219,Thailand,37219,THA
+38219,Pattani,219,Thailand,38219,THA
+39219,Phangnga,219,Thailand,39219,THA
+40219,Phatthalung,219,Thailand,40219,THA
+41219,Phayao,219,Thailand,41219,THA
+42219,Phetchabun,219,Thailand,42219,THA
+43219,Phetchaburi,219,Thailand,43219,THA
+44219,Phichit,219,Thailand,44219,THA
+45219,Phitsanulok,219,Thailand,45219,THA
+46219,Phra Nakhon Si Ayutthaya,219,Thailand,46219,THA
+47219,Phrae,219,Thailand,47219,THA
+48219,Phuket,219,Thailand,48219,THA
+49219,Prachin Buri,219,Thailand,49219,THA
+50219,Prachuap Khiri Khan,219,Thailand,50219,THA
+51219,Ranong,219,Thailand,51219,THA
+52219,Ratchaburi,219,Thailand,52219,THA
+53219,Rayong,219,Thailand,53219,THA
+54219,Roi Et,219,Thailand,54219,THA
+55219,Sa Kaeo,219,Thailand,55219,THA
+56219,Sakon Nakhon,219,Thailand,56219,THA
+57219,Samut Prakan,219,Thailand,57219,THA
+58219,Samut Sakhon,219,Thailand,58219,THA
+59219,Samut Songkhram,219,Thailand,59219,THA
+60219,Saraburi,219,Thailand,60219,THA
+61219,Satun,219,Thailand,61219,THA
+62219,Si Sa Ket,219,Thailand,62219,THA
+63219,Sing Buri,219,Thailand,63219,THA
+64219,Songkhla,219,Thailand,64219,THA
+65219,Sukhothai,219,Thailand,65219,THA
+66219,Suphan Buri,219,Thailand,66219,THA
+67219,Surat Thani,219,Thailand,67219,THA
+68219,Surin,219,Thailand,68219,THA
+69219,Tak,219,Thailand,69219,THA
+70219,Trang,219,Thailand,70219,THA
+71219,Trat,219,Thailand,71219,THA
+72219,Ubon Ratchathani,219,Thailand,72219,THA
+73219,Udon Thani,219,Thailand,73219,THA
+74219,Uthai Thani,219,Thailand,74219,THA
+75219,Uttaradit,219,Thailand,75219,THA
+76219,Yala,219,Thailand,76219,THA
+77219,Yasothon,219,Thailand,77219,THA
+1220,Dushanbe,220,Tajikistan,1220,TJK
+2220,Gorno-Badakhshan,220,Tajikistan,2220,TJK
+3220,Khatlon,220,Tajikistan,3220,TJK
+4220,Leninabad,220,Tajikistan,4220,TJK
+5220,Tadzhikistan Territories,220,Tajikistan,5220,TJK
+1221,Anafu,221,Tokelau,1221,TKL
+2221,Fakaofo,221,Tokelau,2221,TKL
+3221,Nukunonu,221,Tokelau,3221,TKL
+1222,Ahal,222,Turkmenistan,1222,TKM
+2222,A?ƒgabat,222,Turkmenistan,2222,TKM
+3222,Balkan,222,Turkmenistan,3222,TKM
+4222,Chardzhou,222,Turkmenistan,4222,TKM
+5222,Mary,222,Turkmenistan,5222,TKM
+6222,Tashauz,222,Turkmenistan,6222,TKM
+1223,Aileu,223,Timor-Leste,1223,TLS
+2223,Ainaro,223,Timor-Leste,2223,TLS
+3223,Ambeno,223,Timor-Leste,3223,TLS
+4223,Baucau,223,Timor-Leste,4223,TLS
+5223,Bobonaro,223,Timor-Leste,5223,TLS
+6223,Covalima,223,Timor-Leste,6223,TLS
+7223,Dili,223,Timor-Leste,7223,TLS
+8223,Ermera,223,Timor-Leste,8223,TLS
+9223,Laut??m,223,Timor-Leste,9223,TLS
+10223,Liqui?º?í,223,Timor-Leste,10223,TLS
+11223,Manatuto,223,Timor-Leste,11223,TLS
+12223,Manufahi,223,Timor-Leste,12223,TLS
+13223,Viqueque,223,Timor-Leste,13223,TLS
+1224,'Eua,224,Tonga,1224,TON
+2224,Ha'apai,224,Tonga,2224,TON
+3224,Niuas,224,Tonga,3224,TON
+4224,Tongatapu,224,Tonga,4224,TON
+5224,Vava'u,224,Tonga,5224,TON
+1225,Arima,225,Trinidad and Tobago,1225,TTO
+2225,Chaguanas,225,Trinidad and Tobago,2225,TTO
+3225,Couva-Tabaquite-Talparo,225,Trinidad and Tobago,3225,TTO
+4225,Diego Martin,225,Trinidad and Tobago,4225,TTO
+5225,Mayaro/Rio Claro,225,Trinidad and Tobago,5225,TTO
+6225,Penal-Debe,225,Trinidad and Tobago,6225,TTO
+7225,Point Fortin,225,Trinidad and Tobago,7225,TTO
+8225,Port of Spain,225,Trinidad and Tobago,8225,TTO
+9225,Princes Town,225,Trinidad and Tobago,9225,TTO
+10225,San Fernando,225,Trinidad and Tobago,10225,TTO
+11225,San Juan-Laventille,225,Trinidad and Tobago,11225,TTO
+12225,Sangre Grande,225,Trinidad and Tobago,12225,TTO
+13225,Siparia,225,Trinidad and Tobago,13225,TTO
+14225,Tobago,225,Trinidad and Tobago,14225,TTO
+15225,Tunapuna/Piarco,225,Trinidad and Tobago,15225,TTO
+1226,Ariana,226,Tunisia,1226,TUN
+2226,B??ja,226,Tunisia,2226,TUN
+3226,Ben Arous (Tunis Sud),226,Tunisia,3226,TUN
+4226,Bizerte,226,Tunisia,4226,TUN
+5226,Gab?¿s,226,Tunisia,5226,TUN
+6226,Gafsa,226,Tunisia,6226,TUN
+7226,Jendouba,226,Tunisia,7226,TUN
+8226,Kairouan,226,Tunisia,8226,TUN
+9226,Kass??rine,226,Tunisia,9226,TUN
+10226,Kebili,226,Tunisia,10226,TUN
+11226,Le Kef,226,Tunisia,11226,TUN
+12226,Mahdia,226,Tunisia,12226,TUN
+13226,Manubah,226,Tunisia,13226,TUN
+14226,M??denine,226,Tunisia,14226,TUN
+15226,Monastir,226,Tunisia,15226,TUN
+16226,Nabeul,226,Tunisia,16226,TUN
+17226,Sfax,226,Tunisia,17226,TUN
+18226,Sidi Bou Zid,226,Tunisia,18226,TUN
+19226,Siliana,226,Tunisia,19226,TUN
+20226,Sousse,226,Tunisia,20226,TUN
+21226,Tataouine,226,Tunisia,21226,TUN
+22226,Tozeur,226,Tunisia,22226,TUN
+23226,Tunis,226,Tunisia,23226,TUN
+24226,Zaghouan,226,Tunisia,24226,TUN
+1227,Adana,227,Turkey,1227,TUR
+2227,Adiyaman,227,Turkey,2227,TUR
+3227,Afyon,227,Turkey,3227,TUR
+4227,Agri,227,Turkey,4227,TUR
+5227,Aksaray,227,Turkey,5227,TUR
+6227,Amasya,227,Turkey,6227,TUR
+7227,Ankara,227,Turkey,7227,TUR
+8227,Antalya,227,Turkey,8227,TUR
+9227,Ardahan,227,Turkey,9227,TUR
+10227,Artvin,227,Turkey,10227,TUR
+11227,Aydin,227,Turkey,11227,TUR
+12227,Balikesir,227,Turkey,12227,TUR
+13227,Bart??n,227,Turkey,13227,TUR
+14227,Batman,227,Turkey,14227,TUR
+15227,Bayburt,227,Turkey,15227,TUR
+16227,Bilecik,227,Turkey,16227,TUR
+17227,Bing??l,227,Turkey,17227,TUR
+18227,Bitlis,227,Turkey,18227,TUR
+19227,Bolu,227,Turkey,19227,TUR
+20227,Burdur,227,Turkey,20227,TUR
+21227,Bursa,227,Turkey,21227,TUR
+22227,?çanakkale,227,Turkey,22227,TUR
+23227,?çankiri,227,Turkey,23227,TUR
+24227,?çorum,227,Turkey,24227,TUR
+25227,Denizli,227,Turkey,25227,TUR
+26227,Diyarbakir,227,Turkey,26227,TUR
+27227,D??zce,227,Turkey,27227,TUR
+28227,Edirne,227,Turkey,28227,TUR
+29227,Elaz???ƒ,227,Turkey,29227,TUR
+30227,Erzincan,227,Turkey,30227,TUR
+31227,Erzurum,227,Turkey,31227,TUR
+32227,Eskisehir,227,Turkey,32227,TUR
+33227,Gaziantep,227,Turkey,33227,TUR
+34227,Giresun,227,Turkey,34227,TUR
+35227,G??m??shane,227,Turkey,35227,TUR
+36227,Hakkari,227,Turkey,36227,TUR
+37227,Hatay,227,Turkey,37227,TUR
+38227,I?ƒd??r,227,Turkey,38227,TUR
+39227,Isparta,227,Turkey,39227,TUR
+40227,Istanbul,227,Turkey,40227,TUR
+41227,Izmir,227,Turkey,41227,TUR
+42227,K. Maras,227,Turkey,42227,TUR
+43227,Karab??k,227,Turkey,43227,TUR
+44227,Karaman,227,Turkey,44227,TUR
+45227,Kars,227,Turkey,45227,TUR
+46227,Kastamonu,227,Turkey,46227,TUR
+47227,Kayseri,227,Turkey,47227,TUR
+48227,Kilis,227,Turkey,48227,TUR
+49227,Kinkkale,227,Turkey,49227,TUR
+50227,Kirklareli,227,Turkey,50227,TUR
+51227,Kirsehir,227,Turkey,51227,TUR
+52227,Kocaeli,227,Turkey,52227,TUR
+53227,Konya,227,Turkey,53227,TUR
+54227,K??tahya,227,Turkey,54227,TUR
+55227,Malatya,227,Turkey,55227,TUR
+56227,Manisa,227,Turkey,56227,TUR
+57227,Mardin,227,Turkey,57227,TUR
+58227,Mersin,227,Turkey,58227,TUR
+59227,Mugla,227,Turkey,59227,TUR
+60227,Mus,227,Turkey,60227,TUR
+61227,Nevsehir,227,Turkey,61227,TUR
+62227,Nigde,227,Turkey,62227,TUR
+63227,Ordu,227,Turkey,63227,TUR
+64227,Osmaniye,227,Turkey,64227,TUR
+65227,Rize,227,Turkey,65227,TUR
+66227,Sakarya,227,Turkey,66227,TUR
+67227,Samsun,227,Turkey,67227,TUR
+68227,Sanliurfa,227,Turkey,68227,TUR
+69227,Siirt,227,Turkey,69227,TUR
+70227,Sinop,227,Turkey,70227,TUR
+71227,Sirnak,227,Turkey,71227,TUR
+72227,Sivas,227,Turkey,72227,TUR
+73227,Tekirdag,227,Turkey,73227,TUR
+74227,Tokat,227,Turkey,74227,TUR
+75227,Trabzon,227,Turkey,75227,TUR
+76227,Tunceli,227,Turkey,76227,TUR
+77227,Usak,227,Turkey,77227,TUR
+78227,Van,227,Turkey,78227,TUR
+79227,Yalova,227,Turkey,79227,TUR
+80227,Yozgat,227,Turkey,80227,TUR
+81227,Zinguldak,227,Turkey,81227,TUR
+1228,Funafuti,228,Tuvalu,1228,TUV
+2228,Nanumanga,228,Tuvalu,2228,TUV
+3228,Nanumea,228,Tuvalu,3228,TUV
+4228,Niulakita,228,Tuvalu,4228,TUV
+5228,Niutao,228,Tuvalu,5228,TUV
+6228,Nui,228,Tuvalu,6228,TUV
+7228,Nukufetau,228,Tuvalu,7228,TUV
+8228,Nukulaelae,228,Tuvalu,8228,TUV
+9228,Vaitupu,228,Tuvalu,9228,TUV
+1229,Fujian,229,Taiwan,1229,TWN
+2229,Kaohsiung,229,Taiwan,2229,TWN
+3229,New Taipei,229,Taiwan,3229,TWN
+4229,Taichung,229,Taiwan,4229,TWN
+5229,Tainan,229,Taiwan,5229,TWN
+6229,Taipei,229,Taiwan,6229,TWN
+7229,Taiwan,229,Taiwan,7229,TWN
+1230,Arusha,230,Tanzania,1230,TZA
+2230,Dar es Salaam,230,Tanzania,2230,TZA
+3230,Dodoma,230,Tanzania,3230,TZA
+4230,Geita,230,Tanzania,4230,TZA
+5230,Iringa,230,Tanzania,5230,TZA
+6230,Kagera,230,Tanzania,6230,TZA
+7230,Katavi,230,Tanzania,7230,TZA
+8230,Kigoma,230,Tanzania,8230,TZA
+9230,Kilimanjaro,230,Tanzania,9230,TZA
+10230,Lindi,230,Tanzania,10230,TZA
+11230,Manyara,230,Tanzania,11230,TZA
+12230,Mara,230,Tanzania,12230,TZA
+13230,Mbeya,230,Tanzania,13230,TZA
+14230,Morogoro,230,Tanzania,14230,TZA
+15230,Mtwara,230,Tanzania,15230,TZA
+16230,Mwanza,230,Tanzania,16230,TZA
+17230,Njombe,230,Tanzania,17230,TZA
+18230,Pemba North,230,Tanzania,18230,TZA
+19230,Pemba South,230,Tanzania,19230,TZA
+20230,Pwani,230,Tanzania,20230,TZA
+21230,Rukwa,230,Tanzania,21230,TZA
+22230,Ruvuma,230,Tanzania,22230,TZA
+23230,Shinyanga,230,Tanzania,23230,TZA
+24230,Simiyu,230,Tanzania,24230,TZA
+25230,Singida,230,Tanzania,25230,TZA
+26230,Tabora,230,Tanzania,26230,TZA
+27230,Tanga,230,Tanzania,27230,TZA
+28230,Zanzibar North,230,Tanzania,28230,TZA
+29230,Zanzibar South and Central,230,Tanzania,29230,TZA
+30230,Zanzibar West,230,Tanzania,30230,TZA
+1231,Adjumani,231,Uganda,1231,UGA
+2231,Apac,231,Uganda,2231,UGA
+3231,Arua,231,Uganda,3231,UGA
+4231,Bugiri,231,Uganda,4231,UGA
+5231,Bundibugyo,231,Uganda,5231,UGA
+6231,Bushenyi,231,Uganda,6231,UGA
+7231,Busia,231,Uganda,7231,UGA
+8231,Gulu,231,Uganda,8231,UGA
+9231,Hoima,231,Uganda,9231,UGA
+10231,Iganga,231,Uganda,10231,UGA
+11231,Jinja,231,Uganda,11231,UGA
+12231,Kabale,231,Uganda,12231,UGA
+13231,Kabarole,231,Uganda,13231,UGA
+14231,Kaberamaido,231,Uganda,14231,UGA
+15231,Kalangala,231,Uganda,15231,UGA
+16231,Kampala,231,Uganda,16231,UGA
+17231,Kamuli,231,Uganda,17231,UGA
+18231,Kamwenge,231,Uganda,18231,UGA
+19231,Kanungu,231,Uganda,19231,UGA
+20231,Kapchorwa,231,Uganda,20231,UGA
+21231,Kasese,231,Uganda,21231,UGA
+22231,Katakwi,231,Uganda,22231,UGA
+23231,Kayunga,231,Uganda,23231,UGA
+24231,Kibale,231,Uganda,24231,UGA
+25231,Kiboga,231,Uganda,25231,UGA
+26231,Kisoro,231,Uganda,26231,UGA
+27231,Kitgum,231,Uganda,27231,UGA
+28231,Kotido,231,Uganda,28231,UGA
+29231,Kumi,231,Uganda,29231,UGA
+30231,Kyenjojo,231,Uganda,30231,UGA
+31231,Lake Albert,231,Uganda,31231,UGA
+32231,Lake Victoria,231,Uganda,32231,UGA
+33231,Lira,231,Uganda,33231,UGA
+34231,Luwero,231,Uganda,34231,UGA
+35231,Masaka,231,Uganda,35231,UGA
+36231,Masindi,231,Uganda,36231,UGA
+37231,Mayuge,231,Uganda,37231,UGA
+38231,Mbale,231,Uganda,38231,UGA
+39231,Mbarara,231,Uganda,39231,UGA
+40231,Moroto,231,Uganda,40231,UGA
+41231,Moyo,231,Uganda,41231,UGA
+42231,Mpigi,231,Uganda,42231,UGA
+43231,Mubende,231,Uganda,43231,UGA
+44231,Mukono,231,Uganda,44231,UGA
+45231,Nakapiripirit,231,Uganda,45231,UGA
+46231,Nakasongola,231,Uganda,46231,UGA
+47231,Nebbi,231,Uganda,47231,UGA
+48231,Ntungamo,231,Uganda,48231,UGA
+49231,Pader,231,Uganda,49231,UGA
+50231,Pallisa,231,Uganda,50231,UGA
+51231,Rakai,231,Uganda,51231,UGA
+52231,Rukungiri,231,Uganda,52231,UGA
+53231,Sembabule,231,Uganda,53231,UGA
+54231,Sironko,231,Uganda,54231,UGA
+55231,Soroti,231,Uganda,55231,UGA
+56231,Tororo,231,Uganda,56231,UGA
+57231,Wakiso,231,Uganda,57231,UGA
+58231,Yumbe,231,Uganda,58231,UGA
+1232,Cherkasy,232,Ukraine,1232,UKR
+2232,Chernihiv,232,Ukraine,2232,UKR
+3232,Chernivtsi,232,Ukraine,3232,UKR
+4232,Crimea,232,Ukraine,4232,UKR
+5232,Dnipropetrovs'k,232,Ukraine,5232,UKR
+6232,Donets'k,232,Ukraine,6232,UKR
+7232,Ivano-Frankivs'k,232,Ukraine,7232,UKR
+8232,Kharkiv,232,Ukraine,8232,UKR
+9232,Kherson,232,Ukraine,9232,UKR
+10232,Khmel'nyts'kyy,232,Ukraine,10232,UKR
+12232,Kiev,232,Ukraine,12232,UKR
+11232,Kiev City,232,Ukraine,11232,UKR
+13232,Kirovohrad,232,Ukraine,13232,UKR
+14232,L'viv,232,Ukraine,14232,UKR
+15232,Luhans'k,232,Ukraine,15232,UKR
+16232,Mykolayiv,232,Ukraine,16232,UKR
+17232,Odessa,232,Ukraine,17232,UKR
+18232,Poltava,232,Ukraine,18232,UKR
+19232,Rivne,232,Ukraine,19232,UKR
+20232,Sevastopol',232,Ukraine,20232,UKR
+21232,Sumy,232,Ukraine,21232,UKR
+22232,Ternopil',232,Ukraine,22232,UKR
+23232,Transcarpathia,232,Ukraine,23232,UKR
+24232,Vinnytsya,232,Ukraine,24232,UKR
+25232,Volyn,232,Ukraine,25232,UKR
+26232,Zaporizhzhya,232,Ukraine,26232,UKR
+27232,Zhytomyr,232,Ukraine,27232,UKR
+1233,Baker,233,United States Minor Outlying Islands,1233,UMI
+2233,Howland,233,United States Minor Outlying Islands,2233,UMI
+3233,Jarvis island,233,United States Minor Outlying Islands,3233,UMI
+4233,Johnston,233,United States Minor Outlying Islands,4233,UMI
+5233,Kingman Reef,233,United States Minor Outlying Islands,5233,UMI
+6233,Midway,233,United States Minor Outlying Islands,6233,UMI
+7233,Navassa,233,United States Minor Outlying Islands,7233,UMI
+8233,Palmyra,233,United States Minor Outlying Islands,8233,UMI
+9233,Wake,233,United States Minor Outlying Islands,9233,UMI
+1234,Artigas,234,Uruguay,1234,URY
+2234,Canelones,234,Uruguay,2234,URY
+3234,Cerro Largo,234,Uruguay,3234,URY
+4234,Colonia,234,Uruguay,4234,URY
+5234,Durazno,234,Uruguay,5234,URY
+6234,Flores,234,Uruguay,6234,URY
+7234,Florida,234,Uruguay,7234,URY
+8234,Lavalleja,234,Uruguay,8234,URY
+9234,Maldonado,234,Uruguay,9234,URY
+10234,Montevideo,234,Uruguay,10234,URY
+11234,Paysand??,234,Uruguay,11234,URY
+12234,R?¡o Negro,234,Uruguay,12234,URY
+13234,Rivera,234,Uruguay,13234,URY
+14234,Rocha,234,Uruguay,14234,URY
+15234,Salto,234,Uruguay,15234,URY
+16234,San Jos??,234,Uruguay,16234,URY
+17234,Soriano,234,Uruguay,17234,URY
+18234,Tacuaremb??,234,Uruguay,18234,URY
+19234,Treinta y Tres,234,Uruguay,19234,URY
+1235,Alabama,235,United States,1235,USA
+2235,Alaska,235,United States,2235,USA
+3235,Arizona,235,United States,3235,USA
+4235,Arkansas,235,United States,4235,USA
+5235,California,235,United States,5235,USA
+6235,Colorado,235,United States,6235,USA
+7235,Connecticut,235,United States,7235,USA
+8235,Delaware,235,United States,8235,USA
+9235,District of Columbia,235,United States,9235,USA
+10235,Florida,235,United States,10235,USA
+11235,Georgia,235,United States,11235,USA
+12235,Hawaii,235,United States,12235,USA
+13235,Idaho,235,United States,13235,USA
+14235,Illinois,235,United States,14235,USA
+15235,Indiana,235,United States,15235,USA
+16235,Iowa,235,United States,16235,USA
+17235,Kansas,235,United States,17235,USA
+18235,Kentucky,235,United States,18235,USA
+19235,Louisiana,235,United States,19235,USA
+20235,Maine,235,United States,20235,USA
+21235,Maryland,235,United States,21235,USA
+22235,Massachusetts,235,United States,22235,USA
+23235,Michigan,235,United States,23235,USA
+24235,Minnesota,235,United States,24235,USA
+25235,Mississippi,235,United States,25235,USA
+26235,Missouri,235,United States,26235,USA
+27235,Montana,235,United States,27235,USA
+28235,Nebraska,235,United States,28235,USA
+29235,Nevada,235,United States,29235,USA
+30235,New Hampshire,235,United States,30235,USA
+31235,New Jersey,235,United States,31235,USA
+32235,New Mexico,235,United States,32235,USA
+33235,New York,235,United States,33235,USA
+34235,North Carolina,235,United States,34235,USA
+35235,North Dakota,235,United States,35235,USA
+36235,Ohio,235,United States,36235,USA
+37235,Oklahoma,235,United States,37235,USA
+38235,Oregon,235,United States,38235,USA
+39235,Pennsylvania,235,United States,39235,USA
+40235,Rhode Island,235,United States,40235,USA
+41235,South Carolina,235,United States,41235,USA
+42235,South Dakota,235,United States,42235,USA
+43235,Tennessee,235,United States,43235,USA
+44235,Texas,235,United States,44235,USA
+45235,Utah,235,United States,45235,USA
+46235,Vermont,235,United States,46235,USA
+47235,Virginia,235,United States,47235,USA
+48235,Washington,235,United States,48235,USA
+49235,West Virginia,235,United States,49235,USA
+50235,Wisconsin,235,United States,50235,USA
+51235,Wyoming,235,United States,51235,USA
+1236,Andijon,236,Uzbekistan,1236,UZB
+2236,Bukhoro,236,Uzbekistan,2236,UZB
+3236,Ferghana,236,Uzbekistan,3236,UZB
+4236,Jizzakh,236,Uzbekistan,4236,UZB
+5236,Karakalpakstan,236,Uzbekistan,5236,UZB
+6236,Kashkadarya,236,Uzbekistan,6236,UZB
+7236,Khorezm,236,Uzbekistan,7236,UZB
+8236,Namangan,236,Uzbekistan,8236,UZB
+9236,Navoi,236,Uzbekistan,9236,UZB
+10236,Samarkand,236,Uzbekistan,10236,UZB
+11236,Sirdaryo,236,Uzbekistan,11236,UZB
+12236,Surkhandarya,236,Uzbekistan,12236,UZB
+14236,Tashkent,236,Uzbekistan,14236,UZB
+13236,Tashkent City,236,Uzbekistan,13236,UZB
+1238,Charlotte,238,Saint Vincent and the Grenadines,1238,VCT
+2238,Grenadines,238,Saint Vincent and the Grenadines,2238,VCT
+3238,Saint Andrew,238,Saint Vincent and the Grenadines,3238,VCT
+4238,Saint David,238,Saint Vincent and the Grenadines,4238,VCT
+5238,Saint George,238,Saint Vincent and the Grenadines,5238,VCT
+6238,Saint Patrick,238,Saint Vincent and the Grenadines,6238,VCT
+1239,Amazonas,239,Venezuela,1239,VEN
+2239,Anzo?ítegui,239,Venezuela,2239,VEN
+3239,Apure,239,Venezuela,3239,VEN
+4239,Aragua,239,Venezuela,4239,VEN
+5239,Barinas,239,Venezuela,5239,VEN
+6239,Bol?¡var,239,Venezuela,6239,VEN
+7239,Carabobo,239,Venezuela,7239,VEN
+8239,Cojedes,239,Venezuela,8239,VEN
+9239,Delta Amacuro,239,Venezuela,9239,VEN
+10239,Dependencias Federales,239,Venezuela,10239,VEN
+11239,Distrito Capital,239,Venezuela,11239,VEN
+12239,Falc??n,239,Venezuela,12239,VEN
+13239,Gu?írico,239,Venezuela,13239,VEN
+14239,Lara,239,Venezuela,14239,VEN
+15239,M??rida,239,Venezuela,15239,VEN
+16239,Miranda,239,Venezuela,16239,VEN
+17239,Monagas,239,Venezuela,17239,VEN
+18239,Nueva Esparta,239,Venezuela,18239,VEN
+19239,Portuguesa,239,Venezuela,19239,VEN
+20239,Sucre,239,Venezuela,20239,VEN
+21239,T?íchira,239,Venezuela,21239,VEN
+22239,Trujillo,239,Venezuela,22239,VEN
+23239,Vargas,239,Venezuela,23239,VEN
+24239,Yaracuy,239,Venezuela,24239,VEN
+25239,Zulia,239,Venezuela,25239,VEN
+1240,Anegada,240,British Virgin Islands,1240,VGB
+2240,Jost Van Dyke,240,British Virgin Islands,2240,VGB
+3240,Other Islands,240,British Virgin Islands,3240,VGB
+4240,Tortola,240,British Virgin Islands,4240,VGB
+5240,Virgin Gorda,240,British Virgin Islands,5240,VGB
+1241,Saint Croix,241,"Virgin Islands, U.S.",1241,VIR
+2241,Saint John,241,"Virgin Islands, U.S.",2241,VIR
+3241,Saint Thomas,241,"Virgin Islands, U.S.",3241,VIR
+1242,An Giang,242,Vietnam,1242,VNM
+2242,Bß?íc Li?¬u,242,Vietnam,2242,VNM
+3242,Bß?»c Giang,242,Vietnam,3242,VNM
+4242,Bß?»c Kß?ín,242,Vietnam,4242,VNM
+5242,Bß?»c Ninh,242,Vietnam,5242,VNM
+6242,Bß??n Tre,242,Vietnam,6242,VNM
+7242,B?á Rß?ïa - V??ng T?áu,242,Vietnam,7242,VNM
+8242,B?¼nh ?Éß?ïnh,242,Vietnam,8242,VNM
+9242,B?¼nh D???íng,242,Vietnam,9242,VNM
+10242,B?¼nh Ph??ß?¢c,242,Vietnam,10242,VNM
+11242,B?¼nh Thuß?¡n,242,Vietnam,11242,VNM
+12242,Cß?ºn Th?í,242,Vietnam,12242,VNM
+13242,C?á Mau,242,Vietnam,13242,VNM
+14242,Cao Bß??ng,242,Vietnam,14242,VNM
+15242,?Éß?»k Lß?»k,242,Vietnam,15242,VNM
+16242,?Éß?»k N??ng,242,Vietnam,16242,VNM
+17242,?Éß?ông Nai,242,Vietnam,17242,VNM
+18242,?Éß?ông Th?íp,242,Vietnam,18242,VNM
+19242,?É?á Nß??ng,242,Vietnam,19242,VNM
+20242,?Éiß?çn Bi?¬n,242,Vietnam,20242,VNM
+21242,Gia Lai,242,Vietnam,21242,VNM
+22242,Hß?úi D???íng,242,Vietnam,22242,VNM
+23242,Hß?úi Ph??ng,242,Vietnam,23242,VNM
+24242,Hß?¡u Giang,242,Vietnam,24242,VNM
+25242,Hß?ô Ch?¡ Minh,242,Vietnam,25242,VNM
+26242,H?á Giang,242,Vietnam,26242,VNM
+27242,H?á Nß?Öi,242,Vietnam,27242,VNM
+28242,H?á Nam,242,Vietnam,28242,VNM
+29242,H?á T??nh,242,Vietnam,29242,VNM
+30242,Ho?á B?¼nh,242,Vietnam,30242,VNM
+31242,H??ng Y?¬n,242,Vietnam,31242,VNM
+32242,Kh?ính H??a,242,Vietnam,32242,VNM
+33242,Ki?¬n Giang,242,Vietnam,33242,VNM
+34242,Kon Tum,242,Vietnam,34242,VNM
+35242,Lß?íng S?ín,242,Vietnam,35242,VNM
+36242,Lai Ch?óu,242,Vietnam,36242,VNM
+37242,L?óm ?Éß?ông,242,Vietnam,37242,VNM
+38242,L?áo Cai,242,Vietnam,38242,VNM
+39242,Long An,242,Vietnam,39242,VNM
+40242,Nam ?Éß?ïnh,242,Vietnam,40242,VNM
+41242,Nghß?ç An,242,Vietnam,41242,VNM
+42242,Ninh B?¼nh,242,Vietnam,42242,VNM
+43242,Ninh Thuß?¡n,242,Vietnam,43242,VNM
+44242,Ph?? Thß?ì,242,Vietnam,44242,VNM
+45242,Ph?? Y?¬n,242,Vietnam,45242,VNM
+46242,Quß?úng B?¼nh,242,Vietnam,46242,VNM
+47242,Quß?úng Nam,242,Vietnam,47242,VNM
+48242,Quß?úng Ng?úi,242,Vietnam,48242,VNM
+49242,Quß?úng Ninh,242,Vietnam,49242,VNM
+50242,Quß?úng Trß?ï,242,Vietnam,50242,VNM
+51242,S??c Tr?âng,242,Vietnam,51242,VNM
+52242,S?ín La,242,Vietnam,52242,VNM
+53242,T?óy Ninh,242,Vietnam,53242,VNM
+54242,Thß?½a Thi?¬n Huß??,242,Vietnam,54242,VNM
+55242,Th?íi B?¼nh,242,Vietnam,55242,VNM
+56242,Th?íi Nguy?¬n,242,Vietnam,56242,VNM
+57242,Thanh H??a,242,Vietnam,57242,VNM
+58242,Tiß?ün Giang,242,Vietnam,58242,VNM
+59242,Tr?á Vinh,242,Vietnam,59242,VNM
+60242,Tuy?¬n Quang,242,Vietnam,60242,VNM
+61242,V??nh Long,242,Vietnam,61242,VNM
+62242,V??nh Ph??c,242,Vietnam,62242,VNM
+63242,Y?¬n B?íi,242,Vietnam,63242,VNM
+1243,Malampa,243,Vanuatu,1243,VUT
+2243,Penama,243,Vanuatu,2243,VUT
+3243,Sanma,243,Vanuatu,3243,VUT
+4243,Shefa,243,Vanuatu,4243,VUT
+5243,Tafea,243,Vanuatu,5243,VUT
+6243,Torba,243,Vanuatu,6243,VUT
+1244,Alo,244,Wallis and Futuna,1244,WLF
+2244,Singave,244,Wallis and Futuna,2244,WLF
+3244,Uv??a,244,Wallis and Futuna,3244,WLF
+1245,A'ana,245,Samoa,1245,WSM
+2245,Aiga-i-le-Tai,245,Samoa,2245,WSM
+3245,Atua,245,Samoa,3245,WSM
+4245,Fa'asaleleaga,245,Samoa,4245,WSM
+5245,Gaga'emauga,245,Samoa,5245,WSM
+6245,Gagaifomauga,245,Samoa,6245,WSM
+7245,Palauli,245,Samoa,7245,WSM
+8245,Satupa'itea,245,Samoa,8245,WSM
+9245,Tuamasaga,245,Samoa,9245,WSM
+10245,Va'a-o-Fonoti,245,Samoa,10245,WSM
+11245,Vaisigano,245,Samoa,11245,WSM
+1246,Akrotiri,246,Akrotiri and Dhekelia,1246,#N/A
+2246,Dhekelia,246,Akrotiri and Dhekelia,2246,#N/A
+1249,?Éakovica,249,Kosovo,1249,XKO
+2249,Gnjilane,249,Kosovo,2249,XKO
+3249,Kosovska Mitrovica,249,Kosovo,3249,XKO
+4249,Pe?çki,249,Kosovo,4249,XKO
+5249,Pristina,249,Kosovo,5249,XKO
+6249,Prizren,249,Kosovo,6249,XKO
+7249,Uro?íevac,249,Kosovo,7249,XKO
+1250,Gazima?ƒusa,250,Northern Cyprus,1250,#N/A
+2250,Girne,250,Northern Cyprus,2250,#N/A
+3250,G??zelyurt,250,Northern Cyprus,3250,#N/A
+4250,Iskele,250,Northern Cyprus,4250,#N/A
+5250,Nicosia,250,Northern Cyprus,5250,#N/A
+1253,`Adan,253,Yemen,1253,YEM
+2253,Abyan,253,Yemen,2253,YEM
+3253,Al Bayda',253,Yemen,3253,YEM
+4253,Al Dali',253,Yemen,4253,YEM
+5253,Al Hudaydah,253,Yemen,5253,YEM
+6253,Al Jawf,253,Yemen,6253,YEM
+7253,Al Mahrah,253,Yemen,7253,YEM
+8253,Al Mahwit,253,Yemen,8253,YEM
+9253,Amanat Al Asimah,253,Yemen,9253,YEM
+10253,Amran,253,Yemen,10253,YEM
+11253,Dhamar,253,Yemen,11253,YEM
+12253,Hadramawt,253,Yemen,12253,YEM
+13253,Hajjah,253,Yemen,13253,YEM
+14253,Ibb,253,Yemen,14253,YEM
+15253,Lahij,253,Yemen,15253,YEM
+16253,Ma'rib,253,Yemen,16253,YEM
+17253,Raymah,253,Yemen,17253,YEM
+18253,Sa`dah,253,Yemen,18253,YEM
+19253,San`a',253,Yemen,19253,YEM
+20253,Shabwah,253,Yemen,20253,YEM
+21253,Ta`izz,253,Yemen,21253,YEM
+1254,Eastern Cape,254,South Africa,1254,ZAF
+2254,Free State,254,South Africa,2254,ZAF
+3254,Gauteng,254,South Africa,3254,ZAF
+4254,KwaZulu-Natal,254,South Africa,4254,ZAF
+5254,Limpopo,254,South Africa,5254,ZAF
+6254,Mpumalanga,254,South Africa,6254,ZAF
+7254,North West,254,South Africa,7254,ZAF
+8254,Northern Cape,254,South Africa,8254,ZAF
+9254,Western Cape,254,South Africa,9254,ZAF
+1255,Central,255,Zambia,1255,ZMB
+2255,Copperbelt,255,Zambia,2255,ZMB
+3255,Eastern,255,Zambia,3255,ZMB
+4255,Luapula,255,Zambia,4255,ZMB
+5255,Lusaka,255,Zambia,5255,ZMB
+6255,Muchinga,255,Zambia,6255,ZMB
+7255,North-Western,255,Zambia,7255,ZMB
+8255,Northern,255,Zambia,8255,ZMB
+9255,Southern,255,Zambia,9255,ZMB
+10255,Western,255,Zambia,10255,ZMB
+1256,Bulawayo,256,Zimbabwe,1256,ZWE
+2256,Harare,256,Zimbabwe,2256,ZWE
+3256,Manicaland,256,Zimbabwe,3256,ZWE
+4256,Mashonaland Central,256,Zimbabwe,4256,ZWE
+5256,Mashonaland East,256,Zimbabwe,5256,ZWE
+6256,Mashonaland West,256,Zimbabwe,6256,ZWE
+7256,Masvingo,256,Zimbabwe,7256,ZWE
+8256,Matabeleland North,256,Zimbabwe,8256,ZWE
+9256,Matabeleland South,256,Zimbabwe,9256,ZWE
+10256,Midlands,256,Zimbabwe,10256,ZWE
+1001,Aruba,1,Aruba,1001,ABW
+1004,Anguilla,4,Anguilla,1004,AIA
+1012,Antarctica,12,Antarctica,1012,ATA
+1028,Saint-Barth??lemy,28,Saint-Barth??lemy,1028,#N/A
+1037,Bouvet Island,37,Bouvet Island,1037,BVT
+1041,Cocos Islands,41,Cocos Islands,1041,#N/A
+1049,Cook Islands,49,Cook Islands,1049,COK
+1055,Cura?ºao,55,Cura?ºao,1055,#N/A
+1056,Christmas Island,56,Christmas Island,1056,CXR
+1075,Falkland Islands,75,Falkland Islands,1075,#N/A
+1084,Gibraltar,84,Gibraltar,1084,GIB
+1098,Heard Island and McDonald Islands,98,Heard Island and McDonald Islands,1098,#N/A
+1106,British Indian Ocean Territory,106,British Indian Ocean Territory,1106,IOT
+1121,Kiribati,121,Kiribati,1121,KIR
+1137,Saint-Martin,137,Saint-Martin,1137,#N/A
+1139,Monaco,139,Monaco,1139,MCO
+1142,Maldives,142,Maldives,1142,MDV
+1144,Marshall Islands,144,Marshall Islands,1144,MHL
+1163,Norfolk Island,163,Norfolk Island,1163,NFK
+1166,Niue,166,Niue,1166,NIU
+1175,Pitcairn Islands,175,Pitcairn Islands,1175,#N/A
+1196,South Georgia and the South Sandwich Islands,196,South Georgia and the South Sandwich Islands,1196,SGS
+1213,Sint Maarten,213,Sint Maarten,1213,#N/A
+1237,Vatican City,237,Vatican City,1237,#N/A
+1247,Caspian Sea,247,Caspian Sea,1247,#N/A
+1248,Clipperton Island,248,Clipperton Island,1248,#N/A
+1251,Paracel Islands,251,Paracel Islands,1251,#N/A
+1252,Spratly Islands,252,Spratly Islands,1252,#N/A
+34103,Kalimantan Utara,103,Indonesia,34103,IDN
+15103,Kalimantan Timur,103,Indonesia,15103,IDN

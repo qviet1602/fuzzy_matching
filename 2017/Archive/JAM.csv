@@ -1,0 +1,21 @@
+"","NAME.who","NAME.shpfile","iso3.x","who_coverage","merge_status","GAUL_CODE"
+"1","clarendon","clarendon","JAM",99.92698065,"success",1636
+"2","hanover","hanover","JAM",86.89591078,"success",1637
+"3","manchester","manchester","JAM",92.38272178,"success",1638
+"4","portland","portland","JAM",98.93992933,"success",1639
+"5","trelawny","trelawny","JAM",96.18055556,"success",1647
+"6","westmoreland","westmoreland","JAM",85.94642073,"success",1648
+"7","standrewandkingston",NA,"JAM",99.79406919,"in WHO but not shpfile",NA
+"8","stann",NA,"JAM",94.11299881,"in WHO but not shpfile",NA
+"9","stcatherine",NA,"JAM",84.3754947,"in WHO but not shpfile",NA
+"10","stelizabeth",NA,"JAM",94.20437214,"in WHO but not shpfile",NA
+"11","stjames",NA,"JAM",93.12,"in WHO but not shpfile",NA
+"12","stmary",NA,"JAM",97.66390354,"in WHO but not shpfile",NA
+"13","stthomas",NA,"JAM",88.24027073,"in WHO but not shpfile",NA
+"14",NA,"saintandrewandkingston","JAM",NA,"in shpfile but not WHO",1640
+"15",NA,"saintann","JAM",NA,"in shpfile but not WHO",1641
+"16",NA,"saintcatherine","JAM",NA,"in shpfile but not WHO",1642
+"17",NA,"saintelizabeth","JAM",NA,"in shpfile but not WHO",1643
+"18",NA,"saintjames","JAM",NA,"in shpfile but not WHO",1644
+"19",NA,"saintmary","JAM",NA,"in shpfile but not WHO",1645
+"20",NA,"saintthomas","JAM",NA,"in shpfile but not WHO",1646

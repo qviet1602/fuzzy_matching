@@ -1,0 +1,258 @@
+,NAME.who,NAME.shpfile,Country,iso3.x,who_coverage,merge_status,GAUL_CODE,shapefile
+1,aragattsonskaya,aragatsotn,,ARM,96.07,fuzzy success,1010,gadm_36_ad1
+2,araratskaya,ararat,,ARM,95.61,fuzzy success,2010,gadm_36_ad1
+3,armauirskaya,armavir,,ARM,96.79,fuzzy success,3010,gadm_36_ad1
+4,ghegarkunijskaya,gegharkunik,,ARM,93.24,fuzzy success,5010,gadm_36_ad1
+5,kotajskaya,kotayk,,ARM,95.3,fuzzy success,6010,gadm_36_ad1
+6,lorijskaya,lori,,ARM,95.84,fuzzy success,7010,gadm_36_ad1
+7,shirakskaya,shirak,,ARM,97.38,fuzzy success,8010,gadm_36_ad1
+8,siunikskaya,syunik,,ARM,93.03,fuzzy success,9010,gadm_36_ad1
+9,tavushskaya,tavush,,ARM,94.43,fuzzy success,10010,gadm_36_ad1
+10,vajotsdzorskaya,vayotsdzor,,ARM,95.54,fuzzy success,11010,gadm_36_ad1
+11,yerevanskaya,erevan,,ARM,90.7,fuzzy success,4010,gadm_36_ad1
+23,belize,belize,,BLZ,79.375,success,1030,gadm_36_ad1
+24,cayo,cayo,,BLZ,83.32491157,success,2030,gadm_36_ad1
+25,corozal,corozal,,BLZ,111.3821138,success,3030,gadm_36_ad1
+26,orangewalk,orangewalk,,BLZ,94.32835821,success,4030,gadm_36_ad1
+27,stanncreek,stanncreek,,BLZ,67.43951613,success,5030,gadm_36_ad1
+28,toledo,toledo,,BLZ,117.1561051,success,6030,gadm_36_ad1
+29,adrar,adrar,,DZA,87.46614418,success,1065,gadm_36_ad1
+30,alger,alger,,DZA,90.89303123,success,4065,gadm_36_ad1
+31,annaba,annaba,,DZA,86.68296508,success,5065,gadm_36_ad1
+32,batna,batna,,DZA,88.82405176,success,6065,gadm_36_ad1
+33,biskra,biskra,,DZA,87.60024676,success,9065,gadm_36_ad1
+34,blida,blida,,DZA,92.44867157,success,10065,gadm_36_ad1
+35,bouira,bouira,,DZA,89.28469881,success,12065,gadm_36_ad1
+36,chlef,chlef,,DZA,90.70721193,success,14065,gadm_36_ad1
+37,constantine,constantine,,DZA,90.53164776,success,15065,gadm_36_ad1
+38,djelfa,djelfa,,DZA,88.14708417,success,16065,gadm_36_ad1
+39,elbayadh,elbayadh,,DZA,86.78614542,success,17065,gadm_36_ad1
+40,eloued,eloued,,DZA,89.62261444,success,18065,gadm_36_ad1
+41,eltarf,eltarf,,DZA,88.45837999,success,19065,gadm_36_ad1
+42,guelma,guelma,,DZA,92.78408633,success,21065,gadm_36_ad1
+43,jijel,jijel,,DZA,91.02516927,success,23065,gadm_36_ad1
+44,khenchela,khenchela,,DZA,93.1778582,success,24065,gadm_36_ad1
+45,laghouat,laghouat,,DZA,89.80986703,success,25065,gadm_36_ad1
+46,mila,mila,,DZA,89.90283276,success,29065,gadm_36_ad1
+47,mostaganem,mostaganem,,DZA,89.65063644,success,30065,gadm_36_ad1
+48,msila,msila,,DZA,92.48627688,success,26065,gadm_36_ad1
+49,oran,oran,,DZA,86.41310747,success,32065,gadm_36_ad1
+50,ouargla,ouargla,,DZA,90.37317935,success,33065,gadm_36_ad1
+51,oumelbouaghi,oumelbouaghi,,DZA,95.91147561,success,34065,gadm_36_ad1
+52,relizane,relizane,,DZA,93.80546602,success,35065,gadm_36_ad1
+53,skikda,skikda,,DZA,93.59290692,success,39065,gadm_36_ad1
+54,soukahras,soukahras,,DZA,94.10671819,success,40065,gadm_36_ad1
+55,tiaret,tiaret,,DZA,88.99079988,success,43065,gadm_36_ad1
+56,tindouf,tindouf,,DZA,91.61534818,success,44065,gadm_36_ad1
+57,tipaza,tipaza,,DZA,92.70748988,success,45065,gadm_36_ad1
+58,tissemsilt,tissemsilt,,DZA,94.21910538,success,46065,gadm_36_ad1
+59,tiziouzou,tiziouzou,,DZA,92.56873835,success,47065,gadm_36_ad1
+60,tlemcen,tlemcen,,DZA,89.32140654,success,48065,gadm_36_ad1
+61,aindefla,andefla,,DZA,91.86004351,fuzzy success,2065,gadm_36_ad1
+62,aintemouchent,antmouchent,,DZA,93.52484106,fuzzy success,3065,gadm_36_ad1
+63,bechar,bchar,,DZA,91.82362642,fuzzy success,7065,gadm_36_ad1
+64,bejaia,bjaa,,DZA,90.67940993,fuzzy success,8065,gadm_36_ad1
+65,boumerdes,boumerds,,DZA,91.13447356,fuzzy success,13065,gadm_36_ad1
+66,ghardaia,ghardaa,,DZA,89.68957184,fuzzy success,20065,gadm_36_ad1
+67,ilizi,illizi,,DZA,90.49445865,fuzzy success,22065,gadm_36_ad1
+68,mascaa,mascara,,DZA,92.34453286,fuzzy success,27065,gadm_36_ad1
+69,medea,mda,,DZA,91.81468181,fuzzy success,28065,gadm_36_ad1
+70,naama,naoma,,DZA,90.70470433,fuzzy success,31065,gadm_36_ad1
+71,saida,sada,,DZA,91.9090039,fuzzy success,36065,gadm_36_ad1
+72,setif,stif,,DZA,89.93907771,fuzzy success,37065,gadm_36_ad1
+73,sidibelabbes,sidibelabbs,,DZA,91.95738759,fuzzy success,38065,gadm_36_ad1
+74,tamanrasset,tamanghasset,,DZA,82.01650384,fuzzy success,41065,gadm_36_ad1
+75,tebessa,tbessa,,DZA,91.17621603,fuzzy success,42065,gadm_36_ad1
+76,bbarreridj,bordjbouarrridj,,DZA,92.22591976,fuzzy success,11065,gadm_36_ad1
+78,guria,guria,,GEO,87,success,3081,gadm_36_ad1
+79,imereti,imereti,,GEO,93,success,4081,gadm_36_ad1
+80,kakheti,kakheti,,GEO,93,success,5081,gadm_36_ad1
+81,kvemokartli,kvemokartli,,GEO,92,success,6081,gadm_36_ad1
+82,samegrelozemosvaneti,samegrelozemosvaneti,,GEO,92,success,9081,gadm_36_ad1
+83,samtskhejavakheti,samtskhejavakheti,,GEO,88,success,10081,gadm_36_ad1
+84,adjara,ajaria,,GEO,93,fuzzy success,2081,gadm_36_ad1
+85,mtsketamtianeti,mtskhetamtianeti,,GEO,86,fuzzy success,7081,gadm_36_ad1
+86,abhkaz,abkhazia,,GEO,-2222,fuzzy success,1081,gadm_36_ad1
+87,rachalechkhumi,rachalechkhumikvemosvaneti,,GEO,89,fuzzy success,8081,gadm_36_ad1
+88,shkartli,shidakartli,,GEO,89,fuzzy success,11081,gadm_36_ad1
+89,tblisicity,tbilisi,,GEO,91,fuzzy success,12081,gadm_36_ad1
+94,batken,batken,,KGZ,96.3,success,1119,gadm_36_ad1
+95,naryn,naryn,,KGZ,97,success,5119,gadm_36_ad1
+96,osh,osh,,KGZ,90,success,7119,gadm_36_ad1
+97,oshcity,oshcity,,KGZ,90,success,6119,gadm_36_ad1
+98,chu,chy,,KGZ,91.4,fuzzy success,3119,gadm_36_ad1
+99,djalalabad,jalalabad,,KGZ,93.8,fuzzy success,4119,gadm_36_ad1
+100,talass,talas,,KGZ,93,fuzzy success,8119,gadm_36_ad1
+101,bishkekcity,biikek,,KGZ,86.5,fuzzy success,2119,gadm_36_ad1
+102,issykkul,ysykkl,,KGZ,95.8,fuzzy success,9119,gadm_36_ad1
+105,grandgedeh,grandgedeh,,LBR,81.87603049,success,6127,gadm_36_ad1
+106,bomicounty,bomi,,LBR,108.6817196,fuzzy success,1127,gadm_36_ad1
+107,bongcounty,bong,,LBR,117.6346964,fuzzy success,2127,gadm_36_ad1
+108,gbarpolucounty,gbapolu,,LBR,94.44096321,fuzzy success,3127,gadm_36_ad1
+109,grandbassacounty,grandbassa,,LBR,96.92583392,fuzzy success,5127,gadm_36_ad1
+110,grandcapemountcounty,grandcapemount,,LBR,72.95446832,fuzzy success,4127,gadm_36_ad1
+111,grandkrucounty,grandkru,,LBR,114.5363409,fuzzy success,7127,gadm_36_ad1
+112,lofacounty,lofa,,LBR,89.68478886,fuzzy success,8127,gadm_36_ad1
+113,margibicounty,margibi,,LBR,94.46858949,fuzzy success,9127,gadm_36_ad1
+114,marylandcounty,maryland,,LBR,80.41586841,fuzzy success,10127,gadm_36_ad1
+115,montserradocounty,montserrado,,LBR,99.81902332,fuzzy success,11127,gadm_36_ad1
+116,nimbacounty,nimba,,LBR,110.8954935,fuzzy success,12127,gadm_36_ad1
+117,rivercesscounty,rivercess,,LBR,78.84175975,fuzzy success,13127,gadm_36_ad1
+118,rivergeecounty,rivergee,,LBR,85.93497752,fuzzy success,14127,gadm_36_ad1
+119,sinoecounty,sinoe,,LBR,102.0251114,fuzzy success,15127,gadm_36_ad1
+134,berea,berea,,LSO,83,success,1132,gadm_36_ad1
+135,buthabuthe,buthabuthe,,LSO,84,success,2132,gadm_36_ad1
+136,leribe,leribe,,LSO,86,success,3132,gadm_36_ad1
+137,mafeteng,mafeteng,,LSO,100,success,4132,gadm_36_ad1
+138,maseru,maseru,,LSO,94,success,5132,gadm_36_ad1
+139,mohaleshoek,mohaleshoek,,LSO,88,success,6132,gadm_36_ad1
+140,mokhotlong,mokhotlong,,LSO,66,success,7132,gadm_36_ad1
+141,qachasnek,qachasnek,,LSO,96,success,8132,gadm_36_ad1
+142,quthing,quthing,,LSO,68,success,9132,gadm_36_ad1
+143,thabatseka,thabatseka,,LSO,85,success,10132,gadm_36_ad1
+144,bulgan,bulgan,,MNG,99.61722488,success,4150,gadm_36_ad1
+145,dornod,dornod,,MNG,99.91111111,success,6150,gadm_36_ad1
+146,dornogovi,dornogovi,,MNG,99.69742814,success,7150,gadm_36_ad1
+147,dundgovi,dundgovi,,MNG,98.5985986,success,8150,gadm_36_ad1
+148,selenge,selenge,,MNG,99.73530969,success,18150,gadm_36_ad1
+149,ulaanbaatar,ulaanbaatar,,MNG,99.83076129,success,21150,gadm_36_ad1
+150,uvs,uvs,,MNG,99.38183547,success,22150,gadm_36_ad1
+151,arkhangai,arhangay,,MNG,98.09954751,fuzzy success,1150,gadm_36_ad1
+152,bayankhongor,bayanhongor,,MNG,99.10147992,fuzzy success,3150,gadm_36_ad1
+153,bayanulgii,bayanulgiy,,MNG,99.82584465,fuzzy success,2150,gadm_36_ad1
+154,darkhanuul,darhanuul,,MNG,99.70602646,fuzzy success,5150,gadm_36_ad1
+155,govialtai,govialtay,,MNG,99.80563654,fuzzy success,10150,gadm_36_ad1
+156,govisumber,govismber,,MNG,98.35164835,fuzzy success,11150,gadm_36_ad1
+157,khentii,hentiy,,MNG,98.33119384,fuzzy success,12150,gadm_36_ad1
+158,khovd,hovd,,MNG,99.84639017,fuzzy success,13150,gadm_36_ad1
+159,orkhon,orhon,,MNG,98.8449578,fuzzy success,16150,gadm_36_ad1
+160,sukhbaatar,shbaatar,,MNG,99.41176471,fuzzy success,19150,gadm_36_ad1
+161,tuv,tv,,MNG,99.78632479,fuzzy success,20150,gadm_36_ad1
+162,umnugovi,umngovi,,MNG,98.94736842,fuzzy success,15150,gadm_36_ad1
+163,zavkhan,dzavhan,,MNG,99.65564738,fuzzy success,9150,gadm_36_ad1
+164,khuvsgul,hvsgl,,MNG,99.55387783,fuzzy success,14150,gadm_36_ad1
+165,uvurkhangai,uvrhangay,,MNG,99.79466119,fuzzy success,17150,gadm_36_ad1
+168,brokopondo,brokopondo,,SUR,69.64285714,success,1208,gadm_36_ad1
+169,coronie,coronie,,SUR,80.43478261,success,3208,gadm_36_ad1
+170,marowijne,marowijne,,SUR,67.25663717,success,4208,gadm_36_ad1
+171,nickerie,nickerie,,SUR,89.47368421,success,5208,gadm_36_ad1
+172,para,para,,SUR,73.46221441,success,6208,gadm_36_ad1
+173,paramaribo,paramaribo,,SUR,83.95618557,success,7208,gadm_36_ad1
+174,saramacca,saramacca,,SUR,88.05970149,success,8208,gadm_36_ad1
+175,sipaliwini,sipaliwini,,SUR,68.13186813,success,9208,gadm_36_ad1
+176,wanica,wanica,,SUR,81.56028369,success,10208,gadm_36_ad1
+177,commewjne,commewijne,,SUR,78.10383747,fuzzy success,2208,gadm_36_ad1
+178,hhohho,hhohho,,SWZ,85.2,success,1212,gadm_36_ad1
+179,lubombo,lubombo,,SWZ,85.5,success,2212,gadm_36_ad1
+180,manzini,manzini,,SWZ,87.7,success,3212,gadm_36_ad1
+181,shiselweni,shiselweni,,SWZ,85.5,success,4212,gadm_36_ad1
+182,balkan,balkan,,TKM,99.3,success,3222,gadm_36_ad1
+183,mary,mary,,TKM,98.7,success,5222,gadm_36_ad1
+184,akhal,ahal,,TKM,99,fuzzy success,1222,gadm_36_ad1
+185,ashgabadcity,aƒgabat,,TKM,98.6,fuzzy success,2222,gadm_36_ad1
+186,dashkhovuz,chardzhou,,TKM,99,fuzzy success,4222,gadm_36_ad1
+187,lebap,NA,,TKM,98.8,in WHO but not shpfile,NA,gadm_36_ad1
+190,NA,tashauz,,TKM,NA,in shpfile but not WHO,6222,gadm_36_ad1
+191,aileu,aileu,,TLS,106.1,success,2957,lf_g2015_2014_1
+192,ainaro,ainaro,,TLS,115.5,success,2958,lf_g2015_2014_1
+193,baucau,baucau,,TLS,104.7,success,2959,lf_g2015_2014_1
+194,bobonaro,bobonaro,,TLS,118.3,success,2960,lf_g2015_2014_1
+195,covalima,covalima,,TLS,95.5,success,2961,lf_g2015_2014_1
+196,dili,dili,,TLS,111.1,success,2962,lf_g2015_2014_1
+197,ermera,ermera,,TLS,113.3,success,2963,lf_g2015_2014_1
+198,lautem,lautem,,TLS,109.3,success,2964,lf_g2015_2014_1
+199,liquica,liquica,,TLS,116.4,success,2965,lf_g2015_2014_1
+200,manatuto,manatuto,,TLS,105,success,2966,lf_g2015_2014_1
+201,manufahi,manufahi,,TLS,116,success,2967,lf_g2015_2014_1
+202,viqueque,viqueque,,TLS,104.1,success,2969,lf_g2015_2014_1
+203,oecusse,oecussi,,TLS,127.4,fuzzy success,2968,lf_g2015_2014_1
+205,kashkadarya,kashkadarya,,UZB,99.8,success,6236,gadm_36_ad1
+206,khorezm,khorezm,,UZB,99.9,success,7236,gadm_36_ad1
+207,namangan,namangan,,UZB,99.1,success,8236,gadm_36_ad1
+208,navoi,navoi,,UZB,99.3,success,9236,gadm_36_ad1
+209,samarkand,samarkand,,UZB,99.9,success,10236,gadm_36_ad1
+210,tashkentcity,tashkentcity,,UZB,99.8,success,13236,gadm_36_ad1
+211,andijan,andijon,,UZB,99.9,fuzzy success,1236,gadm_36_ad1
+212,bukhara,bukhoro,,UZB,100,fuzzy success,2236,gadm_36_ad1
+213,fergana,ferghana,,UZB,99.9,fuzzy success,3236,gadm_36_ad1
+214,rkarakalpakstan,karakalpakstan,,UZB,99.6,fuzzy success,5236,gadm_36_ad1
+215,sukhandariya,surkhandarya,,UZB,99.8,fuzzy success,12236,gadm_36_ad1
+216,tashlkent,tashkent,,UZB,99.4,fuzzy success,14236,gadm_36_ad1
+217,djizak,jizzakh,,UZB,99.9,fuzzy success,4236,gadm_36_ad1
+218,syrdariya,sirdaryo,,UZB,99.4,fuzzy success,11236,gadm_36_ad1
+221,amnatcharoen,amnatcharoen,,THA,96.66218035,success,2851,lf_g2015_2014_1
+222,angthong,angthong,,THA,99.99,success,2852,lf_g2015_2014_1
+223,buriram,buriram,,THA,92.55811249,success,2854,lf_g2015_2014_1
+224,chachoengsao,chachoengsao,,THA,99.99,success,2855,lf_g2015_2014_1
+225,chainat,chainat,,THA,99.99,success,2856,lf_g2015_2014_1
+226,chaiyaphum,chaiyaphum,,THA,99.99,success,2857,lf_g2015_2014_1
+227,chanthaburi,chanthaburi,,THA,99.99,success,2858,lf_g2015_2014_1
+228,chiangmai,chiangmai,,THA,99.99,success,2859,lf_g2015_2014_1
+229,chiangrai,chiangrai,,THA,99.99,success,2860,lf_g2015_2014_1
+230,chonburi,chonburi,,THA,99.99,success,2861,lf_g2015_2014_1
+231,chumphon,chumphon,,THA,99.99,success,2862,lf_g2015_2014_1
+232,kalasin,kalasin,,THA,99.99,success,2863,lf_g2015_2014_1
+233,kanchanaburi,kanchanaburi,,THA,99.99,success,2865,lf_g2015_2014_1
+234,khonkaen,khonkaen,,THA,99.14232645,success,2866,lf_g2015_2014_1
+235,krabi,krabi,,THA,99.99,success,2867,lf_g2015_2014_1
+236,lampang,lampang,,THA,99.99,success,2868,lf_g2015_2014_1
+237,lamphun,lamphun,,THA,96.39233371,success,2869,lf_g2015_2014_1
+238,loei,loei,,THA,99.99,success,2870,lf_g2015_2014_1
+239,lopburi,lopburi,,THA,99.99,success,2871,lf_g2015_2014_1
+240,maehongson,maehongson,,THA,98.81442125,success,2872,lf_g2015_2014_1
+241,mahasarakham,mahasarakham,,THA,97.7774463,success,2873,lf_g2015_2014_1
+242,mukdahan,mukdahan,,THA,99.99,success,2874,lf_g2015_2014_1
+243,nakhonnayok,nakhonnayok,,THA,95.50938338,success,2875,lf_g2015_2014_1
+244,nakhonpathom,nakhonpathom,,THA,88.55003475,success,2876,lf_g2015_2014_1
+245,nakhonphanom,nakhonphanom,,THA,99.99,success,2877,lf_g2015_2014_1
+246,nakhonratchasima,nakhonratchasima,,THA,99.99,success,2878,lf_g2015_2014_1
+247,nakhonsawan,nakhonsawan,,THA,97.25467528,success,2879,lf_g2015_2014_1
+248,nakhonsithammarat,nakhonsithammarat,,THA,98.33755004,success,2880,lf_g2015_2014_1
+249,nan,nan,,THA,99.99,success,2881,lf_g2015_2014_1
+250,narathiwat,narathiwat,,THA,89.44292132,success,2882,lf_g2015_2014_1
+251,nongbualamphu,nongbualamphu,,THA,99.99,success,2883,lf_g2015_2014_1
+252,nongkhai,nongkhai,,THA,99.99,success,2884,lf_g2015_2014_1
+253,nonthaburi,nonthaburi,,THA,90.78485865,success,2885,lf_g2015_2014_1
+254,pathumthani,pathumthani,,THA,99.99,success,2886,lf_g2015_2014_1
+255,pattani,pattani,,THA,84.70706071,success,2887,lf_g2015_2014_1
+256,phangnga,phangnga,,THA,99.99,success,2889,lf_g2015_2014_1
+257,phatthalung,phatthalung,,THA,99.99,success,2890,lf_g2015_2014_1
+258,phayao,phayao,,THA,99.99,success,2891,lf_g2015_2014_1
+259,phetchabun,phetchabun,,THA,99.99,success,2892,lf_g2015_2014_1
+260,phetchaburi,phetchaburi,,THA,99.46639746,success,2893,lf_g2015_2014_1
+261,phichit,phichit,,THA,99.99,success,2894,lf_g2015_2014_1
+262,phitsanulok,phitsanulok,,THA,99.99,success,2895,lf_g2015_2014_1
+263,phrae,phrae,,THA,99.99,success,2897,lf_g2015_2014_1
+264,phuket,phuket,,THA,89.64873418,success,2898,lf_g2015_2014_1
+265,ranong,ranong,,THA,99.99,success,2900,lf_g2015_2014_1
+266,ratchaburi,ratchaburi,,THA,99.99,success,2901,lf_g2015_2014_1
+267,rayong,rayong,,THA,92.5009009,success,2902,lf_g2015_2014_1
+268,roiet,roiet,,THA,99.99,success,2903,lf_g2015_2014_1
+269,sakaeo,sakaeo,,THA,99.99,success,2904,lf_g2015_2014_1
+270,sakonnakhon,sakonnakhon,,THA,99.99,success,2905,lf_g2015_2014_1
+271,samutsakhon,samutsakhon,,THA,76.67108168,success,2907,lf_g2015_2014_1
+272,saraburi,saraburi,,THA,93.1418668,success,2909,lf_g2015_2014_1
+273,satun,satun,,THA,99.99,success,2910,lf_g2015_2014_1
+274,singburi,singburi,,THA,99.99,success,2912,lf_g2015_2014_1
+275,sisaket,sisaket,,THA,99.99,success,2911,lf_g2015_2014_1
+276,songkhla,songkhla,,THA,99.99,success,2913,lf_g2015_2014_1
+277,sukhothai,sukhothai,,THA,99.99,success,2914,lf_g2015_2014_1
+278,suphanburi,suphanburi,,THA,99.99,success,2915,lf_g2015_2014_1
+279,suratthani,suratthani,,THA,99.99,success,2916,lf_g2015_2014_1
+280,surin,surin,,THA,99.99,success,2917,lf_g2015_2014_1
+281,tak,tak,,THA,99.99,success,2918,lf_g2015_2014_1
+282,trang,trang,,THA,99.99,success,2920,lf_g2015_2014_1
+283,ubonratchathani,ubonratchathani,,THA,99.99,success,2921,lf_g2015_2014_1
+284,udonthani,udonthani,,THA,99.99,success,2922,lf_g2015_2014_1
+285,uthaithani,uthaithani,,THA,99.99,success,2923,lf_g2015_2014_1
+286,uttaradit,uttaradit,,THA,99.99,success,2924,lf_g2015_2014_1
+287,yala,yala,,THA,84.62328877,success,2925,lf_g2015_2014_1
+288,yasothon,yasothon,,THA,97.73053892,success,2926,lf_g2015_2014_1
+289,kamphaengphet,kampaengphet,,THA,99.99,fuzzy success,2864,lf_g2015_2014_1
+290,prachinburi,phachinburi,,THA,99.04417671,fuzzy success,2888,lf_g2015_2014_1
+291,prachuapkhirikhan,prachuapkhilikhan,,THA,99.99,fuzzy success,2899,lf_g2015_2014_1
+292,samutprakan,samutprakarn,,THA,99.99,fuzzy success,2906,lf_g2015_2014_1
+293,samutsongkhram,samutsongkham,,THA,99.99,fuzzy success,2908,lf_g2015_2014_1
+294,trat,trad,,THA,94.21301775,fuzzy success,2919,lf_g2015_2014_1
+295,buengkan,bangkok,,THA,99.94520548,fuzzy success,2853,lf_g2015_2014_1
+296,phranakhonsiayutthaya,phranakhonsiayudhya,,THA,99.99,fuzzy success,2896,lf_g2015_2014_1
